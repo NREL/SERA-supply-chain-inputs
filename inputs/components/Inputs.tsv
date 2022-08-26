@@ -1,0 +1,805 @@
+Material	Technology	Year	Nameplate Capacity [kg/yr]	Consumption [unit/kg]	Consumption [unit/km/kg]	Storage [kg]
+Biomass [ton]	Central Biomass Gasification	2005	50994962.85	0.014935136	0	0
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	Central Biomass Gasification	2005	50994962.85	0.005686902	0	0
+Electricity (Commercial) [kWh]	Central Biomass Gasification	2005	50994962.85	0.98	0	0
+Water Total [gal]	Central Biomass Gasification	2005	50994962.85	3.450935152	0	0
+Biomass [ton]	Central Biomass Gasification	2025	50838024.19	0.014399613	0	0
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	Central Biomass Gasification	2025	50838024.19	0.002843451	0	0
+Electricity (Industrial) [kWh]	Central Biomass Gasification	2025	50838024.19	0.945	0	0
+Water Total [gal]	Central Biomass Gasification	2025	50838024.19	3.450935152	0	0
+Water Total [gal]	Central Coal Gasification (no CCS)	2005	93238155	7.563849295	0	0
+Coal [MMBtu]	Central Coal Gasification (no CCS)	2005	93238155	0.223684809	0	0
+Water Total [gal]	Central Coal Gasification (no CCS)	2025	80968023	7.388172794	0	0
+Coal [MMBtu]	Central Coal Gasification (no CCS)	2025	80968023	0.256858404	0	0
+Water Total [gal]	Central Coal Gasification w/CCS	2005	101070580.5	7.563849295	0	0
+Coal [MMBtu]	Central Coal Gasification w/CCS	2005	101070580.5	0.205676286	0	0
+Electricity (Industrial) [kWh]	Central Coal Gasification w/CCS	2005	101070580.5	1.72	0	0
+Water Total [gal]	Central Coal Gasification w/CCS	2025	80968023	7.563849295	0	0
+Coal [MMBtu]	Central Coal Gasification w/CCS	2025	80968023	0.256858404	0	0
+Electricity (Industrial) [kWh]	Central Coal Gasification w/CCS	2025	80968023	2.15	0	0
+Electricity (Industrial) [kWh]	Central Grid Electrolysis (PEM)	2010	17702500	54.3	0	0
+Water Total [gal]	Central Grid Electrolysis (PEM)	2010	17702500	4.759996813	0	0
+Electricity (Industrial) [kWh]	Central Grid Electrolysis (PEM)	2025	17702500	50.2	0	0
+Water Total [gal]	Central Grid Electrolysis (PEM)	2025	17702500	3.979997336	0	0
+Electricity (Industrial) [kWh]	Central Grid Electrolysis (Solid Oxide)	2010	15045300	36.8	0	0
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	Central Grid Electrolysis (Solid Oxide)	2010	15045300	0.048338666	0	0
+Water Total [gal]	Central Grid Electrolysis (Solid Oxide)	2010	15045300	2.114498584	0	0
+Electricity (Industrial) [kWh]	Central Grid Electrolysis (Solid Oxide)	2025	15973312.5	35.1	0	0
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	Central Grid Electrolysis (Solid Oxide)	2025	15973312.5	0.038860497	0	0
+Water Total [gal]	Central Grid Electrolysis (Solid Oxide)	2025	15973312.5	2.114498584	0	0
+Water Total [gal]	Central Natural Gas Reforming (no CCS)	2005	341448.3	4.85	0	0
+Electricity (Industrial) [kWh]	Central Natural Gas Reforming (no CCS)	2005	341448.3	0.569	0	0
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	Central Natural Gas Reforming (no CCS)	2005	341448.3	0.15625	0	0
+Water Total [gal]	Central Natural Gas Reforming (no CCS)	2025	341448.3	4.85	0	0
+Electricity (Industrial) [kWh]	Central Natural Gas Reforming (no CCS)	2025	341448.3	0.6	0	0
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	Central Natural Gas Reforming (no CCS)	2025	341448.3	0.156	0	0
+Water Total [gal]	Central Natural Gas Reforming w/CCS	2005	341448.3	1.592389326	0	0
+Electricity (Industrial) [kWh]	Central Natural Gas Reforming w/CCS	2005	341448.3	1.405	0	0
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	Central Natural Gas Reforming w/CCS	2005	341448.3	0.1558	0	0
+Water Total [gal]	Central Natural Gas Reforming w/CCS	2025	341448.3	1.592389326	0	0
+Electricity (Industrial) [kWh]	Central Natural Gas Reforming w/CCS	2025	341448.3	1.405	0	0
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	Central Natural Gas Reforming w/CCS	2025	341448.3	0.1558	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	365000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	730000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	1095000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	1460000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	1825000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	2190000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	2555000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	2920000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	3285000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	3650000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	36500000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 2	2020	3.65e+08	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	365000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	730000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	1095000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	1460000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	1825000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	2190000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	2555000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	2920000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	3285000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	3650000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	7300000	2.367998415	0	0
+Water Total [gal]	Central Photoelectrochemical Type 4	2020	7.3e+07	2.367998415	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	7300365	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	8942500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	10585000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	12227500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	13870000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	15512500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	17155000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	18797500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	20440000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	22082500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	23725000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	25367500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	27010000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	28652500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	30295000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	31937500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	33580000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	35222500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	36865000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	38507500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	40150000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	41792500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	43435000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	45077500	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	46720000	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	48362135	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	50004270	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	51646405	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	53288540	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	54930675	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	56572810	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	58214945	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	59857080	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	61499215	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	63141350	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	64783485	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	66425620	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	68067755	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	69709890	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	71352025	2.392022799	0	0
+Water Total [gal]	Ferrite Solar Thermo-Chemical Hydrogen Production	2030	72994160	2.392022799	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline (transmission)	2005	1	0	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline (distribution)	2005	1	0	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Compressor	2005	0	2.172785346	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Station (700bar)	2005	18250	0.001527123	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Station (700bar)	2005	36500	0.001527788	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Station (700bar)	2005	73000	0.001529067	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Station (700bar)	2005	146000	0.001531434	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Station (700bar)	2005	273750	0.001535038	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Station (700bar)	2005	547500	0.001540923	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Station (700bar)	2005	1095000	0.001547689	0	0
+Electricity (Industrial) [kWh]	GH2 1000bar Pipeline Station (700bar)	2005	1825000	0.001550963	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Compressor	2005	0	0.525	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Salt Cavern Storage	2005	0	0.008333333	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Station (700bar)	2005	18250	4.573705269	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Station (700bar)	2005	36500	4.573077827	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Station (700bar)	2005	73000	4.571850155	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Station (700bar)	2005	146000	4.569498097	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Station (700bar)	2005	273750	4.565683572	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Station (700bar)	2005	547500	4.558592468	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Station (700bar)	2005	1095000	4.547638334	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Station (700bar)	2005	2190000	4.533298573	0	0
+Electricity (Industrial) [kWh]	GH2 Pipeline Truck Terminal	2005	0	0.666666667	0	0
+Electricity (Industrial) [kWh]	GH2 Truck Terminal w/Salt Cavern Storage	2005	0	0.611111112	0	0
+Diesel [gal]	GH2 Truck Link	2005	0	0	0.000323087	0
+Electricity (Industrial) [kWh]	GH2 Truck Station (700bar)	2005	18250	2.595688224	0	0
+Electricity (Industrial) [kWh]	GH2 Truck Station (700bar)	2005	36500	2.563382826	0	0
+Electricity (Industrial) [kWh]	GH2 Truck Station (700bar)	2005	73000	2.522478328	0	0
+Electricity (Industrial) [kWh]	GH2 Truck Station (700bar)	2005	146000	2.478111612	0	0
+Electricity (Industrial) [kWh]	GH2 Truck Station (700bar)	2005	273750	2.439892225	0	0
+Electricity (Industrial) [kWh]	GH2 Truck Station (700bar)	2005	547500	2.403973368	0	0
+Electricity (Industrial) [kWh]	GH2 Truck Station (700bar)	2005	1095000	2.37647522	0	0
+Electricity (Industrial) [kWh]	GH2 Truck Station (700bar)	2005	2190000	2.357384942	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Compressor	2005	0	0.525	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Salt Cavern Storage	2005	0	0.008333333	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	10000	31.86823203	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	11000	31.4014993	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	12100	30.94160222	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	13310	30.48844068	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	14641	30.04191602	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	16105.1	29.60193106	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	17715.61	29.16839001	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	19487.171	28.7411985	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	21435.8881	28.32026354	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	23579.47691	27.90549351	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	25937.4246	27.49679811	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	28531.16706	27.09408839	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	31384.28377	26.69727668	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	34522.71214	26.30627661	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	37974.98336	25.92100306	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	41772.48169	25.54137219	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	45949.72986	25.16730135	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	50544.70285	24.79870911	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	55599.17313	24.43551526	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	61159.09045	24.07764074	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	67274.99949	23.72500764	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	74002.49944	23.37753923	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	81402.74939	23.03515987	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	89543.02433	22.69779504	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	98497.32676	22.36537133	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	108347.0594	22.03781637	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	119181.7654	21.71505889	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	131099.9419	21.39702863	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	144209.9361	21.0836564	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	158630.9297	20.774874	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	174494.0227	20.47061423	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	191943.425	20.17081089	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	211137.7675	19.87539874	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	232251.5442	19.58431352	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	255476.6986	19.29749188	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	281024.3685	19.01487143	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	309126.8053	18.73639069	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	340039.4859	18.46198909	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	374043.4344	18.19160694	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	411447.7779	17.92518543	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	452592.5557	17.66266664	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	497851.8112	17.40399348	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	547636.9924	17.1491097	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	602400.6916	16.89795991	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	662640.7608	16.65048952	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	728904.8369	16.40664475	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	801795.3205	16.16637262	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	881974.8526	15.92962093	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	970172.3378	15.69633827	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	1115698.189	15.36042234	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	1227268.007	15.13548072	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	1349994.808	14.91383576	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	1484994.289	14.69543295	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	1633493.718	14.48023808	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	1796843.09	14.26819793	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	1976527.399	14.05926658	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	2174180.138	13.85339882	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	2391598.152	13.65055012	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	2630757.967	13.45067664	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	2893833.764	13.25373522	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	3183217.141	13.05967761	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	3501538.855	12.86847402	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	3851692.74	12.68007713	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	4236862.014	12.49444644	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	4660548.216	12.3115365	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	5126603.037	12.13131987	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	5639263.341	11.95375195	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	6203189.675	11.7787894	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	6823508.643	11.60640641	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	7505859.507	11.43655494	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	8256445.457	11.26921061	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	9082090.003	11.10432671	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	9990299.004	10.94187993	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	10989328.9	10.78182525	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	12088261.79	10.62413486	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	13297087.97	10.46877619	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	14626796.77	10.31572276	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	16089476.45	10.1649325	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	17698424.09	10.01638025	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	19468266.5	9.870030996	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	21415093.15	9.725866184	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	23556602.47	9.583852124	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	25912262.71	9.443956165	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	28503488.99	9.306156695	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	31353837.88	9.170427828	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	34489221.67	9.036744497	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	37938143.84	8.905082498	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	41731958.22	8.775413421	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	45905154.05	8.647720173	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	50495669.45	8.521981535	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	55545236.4	8.398177317	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	61099760.04	8.27628335	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	67209736.04	8.156286977	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	73930709.64	8.947175824	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	81323780.61	8.81760821	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	89456158.67	8.690087789	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	98401774.54	8.564594439	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	113162040.7	8.384213677	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	130136346.8	8.208129834	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	156163616.2	8.50033846	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	187396339.4	8.269955977	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	224875607.3	8.41190654	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	269850728.8	8.186701816	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	323820874.5	8.247661604	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	388585049.4	8.258894336	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	466302059.3	8.236733539	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	559562471.2	8.340477542	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Train Terminal	2005	671474965.4	8.262267001	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	10000	31.08840941	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	11000	30.63309763	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	12100	30.18445421	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	13310	29.74238148	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	14641	29.30678323	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	16105.1	28.87756462	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	17715.61	28.45463222	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	19487.171	28.03789397	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	21435.8881	27.62725914	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	23579.47691	27.22263835	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	25937.4246	26.82394352	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	28531.16706	26.43108786	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	31384.28377	26.04398585	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	34522.71214	25.66255322	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	37974.98336	25.28670694	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	41772.48169	24.9163652	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	45949.72986	24.55144738	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	50544.70285	24.19187403	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	55599.17313	23.83756689	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	61159.09045	23.48844883	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	67274.99949	23.14444385	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	74002.49944	22.80547707	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	81402.74939	22.4714747	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	89543.02433	22.14236403	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	98497.32676	21.81807342	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	108347.0594	21.49853227	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	119181.7654	21.18367103	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	131099.9419	20.87342116	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	144209.9361	20.56771511	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	158630.9297	20.26648635	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	174494.0227	19.96966929	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	191943.425	19.67719933	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	211137.7675	19.38901281	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	232251.5442	19.10504697	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	255476.6986	18.82524002	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	281024.3685	18.54953104	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	309126.8053	18.27786001	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	340039.4859	18.0101678	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	374043.4344	17.74639613	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	411447.7779	17.48648758	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	452592.5557	17.23038558	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	497851.8112	16.97803437	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	547636.9924	16.72937903	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	602400.6916	16.48436542	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	662640.7608	16.2429402	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	728904.8369	16.00505083	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	801795.3205	15.77064552	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	881974.8526	15.53967324	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	970172.3378	15.31208372	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	1115698.189	14.98436244	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	1227268.007	14.76490583	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	1349994.808	14.54866333	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	1484994.289	14.33558784	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	1633493.718	14.125633	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	1796843.09	13.91875309	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	1976527.399	13.71490309	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	2174180.138	13.51403862	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	2391598.152	13.31611594	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	2630757.967	13.12109199	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	2893833.764	12.9289243	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	3183217.141	12.73957104	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	3501538.855	12.55299099	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	3851692.74	12.36914355	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	4236862.014	12.18798867	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	4660548.216	12.00948694	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	5126603.037	11.83359949	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	5639263.341	11.66028804	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	6203189.675	11.48951486	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	6823508.643	11.32124278	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	7505859.507	11.15543515	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	8256445.457	10.9920559	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	9082090.003	10.83106945	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	9990299.004	10.67244076	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	10989328.9	10.51613531	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	12088261.79	10.36211905	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	13297087.97	10.21035847	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	14626796.77	10.06082054	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	16089476.45	9.913472693	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	17698424.09	9.76828286	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	19468266.5	9.625219435	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	21415093.15	9.484251276	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	23556602.47	9.345347695	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	25912262.71	9.208478455	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	28503488.99	9.073613763	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	31353837.88	8.940724259	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	34489221.67	8.809781016	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	37938143.84	8.68075553	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	41731958.22	8.553619714	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	45905154.05	8.428345892	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	50495669.45	8.304906793	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	55545236.4	8.183275548	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	61099760.04	8.063425679	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	67209736.04	61.68083644	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	73930709.64	61.540123	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	81323780.61	61.39973056	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	89456158.67	61.2596584	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	98401774.54	61.1199058	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	113162040.7	60.91555023	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	130136346.8	60.71187794	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	156163616.2	60.44720762	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	187396339.4	60.18369112	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	224875607.3	59.92132341	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	269850728.8	59.66009948	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	323820874.5	59.40001434	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	388585049.4	59.14106303	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	466302059.3	58.8832406	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	559562471.2	58.62654213	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/out storage	2005	671474965.4	58.37096273	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	10000	31.9017517	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	11000	31.43453279	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	12100	30.97415672	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	13310	30.52052328	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	14641	30.0735337	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	16105.1	29.63309068	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	17715.61	29.19909835	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	19487.171	28.77146222	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	21435.8881	28.35008921	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	23579.47691	27.93488757	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	25937.4246	27.52576693	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	28531.16706	27.12263822	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	31384.28377	26.72541368	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	34522.71214	26.33400684	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	37974.98336	25.94833248	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	41772.48169	25.56830665	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	45949.72986	25.19384661	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	50544.70285	24.82487085	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	55599.17313	24.46129903	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	61159.09045	24.10305201	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	67274.99949	23.7500518	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	74002.49944	23.40222155	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	81402.74939	23.05948553	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	89543.02433	22.72176913	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	98497.32676	22.38899882	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	108347.0594	22.06110217	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	119181.7654	21.73800778	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	131099.9419	21.41964532	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	144209.9361	21.10594548	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	158630.9297	20.79683996	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	174494.0227	20.49226147	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	191943.425	20.19214371	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	211137.7675	19.89642133	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	232251.5442	19.60502997	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	255476.6986	19.31790617	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	281024.3685	19.03498744	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	309126.8053	18.75621219	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	340039.4859	18.48151972	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	374043.4344	18.21085024	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	411447.7779	17.94414482	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	452592.5557	17.6813454	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	497851.8112	17.42239477	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	547636.9924	17.16723657	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	602400.6916	16.91581525	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	662640.7608	16.66807607	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	728904.8369	16.42396511	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	801795.3205	16.18342923	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	881974.8526	15.94641606	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	970172.3378	15.71287403	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	1115698.189	15.37658115	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	1227268.007	15.15138451	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	1349994.808	14.92973112	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	1484994.289	14.71108424	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	1633493.718	14.4956394	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	1796843.09	14.2833497	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	1976527.399	14.07416893	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	2174180.138	13.86805157	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	2391598.152	13.66495274	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	2630757.967	13.46507649	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	2893833.764	13.2678845	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	3183217.141	13.07358022	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	3501538.855	12.88212137	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	3851692.74	12.69371535	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	4236862.014	12.50782463	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	4660548.216	12.32465601	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	5126603.037	12.14441932	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	5639263.341	11.96657754	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	6203189.675	11.79158938	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	6823508.643	11.61891936	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	7505859.507	11.44902754	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	8256445.457	11.28137867	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	9082090.003	11.11643519	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	9990299.004	10.95391146	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	10989328.9	10.79352223	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	12088261.79	10.6357327	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	13297087.97	10.48025833	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	14626796.77	10.32706526	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	16089476.45	10.17637057	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	17698424.09	10.02764079	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	19468266.5	9.881093577	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	21415093.15	9.736947831	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	23556602.47	9.594921472	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	25912262.71	9.454983664	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	28503488.99	9.317103935	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	31353837.88	9.181252189	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	34489221.67	9.047649453	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	37938143.84	8.915765364	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	41731958.22	8.786072547	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	45905154.05	8.6585429	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	50495669.45	8.532897706	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	55545236.4	8.40910967	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	61099760.04	8.287151742	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	67209736.04	8.1672482	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	73930709.64	62.70656652	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	81323780.61	62.56508516	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	89456158.67	62.42393318	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	98401774.54	62.28361192	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	113162040.7	62.07850765	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	130136346.8	61.87435961	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	156163616.2	61.61036905	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	187396339.4	61.34832842	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	224875607.3	61.08873877	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	269850728.8	60.83210216	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	323820874.5	60.57841971	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	388585049.4	60.32819577	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	466302059.3	60.08168521	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	559562471.2	59.83964668	0	0
+Electricity (Industrial) [kWh]	LH2 Pipeline Truck Terminal w/storage	2005	671474965.4	59.60259	0	0
+Electricity (Industrial) [kWh]	LH2 Station (cryo dispensing)	2005	0	0.33	0	0
+Electricity (Industrial) [kWh]	LH2 Station (gas dispensing)	2005	0	0.33	0	0
+Diesel [gal]	LH2 Train Link	2005	0	0	1.38e-09	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1e+06	15.62293864	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1020000	15.57512477	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1040400	15.52745733	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1061208	15.47993587	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1082432.16	15.43255994	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1104080.803	15.38532911	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1126162.419	15.33824293	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1148685.668	15.29130095	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1171659.381	15.24450275	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1195092.569	15.19784787	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1218994.42	15.15133589	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1243374.308	15.10496637	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1268241.795	15.05873887	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1293606.63	15.01265296	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1319478.763	14.96670821	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1345868.338	14.92090419	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1372785.705	14.87524047	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1400241.419	14.82971663	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1428246.248	14.78433223	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1456811.173	14.73908685	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1485947.396	14.69397363	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1515666.344	14.64900508	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1545979.671	14.60417429	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1576899.264	14.55948083	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1608437.249	14.5149243	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1640605.994	14.47050428	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1673418.114	14.42622035	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1706886.477	14.38207209	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1741024.206	14.3380591	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1775844.69	14.29418096	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1811361.584	14.25043726	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1847588.816	14.2068276	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1884540.592	14.16335156	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1922231.404	14.12000874	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1960676.032	14.07679874	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	1999889.553	14.03372115	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	2039887.344	13.99077557	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	2141881.711	13.88552603	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	2248975.796	13.78106945	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	2361424.586	13.67739991	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	2479495.816	13.57451153	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	2603470.606	13.47239851	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	2733644.137	13.37105505	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	2870326.344	13.27047542	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	3013842.661	13.17064794	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	3164534.794	13.07157919	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	3322761.533	12.97325739	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	3488899.61	12.87567698	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	3663344.591	12.77883247	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	3846511.82	12.6827184	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	4038837.411	12.58732935	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	4442721.152	12.40305491	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	4886993.267	12.22149356	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	5375692.594	12.0426002	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	5913261.854	11.86633091	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	6504588.039	11.69266002	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	7155046.843	11.52154447	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	7870551.527	11.35294272	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	8657606.68	11.18683022	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	9523367.348	11.02316109	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	10475704.08	10.86190642	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	11523274.49	10.70303826	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	12675601.94	10.54651265	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	13943162.13	10.39230277	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	15337478.35	10.24037706	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	16871226.18	10.09070465	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	18558348.8	9.943255342	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	20414183.68	9.797999669	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	22455602.05	9.654903707	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	24701162.25	9.513950029	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	27171278.48	9.37510096	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	29888406.33	9.238335394	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	32877246.96	9.103627848	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	36164971.66	8.97095368	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	39781468.82	8.840289131	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	43759615.7	8.711606339	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	48135577.27	8.584888658	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	52949135	8.460115377	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	58244048.5	8.337261782	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	64068453.35	8.21631456	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	70475298.69	9.013026295	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	77522828.55	8.882424392	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	85275111.41	8.75387781	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	93802622.55	8.627365637	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	103182884.8	8.502878821	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	113501173.3	8.380399904	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	124851290.6	8.259918431	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	137336419.7	8.141425983	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	151070061.6	8.543059895	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	166177067.8	8.420945953	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	182794774.6	8.300920996	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	201074252	8.182979915	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	221181677.3	8.432763583	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	243299845	8.313657964	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	267629829.5	8.19673401	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	294392812.4	8.364266501	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	323832093.7	8.247619663	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	356215303	8.36431629	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	391836833.3	8.248899031	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	431020516.7	8.330554761	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	474122568.3	8.217114814	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	521534825.2	8.273612961	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	573688307.7	8.311177803	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	631057138.5	8.333913358	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	694162852.3	8.344857804	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	763579137.5	8.34633941	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	839937051.3	8.340197559	0	0
+Electricity (Industrial) [kWh]	LH2 Train Terminal	2005	923930756.4	8.32791467	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1e+06	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1020000	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1040400	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1061208	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1082432.16	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1104080.803	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1126162.419	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1148685.668	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1171659.381	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1195092.569	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1218994.42	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1243374.308	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1268241.795	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1293606.63	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1319478.763	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1345868.338	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1372785.705	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1400241.419	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1428246.248	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1456811.173	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1485947.396	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1515666.344	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1545979.671	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1576899.264	0.000717563	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1608437.249	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1640605.994	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1673418.114	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1706886.477	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1741024.206	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1775844.69	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1811361.584	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1847588.816	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1884540.592	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1922231.404	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1960676.032	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	1999889.553	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	2039887.344	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	2141881.711	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	2248975.796	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	2361424.586	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	2479495.816	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	2603470.606	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	2733644.137	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	2870326.344	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	3013842.661	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	3164534.794	0.001435126	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	3322761.533	0.002152689	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	3488899.61	0.002152689	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	3663344.591	0.002152689	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	3846511.82	0.002152689	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	4038837.411	0.002152689	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	4442721.152	0.002152689	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	4886993.267	0.002870252	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	5375692.594	0.002870252	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	5913261.854	0.002870252	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	6504588.039	0.003587816	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	7155046.843	0.003587816	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	7870551.527	0.003587816	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	8657606.68	0.004305379	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	9523367.348	0.004305379	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	10475704.08	0.005022942	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	11523274.49	0.005740505	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	12675601.94	0.005740505	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	13943162.13	0.006458068	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	15337478.35	0.007175631	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	16871226.18	0.007893194	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	18558348.8	0.007908215	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	20414183.68	0.008625942	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	22455602.05	0.010061331	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	24701162.25	0.010779	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	27171278.48	0.012214304	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	29888406.33	0.012931942	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	32877246.96	0.014367196	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	36164971.66	0.015802428	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	39781468.82	0.016534163	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	43759615.7	0.018687291	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	48135577.27	0.020840334	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	52949135	0.022993315	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	58244048.5	0.02444238	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	64068453.35	0.02731324	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	70475298.69	0.030183992	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	77522828.55	0.032350596	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	85275111.41	0.035939186	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	93802622.55	0.039527644	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	103182884.8	0.04312971	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	113501173.3	0.047449289	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	124851290.6	0.052473365	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	137336419.7	0.057510708	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	151070061.6	0.062547975	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	166177067.8	0.069725249	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	182794774.6	0.076198044	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	201074252	0.084106266	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	221181677.3	0.092014486	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	243299845	0.101358152	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	267629829.5	0.110715007	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	294392812.4	0.122211902	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	323832093.7	0.133721909	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	356215303	0.148089743	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	391836833.3	0.162470715	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	431020516.7	0.17900488	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	474122568.3	0.196269885	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	521534825.2	0.215675017	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	573688307.7	0.237246443	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	631057138.5	0.260971088	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	694162852.3	0.287566689	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	763579137.5	0.31561085	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	839937051.3	0.347243709	0	0
+Electricity (Industrial) [kWh]	LH2 Train Truck Terminal	2005	923930756.4	0.381760576	0	0
+Diesel [gal]	LH2 Truck Link	2005	0	0	3.23e-05	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	10000	31.86825773	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	11000	31.40152466	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	12100	30.94162724	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	13310	30.48846537	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	14641	30.04194039	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	16105.1	29.60195512	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	17715.61	29.16841377	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	19487.171	28.74122197	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	21435.8881	28.32028673	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	23579.47691	27.90551643	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	25937.4246	27.49682078	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	28531.16706	27.09411081	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	31384.28377	26.69729888	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	34522.71214	26.3062986	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	37974.98336	25.92102486	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	41772.48169	25.5413938	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	45949.72986	25.1673228	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	50544.70285	24.79873043	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	55599.17313	24.43553646	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	61159.09045	24.07766184	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	67274.99949	23.72502868	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	74002.49944	23.37756022	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	81402.74939	23.03518085	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	89543.02433	22.69781604	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	98497.32676	22.36539238	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	108347.0594	22.03783751	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	119181.7654	21.71508016	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	131099.9419	21.39705009	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	144209.9361	21.08367809	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	158630.9297	20.77489597	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	174494.0227	20.47063654	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	191943.425	20.1708336	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	211137.7675	19.87542192	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	232251.5442	19.58433724	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	255476.6986	19.29751623	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	281024.3685	19.0148965	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	309126.8053	18.73641658	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	340039.4859	18.46201589	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	374043.4344	18.19163477	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	411447.7779	17.92521443	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	452592.5557	17.66269693	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	497851.8112	17.40402521	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	547636.9924	17.14914305	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	602400.6916	16.89799504	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	662640.7608	16.65052663	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	728904.8369	16.40668404	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	801795.3205	16.16641432	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	881974.8526	15.9296653	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	970172.3378	15.69638558	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	1115698.189	15.36047451	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	1227268.007	15.13553661	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	1349994.808	14.91388953	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	1484994.289	14.69549801	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	1633493.718	14.48030828	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	1796843.09	14.26827378	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	1976527.399	14.05934862	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	2174180.138	13.85348765	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	2391598.152	13.6506464	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	2630757.967	13.45077529	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	2893833.764	13.25384334	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	3183217.141	13.05980194	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	3501538.855	12.86860936	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	3851692.74	12.68021889	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	4236862.014	12.49460197	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	4660548.216	12.31171279	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	5126603.037	12.13150679	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	5639263.341	11.95395712	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	6203189.675	11.7790145	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	6823508.643	11.60665352	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	7505859.507	11.43682631	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	8256445.457	11.26950853	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	9082090.003	11.10465402	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	9990299.004	10.94223395	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	10989328.9	10.78222014	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	12088261.79	10.62456885	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	13297087.97	10.46925317	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	14626796.77	10.31624158	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	16089476.45	10.16549801	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	17698424.09	10.01700304	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	19468266.5	9.870721956	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	21415093.15	9.726621115	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	23556602.47	9.584678008	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	25912262.71	9.444865819	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	28503488.99	9.30715856	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	31353837.88	9.171531118	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	34489221.67	9.037954133	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	37938143.84	8.906414858	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	41731958.22	8.77688078	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	45905154.05	8.649330916	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	50495669.45	8.523750477	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	55545236.4	8.400120827	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	61099760.04	8.278424551	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	67209736.04	8.158640512	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	73930709.64	62.63063377	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	81323780.61	62.48932917	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	89456158.67	62.34850755	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	98401774.54	62.20817367	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	113162040.7	62.00332349	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	130136346.8	61.79963391	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	156163616.2	61.53575863	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	187396339.4	61.27414821	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	224875607.3	61.01500858	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	269850728.8	60.75858998	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	323820874.5	60.50520588	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	388585049.4	60.25522335	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	466302059.3	60.009091	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	559562471.2	59.76733908	0	0
+Electricity (Industrial) [kWh]	LH2 Truck Terminal w/storage	2005	671474965.4	59.530613	0	0
+Water Total [gal]	Onsite Electrolysis (PEM)	2010	470668.5514	4.759996813	0	0
+Electricity (Industrial) [kWh]	Onsite Electrolysis (PEM)	2010	470668.5514	54.6	0	0
+Water Total [gal]	Onsite Electrolysis (PEM)	2025	470674.2779	3.979997336	0	0
+Electricity (Industrial) [kWh]	Onsite Electrolysis (PEM)	2025	470674.2779	50.3	0	0
+Water Total [gal]	Onsite Natural Gas Reforming	2010	470668.6861	5.769996137	0	0
+Electricity (Commercial) [kWh]	Onsite Natural Gas Reforming	2010	470668.6861	1.11	0	0
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	Onsite Natural Gas Reforming	2010	470668.6861	0.155797012	0	0
+Water Total [gal]	Onsite Natural Gas Reforming	2020	470674.2779	4.379997068	0	0
+Electricity (Commercial) [kWh]	Onsite Natural Gas Reforming	2020	470674.2779	2.268	0	0
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	Onsite Natural Gas Reforming	2020	470674.2779	0.145799343	0	0
+Water Total [gal]	Existing or Planned SMR (no CCS)	2005	1	4.85	0	0
+Electricity (Industrial) [kWh]	Existing or Planned SMR (no CCS)	2005	1	0.569	0	0
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	Existing or Planned SMR (no CCS)	2005	1	0.15625	0	0

@@ -1,0 +1,70 @@
+firstYear         : 2026  # Units: yr
+lastYear          : 2050  # Units: yr
+timeWindow        :   25  # Units: yr
+#rollingStep       :    3  # Units: yr   
+discountRate      : 0.08  # Units: 1/yr
+escalationRate    : 0.00  # Units: 1/yr
+interpolate       : True
+strategy          : LiteralInWindow
+storageAvailable  : True
+newProduction     : True
+optimizationLog   : False
+
+periodFiles:
+  - inputs/periods/periods.tsv
+
+priceFiles:
+  - inputs/prices/prices_withgen_fac.tsv              # new electricity prices with factor for generation costs
+  - inputs/prices/salt-cavern-non-billable.tsv
+
+intensityFiles:
+  - inputs/intensities/intensities.tsv
+
+processLibraryFiles:
+  - costsFile      : inputs/components/production-costs_revised_maxutil1-oldcosts.tsv              #new fraction column name, includes onsite PEM production,new frac of opex,scaling to one for PEM, maxutil=1,MISHO COSTS
+    inputsFile     : inputs/components/production-inputs-new-noonsiteSMR.tsv
+    outputsFile    : inputs/components/production-outputs.tsv
+  - costsFile      : inputs/components/delivery-costs-maxutil1-scalreversed_citygate.tsv # new fraction column name,opex/km=0, MAX util=1.Modified low cap limit for links,CITYGATE added
+  - costsFile      : inputs/components/delivery-costs-linepack-mod-OPEXcorr-storCORR -FRAC_opex.tsv               # new fraction column name,new storage tech column,additional cost file for linepack
+    inputsFile     : inputs/components/delivery-inputs.tsv
+    outputsFile    : inputs/components/delivery-outputs.tsv
+pathwayFiles:
+  - inputs/components/delivery-pathways-pipesaltcav-linepack-citygate.tsv            #  refuleing station removed from pathways
+
+networkFiles:
+  nodeFiles:
+    - inputs/network/nodes.tsv           # Short netwrok generated with only 6 tazs,NO ONSITE allowed
+  linkFiles:
+    - inputs/network/links.tsv                           # 
+  existingFiles:
+    - inputs/network/existings.tsv
+  zoneFiles:
+    - inputs/network/zones_ipm.tsv             # 
+    - inputs/network/zone_cavern.tsv
+  territoryFiles:
+    - inputs/network/territories_ipm.tsv
+
+demandFiles:
+  - inputs/demand/demands-mod-NEWFORMAT-hub-aggregated_gasturbine.tsv        #### transport+nontransport demand+gasturbine,hub and wecc regions
+
+cleanProductionConstraintFiles:                       # 0%
+  - inputs/policies/clean_production_constraints.tsv
+
+productionCapacityConstraintFiles:
+  - inputs/grid_integration/production_capacity_newGOOD.tsv            # 0
+
+storageCapacityConstraintFiles:
+  - inputs/grid_integration/storage_capacity_mod_newGOOD.tsv            # # 0
+
+utilizationConstraintFiles:
+  - inputs/utilization/utilization_constraints-15percent.tsv     # modified by remving caverns,nodal storage
+
+maximumCapacityConstraintFiles:                                          
+  - inputs/utilization/maximum_capacities.tsv        ### modified  truck terminal capacity to 1.5tpd
+infrastructureFiles:
+  constructionFile : outputs/construction.tsv
+  flowFile         : outputs/flow.tsv
+  cashFile         : outputs/cash.tsv
+  impactFile       : outputs/impact.tsv
+  saleFile         : outputs/sale.tsv
+  geometryFile     : outputs/geometry.tsv

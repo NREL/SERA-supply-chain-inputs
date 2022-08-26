@@ -1,0 +1,343 @@
+Material	Zone	Year	Price [$/unit]	Billable?
+Biomass [ton]	East North Central	2013	45.5049285	True
+Biomass [ton]	East North Central	2014	30.0805735	True
+Biomass [ton]	East North Central	2015	24.314148	True
+Biomass [ton]	East North Central	2016	24.577427	True
+Biomass [ton]	East North Central	2017	21.725251999999998	True
+Biomass [ton]	East North Central	2018	29.881087	True
+Biomass [ton]	East North Central	2019	31.1732655	True
+Biomass [ton]	East North Central	2020	32.0749455	True
+Biomass [ton]	East North Central	2021	32.427619	True
+Biomass [ton]	East North Central	2022	34.102187	True
+Biomass [ton]	East North Central	2023	34.851870000000005	True
+Biomass [ton]	East North Central	2024	34.076908	True
+Biomass [ton]	East North Central	2025	34.2690845	True
+Biomass [ton]	East North Central	2026	34.14739850000001	True
+Biomass [ton]	East North Central	2027	33.3455	True
+Biomass [ton]	East North Central	2028	32.728978	True
+Biomass [ton]	East North Central	2029	32.219606999999996	True
+Biomass [ton]	East North Central	2030	31.6158775	True
+Biomass [ton]	East North Central	2031	31.212051000000002	True
+Biomass [ton]	East North Central	2032	30.965466	True
+Biomass [ton]	East North Central	2033	30.298836499999997	True
+Biomass [ton]	East North Central	2034	29.683946499999998	True
+Biomass [ton]	East North Central	2035	29.0312655	True
+Biomass [ton]	East North Central	2036	28.540577499999998	True
+Biomass [ton]	East North Central	2037	27.9333885	True
+Biomass [ton]	East North Central	2038	27.390893	True
+Biomass [ton]	East North Central	2039	26.909606	True
+Biomass [ton]	East North Central	2040	26.401884	True
+Biomass [ton]	East North Central	2041	25.912148000000002	True
+Biomass [ton]	East North Central	2042	25.402096999999998	True
+Biomass [ton]	East North Central	2043	25.160867000000003	True
+Biomass [ton]	East North Central	2044	25.112723000000003	True
+Biomass [ton]	East North Central	2045	24.940734	True
+Biomass [ton]	East North Central	2046	24.750062	True
+Biomass [ton]	East North Central	2047	24.848339000000003	True
+Biomass [ton]	East North Central	2048	25.641864999999996	True
+Biomass [ton]	East North Central	2049	25.449085	True
+Biomass [ton]	East North Central	2050	25.071328	True
+Biomass [ton]	East South Central	2013	47.418593	True
+Biomass [ton]	East South Central	2014	34.0211735	True
+Biomass [ton]	East South Central	2015	30.492322	True
+Biomass [ton]	East South Central	2016	29.032515000000004	True
+Biomass [ton]	East South Central	2017	38.083893	True
+Biomass [ton]	East South Central	2018	39.557818499999996	True
+Biomass [ton]	East South Central	2019	42.055212	True
+Biomass [ton]	East South Central	2020	37.839569	True
+Biomass [ton]	East South Central	2021	31.051316	True
+Biomass [ton]	East South Central	2022	38.189565	True
+Biomass [ton]	East South Central	2023	39.62750150000001	True
+Biomass [ton]	East South Central	2024	40.1224055	True
+Biomass [ton]	East South Central	2025	39.928469500000006	True
+Biomass [ton]	East South Central	2026	41.907643500000006	True
+Biomass [ton]	East South Central	2027	38.666381	True
+Biomass [ton]	East South Central	2028	39.5697695	True
+Biomass [ton]	East South Central	2029	39.30707700000001	True
+Biomass [ton]	East South Central	2030	37.980320500000005	True
+Biomass [ton]	East South Central	2031	39.0606875	True
+Biomass [ton]	East South Central	2032	41.383083	True
+Biomass [ton]	East South Central	2033	41.006159	True
+Biomass [ton]	East South Central	2034	37.795488	True
+Biomass [ton]	East South Central	2035	36.9631935	True
+Biomass [ton]	East South Central	2036	36.089878	True
+Biomass [ton]	East South Central	2037	39.626668499999994	True
+Biomass [ton]	East South Central	2038	38.039693	True
+Biomass [ton]	East South Central	2039	36.1705345	True
+Biomass [ton]	East South Central	2040	40.171850000000006	True
+Biomass [ton]	East South Central	2041	39.994497499999994	True
+Biomass [ton]	East South Central	2042	39.183232000000004	True
+Biomass [ton]	East South Central	2043	37.246541	True
+Biomass [ton]	East South Central	2044	37.346297	True
+Biomass [ton]	East South Central	2045	36.8242015	True
+Biomass [ton]	East South Central	2046	36.957048	True
+Biomass [ton]	East South Central	2047	31.767891499999998	True
+Biomass [ton]	East South Central	2048	29.135203500000003	True
+Biomass [ton]	East South Central	2049	25.422939	True
+Biomass [ton]	East South Central	2050	24.459923	True
+Biomass [ton]	Middle Atlantic	2013	38.683296000000006	True
+Biomass [ton]	Middle Atlantic	2014	43.634733000000004	True
+Biomass [ton]	Middle Atlantic	2015	34.940389	True
+Biomass [ton]	Middle Atlantic	2016	34.350947999999995	True
+Biomass [ton]	Middle Atlantic	2017	34.74783	True
+Biomass [ton]	Middle Atlantic	2018	35.776568	True
+Biomass [ton]	Middle Atlantic	2019	43.073546	True
+Biomass [ton]	Middle Atlantic	2020	43.893778999999995	True
+Biomass [ton]	Middle Atlantic	2021	44.651214	True
+Biomass [ton]	Middle Atlantic	2022	44.223528	True
+Biomass [ton]	Middle Atlantic	2023	44.327380999999995	True
+Biomass [ton]	Middle Atlantic	2024	48.082969999999996	True
+Biomass [ton]	Middle Atlantic	2025	45.002009	True
+Biomass [ton]	Middle Atlantic	2026	48.052948	True
+Biomass [ton]	Middle Atlantic	2027	47.91552	True
+Biomass [ton]	Middle Atlantic	2028	45.630635	True
+Biomass [ton]	Middle Atlantic	2029	46.095738000000004	True
+Biomass [ton]	Middle Atlantic	2030	46.263613	True
+Biomass [ton]	Middle Atlantic	2031	46.406617000000004	True
+Biomass [ton]	Middle Atlantic	2032	46.555690000000006	True
+Biomass [ton]	Middle Atlantic	2033	46.817761999999995	True
+Biomass [ton]	Middle Atlantic	2034	46.64052	True
+Biomass [ton]	Middle Atlantic	2035	46.964625	True
+Biomass [ton]	Middle Atlantic	2036	46.861214000000004	True
+Biomass [ton]	Middle Atlantic	2037	47.15001	True
+Biomass [ton]	Middle Atlantic	2038	46.952963	True
+Biomass [ton]	Middle Atlantic	2039	49.338879	True
+Biomass [ton]	Middle Atlantic	2040	49.078082	True
+Biomass [ton]	Middle Atlantic	2041	47.132228	True
+Biomass [ton]	Middle Atlantic	2042	47.134132	True
+Biomass [ton]	Middle Atlantic	2043	49.175305	True
+Biomass [ton]	Middle Atlantic	2044	46.8554	True
+Biomass [ton]	Middle Atlantic	2045	47.169611	True
+Biomass [ton]	Middle Atlantic	2046	46.870938	True
+Biomass [ton]	Middle Atlantic	2047	47.313856	True
+Biomass [ton]	Middle Atlantic	2048	49.719356	True
+Biomass [ton]	Middle Atlantic	2049	47.281437000000004	True
+Biomass [ton]	Middle Atlantic	2050	46.890505000000005	True
+Biomass [ton]	Mountain	2013	42.96823666666666	True
+Biomass [ton]	Mountain	2014	43.24062766666666	True
+Biomass [ton]	Mountain	2015	42.18693366666667	True
+Biomass [ton]	Mountain	2016	42.236058	True
+Biomass [ton]	Mountain	2017	38.885737666666664	True
+Biomass [ton]	Mountain	2018	39.74209	True
+Biomass [ton]	Mountain	2019	42.14336266666667	True
+Biomass [ton]	Mountain	2020	42.371089000000005	True
+Biomass [ton]	Mountain	2021	40.685182	True
+Biomass [ton]	Mountain	2022	40.801853	True
+Biomass [ton]	Mountain	2023	42.02176166666667	True
+Biomass [ton]	Mountain	2024	41.018297	True
+Biomass [ton]	Mountain	2025	44.164521	True
+Biomass [ton]	Mountain	2026	44.944333666666665	True
+Biomass [ton]	Mountain	2027	43.32294166666667	True
+Biomass [ton]	Mountain	2028	43.35557033333333	True
+Biomass [ton]	Mountain	2029	43.44131266666667	True
+Biomass [ton]	Mountain	2030	43.593831	True
+Biomass [ton]	Mountain	2031	43.73623433333333	True
+Biomass [ton]	Mountain	2032	43.89499166666667	True
+Biomass [ton]	Mountain	2033	43.85907633333333	True
+Biomass [ton]	Mountain	2034	43.907548999999996	True
+Biomass [ton]	Mountain	2035	43.933819666666665	True
+Biomass [ton]	Mountain	2036	44.10425033333333	True
+Biomass [ton]	Mountain	2037	42.334317999999996	True
+Biomass [ton]	Mountain	2038	42.434227	True
+Biomass [ton]	Mountain	2039	42.560537	True
+Biomass [ton]	Mountain	2040	43.10078566666667	True
+Biomass [ton]	Mountain	2041	43.278141	True
+Biomass [ton]	Mountain	2042	44.792229	True
+Biomass [ton]	Mountain	2043	44.08953399999999	True
+Biomass [ton]	Mountain	2044	44.14637066666666	True
+Biomass [ton]	Mountain	2045	43.235794	True
+Biomass [ton]	Mountain	2046	43.45261766666667	True
+Biomass [ton]	Mountain	2047	43.70257433333333	True
+Biomass [ton]	Mountain	2048	42.94372833333333	True
+Biomass [ton]	Mountain	2049	43.28978599999999	True
+Biomass [ton]	Mountain	2050	42.71138933333333	True
+Biomass [ton]	New England	2013	55.100621000000004	True
+Biomass [ton]	New England	2014	59.227779	True
+Biomass [ton]	New England	2015	56.062039	True
+Biomass [ton]	New England	2016	47.098772000000004	True
+Biomass [ton]	New England	2017	47.379748	True
+Biomass [ton]	New England	2018	48.832806	True
+Biomass [ton]	New England	2019	57.2339	True
+Biomass [ton]	New England	2020	57.570228	True
+Biomass [ton]	New England	2021	57.588213999999994	True
+Biomass [ton]	New England	2022	57.888842	True
+Biomass [ton]	New England	2023	61.065819	True
+Biomass [ton]	New England	2024	58.021322999999995	True
+Biomass [ton]	New England	2025	61.211475	True
+Biomass [ton]	New England	2026	56.475768	True
+Biomass [ton]	New England	2027	59.253891	True
+Biomass [ton]	New England	2028	59.338721	True
+Biomass [ton]	New England	2029	59.65249	True
+Biomass [ton]	New England	2030	63.847988	True
+Biomass [ton]	New England	2031	62.579652	True
+Biomass [ton]	New England	2032	62.306173	True
+Biomass [ton]	New England	2033	62.299169	True
+Biomass [ton]	New England	2034	62.414463	True
+Biomass [ton]	New England	2035	60.119735000000006	True
+Biomass [ton]	New England	2036	62.712115999999995	True
+Biomass [ton]	New England	2037	60.740353999999996	True
+Biomass [ton]	New England	2038	60.415212	True
+Biomass [ton]	New England	2039	60.590125	True
+Biomass [ton]	New England	2040	60.634529	True
+Biomass [ton]	New England	2041	63.000912	True
+Biomass [ton]	New England	2042	63.025239	True
+Biomass [ton]	New England	2043	60.744229999999995	True
+Biomass [ton]	New England	2044	60.795756999999995	True
+Biomass [ton]	New England	2045	60.746304	True
+Biomass [ton]	New England	2046	60.742462	True
+Biomass [ton]	New England	2047	60.851483	True
+Biomass [ton]	New England	2048	63.251033	True
+Biomass [ton]	New England	2049	60.695593	True
+Biomass [ton]	New England	2050	63.400853999999995	True
+Biomass [ton]	Pacific	2013	46.244555999999996	True
+Biomass [ton]	Pacific	2014	46.459045	True
+Biomass [ton]	Pacific	2015	45.588577	True
+Biomass [ton]	Pacific	2016	41.661474999999996	True
+Biomass [ton]	Pacific	2017	46.790936	True
+Biomass [ton]	Pacific	2018	43.273755	True
+Biomass [ton]	Pacific	2019	43.741645999999996	True
+Biomass [ton]	Pacific	2020	43.995591999999995	True
+Biomass [ton]	Pacific	2021	44.174993	True
+Biomass [ton]	Pacific	2022	43.942892	True
+Biomass [ton]	Pacific	2023	44.029014000000004	True
+Biomass [ton]	Pacific	2024	49.602787	True
+Biomass [ton]	Pacific	2025	49.278087	True
+Biomass [ton]	Pacific	2026	51.15793	True
+Biomass [ton]	Pacific	2027	49.118389	True
+Biomass [ton]	Pacific	2028	49.132703	True
+Biomass [ton]	Pacific	2029	49.190061	True
+Biomass [ton]	Pacific	2030	48.477301999999995	True
+Biomass [ton]	Pacific	2031	49.466498	True
+Biomass [ton]	Pacific	2032	49.628627	True
+Biomass [ton]	Pacific	2033	49.624394	True
+Biomass [ton]	Pacific	2034	49.726819	True
+Biomass [ton]	Pacific	2035	49.875467	True
+Biomass [ton]	Pacific	2036	50.135941	True
+Biomass [ton]	Pacific	2037	49.335190000000004	True
+Biomass [ton]	Pacific	2038	50.253716999999995	True
+Biomass [ton]	Pacific	2039	49.617951	True
+Biomass [ton]	Pacific	2040	50.377358	True
+Biomass [ton]	Pacific	2041	50.482639	True
+Biomass [ton]	Pacific	2042	50.914439	True
+Biomass [ton]	Pacific	2043	49.958273999999996	True
+Biomass [ton]	Pacific	2044	50.455439	True
+Biomass [ton]	Pacific	2045	50.538568999999995	True
+Biomass [ton]	Pacific	2046	50.52995	True
+Biomass [ton]	Pacific	2047	50.296897	True
+Biomass [ton]	Pacific	2048	50.785579	True
+Biomass [ton]	Pacific	2049	51.197981999999996	True
+Biomass [ton]	Pacific	2050	50.895450000000004	True
+Biomass [ton]	South Atlantic	2013	38.97134966666667	True
+Biomass [ton]	South Atlantic	2014	37.95950966666667	True
+Biomass [ton]	South Atlantic	2015	37.24592333333333	True
+Biomass [ton]	South Atlantic	2016	37.02355766666667	True
+Biomass [ton]	South Atlantic	2017	36.941390999999996	True
+Biomass [ton]	South Atlantic	2018	39.485305	True
+Biomass [ton]	South Atlantic	2019	40.51034833333333	True
+Biomass [ton]	South Atlantic	2020	40.81043233333333	True
+Biomass [ton]	South Atlantic	2021	40.91733966666666	True
+Biomass [ton]	South Atlantic	2022	41.03767133333333	True
+Biomass [ton]	South Atlantic	2023	42.612177333333335	True
+Biomass [ton]	South Atlantic	2024	42.606573	True
+Biomass [ton]	South Atlantic	2025	42.829612999999995	True
+Biomass [ton]	South Atlantic	2026	43.73197866666667	True
+Biomass [ton]	South Atlantic	2027	41.663611333333336	True
+Biomass [ton]	South Atlantic	2028	41.348607	True
+Biomass [ton]	South Atlantic	2029	40.940827999999996	True
+Biomass [ton]	South Atlantic	2030	41.00771733333334	True
+Biomass [ton]	South Atlantic	2031	41.830132	True
+Biomass [ton]	South Atlantic	2032	42.281754	True
+Biomass [ton]	South Atlantic	2033	43.46648966666667	True
+Biomass [ton]	South Atlantic	2034	43.195951666666666	True
+Biomass [ton]	South Atlantic	2035	43.13475166666666	True
+Biomass [ton]	South Atlantic	2036	44.587951333333336	True
+Biomass [ton]	South Atlantic	2037	43.03517133333333	True
+Biomass [ton]	South Atlantic	2038	41.796840333333336	True
+Biomass [ton]	South Atlantic	2039	42.902696	True
+Biomass [ton]	South Atlantic	2040	42.552110666666664	True
+Biomass [ton]	South Atlantic	2041	42.635427666666665	True
+Biomass [ton]	South Atlantic	2042	42.49439	True
+Biomass [ton]	South Atlantic	2043	42.27442133333333	True
+Biomass [ton]	South Atlantic	2044	40.899710666666664	True
+Biomass [ton]	South Atlantic	2045	42.178292	True
+Biomass [ton]	South Atlantic	2046	43.631792	True
+Biomass [ton]	South Atlantic	2047	43.33549333333334	True
+Biomass [ton]	South Atlantic	2048	41.81137533333333	True
+Biomass [ton]	South Atlantic	2049	42.71848400000001	True
+Biomass [ton]	South Atlantic	2050	42.859379999999994	True
+Biomass [ton]	West North Central	2013	35.676616499999994	True
+Biomass [ton]	West North Central	2014	43.9814395	True
+Biomass [ton]	West North Central	2015	40.2890225	True
+Biomass [ton]	West North Central	2016	41.5908655	True
+Biomass [ton]	West North Central	2017	40.071754	True
+Biomass [ton]	West North Central	2018	42.2859105	True
+Biomass [ton]	West North Central	2019	42.780823	True
+Biomass [ton]	West North Central	2020	43.019596500000006	True
+Biomass [ton]	West North Central	2021	43.188449	True
+Biomass [ton]	West North Central	2022	43.328631	True
+Biomass [ton]	West North Central	2023	43.423219	True
+Biomass [ton]	West North Central	2024	42.976977500000004	True
+Biomass [ton]	West North Central	2025	42.2898885	True
+Biomass [ton]	West North Central	2026	42.892768000000004	True
+Biomass [ton]	West North Central	2027	44.0012785	True
+Biomass [ton]	West North Central	2028	44.2896325	True
+Biomass [ton]	West North Central	2029	43.240162999999995	True
+Biomass [ton]	West North Central	2030	44.5243345	True
+Biomass [ton]	West North Central	2031	44.665953	True
+Biomass [ton]	West North Central	2032	44.813904	True
+Biomass [ton]	West North Central	2033	44.7959435	True
+Biomass [ton]	West North Central	2034	47.637009000000006	True
+Biomass [ton]	West North Central	2035	47.843423	True
+Biomass [ton]	West North Central	2036	48.4271605	True
+Biomass [ton]	West North Central	2037	49.039356	True
+Biomass [ton]	West North Central	2038	49.3966025	True
+Biomass [ton]	West North Central	2039	49.883269999999996	True
+Biomass [ton]	West North Central	2040	50.172873499999994	True
+Biomass [ton]	West North Central	2041	50.128783999999996	True
+Biomass [ton]	West North Central	2042	50.005491500000005	True
+Biomass [ton]	West North Central	2043	48.874404999999996	True
+Biomass [ton]	West North Central	2044	51.948693500000005	True
+Biomass [ton]	West North Central	2045	50.300670999999994	True
+Biomass [ton]	West North Central	2046	50.2385105	True
+Biomass [ton]	West North Central	2047	49.1111555	True
+Biomass [ton]	West North Central	2048	49.5580345	True
+Biomass [ton]	West North Central	2049	44.716613	True
+Biomass [ton]	West North Central	2050	38.823274	True
+Biomass [ton]	West South Central	2013	35.162868	True
+Biomass [ton]	West South Central	2014	34.589729999999996	True
+Biomass [ton]	West South Central	2015	23.623642	True
+Biomass [ton]	West South Central	2016	23.03415	True
+Biomass [ton]	West South Central	2017	30.383233	True
+Biomass [ton]	West South Central	2018	35.302081	True
+Biomass [ton]	West South Central	2019	33.742161	True
+Biomass [ton]	West South Central	2020	31.80496	True
+Biomass [ton]	West South Central	2021	29.319033	True
+Biomass [ton]	West South Central	2022	32.162521	True
+Biomass [ton]	West South Central	2023	32.258486000000005	True
+Biomass [ton]	West South Central	2024	32.354093999999996	True
+Biomass [ton]	West South Central	2025	33.231379000000004	True
+Biomass [ton]	West South Central	2026	33.706393	True
+Biomass [ton]	West South Central	2027	33.219513	True
+Biomass [ton]	West South Central	2028	33.297152	True
+Biomass [ton]	West South Central	2029	33.262727	True
+Biomass [ton]	West South Central	2030	32.944538	True
+Biomass [ton]	West South Central	2031	31.095855999999998	True
+Biomass [ton]	West South Central	2032	28.715363	True
+Biomass [ton]	West South Central	2033	26.490879	True
+Biomass [ton]	West South Central	2034	26.547964999999998	True
+Biomass [ton]	West South Central	2035	26.62659	True
+Biomass [ton]	West South Central	2036	25.814636	True
+Biomass [ton]	West South Central	2037	26.832256	True
+Biomass [ton]	West South Central	2038	26.871271	True
+Biomass [ton]	West South Central	2039	26.799038	True
+Biomass [ton]	West South Central	2040	25.724213	True
+Biomass [ton]	West South Central	2041	24.724919	True
+Biomass [ton]	West South Central	2042	23.762855000000002	True
+Biomass [ton]	West South Central	2043	22.916612	True
+Biomass [ton]	West South Central	2044	22.666643999999998	True
+Biomass [ton]	West South Central	2045	21.904687	True
+Biomass [ton]	West South Central	2046	20.785594	True
+Biomass [ton]	West South Central	2047	20.502288999999998	True
+Biomass [ton]	West South Central	2048	20.5717	True
+Biomass [ton]	West South Central	2049	20.574539	True
+Biomass [ton]	West South Central	2050	20.671065000000002	True

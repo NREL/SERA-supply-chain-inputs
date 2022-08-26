@@ -1,0 +1,590 @@
+Network ID	Zone	Fraction
+00199 | Aberdeen--Bel Air South--Bel Air North, MD	South Atlantic	1.0
+00280 | Abilene, TX	West South Central	1.0
+00766 | Akron, OH	East North Central	1.0
+00820 | Alamogordo, NM	Mountain	1.0
+00955 | Albany, OR	Pacific	1.0
+00970 | Albany--Schenectady, NY	Middle Atlantic	1.0
+01171 | Albuquerque, NM	Mountain	1.0
+01495 | Allentown, PA--NJ	Middle Atlantic	1.0
+01792 | Altoona, PA	Middle Atlantic	1.0
+01927 | Amarillo, TX	West South Central	1.0
+02413 | Anderson, SC	South Atlantic	1.0
+02602 | Ann Arbor, MI	East North Central	1.0
+02683 | Antioch, CA	Pacific	1.0
+02764 | Appleton, WI	East North Central	1.0
+02926 | Arcata-McKinleyville, CA	Pacific	1.0
+03196 | Arroyo Grande--Grover Beach, CA	Pacific	1.0
+03358 | Asheville, NC	South Atlantic	1.0
+03763 | Athens-Clarke County, GA	South Atlantic	1.0
+03817 | Atlanta, GA	South Atlantic	1.0
+03898 | Atlantic City, NJ	Middle Atlantic	1.0
+04114 | Auburn, NY	Middle Atlantic	1.0
+04130 | Auburn--North Auburn, CA	Pacific	1.0
+04222 | Augusta-Richmond County, GA--SC	South Atlantic	1.0
+04384 | Austin, TX	West South Central	1.0
+04549 | Avondale--Goodyear, AZ	Mountain	1.0
+04681 | Bakersfield, CA	Pacific	1.0
+04843 | Baltimore, MD	South Atlantic	1.0
+04951 | Bangor, ME	New England	1.0
+05167 | Barnstable Town, MA	New England	1.0
+06058 | Beaumont, TX	West South Central	1.0
+06652 | Bellingham, WA	Pacific	1.0
+06760 | Beloit, WI--IL	East North Central	1.0
+06868 | Bend, OR	Pacific	1.0
+07138 | Benton Harbor--St. Joseph--Fair Plain, MI	East North Central	0.999999999999994
+07705 | Billings, MT	Mountain	1.0
+07732 | Binghamton, NY--PA	Middle Atlantic	1.0
+07786 | Birmingham, AL	East South Central	1.0
+07921 | Bismarck, ND	West North Central	1.0
+08407 | Bloomington--Normal, IL	East North Central	1.0
+08434 | Bloomsburg--Berwick, PA	Middle Atlantic	1.0
+08785 | Boise City, ID	Mountain	1.0
+08974 | Bonita Springs, FL	South Atlantic	1.0
+09271 | Boston, MA--NH--RI	New England	1.0
+09298 | Boulder, CO	Mountain	1.0
+09514 | Bozeman, MT	Mountain	1.0
+09946 | Bremerton, WA	Pacific	1.0
+10162 | Bridgeport--Stamford, CT--NY	New England	1.0
+10189 | Bridgeton, NJ	Middle Atlantic	1.0
+10891 | Browns Mills--Fort Dix, NJ	Middle Atlantic	1.0
+10972 | Brownsville, TX	West South Central	1.0
+11350 | Buffalo, NY	Middle Atlantic	1.0
+11431 | Bullhead City, AZ--NV	Mountain	1.0
+11755 | Burlington, VT	New England	1.0
+12052 | Butte-Silver Bow, MT	Mountain	1.0
+12754 | Camarillo, CA	Pacific	1.0
+13375 | Canton, OH	East North Central	1.0
+13510 | Cape Coral, FL	South Atlantic	1.0
+14158 | Carson City, NV	Mountain	1.0
+14401 | Casa Grande, AZ	Mountain	1.0
+14482 | Casper, WY	Mountain	1.0
+14698 | Cedar City, UT	Mountain	1.0
+14752 | Cedar Rapids, IA	West North Central	1.0
+15076 | Centralia, WA	Pacific	1.0
+15184 | Chambersburg, PA	Middle Atlantic	1.0
+15211 | Champaign, IL	East North Central	1.0
+15508 | Charleston--North Charleston, SC	South Atlantic	1.0
+15670 | Charlotte, NC--SC	South Atlantic	1.0
+15724 | Charlottesville, VA	South Atlantic	1.0
+15832 | Chattanooga, TN--GA	East South Central	1.0
+16237 | Cheyenne, WY	Mountain	1.0
+16264 | Chicago, IL--IN	East North Central	1.0
+16318 | Chico, CA	Pacific	1.0
+16885 | Cincinnati, OH--KY--IN	East North Central	1.0
+17533 | Cleburne, TX	West South Central	1.0
+17668 | Cleveland, OH	East North Central	1.0
+18289 | Coalinga, CA	Pacific	1.0
+18451 | Coeur d'Alene, ID	Mountain	1.0
+18748 | College Station--Bryan, TX	West South Central	1.0
+18856 | Colorado Springs, CO	Mountain	1.0
+18964 | Columbia, SC	South Atlantic	1.0
+19234 | Columbus, OH	East North Central	1.0
+19504 | Concord, CA	Pacific	1.0
+19531 | Concord, NH	New England	1.0
+19558 | Concord, NC	South Atlantic	1.0
+19755 | Conroe--The Woodlands, TX	West South Central	1.0
+20287 | Corpus Christi, TX	West South Central	1.0
+20422 | Corvallis, OR	Pacific	1.0
+21745 | Cumberland, MD--WV--PA	South Atlantic	1.0
+22042 | Dallas--Fort Worth--Arlington, TX	West South Central	1.0
+22096 | Danbury, CT--NY	New England	1.0
+22366 | Davenport, IA--IL	East North Central	0.551110301742255
+22366 | Davenport, IA--IL	West North Central	0.448889698257746
+22420 | Davis, CA	Pacific	1.0
+22528 | Dayton, OH	East North Central	1.0
+22960 | DeKalb, IL	East North Central	1.0
+22987 | Delano, CA	Pacific	1.0
+23203 | Del Rio, TX	West South Central	1.0
+23500 | Denton--Lewisville, TX	West South Central	1.0
+23527 | Denver--Aurora, CO	Mountain	1.0
+23743 | Des Moines, IA	West North Central	1.0
+23824 | Detroit, MI	East North Central	1.0
+24580 | Dover, DE	South Atlantic	1.0
+24607 | Dover--Rochester, NH--ME	New England	1.0
+24850 | Duluth, MN--WI	East North Central	0.200088761050791
+24850 | Duluth, MN--WI	West North Central	0.799911238949208
+25228 | Durham, NC	South Atlantic	1.0
+25849 | East Stroudsburg, PA--NJ	Middle Atlantic	1.0
+26038 | Eau Claire, WI	East North Central	1.0
+26416 | El Centro--Calexico, CA	Pacific	1.0
+26794 | Elkhart, IN--MI	East North Central	1.0
+27118 | Elmira, NY	Middle Atlantic	1.0
+27253 | El Paso, TX--NM	West South Central	1.0
+27261 | El Paso de Robles (Paso Robles)--Atascadero, CA	Pacific	1.0
+27766 | Erie, PA	Middle Atlantic	1.0
+28117 | Eugene, OR	Pacific	1.0
+28198 | Eureka, CA	Pacific	0.99999999999998
+28657 | Fairfield, CA	Pacific	1.0
+29089 | Fargo, ND--MN	West North Central	1.0
+29278 | Farmington, NM	Mountain	1.0
+29440 | Fayetteville, NC	South Atlantic	1.0
+29818 | Flagstaff, AZ	Mountain	1.0
+30628 | Fort Collins, CO	Mountain	1.0
+31087 | Fort Wayne, IN	East North Central	1.0
+31150 | Four Corners, FL	South Atlantic	1.0
+31450 | Franklin--Highland Lake, NJ	Middle Atlantic	1.0
+31519 | Frederick, MD	South Atlantic	1.0
+31600 | Fredericksburg, VA	South Atlantic	1.0
+31843 | Fresno, CA	Pacific	1.0
+32167 | Gainesville, FL	South Atlantic	1.0
+32194 | Gainesville, GA	South Atlantic	1.0
+32491 | Galveston, TX	West South Central	0.999999999999992
+33247 | Gillette, WY	Mountain	1.0
+33328 | Gilroy--Morgan Hill, CA	Pacific	1.0
+33598 | Glens Falls, NY	Middle Atlantic	1.0
+34273 | Grand Junction, CO	Mountain	1.0
+34300 | Grand Rapids, MI	East North Central	1.0
+34516 | Grants Pass, OR	Pacific	1.0
+34597 | Grass Valley, CA	Pacific	1.0
+34759 | Great Falls, MT	Mountain	1.0
+34786 | Greeley, CO	Mountain	1.0
+34813 | Green Bay, WI	East North Central	0.999999999999997
+35164 | Greensboro, NC	South Atlantic	1.0
+35380 | Greenville, NC	South Atlantic	1.0
+35461 | Greenville, SC	South Atlantic	1.0
+36055 | Gustine, CA	Pacific	1.0
+36190 | Hagerstown, MD--WV--PA	South Atlantic	1.0
+36703 | Hanford, CA	Pacific	1.0
+36784 | Hanover, PA	Middle Atlantic	1.0
+37081 | Harrisburg, PA	Middle Atlantic	1.0
+37162 | Harrisonburg, VA	South Atlantic	1.0
+37243 | Hartford, CT	New England	1.0
+37945 | Hazleton, PA	Middle Atlantic	1.0
+38161 | Helena, MT	Mountain	1.0
+38215 | Hemet, CA	Pacific	1.0
+38647 | Hickory, NC	South Atlantic	1.0
+39079 | Hilton Head Island, SC	South Atlantic	1.0
+39214 | Hobbs, NM	Mountain	1.0
+39511 | Hollister, CA	Pacific	1.0
+40429 | Houston, TX	West South Central	1.0
+40780 | Huntsville, AL	East South Central	1.0
+40996 | Idaho Falls, ID	Mountain	1.0
+41212 | Indianapolis, IN	East North Central	1.0
+41347 | Indio--Cathedral City, CA	Pacific	1.0
+41590 | Iowa City, IA	West North Central	1.0
+41914 | Ithaca, NY	Middle Atlantic	1.0
+42346 | Jacksonville, FL	South Atlantic	1.0
+43291 | Johnstown, PA	Middle Atlantic	1.0
+43723 | Kalamazoo, MI	East North Central	1.0
+43777 | Kalispell, MT	Mountain	1.0
+43885 | Kankakee, IL	East North Central	1.0
+43912 | Kansas City, MO--KS	West North Central	1.0
+44479 | Kennewick--Pasco, WA	Pacific	1.0
+44506 | Kenosha, WI--IL	East North Central	1.0
+44992 | Killeen, TX	West South Central	1.0
+45127 | Kingman, AZ	Mountain	1.0
+45262 | Kingston, NY	Middle Atlantic	1.0
+45451 | Kissimmee, FL	South Atlantic	1.0
+45505 | Klamath Falls--Altamont, OR	Pacific	1.0
+45640 | Knoxville, TN	East South Central	1.0
+45910 | La Crosse, WI--MN	East North Central	1.0
+45937 | Lady Lake--The Villages, FL	South Atlantic	1.0
+46018 | Lafayette, IN	East North Central	1.0
+46126 | Lafayette--Louisville--Erie, CO	Mountain	1.0
+46747 | Lake Havasu City, AZ	Mountain	1.0
+47530 | Lancaster, PA	Middle Atlantic	1.0
+47611 | Lancaster--Palmdale, CA	Pacific	1.0
+47719 | Lansing, MI	East North Central	1.0
+47827 | Laramie, WY	Mountain	1.0
+47854 | Laredo, TX	West South Central	0.999999999999999
+47935 | Las Cruces, NM	Mountain	1.0
+47995 | Las Vegas--Henderson, NV	Mountain	1.0
+48664 | Lebanon, PA	Middle Atlantic	1.0
+48826 | Lee's Summit, MO	West North Central	1.0
+49096 | Leominster--Fitchburg, MA	New England	1.0
+49312 | Lewiston, ID--WA	Mountain	0.766219574671187
+49312 | Lewiston, ID--WA	Pacific	0.233780425328811
+49582 | Lexington-Fayette, KY	East South Central	1.0
+49594 | Lexington Park--California--Chesapeake Ranch Estates, MD	South Atlantic	1.0
+49933 | Lincoln, NE	West North Central	1.0
+50392 | Little Rock, AR	West South Central	1.0
+50527 | Livermore, CA	Pacific	1.0
+50851 | Lodi, CA	Pacific	1.0
+50959 | Logan, UT	Mountain	1.0
+51040 | Lompoc, CA	Pacific	1.0
+51175 | Longmont, CO	Mountain	1.0
+51283 | Longview, WA--OR	Pacific	1.0
+51445 | Los Angeles--Long Beach--Anaheim, CA	Pacific	1.0
+51472 | Los Banos, CA	Pacific	1.0
+51499 | Los Lunas, NM	Mountain	1.0
+51755 | Louisville/Jefferson County, KY--IN	East South Central	1.0
+51877 | Lubbock, TX	West South Central	1.0
+52201 | Lynchburg, VA	South Atlantic	1.0
+52390 | McAllen, TX	West South Central	1.0
+52687 | McKinney, TX	West South Central	1.0
+52741 | McMinnville, OR	Pacific	1.0
+52984 | Madera, CA	Pacific	1.0
+53200 | Madison, WI	East North Central	1.0
+53740 | Manchester, NH	New England	1.0
+53794 | Mandeville--Covington, LA	West South Central	1.0
+54145 | Manteca, CA	Pacific	1.0
+54477 | Maricopa, AZ	Mountain	1.0
+55333 | Marysville, WA	Pacific	1.0
+55603 | Mauldin--Simpsonville, SC	South Atlantic	1.0
+55981 | Medford, OR	Pacific	1.0
+56116 | Memphis, TN--MS--AR	East South Central	1.0
+56251 | Merced, CA	Pacific	1.0
+56602 | Miami, FL	South Atlantic	1.0
+56656 | Michigan City--La Porte, IN--MI	East North Central	1.0
+56899 | Middletown, NY	Middle Atlantic	1.0
+57007 | Midland, TX	West South Central	1.0
+57439 | Milton--Lewisburg, PA	Middle Atlantic	1.0
+57466 | Milwaukee, WI	East North Central	1.0
+57628 | Minneapolis--St. Paul, MN--WI	West North Central	1.0
+57709 | Mission Viejo--Lake Forest--San Clemente, CA	Pacific	1.0
+57736 | Missoula, MT	Mountain	1.0
+58006 | Modesto, CA	Pacific	1.0
+59518 | Moses Lake, WA	Pacific	1.0
+60490 | Mount Vernon, WA	Pacific	1.0
+60799 | Murrieta--Temecula--Menifee, CA	Pacific	1.0
+60841 | Muskegon, MI	East North Central	1.0
+60895 | Myrtle Beach--Socastee, SC--NC	South Atlantic	1.0
+60976 | Nampa, ID	Mountain	1.0
+61057 | Napa, CA	Pacific	1.0
+61165 | Nashua, NH--MA	New England	1.0
+61273 | Nashville-Davidson, TN	East South Central	1.0
+61786 | New Bedford, MA	New England	1.0
+62407 | New Haven, CT	New England	1.0
+62677 | New Orleans, LA	West South Central	1.0
+63217 | New York--Newark, NY--NJ--CT	Middle Atlantic	1.0
+63325 | Nogales, AZ	Mountain	1.0
+63433 | Norman, OK	West South Central	1.0
+63838 | North Port--Port Charlotte, FL	South Atlantic	1.0
+64135 | Norwich--New London, CT--RI	New England	1.0
+64378 | Oak Harbor, WA	Pacific	0.999999999999968
+64660 | Ocean Pines, MD--DE	South Atlantic	1.0
+64864 | Odessa, TX	West South Central	1.0
+64945 | Ogden--Layton, UT	Mountain	1.0
+65080 | Oklahoma City, OK	West South Central	1.0
+65242 | Olympia--Lacey, WA	Pacific	1.0
+65269 | Omaha, NE--IA	West North Central	1.0
+65863 | Orlando, FL	South Atlantic	1.0
+65944 | Oroville, CA	Pacific	1.0
+66241 | Oswego, NY	Middle Atlantic	1.0
+66673 | Oxnard, CA	Pacific	1.0
+67105 | Palm Bay--Melbourne, FL	South Atlantic	1.0
+67375 | Paradise, CA	Pacific	1.0
+68509 | Peoria, IL	East North Central	1.0
+68833 | Peru--LaSalle, IL	East North Central	1.0
+68887 | Petaluma, CA	Pacific	1.0
+69076 | Philadelphia, PA--NJ--DE--MD	Middle Atlantic	1.0
+69184 | Phoenix--Mesa, AZ	Mountain	1.0
+69517 | Pinehurst--Southern Pines, NC	South Atlantic	1.0
+69697 | Pittsburgh, PA	Middle Atlantic	1.0
+69778 | Pittsfield, MA	New England	1.0
+70426 | Pocatello, ID	Mountain	1.0
+70993 | Port Arthur, TX	West South Central	1.0
+71074 | Porterville, CA	Pacific	1.0
+71263 | Portland, ME	New England	1.0
+71317 | Portland, OR--WA	Pacific	1.0
+71479 | Port St. Lucie, FL	South Atlantic	1.0
+71506 | Portsmouth, NH--ME	New England	1.0
+71749 | Pottstown, PA	Middle Atlantic	1.0
+71776 | Pottsville, PA	Middle Atlantic	1.0
+71803 | Poughkeepsie--Newburgh, NY--NJ	Middle Atlantic	1.0
+72112 | Prescott Valley--Prescott, AZ	Mountain	1.0
+72505 | Providence, RI--MA	New England	1.0
+72559 | Provo--Orem, UT	Mountain	1.0
+72613 | Pueblo, CO	Mountain	1.0
+73153 | Racine, WI	East North Central	1.0
+73261 | Raleigh, NC	South Atlantic	1.0
+73396 | Rapid City, SD	West North Central	1.0
+73693 | Reading, PA	Middle Atlantic	1.0
+73774 | Redding, CA	Pacific	1.0
+74044 | Reedley--Dinuba, CA	Pacific	1.0
+74179 | Reno, NV--CA	Mountain	1.0
+74746 | Richmond, VA	South Atlantic	1.0
+74827 | Ridgecrest, CA	Pacific	1.0
+75340 | Riverside--San Bernardino, CA	Pacific	1.0
+75421 | Roanoke, VA	South Atlantic	1.0
+75637 | Rochester, MN	West North Central	1.0
+75664 | Rochester, NY	Middle Atlantic	1.0
+75718 | Rockford, IL	East North Central	1.0
+76231 | Rome, NY	Middle Atlantic	1.0
+76339 | Roseburg, OR	Pacific	1.0
+76447 | Roswell, NM	Mountain	1.0
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	East North Central	1.0
+77068 | Sacramento, CA	Pacific	1.0
+77161 | Sahuarita--Green Valley, AZ	Mountain	1.0
+77338 | St. Cloud, MN	West North Central	1.0
+77446 | St. George, UT	Mountain	1.0
+77770 | St. Louis, MO--IL	West North Central	1.0
+78229 | Salem, OR	Pacific	1.0
+78310 | Salinas, CA	Pacific	1.0
+78364 | Salisbury, MD--DE	South Atlantic	1.0
+78499 | Salt Lake City--West Valley City, UT	Mountain	1.0
+78553 | San Angelo, TX	West South Central	1.0
+78580 | San Antonio, TX	West South Central	1.0
+78661 | San Diego, CA	Pacific	1.0
+78904 | San Francisco--Oakland, CA	Pacific	0.999999999999981
+79039 | San Jose, CA	Pacific	1.0
+79147 | San Luis Obispo, CA	Pacific	1.0
+79282 | Santa Barbara, CA	Pacific	0.999999999999985
+79309 | Santa Clarita, CA	Pacific	1.0
+79336 | Santa Cruz, CA	Pacific	1.0
+79363 | Santa Fe, NM	Mountain	1.0
+79417 | Santa Maria, CA	Pacific	1.0
+79498 | Santa Rosa, CA	Pacific	1.0
+79606 | Sarasota--Bradenton, FL	South Atlantic	1.0
+79633 | Saratoga Springs, NY	Middle Atlantic	1.0
+80227 | Scranton, PA	Middle Atlantic	1.0
+80362 | Seaside--Monterey, CA	Pacific	0.999999999999984
+80389 | Seattle, WA	Pacific	1.0
+80400 | Sebastian--Vero Beach South--Florida Ridge, FL	South Atlantic	1.0
+80551 | Selma, CA	Pacific	1.0
+80985 | Shamokin--Mount Carmel, PA	Middle Atlantic	1.0
+81739 | Shreveport, LA	West South Central	1.0
+81901 | Sierra Vista, AZ	Mountain	1.0
+82144 | Simi Valley, CA	Pacific	1.0
+82225 | Sioux City, IA--NE--SD	West North Central	1.0
+82252 | Sioux Falls, SD	West North Central	1.0
+83008 | Sonoma, CA	Pacific	1.0
+83116 | South Bend, IN--MI	East North Central	1.0
+83764 | Spokane, WA	Pacific	1.0
+83899 | Springfield, IL	East North Central	1.0
+83926 | Springfield, MA--CT	New England	1.0
+83953 | Springfield, MO	West North Central	1.0
+84493 | State College, PA	Middle Atlantic	1.0
+84630 | Staunton--Waynesboro, VA	South Atlantic	1.0
+85087 | Stockton, CA	Pacific	1.0
+86302 | Syracuse, NY	Middle Atlantic	1.0
+86599 | Tampa--St. Petersburg, FL	South Atlantic	1.0
+87058 | Temple, TX	West South Central	1.0
+87220 | Texas City, TX	West South Central	1.0
+87490 | Thousand Oaks, CA	Pacific	1.0
+87868 | Toledo, OH--MI	East North Central	1.0
+88057 | Tooele, UT	Mountain	1.0
+88192 | Torrington, CT	New England	1.0
+88273 | Tracy, CA	Pacific	1.0
+88462 | Trenton, NJ	Middle Atlantic	1.0
+88624 | Truckee, CA	Pacific	1.0
+88732 | Tucson, AZ	Mountain	1.0
+88948 | Tulsa, OK	West South Central	1.0
+89083 | Turlock, CA	Pacific	1.0
+89245 | Twin Falls, ID	Mountain	1.0
+89263 | Twin Rivers--Hightstown, NJ	Middle Atlantic	1.0
+89326 | Tyler, TX	West South Central	1.0
+89785 | Utica, NY	Middle Atlantic	1.0
+89866 | Vacaville, CA	Pacific	1.0
+90028 | Vallejo, CA	Pacific	1.0
+90541 | Victorville--Hesperia, CA	Pacific	1.0
+90658 | Villas, NJ	Middle Atlantic	1.0
+90730 | Vineland, NJ	Middle Atlantic	1.0
+90892 | Virginia Beach, VA	South Atlantic	0.99999999999999
+90946 | Visalia, CA	Pacific	1.0
+91027 | Waco, TX	West South Central	1.0
+91261 | Waldorf, MD	South Atlantic	1.0
+91405 | Walla Walla, WA--OR	Pacific	1.0
+92242 | Washington, DC--VA--MD	South Atlantic	1.0
+92485 | Waterbury, CT	New England	1.0
+92593 | Waterloo, IA	West North Central	1.0
+92674 | Watertown, NY	Middle Atlantic	1.0
+92890 | Watsonville, CA	Pacific	1.0
+93484 | Weatherford, TX	West South Central	1.0
+93862 | Wenatchee, WA	Pacific	1.0
+94294 | Westminster--Eldersburg, MD	South Atlantic	1.0
+95077 | Wichita, KS	West North Central	1.0
+95104 | Wichita Falls, TX	West South Central	1.0
+95455 | Williamsport, PA	Middle Atlantic	1.0
+95833 | Wilmington, NC	South Atlantic	1.0
+96103 | Winchester, VA	South Atlantic	1.0
+96670 | Winston-Salem, NC	South Atlantic	1.0
+96913 | Woodburn, OR	Pacific	1.0
+96994 | Woodland, CA	Pacific	1.0
+97291 | Worcester, MA--CT	New England	1.0
+97507 | Yakima, WA	Pacific	1.0
+97750 | York, PA	Middle Atlantic	1.0
+97939 | Yuba City, CA	Pacific	1.0
+98020 | Yuma, AZ--CA	Mountain	1.0
+@ Anacortes, WA	Pacific	1.0
+@ Anniston, AL	East South Central	1.0
+@ Ardmore, OK	West South Central	1.0
+@ Artesia, NM	Mountain	1.0
+@ Ashtabula, OH	East North Central	1.0
+@ Augusta, GA	South Atlantic	1.0
+@ Bakersfield, CA	Pacific	1.0
+@ Baton Rouge, LA	West South Central	1.0
+@ Batton Rouge, LA	West South Central	1.0
+@ Bay City, TX	West South Central	1.0
+@ Bayport, TX	West South Central	1.0
+@ Baytown, TX	West South Central	1.0
+@ Beaumont, TX	West South Central	1.0
+@ Belle Chasse, LA	West South Central	1.0
+@ Belle, WV	South Atlantic	1.0
+@ Belvidere, NJ	Middle Atlantic	1.0
+@ Benicia, CA	Pacific	1.0
+@ Billings, MT	Mountain	1.0
+@ Blaine, WA	Pacific	0.999999999999999
+@ Borger, TX	West South Central	1.0
+@ Bradley, IL	East North Central	1.0
+@ Brorger, TX	West South Central	1.0
+@ Burkville, AL	East South Central	1.0
+@ Butler, IN	East North Central	1.0
+@ Butte, MT	Mountain	1.0
+@ Calvert City, KY	East South Central	1.0
+@ Carson, CA	Pacific	1.0
+@ Catlettsburg, KY	East North Central	0.271544652117458
+@ Catlettsburg, KY	East South Central	0.555920669106769
+@ Catlettsburg, KY	South Atlantic	0.172534678775769
+@ Cedar City, UT	Mountain	1.0
+@ Channelview, TX	West South Central	1.0
+@ Charleston, TN	East South Central	1.0
+@ Charlotte, NC	South Atlantic	1.0
+@ Chattanooga, TN	East South Central	0.691868417905787
+@ Chattanooga, TN	South Atlantic	0.308131582094211
+@ Cherry Point, WA	Pacific	1.0
+@ Cheyenne, WY	Mountain	1.0
+@ Cincinnati, OH	East North Central	1.0
+@ Coffeyville, KS	West North Central	0.982145325230341
+@ Coffeyville, KS	West South Central	0.0178546747696582
+@ Columbus, MS	East South Central	1.0
+@ Commerce City, CO	Mountain	1.0
+@ Convent, LA	West South Central	1.0
+@ Conway, KS	West North Central	1.0
+@ Corpus Christi, TX	West South Central	1.0
+@ Corunna, ON, CA	East North Central	1.0
+@ Cotton Valley, LA	West South Central	1.0
+@ Crawfordsville, IN	East North Central	1.0
+@ Dallas, TX	West South Central	1.0
+@ Decatur, AL	East South Central	1.0
+@ Decatur, IL	East North Central	1.0
+@ Decatur, IN	East North Central	1.0
+@ Deepwater, NJ	South Atlantic	0.243802728771841
+@ Deepwater, NJ	Middle Atlantic	0.75619727122816
+@ Deer Park, TX	West South Central	1.0
+@ Delaware City, DE	South Atlantic	0.999999999999998
+@ Des Moines, IA	West North Central	1.0
+@ Detroit, MI	East North Central	1.0
+@ East Chicago, IN	East North Central	1.0
+@ Eastover, SC	South Atlantic	1.0
+@ Ecorse, MI	East North Central	1.0
+@ El Dorado, AR	West South Central	1.0
+@ El Dorado, KS	West North Central	1.0
+@ El Segundo, CA	Pacific	1.0
+@ Euclid, OH	East North Central	1.0
+@ Fairless Hills, PA	Middle Atlantic	1.0
+@ Fort Worth, TX	West South Central	1.0
+@ Freeport, TX	West South Central	1.0
+@ Gainesville, GA	South Atlantic	1.0
+@ Gallatin, TN	East South Central	1.0
+@ Geismar, LA	West South Central	1.0
+@ Great Falls, MT	Mountain	1.0
+@ Hamilton, MS	East South Central	1.0
+@ Hannibal, MO	West North Central	0.670454192990232
+@ Hannibal, MO	East North Central	0.329545807009769
+@ Hartford, IL	East North Central	0.790157405968701
+@ Hartford, IL	West North Central	0.209842594031299
+@ Henderson, NV	Mountain	1.0
+@ Huntsville, AL	East South Central	1.0
+@ Ingleside, TX	West South Central	0.999999999999992
+@ Institute, WV	South Atlantic	1.0
+@ Jacksonville, IL	East North Central	1.0
+@ Joliet, IL	East North Central	1.0
+@ Kalama, WA	Pacific	1.0
+@ Karns City, PA	Middle Atlantic	1.0
+@ Kingsport, TN	East South Central	1.0
+@ LaBarge, WY	Mountain	1.0
+@ Lake Charles, LA	West South Central	1.0
+@ La Porte, TX	West South Central	1.0
+@ Laurel, MT	Mountain	1.0
+@ Lemont, IL	East North Central	1.0
+@ Lima, OH	East North Central	1.0
+@ Lincoln, NE	West North Central	1.0
+@ Linden, NJ	Middle Atlantic	1.0
+@ Longview, TX	West South Central	1.0
+@ Longview, WA	Pacific	1.0
+@ Louisville, KY	East North Central	0.191870838993597
+@ Louisville, KY	East South Central	0.808129161006405
+@ Luling, LA	West South Central	1.0
+@ Maitland, ON, CA	Middle Atlantic	1.0
+@ Mankato, MN	West North Central	1.0
+@ Mapleton, IL	East North Central	1.0
+@ Marcus Hook, PA	Middle Atlantic	0.823534781803866
+@ Marcus Hook, PA	South Atlantic	0.176465218196131
+@ Martinez, CA	Pacific	1.0
+@ McIntosh, AL	East South Central	1.0
+@ McPherson, KS	West North Central	1.0
+@ Memphis, TN	East South Central	1.0
+@ Middleton, OH	East North Central	1.0
+@ Midland, MI	East North Central	1.0
+@ Mobile, AL	East South Central	1.0
+@ Mont Belvieu, TX	West South Central	1.0
+@ Mont Belview, TX	West South Central	1.0
+@ Moses Lake, WA	Pacific	1.0
+@ Mount Vernon, IN	East South Central	0.251649027991785
+@ Mount Vernon, IN	East North Central	0.748350972008214
+@ Nanticoke, ON, CA	Middle Atlantic	1.0
+@ New Castle, DE	Middle Atlantic	0.112219955902229
+@ New Castle, DE	South Atlantic	0.887780044097776
+@ Newell, WV	East North Central	0.334714193181472
+@ Newell, WV	South Atlantic	0.665285806818527
+@ New Orleans, LA	West South Central	1.0
+@ Niagara Falls, NY	Middle Atlantic	0.999999999999966
+@ Norco, LA	West South Central	1.0
+@ Norcross, GA	South Atlantic	1.0
+@ Ontario, CA	Pacific	1.0
+@ Pasadena, TX	West South Central	1.0
+@ Pascagoula, MS	East South Central	1.0
+@ Paulsboro, NJ	Middle Atlantic	1.0
+@ Pensacola, FL	South Atlantic	1.0
+@ Petrolia, PA	Middle Atlantic	1.0
+@ Plaquemine, LA	West South Central	1.0
+@ Point Comfort, TX	West South Central	1.0
+@ Ponca City, OK	West South Central	1.0
+@ Port Arthur, TX	West South Central	1.0
+@ Port Edwards, WI	East North Central	1.0
+@ Princeton, LA	West South Central	1.0
+@ Proctor, WV	South Atlantic	0.798180620480645
+@ Proctor, WV	East North Central	0.201819379519353
+@ Raleigh, NC	South Atlantic	1.0
+@ Richmond, CA	Pacific	1.0
+@ Rockport, IN	East South Central	0.372857363393364
+@ Rockport, IN	East North Central	0.627142636606635
+@ Rodeo, CA	Pacific	1.0
+@ Rouseville, PA	Middle Atlantic	1.0
+@ Sacramento, CA	Pacific	1.0
+@ Salina, KS	West North Central	1.0
+@ Salt Lake City, UT	Mountain	1.0
+@ Saraland, AL	East South Central	1.0
+@ Sarnia, ON, CA	East North Central	1.0
+@ Sauget, IL	West North Central	0.178759670000349
+@ Sauget, IL	East North Central	0.821240329999652
+@ Seymour, IN	East North Central	1.0
+@ Shreveport, LA	West South Central	1.0
+@ Sidney, OH	East North Central	1.0
+@ Silsbee, TX	West South Central	1.0
+@ Sioux City, IA	West North Central	1.0
+@ Smackover, AR	West South Central	1.0
+@ St. Charles, LA	West South Central	1.0
+@ St. Gabriel, LA	West South Central	1.0
+@ St. Joseph, MO	West North Central	1.0
+@ St. Marys, PA	Middle Atlantic	1.0
+@ St. Paul, MN	West North Central	1.0
+@ St. Paul Park, MN	West North Central	1.0
+@ Stuttgart, AR	West South Central	1.0
+@ Sweeney, TX	West South Central	1.0
+@ Taft, LA	West South Central	1.0
+@ Texas City, TX	West South Central	1.0
+@ Theodore, AL	East South Central	1.0
+@ Three Rivers, TX	West South Central	1.0
+@ Toledo, OH	East North Central	1.0
+@ Torrance, CA	Pacific	1.0
+@ Tuscaloosa, AL	East South Central	1.0
+@ Valdosta, GA	South Atlantic	1.0
+@ Vicksburg, MS	West South Central	0.137367203152848
+@ Vicksburg, MS	East South Central	0.862632796847153
+@ Victoria, TX	West South Central	1.0
+@ Weirton, WV	South Atlantic	0.985789624804866
+@ Weirton, WV	East North Central	0.00120217101885702
+@ Weirton, WV	Middle Atlantic	0.0130082041762842
+@ Westlake, LA	West South Central	1.0
+@ West Leechburg, PA	Middle Atlantic	1.0
+@ Whiting, IN	East North Central	1.0
+@ Wichita, KS	West North Central	1.0
+@ Wilmington, CA	Pacific	1.0
+@ Windsor, ON, CA	East North Central	1.0
+@ Wood River, IL	West North Central	0.0148059474916061
+@ Wood River, IL	East North Central	0.985194052508398
+@ Wright, WY	Mountain	1.0
+@ Wynneywood, OK	West South Central	1.0

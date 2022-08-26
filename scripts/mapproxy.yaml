@@ -1,0 +1,74 @@
+# -------------------------------
+# MapProxy example configuration.
+# -------------------------------
+#
+# This is a minimal MapProxy configuration.
+# See full_example.yaml and the documentation for more options.
+#
+
+# Starts the following services:
+# Demo:
+#     http://localhost:8080/demo
+# WMS:
+#     capabilities: http://localhost:8080/service?REQUEST=GetCapabilities
+# WMTS:
+#     capabilities: http://localhost:8080/wmts/1.0.0/WMTSCapabilities.xml
+#     first tile: http://localhost:8080/wmts/osm/webmercator/0/0/0.png
+# Tile service (compatible with OSM/etc.)
+#     first tile: http://localhost:8080/tiles/osm/webmercator/0/0/0.png
+# TMS:
+#     note: TMS is not compatible with OSM/Google Maps/etc.
+#     fist tile: http://localhost:8080/tms/1.0.0/osm/webmercator/0/0/0.png
+# KML:
+#     initial doc: http://localhost:8080/kml/osm/webmercator
+
+services:
+  demo:
+  tms:
+    use_grid_names: true
+    # origin for /tiles service
+    origin: 'nw'
+  kml:
+      use_grid_names: true
+  wmts:
+    restful: true
+    restful_template: '/{Layer}/{TileMatrixSet}/{TileMatrix}/{TileCol}/{TileRow}.{Format}'
+  wms:
+    srs: ['EPSG:3857', 'EPSG:4326']
+    image_formats: ['image/jpeg', 'image/png']
+    md:
+      title: MapProxy WMS Proxy
+      abstract: This is a minimal MapProxy example.
+layers:
+  - name: sera_basemap
+    title: sera_basemap
+    sources: [mb_cache]
+  - name: WaterStressAreas
+    title: WaterStressAreas
+    sources: [mb_ws_combined]
+  - name: WaterStressAreasWithCounties
+    title: WaterStressAreasWithCounties
+    sources: [mb_ws_cnt_combined]
+caches:
+  mb_cache:
+    grids: [webmercator]
+    sources: ['Geoserver_wms:1_sera_basemap']
+  mb_ws_combined:
+    grids: [webmercator]
+    sources: ['Geoserver_wms:1_sera_basemap','Geoserver_wms:WaterStressAreas']
+  mb_ws_cnt_combined:
+    grids: [webmercator]
+    sources: ['Geoserver_wms:1_sera_basemap','Geoserver_wms:WaterStressAreas','Geoserver_wms:census_counties_sera']
+sources:
+  Geoserver_wms:
+    type: wms
+    req:
+      url: http://1wv11geo01:8080/geoserver/sera/wms?
+      layers: 1_sera_basemap,WaterStressAreas,census_counties_sera
+      transparent: true
+      format: image/png
+grids:
+    webmercator:
+        base: GLOBAL_WEBMERCATOR
+        origin: nw
+globals:

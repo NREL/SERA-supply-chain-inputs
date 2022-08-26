@@ -1,0 +1,469 @@
+Material	Year	Price [$/unit]	Zone	Billable?	Quantity [unit]	Old Price [$/unit]
+Diesel [gal]	2050	25.498831113	Canada	True	Infinity	5.0997662226
+Diesel [gal]	2049	25.2854165655	Canada	True	Infinity	5.0570833131
+Diesel [gal]	2048	25.0976802025	Canada	True	Infinity	5.0195360405
+Diesel [gal]	2047	25.09868563	Canada	True	Infinity	5.019737126
+Diesel [gal]	2046	24.816984119	Canada	True	Infinity	4.9633968238
+Diesel [gal]	2045	24.6899021065	Canada	True	Infinity	4.9379804213
+Diesel [gal]	2044	24.5856879975	Canada	True	Infinity	4.9171375995
+Diesel [gal]	2043	24.553591764	Canada	True	Infinity	4.9107183528
+Diesel [gal]	2042	24.5582134365	Canada	True	Infinity	4.9116426873
+Diesel [gal]	2041	24.6135194745	Canada	True	Infinity	4.9227038949
+Diesel [gal]	2040	24.56255586	Canada	True	Infinity	4.912511172
+Diesel [gal]	2039	24.4461176805	Canada	True	Infinity	4.8892235361
+Diesel [gal]	2038	24.1855892255	Canada	True	Infinity	4.8371178451
+Diesel [gal]	2037	24.1123734225	Canada	True	Infinity	4.8224746845
+Diesel [gal]	2036	24.081264928	Canada	True	Infinity	4.8162529856
+Diesel [gal]	2035	23.671344593	Canada	True	Infinity	4.7342689186
+Diesel [gal]	2034	23.532235213	Canada	True	Infinity	4.7064470426
+Diesel [gal]	2033	23.280794955	Canada	True	Infinity	4.656158991
+Diesel [gal]	2032	23.266252401	Canada	True	Infinity	4.6532504802
+Diesel [gal]	2031	22.89950635	Canada	True	Infinity	4.57990127
+Diesel [gal]	2030	22.5791266545	Canada	True	Infinity	4.5158253309
+Diesel [gal]	2029	22.1875539875	Canada	True	Infinity	4.4375107975
+Diesel [gal]	2028	21.9436606655	Canada	True	Infinity	4.3887321331
+Diesel [gal]	2027	21.878635885	Canada	True	Infinity	4.375727177
+Diesel [gal]	2026	21.634616433	Canada	True	Infinity	4.3269232866
+Diesel [gal]	2025	21.336564751	Canada	True	Infinity	4.2673129502
+Diesel [gal]	2024	20.8382030915	Canada	True	Infinity	4.1676406183
+Diesel [gal]	2023	20.6040896865	Canada	True	Infinity	4.1208179373
+Diesel [gal]	2022	20.330819568	Canada	True	Infinity	4.0661639136
+Diesel [gal]	2021	19.7548675265	Canada	True	Infinity	3.9509735053
+Diesel [gal]	2020	19.2795731425	Canada	True	Infinity	3.8559146285
+Diesel [gal]	2019	18.644848442	Canada	True	Infinity	3.7289696884
+Diesel [gal]	2018	17.5628671155	Canada	True	Infinity	3.5125734231
+Diesel [gal]	2017	15.9277009515	Canada	True	Infinity	3.1855401903
+Diesel [gal]	2016	13.9935371045	Canada	True	Infinity	2.7987074209
+Diesel [gal]	2015	16.711311731	Canada	True	Infinity	3.3422623462
+Electricity (Industrial) [kWh]	2015	0.2802624	WECC-ExCA	True	Infinity	0.05605248
+Electricity (Industrial) [kWh]	2016	0.30356825	WECC-ExCA	True	Infinity	0.06071365
+Electricity (Industrial) [kWh]	2017	0.2948834	WECC-ExCA	True	Infinity	0.05897668
+Electricity (Industrial) [kWh]	2018	0.26752305	WECC-ExCA	True	Infinity	0.05350461
+Electricity (Industrial) [kWh]	2019	0.2573489	WECC-ExCA	True	Infinity	0.05146978
+Electricity (Industrial) [kWh]	2020	0.255299	WECC-ExCA	True	Infinity	0.0510598
+Electricity (Industrial) [kWh]	2021	0.26011455	WECC-ExCA	True	Infinity	0.05202291
+Electricity (Industrial) [kWh]	2022	0.2715047	WECC-ExCA	True	Infinity	0.05430094
+Electricity (Industrial) [kWh]	2023	0.27361875	WECC-ExCA	True	Infinity	0.05472375
+Electricity (Industrial) [kWh]	2024	0.27016985	WECC-ExCA	True	Infinity	0.05403397
+Electricity (Industrial) [kWh]	2025	0.27170915	WECC-ExCA	True	Infinity	0.05434183
+Electricity (Industrial) [kWh]	2026	0.26795255	WECC-ExCA	True	Infinity	0.05359051
+Electricity (Industrial) [kWh]	2027	0.26484085	WECC-ExCA	True	Infinity	0.05296817
+Electricity (Industrial) [kWh]	2028	0.26277675	WECC-ExCA	True	Infinity	0.05255535
+Electricity (Industrial) [kWh]	2029	0.2602525	WECC-ExCA	True	Infinity	0.0520505
+Electricity (Industrial) [kWh]	2030	0.25922415	WECC-ExCA	True	Infinity	0.05184483
+Electricity (Industrial) [kWh]	2031	0.2604377	WECC-ExCA	True	Infinity	0.05208754
+Electricity (Industrial) [kWh]	2032	0.26418075	WECC-ExCA	True	Infinity	0.05283615
+Electricity (Industrial) [kWh]	2033	0.2650636	WECC-ExCA	True	Infinity	0.05301272
+Electricity (Industrial) [kWh]	2034	0.26534915	WECC-ExCA	True	Infinity	0.05306983
+Electricity (Industrial) [kWh]	2035	0.265574	WECC-ExCA	True	Infinity	0.0531148
+Electricity (Industrial) [kWh]	2036	0.2657252	WECC-ExCA	True	Infinity	0.05314504
+Electricity (Industrial) [kWh]	2037	0.26699675	WECC-ExCA	True	Infinity	0.05339935
+Electricity (Industrial) [kWh]	2038	0.26797245	WECC-ExCA	True	Infinity	0.05359449
+Electricity (Industrial) [kWh]	2039	0.267842	WECC-ExCA	True	Infinity	0.0535684
+Electricity (Industrial) [kWh]	2040	0.26902775	WECC-ExCA	True	Infinity	0.05380555
+Electricity (Industrial) [kWh]	2041	0.2696661	WECC-ExCA	True	Infinity	0.05393322
+Electricity (Industrial) [kWh]	2042	0.26815555	WECC-ExCA	True	Infinity	0.05363111
+Electricity (Industrial) [kWh]	2043	0.26629365	WECC-ExCA	True	Infinity	0.05325873
+Electricity (Industrial) [kWh]	2044	0.2659973	WECC-ExCA	True	Infinity	0.05319946
+Electricity (Industrial) [kWh]	2045	0.26625445	WECC-ExCA	True	Infinity	0.05325089
+Electricity (Industrial) [kWh]	2046	0.26638375	WECC-ExCA	True	Infinity	0.05327675
+Electricity (Industrial) [kWh]	2047	0.26686325	WECC-ExCA	True	Infinity	0.05337265
+Electricity (Industrial) [kWh]	2048	0.26762765	WECC-ExCA	True	Infinity	0.05352553
+Electricity (Industrial) [kWh]	2049	0.268386	WECC-ExCA	True	Infinity	0.0536772
+Electricity (Industrial) [kWh]	2050	0.26974525	WECC-ExCA	True	Infinity	0.05394905
+Electricity (Industrial) [kWh]	2015	0.46819615	NPCC	True	Infinity	0.09363923
+Electricity (Industrial) [kWh]	2016	0.66141745	NPCC	True	Infinity	0.13228349
+Electricity (Industrial) [kWh]	2017	0.66382295	NPCC	True	Infinity	0.13276459
+Electricity (Industrial) [kWh]	2018	0.63059325	NPCC	True	Infinity	0.12611865
+Electricity (Industrial) [kWh]	2019	0.639219	NPCC	True	Infinity	0.1278438
+Electricity (Industrial) [kWh]	2020	0.63054065	NPCC	True	Infinity	0.12610813
+Electricity (Industrial) [kWh]	2021	0.62182605	NPCC	True	Infinity	0.12436521
+Electricity (Industrial) [kWh]	2022	0.63530725	NPCC	True	Infinity	0.12706145
+Electricity (Industrial) [kWh]	2023	0.6393554	NPCC	True	Infinity	0.12787108
+Electricity (Industrial) [kWh]	2024	0.6483889	NPCC	True	Infinity	0.12967778
+Electricity (Industrial) [kWh]	2025	0.6597821	NPCC	True	Infinity	0.13195642
+Electricity (Industrial) [kWh]	2026	0.66560245	NPCC	True	Infinity	0.13312049
+Electricity (Industrial) [kWh]	2027	0.67681665	NPCC	True	Infinity	0.13536333
+Electricity (Industrial) [kWh]	2028	0.6835626	NPCC	True	Infinity	0.13671252
+Electricity (Industrial) [kWh]	2029	0.69732165	NPCC	True	Infinity	0.13946433
+Electricity (Industrial) [kWh]	2030	0.7041639	NPCC	True	Infinity	0.14083278
+Electricity (Industrial) [kWh]	2031	0.7027	NPCC	True	Infinity	0.14054
+Electricity (Industrial) [kWh]	2032	0.7019262	NPCC	True	Infinity	0.14038524
+Electricity (Industrial) [kWh]	2033	0.6987934	NPCC	True	Infinity	0.13975868
+Electricity (Industrial) [kWh]	2034	0.70046855	NPCC	True	Infinity	0.14009371
+Electricity (Industrial) [kWh]	2035	0.71327945	NPCC	True	Infinity	0.14265589
+Electricity (Industrial) [kWh]	2036	0.71467575	NPCC	True	Infinity	0.14293515
+Electricity (Industrial) [kWh]	2037	0.7160669	NPCC	True	Infinity	0.14321338
+Electricity (Industrial) [kWh]	2038	0.71576325	NPCC	True	Infinity	0.14315265
+Electricity (Industrial) [kWh]	2039	0.71287155	NPCC	True	Infinity	0.14257431
+Electricity (Industrial) [kWh]	2040	0.71335745	NPCC	True	Infinity	0.14267149
+Electricity (Industrial) [kWh]	2041	0.7137063	NPCC	True	Infinity	0.14274126
+Electricity (Industrial) [kWh]	2042	0.7145417	NPCC	True	Infinity	0.14290834
+Electricity (Industrial) [kWh]	2043	0.7185912	NPCC	True	Infinity	0.14371824
+Electricity (Industrial) [kWh]	2044	0.7207424	NPCC	True	Infinity	0.14414848
+Electricity (Industrial) [kWh]	2045	0.7191757	NPCC	True	Infinity	0.14383514
+Electricity (Industrial) [kWh]	2046	0.72225765	NPCC	True	Infinity	0.14445153
+Electricity (Industrial) [kWh]	2047	0.72564415	NPCC	True	Infinity	0.14512883
+Electricity (Industrial) [kWh]	2048	0.7246314	NPCC	True	Infinity	0.14492628
+Electricity (Industrial) [kWh]	2049	0.72003735	NPCC	True	Infinity	0.14400747
+Electricity (Industrial) [kWh]	2050	0.73223955	NPCC	True	Infinity	0.14644791
+Electricity (Industrial) [kWh]	2015	0.34684465	MRO	True	Infinity	0.06936893
+Electricity (Industrial) [kWh]	2016	0.33762585	MRO	True	Infinity	0.06752517
+Electricity (Industrial) [kWh]	2017	0.34353735	MRO	True	Infinity	0.06870747
+Electricity (Industrial) [kWh]	2018	0.32152035	MRO	True	Infinity	0.06430407
+Electricity (Industrial) [kWh]	2019	0.3184105	MRO	True	Infinity	0.0636821
+Electricity (Industrial) [kWh]	2020	0.3219365	MRO	True	Infinity	0.0643873
+Electricity (Industrial) [kWh]	2021	0.3258328	MRO	True	Infinity	0.06516656
+Electricity (Industrial) [kWh]	2022	0.3437541	MRO	True	Infinity	0.06875082
+Electricity (Industrial) [kWh]	2023	0.3447073	MRO	True	Infinity	0.06894146
+Electricity (Industrial) [kWh]	2024	0.3392361	MRO	True	Infinity	0.06784722
+Electricity (Industrial) [kWh]	2025	0.3415328	MRO	True	Infinity	0.06830656
+Electricity (Industrial) [kWh]	2026	0.34131485	MRO	True	Infinity	0.06826297
+Electricity (Industrial) [kWh]	2027	0.3416968	MRO	True	Infinity	0.06833936
+Electricity (Industrial) [kWh]	2028	0.34220115	MRO	True	Infinity	0.06844023
+Electricity (Industrial) [kWh]	2029	0.34158765	MRO	True	Infinity	0.06831753
+Electricity (Industrial) [kWh]	2030	0.341055	MRO	True	Infinity	0.068211
+Electricity (Industrial) [kWh]	2031	0.3428889	MRO	True	Infinity	0.06857778
+Electricity (Industrial) [kWh]	2032	0.34482475	MRO	True	Infinity	0.06896495
+Electricity (Industrial) [kWh]	2033	0.3466819	MRO	True	Infinity	0.06933638
+Electricity (Industrial) [kWh]	2034	0.3470223	MRO	True	Infinity	0.06940446
+Electricity (Industrial) [kWh]	2035	0.3486045	MRO	True	Infinity	0.0697209
+Electricity (Industrial) [kWh]	2036	0.34950715	MRO	True	Infinity	0.06990143
+Electricity (Industrial) [kWh]	2037	0.3494764	MRO	True	Infinity	0.06989528
+Electricity (Industrial) [kWh]	2038	0.34994555	MRO	True	Infinity	0.06998911
+Electricity (Industrial) [kWh]	2039	0.3500482	MRO	True	Infinity	0.07000964
+Electricity (Industrial) [kWh]	2040	0.3494299	MRO	True	Infinity	0.06988598
+Electricity (Industrial) [kWh]	2041	0.34867265	MRO	True	Infinity	0.06973453
+Electricity (Industrial) [kWh]	2042	0.348631	MRO	True	Infinity	0.0697262
+Electricity (Industrial) [kWh]	2043	0.3487915	MRO	True	Infinity	0.0697583
+Electricity (Industrial) [kWh]	2044	0.3493241	MRO	True	Infinity	0.06986482
+Electricity (Industrial) [kWh]	2045	0.35032735	MRO	True	Infinity	0.07006547
+Electricity (Industrial) [kWh]	2046	0.3512665	MRO	True	Infinity	0.0702533
+Electricity (Industrial) [kWh]	2047	0.3517326	MRO	True	Infinity	0.07034652
+Electricity (Industrial) [kWh]	2048	0.35266515	MRO	True	Infinity	0.07053303
+Electricity (Industrial) [kWh]	2049	0.35259115	MRO	True	Infinity	0.07051823
+Electricity (Industrial) [kWh]	2050	0.35266865	MRO	True	Infinity	0.07053373
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2050	15.24926655	Canada	True	Infinity	3.04985331
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2049	15.058604	Canada	True	Infinity	3.0117208
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2048	14.9709235	Canada	True	Infinity	2.9941847
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2047	14.70145245	Canada	True	Infinity	2.94029049
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2046	14.5482804	Canada	True	Infinity	2.90965608
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2045	14.4086363	Canada	True	Infinity	2.88172726
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2044	14.22596575	Canada	True	Infinity	2.84519315
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2043	14.08705575	Canada	True	Infinity	2.81741115
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2042	13.8843828	Canada	True	Infinity	2.77687656
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2041	13.75197415	Canada	True	Infinity	2.75039483
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2040	13.7408595	Canada	True	Infinity	2.7481719
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2039	13.84574295	Canada	True	Infinity	2.76914859
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2038	13.7933708	Canada	True	Infinity	2.75867416
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2037	13.80682475	Canada	True	Infinity	2.76136495
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2036	13.7815961	Canada	True	Infinity	2.75631922
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2035	13.77244575	Canada	True	Infinity	2.75448915
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2034	13.5617337	Canada	True	Infinity	2.71234674
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2033	13.56519315	Canada	True	Infinity	2.71303863
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2032	13.70126105	Canada	True	Infinity	2.74025221
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2031	13.73568265	Canada	True	Infinity	2.74713653
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2030	13.67698655	Canada	True	Infinity	2.73539731
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2029	13.62983385	Canada	True	Infinity	2.72596677
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2028	13.44107055	Canada	True	Infinity	2.68821411
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2027	13.2164219	Canada	True	Infinity	2.64328438
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2026	12.98982695	Canada	True	Infinity	2.59796539
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2025	12.70697155	Canada	True	Infinity	2.54139431
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2024	12.4334192	Canada	True	Infinity	2.48668384
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2023	12.223778	Canada	True	Infinity	2.4447556
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2022	12.19584425	Canada	True	Infinity	2.43916885
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2021	12.3321748	Canada	True	Infinity	2.46643496
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2020	12.3191115	Canada	True	Infinity	2.4638223
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2019	11.33554385	Canada	True	Infinity	2.26710877
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2018	10.34054495	Canada	True	Infinity	2.06810899
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2017	9.4562664	Canada	True	Infinity	1.89125328
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2016	12.05	Canada	True	Infinity	2.41
+Natural Gas (Industrial) (Central H2 Production) [MMBtu]	2015	13.85	Canada	True	Infinity	2.77
+Coal [MMBtu]	2050	22.64533789	Canada	True	Infinity	4.529067578
+Coal [MMBtu]	2049	22.56613495	Canada	True	Infinity	4.51322699
+Coal [MMBtu]	2048	22.49027802	Canada	True	Infinity	4.498055604
+Coal [MMBtu]	2047	22.4213179	Canada	True	Infinity	4.48426358
+Coal [MMBtu]	2046	22.34084254	Canada	True	Infinity	4.468168508
+Coal [MMBtu]	2045	22.29819441	Canada	True	Infinity	4.459638882
+Coal [MMBtu]	2044	22.25103371	Canada	True	Infinity	4.450206742
+Coal [MMBtu]	2043	22.198338815	Canada	True	Infinity	4.439667763
+Coal [MMBtu]	2042	22.15287759	Canada	True	Infinity	4.430575518
+Coal [MMBtu]	2041	22.138976565	Canada	True	Infinity	4.427795313
+Coal [MMBtu]	2040	22.163847835	Canada	True	Infinity	4.432769567
+Coal [MMBtu]	2039	22.09369983	Canada	True	Infinity	4.418739966
+Coal [MMBtu]	2038	22.121129295	Canada	True	Infinity	4.424225859
+Coal [MMBtu]	2037	22.12198006	Canada	True	Infinity	4.424396012
+Coal [MMBtu]	2036	22.14221517	Canada	True	Infinity	4.428443034
+Coal [MMBtu]	2035	22.086638315	Canada	True	Infinity	4.417327663
+Coal [MMBtu]	2034	22.09325068	Canada	True	Infinity	4.418650136
+Coal [MMBtu]	2033	22.07765404	Canada	True	Infinity	4.415530808
+Coal [MMBtu]	2032	22.090047535	Canada	True	Infinity	4.418009507
+Coal [MMBtu]	2031	22.10495632	Canada	True	Infinity	4.420991264
+Coal [MMBtu]	2030	22.143881495	Canada	True	Infinity	4.428776299
+Coal [MMBtu]	2029	21.994488925	Canada	True	Infinity	4.398897785
+Coal [MMBtu]	2028	22.07046919	Canada	True	Infinity	4.414093838
+Coal [MMBtu]	2027	22.112919215	Canada	True	Infinity	4.422583843
+Coal [MMBtu]	2026	22.165257465	Canada	True	Infinity	4.433051493
+Coal [MMBtu]	2025	22.11672825	Canada	True	Infinity	4.42334565
+Coal [MMBtu]	2024	22.049403105	Canada	True	Infinity	4.409880621
+Coal [MMBtu]	2023	22.075634925	Canada	True	Infinity	4.415126985
+Coal [MMBtu]	2022	22.0734511	Canada	True	Infinity	4.41469022
+Coal [MMBtu]	2021	22.096163985	Canada	True	Infinity	4.419232797
+Coal [MMBtu]	2020	22.062121895	Canada	True	Infinity	4.412424379
+Coal [MMBtu]	2019	21.83456344	Canada	True	Infinity	4.366912688
+Coal [MMBtu]	2018	21.652771725	Canada	True	Infinity	4.330554345
+Coal [MMBtu]	2017	21.56920474	Canada	True	Infinity	4.313840948
+Coal [MMBtu]	2016	21.659664425	Canada	True	Infinity	4.331932885
+Coal [MMBtu]	2015	22.104495605	Canada	True	Infinity	4.420899121
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2050	28.42293365	Canada	True	Infinity	5.68458673
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2049	28.1615713	Canada	True	Infinity	5.63231426
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2048	28.02621505	Canada	True	Infinity	5.60524301
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2047	27.76307695	Canada	True	Infinity	5.55261539
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2046	27.60469215	Canada	True	Infinity	5.52093843
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2045	27.40643275	Canada	True	Infinity	5.48128655
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2044	27.16794635	Canada	True	Infinity	5.43358927
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2043	26.95433155	Canada	True	Infinity	5.39086631
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2042	26.7351763	Canada	True	Infinity	5.34703526
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2041	26.56516045	Canada	True	Infinity	5.31303209
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2040	26.4935604	Canada	True	Infinity	5.29871208
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2039	26.55997915	Canada	True	Infinity	5.31199583
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2038	26.44226135	Canada	True	Infinity	5.28845227
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2037	26.36537675	Canada	True	Infinity	5.27307535
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2036	26.210283	Canada	True	Infinity	5.2420566
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2035	26.0523337	Canada	True	Infinity	5.21046674
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2034	25.6807674	Canada	True	Infinity	5.13615348
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2033	25.52354095	Canada	True	Infinity	5.10470819
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2032	25.5519484	Canada	True	Infinity	5.11038968
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2031	25.4886075	Canada	True	Infinity	5.0977215
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2030	25.31746695	Canada	True	Infinity	5.06349339
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2029	25.18815405	Canada	True	Infinity	5.03763081
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2028	24.9289536	Canada	True	Infinity	4.98579072
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2027	24.6561421	Canada	True	Infinity	4.93122842
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2026	23.7732419	Canada	True	Infinity	4.75464838
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2025	23.50060775	Canada	True	Infinity	4.70012155
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2024	23.1946295	Canada	True	Infinity	4.6389259
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2023	22.91833835	Canada	True	Infinity	4.58366767
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2022	22.7553851	Canada	True	Infinity	4.55107702
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2021	22.61367565	Canada	True	Infinity	4.52273513
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2020	22.3601145	Canada	True	Infinity	4.4720229
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2019	20.93585665	Canada	True	Infinity	4.18717133
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2018	19.5162728	Canada	True	Infinity	3.90325456
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2017	18.266716	Canada	True	Infinity	3.6533432
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2016	16.65516305	Canada	True	Infinity	3.33103261
+Natural Gas (Commercial) (Stationary Fuel) [MMBtu]	2015	18.5978824	Canada	True	Infinity	3.71957648
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2050	15.24926655	Canada	True	Infinity	3.04985331
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2049	15.058604	Canada	True	Infinity	3.0117208
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2048	14.9709235	Canada	True	Infinity	2.9941847
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2047	14.70145245	Canada	True	Infinity	2.94029049
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2046	14.5482804	Canada	True	Infinity	2.90965608
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2045	14.4086363	Canada	True	Infinity	2.88172726
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2044	14.22596575	Canada	True	Infinity	2.84519315
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2043	14.08705575	Canada	True	Infinity	2.81741115
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2042	13.8843828	Canada	True	Infinity	2.77687656
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2041	13.75197415	Canada	True	Infinity	2.75039483
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2040	13.7408595	Canada	True	Infinity	2.7481719
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2039	13.84574295	Canada	True	Infinity	2.76914859
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2038	13.7933708	Canada	True	Infinity	2.75867416
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2037	13.80682475	Canada	True	Infinity	2.76136495
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2036	13.7815961	Canada	True	Infinity	2.75631922
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2035	13.77244575	Canada	True	Infinity	2.75448915
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2034	13.5617337	Canada	True	Infinity	2.71234674
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2033	13.56519315	Canada	True	Infinity	2.71303863
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2032	13.70126105	Canada	True	Infinity	2.74025221
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2031	13.73568265	Canada	True	Infinity	2.74713653
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2030	13.67698655	Canada	True	Infinity	2.73539731
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2029	13.62983385	Canada	True	Infinity	2.72596677
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2028	13.44107055	Canada	True	Infinity	2.68821411
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2027	13.2164219	Canada	True	Infinity	2.64328438
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2026	12.98982695	Canada	True	Infinity	2.59796539
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2025	12.70697155	Canada	True	Infinity	2.54139431
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2024	12.4334192	Canada	True	Infinity	2.48668384
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2023	12.223778	Canada	True	Infinity	2.4447556
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2022	12.19584425	Canada	True	Infinity	2.43916885
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2021	12.3321748	Canada	True	Infinity	2.46643496
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2020	12.3191115	Canada	True	Infinity	2.4638223
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2019	11.33554385	Canada	True	Infinity	2.26710877
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2018	10.34054495	Canada	True	Infinity	2.06810899
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2017	9.4562664	Canada	True	Infinity	1.89125328
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2016	12.05	Canada	True	Infinity	2.41
+Natural Gas (Industrial) (Stationary Fuel) [MMBtu]	2015	13.85	Canada	True	Infinity	2.77
+Motor Gasoline (Transportation) [gal]	2050	22.7556975	Canada	True	Infinity	4.5511395
+Motor Gasoline (Transportation) [gal]	2049	22.49106445	Canada	True	Infinity	4.49821289
+Motor Gasoline (Transportation) [gal]	2048	22.40202845	Canada	True	Infinity	4.48040569
+Motor Gasoline (Transportation) [gal]	2047	22.49592105	Canada	True	Infinity	4.49918421
+Motor Gasoline (Transportation) [gal]	2046	22.38225595	Canada	True	Infinity	4.47645119
+Motor Gasoline (Transportation) [gal]	2045	22.299813	Canada	True	Infinity	4.4599626
+Motor Gasoline (Transportation) [gal]	2044	22.21932605	Canada	True	Infinity	4.44386521
+Motor Gasoline (Transportation) [gal]	2043	22.14577805	Canada	True	Infinity	4.42915561
+Motor Gasoline (Transportation) [gal]	2042	22.07918235	Canada	True	Infinity	4.41583647
+Motor Gasoline (Transportation) [gal]	2041	22.047408	Canada	True	Infinity	4.4094816
+Motor Gasoline (Transportation) [gal]	2040	21.93876585	Canada	True	Infinity	4.38775317
+Motor Gasoline (Transportation) [gal]	2039	21.782582	Canada	True	Infinity	4.3565164
+Motor Gasoline (Transportation) [gal]	2038	21.50125675	Canada	True	Infinity	4.30025135
+Motor Gasoline (Transportation) [gal]	2037	21.40707805	Canada	True	Infinity	4.28141561
+Motor Gasoline (Transportation) [gal]	2036	21.36605615	Canada	True	Infinity	4.27321123
+Motor Gasoline (Transportation) [gal]	2035	20.9570481	Canada	True	Infinity	4.19140962
+Motor Gasoline (Transportation) [gal]	2034	20.84405495	Canada	True	Infinity	4.16881099
+Motor Gasoline (Transportation) [gal]	2033	20.6368898	Canada	True	Infinity	4.12737796
+Motor Gasoline (Transportation) [gal]	2032	20.67012775	Canada	True	Infinity	4.13402555
+Motor Gasoline (Transportation) [gal]	2031	20.37861025	Canada	True	Infinity	4.07572205
+Motor Gasoline (Transportation) [gal]	2030	20.1074107	Canada	True	Infinity	4.02148214
+Motor Gasoline (Transportation) [gal]	2029	19.8282277	Canada	True	Infinity	3.96564554
+Motor Gasoline (Transportation) [gal]	2028	19.6691365	Canada	True	Infinity	3.9338273
+Motor Gasoline (Transportation) [gal]	2027	19.7289928	Canada	True	Infinity	3.94579856
+Motor Gasoline (Transportation) [gal]	2026	19.67418605	Canada	True	Infinity	3.93483721
+Motor Gasoline (Transportation) [gal]	2025	19.4467428	Canada	True	Infinity	3.88934856
+Motor Gasoline (Transportation) [gal]	2024	19.15796625	Canada	True	Infinity	3.83159325
+Motor Gasoline (Transportation) [gal]	2023	18.99956695	Canada	True	Infinity	3.79991339
+Motor Gasoline (Transportation) [gal]	2022	18.79737815	Canada	True	Infinity	3.75947563
+Motor Gasoline (Transportation) [gal]	2021	18.06207115	Canada	True	Infinity	3.61241423
+Motor Gasoline (Transportation) [gal]	2020	17.2861015	Canada	True	Infinity	3.4572203
+Motor Gasoline (Transportation) [gal]	2019	16.48128485	Canada	True	Infinity	3.29625697
+Motor Gasoline (Transportation) [gal]	2018	15.06159225	Canada	True	Infinity	3.01231845
+Motor Gasoline (Transportation) [gal]	2017	15.31184835	Canada	True	Infinity	3.06236967
+Motor Gasoline (Transportation) [gal]	2016	14.6921225	Canada	True	Infinity	2.9384245
+Motor Gasoline (Transportation) [gal]	2015	16.94871215	Canada	True	Infinity	3.38974243
+Electricity (Commercial) [kWh]	2015	0.4374242	WECC-ExCA	True	Infinity	0.08748484
+Electricity (Commercial) [kWh]	2016	0.4544885	WECC-ExCA	True	Infinity	0.0908977
+Electricity (Commercial) [kWh]	2017	0.44418125	WECC-ExCA	True	Infinity	0.08883625
+Electricity (Commercial) [kWh]	2018	0.41516425	WECC-ExCA	True	Infinity	0.08303285
+Electricity (Commercial) [kWh]	2019	0.40549945	WECC-ExCA	True	Infinity	0.08109989
+Electricity (Commercial) [kWh]	2020	0.4006313	WECC-ExCA	True	Infinity	0.08012626
+Electricity (Commercial) [kWh]	2021	0.4046361	WECC-ExCA	True	Infinity	0.08092722
+Electricity (Commercial) [kWh]	2022	0.4156086	WECC-ExCA	True	Infinity	0.08312172
+Electricity (Commercial) [kWh]	2023	0.4205796	WECC-ExCA	True	Infinity	0.08411592
+Electricity (Commercial) [kWh]	2024	0.41583375	WECC-ExCA	True	Infinity	0.08316675
+Electricity (Commercial) [kWh]	2025	0.4172268	WECC-ExCA	True	Infinity	0.08344536
+Electricity (Commercial) [kWh]	2026	0.41322775	WECC-ExCA	True	Infinity	0.08264555
+Electricity (Commercial) [kWh]	2027	0.4079293	WECC-ExCA	True	Infinity	0.08158586
+Electricity (Commercial) [kWh]	2028	0.4046369	WECC-ExCA	True	Infinity	0.08092738
+Electricity (Commercial) [kWh]	2029	0.40052545	WECC-ExCA	True	Infinity	0.08010509
+Electricity (Commercial) [kWh]	2030	0.3984244	WECC-ExCA	True	Infinity	0.07968488
+Electricity (Commercial) [kWh]	2031	0.39874095	WECC-ExCA	True	Infinity	0.07974819
+Electricity (Commercial) [kWh]	2032	0.4025233	WECC-ExCA	True	Infinity	0.08050466
+Electricity (Commercial) [kWh]	2033	0.40344705	WECC-ExCA	True	Infinity	0.08068941
+Electricity (Commercial) [kWh]	2034	0.4030982	WECC-ExCA	True	Infinity	0.08061964
+Electricity (Commercial) [kWh]	2035	0.4029645	WECC-ExCA	True	Infinity	0.0805929
+Electricity (Commercial) [kWh]	2036	0.4019007	WECC-ExCA	True	Infinity	0.08038014
+Electricity (Commercial) [kWh]	2037	0.40276275	WECC-ExCA	True	Infinity	0.08055255
+Electricity (Commercial) [kWh]	2038	0.4036563	WECC-ExCA	True	Infinity	0.08073126
+Electricity (Commercial) [kWh]	2039	0.4028648	WECC-ExCA	True	Infinity	0.08057296
+Electricity (Commercial) [kWh]	2040	0.4033341	WECC-ExCA	True	Infinity	0.08066682
+Electricity (Commercial) [kWh]	2041	0.40367935	WECC-ExCA	True	Infinity	0.08073587
+Electricity (Commercial) [kWh]	2042	0.40117775	WECC-ExCA	True	Infinity	0.08023555
+Electricity (Commercial) [kWh]	2043	0.3986612	WECC-ExCA	True	Infinity	0.07973224
+Electricity (Commercial) [kWh]	2044	0.3972265	WECC-ExCA	True	Infinity	0.0794453
+Electricity (Commercial) [kWh]	2045	0.3973027	WECC-ExCA	True	Infinity	0.07946054
+Electricity (Commercial) [kWh]	2046	0.39715845	WECC-ExCA	True	Infinity	0.07943169
+Electricity (Commercial) [kWh]	2047	0.3973605	WECC-ExCA	True	Infinity	0.0794721
+Electricity (Commercial) [kWh]	2048	0.3982079	WECC-ExCA	True	Infinity	0.07964158
+Electricity (Commercial) [kWh]	2049	0.39878165	WECC-ExCA	True	Infinity	0.07975633
+Electricity (Commercial) [kWh]	2050	0.3995003	WECC-ExCA	True	Infinity	0.07990006
+Electricity (Commercial) [kWh]	2015	0.6923283	NPCC	True	Infinity	0.13846566
+Electricity (Commercial) [kWh]	2016	0.70039105	NPCC	True	Infinity	0.14007821
+Electricity (Commercial) [kWh]	2017	0.71386085	NPCC	True	Infinity	0.14277217
+Electricity (Commercial) [kWh]	2018	0.6870939	NPCC	True	Infinity	0.13741878
+Electricity (Commercial) [kWh]	2019	0.70354475	NPCC	True	Infinity	0.14070895
+Electricity (Commercial) [kWh]	2020	0.6842165	NPCC	True	Infinity	0.1368433
+Electricity (Commercial) [kWh]	2021	0.68341755	NPCC	True	Infinity	0.13668351
+Electricity (Commercial) [kWh]	2022	0.71074345	NPCC	True	Infinity	0.14214869
+Electricity (Commercial) [kWh]	2023	0.72626915	NPCC	True	Infinity	0.14525383
+Electricity (Commercial) [kWh]	2024	0.7398139	NPCC	True	Infinity	0.14796278
+Electricity (Commercial) [kWh]	2025	0.75569795	NPCC	True	Infinity	0.15113959
+Electricity (Commercial) [kWh]	2026	0.763419	NPCC	True	Infinity	0.1526838
+Electricity (Commercial) [kWh]	2027	0.77347435	NPCC	True	Infinity	0.15469487
+Electricity (Commercial) [kWh]	2028	0.7780513	NPCC	True	Infinity	0.15561026
+Electricity (Commercial) [kWh]	2029	0.7898842	NPCC	True	Infinity	0.15797684
+Electricity (Commercial) [kWh]	2030	0.7994581	NPCC	True	Infinity	0.15989162
+Electricity (Commercial) [kWh]	2031	0.79756635	NPCC	True	Infinity	0.15951327
+Electricity (Commercial) [kWh]	2032	0.7940592	NPCC	True	Infinity	0.15881184
+Electricity (Commercial) [kWh]	2033	0.79357955	NPCC	True	Infinity	0.15871591
+Electricity (Commercial) [kWh]	2034	0.7961629	NPCC	True	Infinity	0.15923258
+Electricity (Commercial) [kWh]	2035	0.8124253	NPCC	True	Infinity	0.16248506
+Electricity (Commercial) [kWh]	2036	0.8131594	NPCC	True	Infinity	0.16263188
+Electricity (Commercial) [kWh]	2037	0.81257795	NPCC	True	Infinity	0.16251559
+Electricity (Commercial) [kWh]	2038	0.8119042	NPCC	True	Infinity	0.16238084
+Electricity (Commercial) [kWh]	2039	0.7996	NPCC	True	Infinity	0.15992
+Electricity (Commercial) [kWh]	2040	0.8081622	NPCC	True	Infinity	0.16163244
+Electricity (Commercial) [kWh]	2041	0.8068409	NPCC	True	Infinity	0.16136818
+Electricity (Commercial) [kWh]	2042	0.80656325	NPCC	True	Infinity	0.16131265
+Electricity (Commercial) [kWh]	2043	0.81064205	NPCC	True	Infinity	0.16212841
+Electricity (Commercial) [kWh]	2044	0.8120038	NPCC	True	Infinity	0.16240076
+Electricity (Commercial) [kWh]	2045	0.8064419	NPCC	True	Infinity	0.16128838
+Electricity (Commercial) [kWh]	2046	0.8077896	NPCC	True	Infinity	0.16155792
+Electricity (Commercial) [kWh]	2047	0.8084898	NPCC	True	Infinity	0.16169796
+Electricity (Commercial) [kWh]	2048	0.80297665	NPCC	True	Infinity	0.16059533
+Electricity (Commercial) [kWh]	2049	0.7963012	NPCC	True	Infinity	0.15926024
+Electricity (Commercial) [kWh]	2050	0.80813245	NPCC	True	Infinity	0.16162649
+Electricity (Commercial) [kWh]	2015	0.46968235	MRO	True	Infinity	0.09393647
+Electricity (Commercial) [kWh]	2016	0.45594845	MRO	True	Infinity	0.09118969
+Electricity (Commercial) [kWh]	2017	0.4636347	MRO	True	Infinity	0.09272694
+Electricity (Commercial) [kWh]	2018	0.4410444	MRO	True	Infinity	0.08820888
+Electricity (Commercial) [kWh]	2019	0.436496	MRO	True	Infinity	0.0872992
+Electricity (Commercial) [kWh]	2020	0.4372233	MRO	True	Infinity	0.08744466
+Electricity (Commercial) [kWh]	2021	0.4400375	MRO	True	Infinity	0.0880075
+Electricity (Commercial) [kWh]	2022	0.45421965	MRO	True	Infinity	0.09084393
+Electricity (Commercial) [kWh]	2023	0.45811675	MRO	True	Infinity	0.09162335
+Electricity (Commercial) [kWh]	2024	0.45094075	MRO	True	Infinity	0.09018815
+Electricity (Commercial) [kWh]	2025	0.4506651	MRO	True	Infinity	0.09013302
+Electricity (Commercial) [kWh]	2026	0.4498079	MRO	True	Infinity	0.08996158
+Electricity (Commercial) [kWh]	2027	0.44882805	MRO	True	Infinity	0.08976561
+Electricity (Commercial) [kWh]	2028	0.4485083	MRO	True	Infinity	0.08970166
+Electricity (Commercial) [kWh]	2029	0.4471384	MRO	True	Infinity	0.08942768
+Electricity (Commercial) [kWh]	2030	0.4460173	MRO	True	Infinity	0.08920346
+Electricity (Commercial) [kWh]	2031	0.4466373	MRO	True	Infinity	0.08932746
+Electricity (Commercial) [kWh]	2032	0.447995	MRO	True	Infinity	0.089599
+Electricity (Commercial) [kWh]	2033	0.4491822	MRO	True	Infinity	0.08983644
+Electricity (Commercial) [kWh]	2034	0.44915935	MRO	True	Infinity	0.08983187
+Electricity (Commercial) [kWh]	2035	0.44921645	MRO	True	Infinity	0.08984329
+Electricity (Commercial) [kWh]	2036	0.44969455	MRO	True	Infinity	0.08993891
+Electricity (Commercial) [kWh]	2037	0.4483992	MRO	True	Infinity	0.08967984
+Electricity (Commercial) [kWh]	2038	0.44860985	MRO	True	Infinity	0.08972197
+Electricity (Commercial) [kWh]	2039	0.4482766	MRO	True	Infinity	0.08965532
+Electricity (Commercial) [kWh]	2040	0.4472737	MRO	True	Infinity	0.08945474
+Electricity (Commercial) [kWh]	2041	0.44561335	MRO	True	Infinity	0.08912267
+Electricity (Commercial) [kWh]	2042	0.4451669	MRO	True	Infinity	0.08903338
+Electricity (Commercial) [kWh]	2043	0.444554	MRO	True	Infinity	0.0889108
+Electricity (Commercial) [kWh]	2044	0.44458395	MRO	True	Infinity	0.08891679
+Electricity (Commercial) [kWh]	2045	0.44541995	MRO	True	Infinity	0.08908399
+Electricity (Commercial) [kWh]	2046	0.44617495	MRO	True	Infinity	0.08923499
+Electricity (Commercial) [kWh]	2047	0.44643935	MRO	True	Infinity	0.08928787
+Electricity (Commercial) [kWh]	2048	0.44711345	MRO	True	Infinity	0.08942269
+Electricity (Commercial) [kWh]	2049	0.44703445	MRO	True	Infinity	0.08940689
+Electricity (Commercial) [kWh]	2050	0.4464256	MRO	True	Infinity	0.08928512
+Water Total [gal]	2050	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2049	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2048	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2047	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2046	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2045	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2044	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2043	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2042	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2041	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2040	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2039	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2038	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2037	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2036	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2035	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2034	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2033	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2032	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2031	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2030	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2029	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2028	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2027	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2026	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2025	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2024	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2023	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2022	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2021	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2020	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2019	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2018	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2017	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2016	0.0283906	Canada	True	Infinity	0.00567812
+Water Total [gal]	2015	0.0283906	Canada	True	Infinity	0.00567812

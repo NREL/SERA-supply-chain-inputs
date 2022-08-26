@@ -1,0 +1,15 @@
+*.tmp
+*.sw?
+tmp/
+~*
+.~*#
+*.log
+.ipynb_checkpoints/
+.DS_Store
+.~*
+local.sh
+*~
+*.e*
+.Rhistory
+Thumbs.db
+.Rproj.user

@@ -1,0 +1,28 @@
+Pathway	Stage	Technology	Yield [upstream/kg]	Extended?	Transmission?	Delivery?	Format
+GH2 Pipeline w/ Storage and 700bar disp	1	GH2 Pipeline Compressor	1	False	True	False	GH2
+GH2 Pipeline w/ Storage and 700bar disp	2	GH2 Pipeline Salt Cavern Storage	1	False	True	False	GH2
+GH2 Pipeline w/ Storage and 700bar disp	3	GH2 Pipeline (transmission)	0.999	True	True	False	GH2
+GH2 Pipeline w/ Storage and 700bar disp	4	GH2 Pipeline (distribution)	0.9995	True	False	True	GH2
+GH2 Pipeline w/ Storage and 700bar disp	5	GH2 Pipeline Station (700bar)	1	False	False	True	GH2
+GH2 Truck w/ Storage and 700bar disp	1	GH2 Truck Terminal w/Salt Cavern Storage	1	False	True	True	GH2
+GH2 Truck w/ Storage and 700bar disp	2	GH2 Truck	1	False	True	True	GH2
+GH2 Truck w/ Storage and 700bar disp	3	GH2 Truck Link	1	True	True	True	GH2
+GH2 Truck w/ Storage and 700bar disp	4	GH2 Truck Station (700bar)	1	False	False	True	GH2
+LH2 Truck w/ gas disp station	1	LH2 Truck Terminal w/storage	0.995	False	True	True	LH2
+LH2 Truck w/ gas disp station	2	LH2 Truck	1	False	True	True	LH2
+LH2 Truck w/ gas disp station	3	LH2 Truck Link	1	True	True	True	LH2
+LH2 Truck w/ gas disp station	4	LH2 Station (gas dispensing)	1	False	False	True	LH2
+LH2 Pipeline w/ Geo Storage and gas disp station	1	LH2 Pipeline Compressor	0.995	False	True	False	GH2
+LH2 Pipeline w/ Geo Storage and gas disp station	2	LH2 Pipeline Salt Cavern Storage	1	False	True	False	GH2
+LH2 Pipeline w/ Geo Storage and gas disp station	3	LH2 Pipeline (transmission)	0.999	True	True	False	GH2
+LH2 Pipeline w/ Geo Storage and gas disp station	4	LH2 Pipeline Truck Terminal w/out storage	1	False	True	True	LH2
+LH2 Pipeline w/ Geo Storage and gas disp station	5	LH2 Truck	1	False	True	True	LH2
+LH2 Pipeline w/ Geo Storage and gas disp station	6	LH2 Truck Link	1	True	False	True	LH2
+LH2 Pipeline w/ Geo Storage and gas disp station	7	LH2 Station (gas dispensing)	1	False	False	True	LH2
+LH2 Rail w/ storage and gas disp station	1	LH2 Train Terminal	0.995	False	True	False	LH2
+LH2 Rail w/ storage and gas disp station	2	LH2 Train	1	False	True	False	LH2
+LH2 Rail w/ storage and gas disp station	3	LH2 Train Link	1	True	True	False	LH2
+LH2 Rail w/ storage and gas disp station	4	LH2 Train Truck Terminal	1	False	True	True	LH2
+LH2 Rail w/ storage and gas disp station	5	LH2 Truck	1	False	True	True	LH2
+LH2 Rail w/ storage and gas disp station	6	LH2 Truck Link	1	True	False	True	LH2
+LH2 Rail w/ storage and gas disp station	7	LH2 Station (gas dispensing)	1	False	False	True	LH2

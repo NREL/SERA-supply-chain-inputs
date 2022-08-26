@@ -1,0 +1,9 @@
+Material	Zone	Year	Price [$/unit]	Billable?	Quantity [unit]	Period
+Salt Cavern Available [kg]	No Salt Cavern Available	2050	1.00E+20	FALSE	Infinity	1winter
+Salt Cavern Available [kg]	Salt Cavern Available	2050	0	FALSE	Infinity	1winter
+Salt Cavern Available [kg]	No Salt Cavern Available	2050	1.00E+20	FALSE	Infinity	2spring
+Salt Cavern Available [kg]	Salt Cavern Available	2050	0	FALSE	Infinity	2spring
+Salt Cavern Available [kg]	No Salt Cavern Available	2050	1.00E+20	FALSE	Infinity	3summer
+Salt Cavern Available [kg]	Salt Cavern Available	2050	0	FALSE	Infinity	3summer
+Salt Cavern Available [kg]	No Salt Cavern Available	2050	1.00E+20	FALSE	Infinity	4fall
+Salt Cavern Available [kg]	Salt Cavern Available	2050	0	FALSE	Infinity	4fall

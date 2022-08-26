@@ -1,0 +1,584 @@
+Network ID	Territory	Fraction
+00199 | Aberdeen--Bel Air South--Bel Air North, MD	South Atlantic	1
+00280 | Abilene, TX	West South Central	1
+00766 | Akron, OH	East North Central	1
+00820 | Alamogordo, NM	Mountain	1
+00955 | Albany, OR	Pacific	1
+00970 | Albany--Schenectady, NY	Middle Atlantic	1
+01171 | Albuquerque, NM	Mountain	1
+01495 | Allentown, PA--NJ	Middle Atlantic	1
+01792 | Altoona, PA	Middle Atlantic	1
+01927 | Amarillo, TX	West South Central	1
+02413 | Anderson, SC	South Atlantic	1
+02602 | Ann Arbor, MI	East North Central	1
+02683 | Antioch, CA	Pacific	1
+02764 | Appleton, WI	East North Central	1
+02926 | Arcata-McKinleyville, CA	Pacific	1
+03196 | Arroyo Grande--Grover Beach, CA	Pacific	1
+03358 | Asheville, NC	South Atlantic	1
+03763 | Athens-Clarke County, GA	South Atlantic	1
+03817 | Atlanta, GA	South Atlantic	1
+03898 | Atlantic City, NJ	Middle Atlantic	1
+04114 | Auburn, NY	Middle Atlantic	1
+04130 | Auburn--North Auburn, CA	Pacific	1
+04222 | Augusta-Richmond County, GA--SC	South Atlantic	1
+04384 | Austin, TX	West South Central	1
+04549 | Avondale--Goodyear, AZ	Mountain	1
+04681 | Bakersfield, CA	Pacific	1
+04843 | Baltimore, MD	South Atlantic	1
+04951 | Bangor, ME	New England	1
+05167 | Barnstable Town, MA	New England	1
+06058 | Beaumont, TX	West South Central	1
+06652 | Bellingham, WA	Pacific	1
+06760 | Beloit, WI--IL	East North Central	1
+06868 | Bend, OR	Pacific	1
+07138 | Benton Harbor--St. Joseph--Fair Plain, MI	East North Central	1
+07705 | Billings, MT	Mountain	1
+07732 | Binghamton, NY--PA	Middle Atlantic	1
+07786 | Birmingham, AL	East South Central	1
+07921 | Bismarck, ND	West North Central	1
+08407 | Bloomington--Normal, IL	East North Central	1
+08434 | Bloomsburg--Berwick, PA	Middle Atlantic	1
+08785 | Boise City, ID	Mountain	1
+08974 | Bonita Springs, FL	South Atlantic	1
+09271 | Boston, MA--NH--RI	New England	1
+09298 | Boulder, CO	Mountain	1
+09514 | Bozeman, MT	Mountain	1
+09946 | Bremerton, WA	Pacific	1
+10162 | Bridgeport--Stamford, CT--NY	Middle Atlantic	0.0284699026046456
+10162 | Bridgeport--Stamford, CT--NY	New England	0.971530097395355
+10189 | Bridgeton, NJ	Middle Atlantic	1
+10891 | Browns Mills--Fort Dix, NJ	Middle Atlantic	1
+10972 | Brownsville, TX	West South Central	1
+11350 | Buffalo, NY	Middle Atlantic	1
+11431 | Bullhead City, AZ--NV	Mountain	1
+11755 | Burlington, VT	New England	1
+12052 | Butte-Silver Bow, MT	Mountain	1
+12754 | Camarillo, CA	Pacific	1
+13375 | Canton, OH	East North Central	1
+13510 | Cape Coral, FL	South Atlantic	1
+14158 | Carson City, NV	Mountain	1
+14401 | Casa Grande, AZ	Mountain	1
+14482 | Casper, WY	Mountain	1
+14698 | Cedar City, UT	Mountain	1
+14752 | Cedar Rapids, IA	West North Central	1
+15076 | Centralia, WA	Pacific	1
+15184 | Chambersburg, PA	Middle Atlantic	1
+15211 | Champaign, IL	East North Central	1
+15508 | Charleston--North Charleston, SC	South Atlantic	1
+15670 | Charlotte, NC--SC	South Atlantic	1
+15724 | Charlottesville, VA	South Atlantic	1
+15832 | Chattanooga, TN--GA	East South Central	0.759087090944939
+15832 | Chattanooga, TN--GA	South Atlantic	0.240912909055062
+16237 | Cheyenne, WY	Mountain	1
+16264 | Chicago, IL--IN	East North Central	1
+16318 | Chico, CA	Pacific	1
+16885 | Cincinnati, OH--KY--IN	East North Central	0.777240401150218
+16885 | Cincinnati, OH--KY--IN	East South Central	0.222759598849782
+17533 | Cleburne, TX	West South Central	1
+17668 | Cleveland, OH	East North Central	1
+18289 | Coalinga, CA	Pacific	1
+18451 | Coeur d'Alene, ID	Mountain	0.999999998328274
+18451 | Coeur d'Alene, ID	Pacific	1.6717271038674e-09
+18748 | College Station--Bryan, TX	West South Central	1
+18856 | Colorado Springs, CO	Mountain	1
+18964 | Columbia, SC	South Atlantic	1
+19234 | Columbus, OH	East North Central	1
+19504 | Concord, CA	Pacific	1
+19531 | Concord, NH	New England	1
+19558 | Concord, NC	South Atlantic	1
+19755 | Conroe--The Woodlands, TX	West South Central	1
+20287 | Corpus Christi, TX	West South Central	1.00000000000001
+20422 | Corvallis, OR	Pacific	1
+21745 | Cumberland, MD--WV--PA	South Atlantic	0.998420230799416
+21745 | Cumberland, MD--WV--PA	Middle Atlantic	0.00157976920058463
+22042 | Dallas--Fort Worth--Arlington, TX	West South Central	1
+22096 | Danbury, CT--NY	Middle Atlantic	0.0495968110868342
+22096 | Danbury, CT--NY	New England	0.950403188913165
+22366 | Davenport, IA--IL	East North Central	0.539207231507759
+22366 | Davenport, IA--IL	West North Central	0.460792768492241
+22420 | Davis, CA	Pacific	1
+22528 | Dayton, OH	East North Central	1
+22960 | DeKalb, IL	East North Central	1
+22987 | Delano, CA	Pacific	1
+23203 | Del Rio, TX	West South Central	1
+23500 | Denton--Lewisville, TX	West South Central	1
+23527 | Denver--Aurora, CO	Mountain	1
+23743 | Des Moines, IA	West North Central	1
+23824 | Detroit, MI	East North Central	1
+24580 | Dover, DE	South Atlantic	1
+24607 | Dover--Rochester, NH--ME	New England	1
+24850 | Duluth, MN--WI	West North Central	0.776932561207526
+24850 | Duluth, MN--WI	East North Central	0.223067438792472
+25228 | Durham, NC	South Atlantic	1
+25849 | East Stroudsburg, PA--NJ	Middle Atlantic	1
+26038 | Eau Claire, WI	East North Central	1
+26416 | El Centro--Calexico, CA	Pacific	1
+26794 | Elkhart, IN--MI	East North Central	1
+27118 | Elmira, NY	Middle Atlantic	1
+27253 | El Paso, TX--NM	West South Central	0.931351963631588
+27253 | El Paso, TX--NM	Mountain	0.0686480363684101
+27261 | El Paso de Robles (Paso Robles)--Atascadero, CA	Pacific	1
+27766 | Erie, PA	Middle Atlantic	1
+28117 | Eugene, OR	Pacific	1
+28198 | Eureka, CA	Pacific	1
+28657 | Fairfield, CA	Pacific	1
+29089 | Fargo, ND--MN	West North Central	1
+29278 | Farmington, NM	Mountain	1
+29440 | Fayetteville, NC	South Atlantic	1
+29818 | Flagstaff, AZ	Mountain	1
+30628 | Fort Collins, CO	Mountain	1
+31087 | Fort Wayne, IN	East North Central	1
+31150 | Four Corners, FL	South Atlantic	1
+31450 | Franklin--Highland Lake, NJ	Middle Atlantic	1
+31519 | Frederick, MD	South Atlantic	1
+31600 | Fredericksburg, VA	South Atlantic	1
+31843 | Fresno, CA	Pacific	1
+32167 | Gainesville, FL	South Atlantic	1
+32194 | Gainesville, GA	South Atlantic	1
+32491 | Galveston, TX	West South Central	1
+33247 | Gillette, WY	Mountain	1
+33328 | Gilroy--Morgan Hill, CA	Pacific	1
+33598 | Glens Falls, NY	Middle Atlantic	1
+34273 | Grand Junction, CO	Mountain	1
+34300 | Grand Rapids, MI	East North Central	1
+34516 | Grants Pass, OR	Pacific	1
+34597 | Grass Valley, CA	Pacific	1
+34759 | Great Falls, MT	Mountain	1
+34786 | Greeley, CO	Mountain	1
+34813 | Green Bay, WI	East North Central	1
+35164 | Greensboro, NC	South Atlantic	1
+35380 | Greenville, NC	South Atlantic	1
+35461 | Greenville, SC	South Atlantic	1
+36055 | Gustine, CA	Pacific	1
+36190 | Hagerstown, MD--WV--PA	Middle Atlantic	0.0629387378957597
+36190 | Hagerstown, MD--WV--PA	South Atlantic	0.937061262104241
+36703 | Hanford, CA	Pacific	1
+36784 | Hanover, PA	Middle Atlantic	1
+37081 | Harrisburg, PA	Middle Atlantic	1
+37162 | Harrisonburg, VA	South Atlantic	1
+37243 | Hartford, CT	New England	1
+37945 | Hazleton, PA	Middle Atlantic	1
+38161 | Helena, MT	Mountain	1
+38215 | Hemet, CA	Pacific	1
+38647 | Hickory, NC	South Atlantic	1
+39079 | Hilton Head Island, SC	South Atlantic	0.999999999999999
+39214 | Hobbs, NM	Mountain	1
+39511 | Hollister, CA	Pacific	1
+40429 | Houston, TX	West South Central	1
+40780 | Huntsville, AL	East South Central	1
+40996 | Idaho Falls, ID	Mountain	1
+41212 | Indianapolis, IN	East North Central	1
+41347 | Indio--Cathedral City, CA	Pacific	1
+41590 | Iowa City, IA	West North Central	1
+41914 | Ithaca, NY	Middle Atlantic	1
+42346 | Jacksonville, FL	South Atlantic	1
+43291 | Johnstown, PA	Middle Atlantic	1
+43723 | Kalamazoo, MI	East North Central	1
+43777 | Kalispell, MT	Mountain	1
+43885 | Kankakee, IL	East North Central	1
+43912 | Kansas City, MO--KS	West North Central	1
+44479 | Kennewick--Pasco, WA	Pacific	1
+44506 | Kenosha, WI--IL	East North Central	1
+44992 | Killeen, TX	West South Central	1
+45127 | Kingman, AZ	Mountain	1
+45262 | Kingston, NY	Middle Atlantic	1
+45451 | Kissimmee, FL	South Atlantic	1
+45505 | Klamath Falls--Altamont, OR	Pacific	1
+45640 | Knoxville, TN	East South Central	1
+45910 | La Crosse, WI--MN	West North Central	0.0561309915061404
+45910 | La Crosse, WI--MN	East North Central	0.943869008493861
+45937 | Lady Lake--The Villages, FL	South Atlantic	1
+46018 | Lafayette, IN	East North Central	1
+46126 | Lafayette--Louisville--Erie, CO	Mountain	1
+46747 | Lake Havasu City, AZ	Mountain	1
+47530 | Lancaster, PA	Middle Atlantic	1
+47611 | Lancaster--Palmdale, CA	Pacific	1
+47719 | Lansing, MI	East North Central	1
+47827 | Laramie, WY	Mountain	1
+47854 | Laredo, TX	West South Central	1
+47935 | Las Cruces, NM	Mountain	1
+47995 | Las Vegas--Henderson, NV	Mountain	1
+48664 | Lebanon, PA	Middle Atlantic	1
+48826 | Lee's Summit, MO	West North Central	1
+49096 | Leominster--Fitchburg, MA	New England	1
+49312 | Lewiston, ID--WA	Mountain	0.576344721458768
+49312 | Lewiston, ID--WA	Pacific	0.42365527854123
+49582 | Lexington-Fayette, KY	East South Central	1
+49594 | Lexington Park--California--Chesapeake Ranch Estates, MD	South Atlantic	0.999999999999999
+49933 | Lincoln, NE	West North Central	1
+50392 | Little Rock, AR	West South Central	1
+50527 | Livermore, CA	Pacific	1
+50851 | Lodi, CA	Pacific	1
+50959 | Logan, UT	Mountain	1
+51040 | Lompoc, CA	Pacific	1
+51175 | Longmont, CO	Mountain	1
+51283 | Longview, WA--OR	Pacific	1
+51445 | Los Angeles--Long Beach--Anaheim, CA	Pacific	1
+51472 | Los Banos, CA	Pacific	1
+51499 | Los Lunas, NM	Mountain	1
+51755 | Louisville/Jefferson County, KY--IN	East North Central	0.194014612474407
+51755 | Louisville/Jefferson County, KY--IN	East South Central	0.805985387525594
+51877 | Lubbock, TX	West South Central	1
+52201 | Lynchburg, VA	South Atlantic	1
+52390 | McAllen, TX	West South Central	1
+52687 | McKinney, TX	West South Central	1
+52741 | McMinnville, OR	Pacific	1
+52984 | Madera, CA	Pacific	1
+53200 | Madison, WI	East North Central	1
+53740 | Manchester, NH	New England	1
+53794 | Mandeville--Covington, LA	West South Central	1
+54145 | Manteca, CA	Pacific	1
+54477 | Maricopa, AZ	Mountain	1
+55333 | Marysville, WA	Pacific	1
+55603 | Mauldin--Simpsonville, SC	South Atlantic	1
+55981 | Medford, OR	Pacific	1
+56116 | Memphis, TN--MS--AR	East South Central	0.954083122227965
+56116 | Memphis, TN--MS--AR	West South Central	0.0459168777720345
+56251 | Merced, CA	Pacific	1
+56602 | Miami, FL	South Atlantic	0.999999999999999
+56656 | Michigan City--La Porte, IN--MI	East North Central	1
+56899 | Middletown, NY	Middle Atlantic	1
+57007 | Midland, TX	West South Central	1
+57439 | Milton--Lewisburg, PA	Middle Atlantic	1
+57466 | Milwaukee, WI	East North Central	1
+57628 | Minneapolis--St. Paul, MN--WI	East North Central	0.000681311751362783
+57628 | Minneapolis--St. Paul, MN--WI	West North Central	0.999318688248637
+57709 | Mission Viejo--Lake Forest--San Clemente, CA	Pacific	0.999999999999999
+57736 | Missoula, MT	Mountain	1
+58006 | Modesto, CA	Pacific	1
+59518 | Moses Lake, WA	Pacific	1
+60490 | Mount Vernon, WA	Pacific	1
+60799 | Murrieta--Temecula--Menifee, CA	Pacific	1
+60841 | Muskegon, MI	East North Central	1
+60895 | Myrtle Beach--Socastee, SC--NC	South Atlantic	1
+60976 | Nampa, ID	Mountain	1
+61057 | Napa, CA	Pacific	1
+61165 | Nashua, NH--MA	New England	1
+61273 | Nashville-Davidson, TN	East South Central	1
+61786 | New Bedford, MA	New England	1
+62407 | New Haven, CT	New England	1
+62677 | New Orleans, LA	West South Central	1
+63217 | New York--Newark, NY--NJ--CT	Middle Atlantic	0.999988973445896
+63217 | New York--Newark, NY--NJ--CT	New England	1.1026554105287e-05
+63325 | Nogales, AZ	Mountain	1
+63433 | Norman, OK	West South Central	1
+63838 | North Port--Port Charlotte, FL	South Atlantic	1
+64135 | Norwich--New London, CT--RI	New England	0.999999999999999
+64378 | Oak Harbor, WA	Pacific	1
+64660 | Ocean Pines, MD--DE	South Atlantic	1
+64864 | Odessa, TX	West South Central	1
+64945 | Ogden--Layton, UT	Mountain	1
+65080 | Oklahoma City, OK	West South Central	1
+65242 | Olympia--Lacey, WA	Pacific	1
+65269 | Omaha, NE--IA	West North Central	1
+65863 | Orlando, FL	South Atlantic	1
+65944 | Oroville, CA	Pacific	1
+66241 | Oswego, NY	Middle Atlantic	1
+66673 | Oxnard, CA	Pacific	1
+67105 | Palm Bay--Melbourne, FL	South Atlantic	1
+67375 | Paradise, CA	Pacific	1
+68509 | Peoria, IL	East North Central	1
+68833 | Peru--LaSalle, IL	East North Central	1
+68887 | Petaluma, CA	Pacific	1
+69076 | Philadelphia, PA--NJ--DE--MD	South Atlantic	0.120555957948544
+69076 | Philadelphia, PA--NJ--DE--MD	Middle Atlantic	0.879444042051459
+69184 | Phoenix--Mesa, AZ	Mountain	1
+69517 | Pinehurst--Southern Pines, NC	South Atlantic	1
+69697 | Pittsburgh, PA	Middle Atlantic	1
+69778 | Pittsfield, MA	New England	1
+70426 | Pocatello, ID	Mountain	1
+70993 | Port Arthur, TX	West South Central	1
+71074 | Porterville, CA	Pacific	1
+71263 | Portland, ME	New England	1.00000000000002
+71317 | Portland, OR--WA	Pacific	1
+71479 | Port St. Lucie, FL	South Atlantic	1
+71506 | Portsmouth, NH--ME	New England	1
+71749 | Pottstown, PA	Middle Atlantic	1
+71776 | Pottsville, PA	Middle Atlantic	1
+71803 | Poughkeepsie--Newburgh, NY--NJ	Middle Atlantic	1
+72112 | Prescott Valley--Prescott, AZ	Mountain	1
+72505 | Providence, RI--MA	New England	1
+72559 | Provo--Orem, UT	Mountain	1
+72613 | Pueblo, CO	Mountain	1
+73153 | Racine, WI	East North Central	1
+73261 | Raleigh, NC	South Atlantic	1
+73396 | Rapid City, SD	West North Central	1
+73693 | Reading, PA	Middle Atlantic	1
+73774 | Redding, CA	Pacific	1
+74044 | Reedley--Dinuba, CA	Pacific	1
+74179 | Reno, NV--CA	Mountain	0.999963007659168
+74179 | Reno, NV--CA	Pacific	3.69923408328013e-05
+74746 | Richmond, VA	South Atlantic	1
+74827 | Ridgecrest, CA	Pacific	1
+75340 | Riverside--San Bernardino, CA	Pacific	1
+75421 | Roanoke, VA	South Atlantic	1
+75637 | Rochester, MN	West North Central	1
+75664 | Rochester, NY	Middle Atlantic	1
+75718 | Rockford, IL	East North Central	1
+76231 | Rome, NY	Middle Atlantic	1
+76339 | Roseburg, OR	Pacific	1
+76447 | Roswell, NM	Mountain	1
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	East North Central	1
+77068 | Sacramento, CA	Pacific	1
+77161 | Sahuarita--Green Valley, AZ	Mountain	1
+77338 | St. Cloud, MN	West North Central	1
+77446 | St. George, UT	Mountain	1
+77770 | St. Louis, MO--IL	East North Central	0.263295206312223
+77770 | St. Louis, MO--IL	West North Central	0.736704793687781
+78229 | Salem, OR	Pacific	1
+78310 | Salinas, CA	Pacific	1
+78364 | Salisbury, MD--DE	South Atlantic	1
+78499 | Salt Lake City--West Valley City, UT	Mountain	1
+78553 | San Angelo, TX	West South Central	1
+78580 | San Antonio, TX	West South Central	1
+78661 | San Diego, CA	Pacific	1
+78904 | San Francisco--Oakland, CA	Pacific	1
+79039 | San Jose, CA	Pacific	1
+79147 | San Luis Obispo, CA	Pacific	1
+79282 | Santa Barbara, CA	Pacific	0.999999999999999
+79309 | Santa Clarita, CA	Pacific	1
+79336 | Santa Cruz, CA	Pacific	0.999999999999999
+79363 | Santa Fe, NM	Mountain	1
+79417 | Santa Maria, CA	Pacific	1
+79498 | Santa Rosa, CA	Pacific	1
+79606 | Sarasota--Bradenton, FL	South Atlantic	1.00000000000003
+79633 | Saratoga Springs, NY	Middle Atlantic	1
+80227 | Scranton, PA	Middle Atlantic	1
+80362 | Seaside--Monterey, CA	Pacific	1
+80389 | Seattle, WA	Pacific	1
+80400 | Sebastian--Vero Beach South--Florida Ridge, FL	South Atlantic	1
+80551 | Selma, CA	Pacific	1
+80985 | Shamokin--Mount Carmel, PA	Middle Atlantic	1
+81739 | Shreveport, LA	West South Central	1
+81901 | Sierra Vista, AZ	Mountain	1
+82144 | Simi Valley, CA	Pacific	1
+82225 | Sioux City, IA--NE--SD	West North Central	1
+82252 | Sioux Falls, SD	West North Central	1
+83008 | Sonoma, CA	Pacific	1
+83116 | South Bend, IN--MI	East North Central	1
+83764 | Spokane, WA	Mountain	0
+83764 | Spokane, WA	Pacific	1
+83899 | Springfield, IL	East North Central	1
+83926 | Springfield, MA--CT	New England	1
+83953 | Springfield, MO	West North Central	1
+84493 | State College, PA	Middle Atlantic	1
+84630 | Staunton--Waynesboro, VA	South Atlantic	1
+85087 | Stockton, CA	Pacific	1
+86302 | Syracuse, NY	Middle Atlantic	1
+86599 | Tampa--St. Petersburg, FL	South Atlantic	1.00000000000001
+87058 | Temple, TX	West South Central	1
+87220 | Texas City, TX	West South Central	1
+87490 | Thousand Oaks, CA	Pacific	1
+87868 | Toledo, OH--MI	East North Central	1
+88057 | Tooele, UT	Mountain	1
+88192 | Torrington, CT	New England	1
+88273 | Tracy, CA	Pacific	1
+88462 | Trenton, NJ	Middle Atlantic	1
+88624 | Truckee, CA	Pacific	1
+88732 | Tucson, AZ	Mountain	1
+88948 | Tulsa, OK	West South Central	1
+89083 | Turlock, CA	Pacific	1
+89245 | Twin Falls, ID	Mountain	1
+89263 | Twin Rivers--Hightstown, NJ	Middle Atlantic	1
+89326 | Tyler, TX	West South Central	1
+89785 | Utica, NY	Middle Atlantic	1
+89866 | Vacaville, CA	Pacific	1
+90028 | Vallejo, CA	Pacific	1
+90541 | Victorville--Hesperia, CA	Pacific	1
+90658 | Villas, NJ	Middle Atlantic	1
+90730 | Vineland, NJ	Middle Atlantic	1
+90892 | Virginia Beach, VA	South Atlantic	1
+90946 | Visalia, CA	Pacific	1
+91027 | Waco, TX	West South Central	1
+91261 | Waldorf, MD	South Atlantic	1
+91405 | Walla Walla, WA--OR	Pacific	1
+92242 | Washington, DC--VA--MD	South Atlantic	1
+92485 | Waterbury, CT	New England	1
+92593 | Waterloo, IA	West North Central	1
+92674 | Watertown, NY	Middle Atlantic	1
+92890 | Watsonville, CA	Pacific	1
+93484 | Weatherford, TX	West South Central	1
+93862 | Wenatchee, WA	Pacific	1
+94294 | Westminster--Eldersburg, MD	South Atlantic	1
+95077 | Wichita, KS	West North Central	1
+95104 | Wichita Falls, TX	West South Central	1
+95455 | Williamsport, PA	Middle Atlantic	1
+95833 | Wilmington, NC	South Atlantic	1
+96103 | Winchester, VA	South Atlantic	1
+96670 | Winston-Salem, NC	South Atlantic	1
+96913 | Woodburn, OR	Pacific	1
+96994 | Woodland, CA	Pacific	1
+97291 | Worcester, MA--CT	New England	1
+97507 | Yakima, WA	Pacific	1
+97750 | York, PA	Middle Atlantic	1
+97939 | Yuba City, CA	Pacific	1
+98020 | Yuma, AZ--CA	Pacific	0.0231596489589172
+98020 | Yuma, AZ--CA	Mountain	0.976840351041083
+@ Anacortes, WA	Pacific	1
+@ Anniston, AL	East South Central	1
+@ Ardmore, OK	West South Central	1
+@ Artesia, NM	Mountain	1
+@ Ashtabula, OH	East North Central	1
+@ Augusta, GA	South Atlantic	1
+@ Bakersfield, CA	Pacific	1
+@ Baton Rouge, LA	East South Central	1
+@ Batton Rouge, LA	East South Central	1
+@ Bay City, TX	West South Central	1
+@ Bayport, TX	West South Central	1
+@ Baytown, TX	West South Central	1
+@ Beaumont, TX	West South Central	1
+@ Belle Chasse, LA	West South Central	1
+@ Belle, WV	East North Central	1
+@ Belvidere, NJ	Middle Atlantic	1
+@ Benicia, CA	Pacific	1
+@ Billings, MT	Mountain	1
+@ Blaine, WA	Pacific	1
+@ Borger, TX	West South Central	1
+@ Bradley, IL	East North Central	1
+@ Brorger, TX	West South Central	1
+@ Burkville, AL	East South Central	1
+@ Butler, IN	East North Central	1
+@ Butte, MT	Mountain	1
+@ Calvert City, KY	East South Central	1
+@ Carson, CA	Mountain	1
+@ Catlettsburg, KY	East North Central	1
+@ Cedar City, UT	Mountain	1
+@ Channelview, TX	West South Central	1
+@ Charleston, TN	East South Central	1
+@ Charlotte, NC	South Atlantic	1
+@ Chattanooga, TN	East South Central	1
+@ Cherry Point, WA	Pacific	1
+@ Cheyenne, WY	Mountain	1
+@ Cincinnati, OH	East North Central	1
+@ Coffeyville, KS	West North Central	1
+@ Columbus, MS	East South Central	1
+@ Commerce City, CO	Mountain	1
+@ Convent, LA	West South Central	1
+@ Conway, KS	West North Central	1
+@ Corpus Christi, TX	West South Central	1
+@ Cotton Valley, LA	West South Central	1
+@ Crawfordsville, IN	East North Central	1
+@ Dallas, TX	West South Central	1
+@ Decatur, AL	East South Central	1
+@ Decatur, IL	East North Central	1
+@ Decatur, IN	East North Central	1
+@ Deepwater, NJ	Middle Atlantic	1
+@ Deer Park, TX	West South Central	1
+@ Delaware City, DE	Middle Atlantic	1
+@ Des Moines, IA	West North Central	1
+@ Detroit, MI	East North Central	1
+@ East Chicago, IN	East North Central	1
+@ Eastover, SC	South Atlantic	1
+@ Ecorse, MI	East North Central	1
+@ El Dorado, AR	West South Central	1
+@ El Dorado, KS	West North Central	1
+@ El Segundo, CA	Pacific	1
+@ Euclid, OH	East North Central	1
+@ Fairless Hills, PA	Middle Atlantic	1
+@ Fort Worth, TX	West South Central	1
+@ Freeport, TX	West South Central	1
+@ Gainesville, GA	East South Central	1
+@ Gallatin, TN	East South Central	1
+@ Geismar, LA	West South Central	1
+@ Great Falls, MT	Mountain	1
+@ Hamilton, MS	East South Central	1
+@ Hannibal, MO	East North Central	1
+@ Hartford, IL	East North Central	1
+@ Henderson, NV	Mountain	1
+@ Huntsville, AL	East South Central	1
+@ Ingleside, TX	West South Central	1
+@ Institute, WV	East North Central	1
+@ Jacksonville, IL	East North Central	1
+@ Joliet, IL	East North Central	1
+@ Kalama, WA	Pacific	1
+@ Karns City, PA	Middle Atlantic	1
+@ Kingsport, TN	East North Central	1
+@ LaBarge, WY	Mountain	1
+@ Lake Charles, LA	West South Central	1
+@ La Porte, TX	West South Central	1
+@ Laurel, MT	Mountain	1
+@ Lemont, IL	East North Central	1
+@ Lima, OH	East North Central	1
+@ Lincoln, NE	West North Central	1
+@ Linden, NJ	Middle Atlantic	1
+@ Longview, TX	West South Central	1
+@ Longview, WA	Pacific	1
+@ Louisville, KY	East North Central	1
+@ Luling, LA	West South Central	1
+@ Mankato, MN	West North Central	1
+@ Mapleton, IL	East North Central	1
+@ Marcus Hook, PA	Middle Atlantic	1
+@ Martinez, CA	Pacific	1
+@ McIntosh, AL	East South Central	1
+@ McPherson, KS	West North Central	1
+@ Memphis, TN	East South Central	1
+@ Middleton, OH	East North Central	1
+@ Midland, MI	East North Central	1
+@ Mobile, AL	East South Central	1
+@ Mont Belvieu, TX	West South Central	1
+@ Mont Belview, TX	West South Central	1
+@ Moses Lake, WA	Mountain	1
+@ Mount Vernon, IN	East North Central	1
+@ New Castle, DE	Middle Atlantic	1
+@ Newell, WV	East North Central	1
+@ New Orleans, LA	West South Central	1
+@ Niagara Falls, NY	Middle Atlantic	1
+@ Norco, LA	West South Central	1
+@ Norcross, GA	East South Central	1
+@ Ontario, CA	Mountain	1
+@ Pasadena, TX	West South Central	1
+@ Pascagoula, MS	East South Central	1
+@ Paulsboro, NJ	Middle Atlantic	1
+@ Pensacola, FL	East South Central	1
+@ Petrolia, PA	Middle Atlantic	1
+@ Plaquemine, LA	East South Central	1
+@ Point Comfort, TX	West South Central	1
+@ Ponca City, OK	West North Central	1
+@ Port Arthur, TX	West South Central	1
+@ Port Edwards, WI	East North Central	1
+@ Princeton, LA	West South Central	1
+@ Proctor, WV	East North Central	1
+@ Raleigh, NC	South Atlantic	1
+@ Richmond, CA	Pacific	1
+@ Rockport, IN	East North Central	1
+@ Rodeo, CA	Pacific	1
+@ Rouseville, PA	Middle Atlantic	1
+@ Sacramento, CA	Pacific	1
+@ Salina, KS	West North Central	1
+@ Salt Lake City, UT	Mountain	1
+@ Saraland, AL	East South Central	1
+@ Sauget, IL	East North Central	1
+@ Seymour, IN	East North Central	1
+@ Shreveport, LA	West South Central	1
+@ Sidney, OH	East North Central	1
+@ Silsbee, TX	West South Central	1
+@ Sioux City, IA	West North Central	1
+@ Smackover, AR	West South Central	1
+@ St. Charles, LA	West South Central	1
+@ St. Gabriel, LA	West South Central	1
+@ St. Joseph, MO	West North Central	1
+@ St. Marys, PA	Middle Atlantic	1
+@ St. Paul, MN	West North Central	1
+@ St. Paul Park, MN	West North Central	1
+@ Stuttgart, AR	West South Central	1
+@ Sweeney, TX	West South Central	1
+@ Taft, LA	West South Central	1
+@ Texas City, TX	West South Central	1
+@ Theodore, AL	East South Central	1
+@ Three Rivers, TX	West South Central	1
+@ Toledo, OH	East North Central	1
+@ Torrance, CA	Mountain	1
+@ Tuscaloosa, AL	East South Central	1
+@ Valdosta, GA	East South Central	1
+@ Vicksburg, MS	East South Central	1
+@ Victoria, TX	West South Central	1
+@ Weirton, WV	Middle Atlantic	1
+@ Westlake, LA	West South Central	1
+@ West Leechburg, PA	Middle Atlantic	1
+@ Whiting, IN	East North Central	1
+@ Wichita, KS	West North Central	1
+@ Wilmington, CA	Mountain	1
+@ Wood River, IL	East North Central	1
+@ Wright, WY	Mountain	1
+@ Wynneywood, OK	West South Central	1

@@ -1,0 +1,584 @@
+Network ID	Zone	Fraction
+00199 | Aberdeen--Bel Air South--Bel Air North, MD	RFC	1
+00280 | Abilene, TX	TRE	1
+00766 | Akron, OH	RFC	1
+00820 | Alamogordo, NM	WECC-ExCA	1
+00955 | Albany, OR	WECC-ExCA	1
+00970 | Albany--Schenectady, NY	NPCC	1
+01171 | Albuquerque, NM	WECC-ExCA	1
+01495 | Allentown, PA--NJ	RFC	1
+01792 | Altoona, PA	RFC	1
+01927 | Amarillo, TX	SPP	1
+02413 | Anderson, SC	SERC	1
+02602 | Ann Arbor, MI	RFC	1
+02683 | Antioch, CA	WECC-CA	1
+02764 | Appleton, WI	MRO	0.176398859400693
+02764 | Appleton, WI	RFC	0.823601140599307
+02926 | Arcata-McKinleyville, CA	WECC-CA	1
+03196 | Arroyo Grande--Grover Beach, CA	WECC-CA	1
+03358 | Asheville, NC	SERC	1
+03763 | Athens-Clarke County, GA	SERC	1
+03817 | Atlanta, GA	SERC	1
+03898 | Atlantic City, NJ	RFC	1
+04114 | Auburn, NY	NPCC	1
+04130 | Auburn--North Auburn, CA	WECC-CA	1
+04222 | Augusta-Richmond County, GA--SC	SERC	1
+04384 | Austin, TX	TRE	1
+04549 | Avondale--Goodyear, AZ	WECC-ExCA	1
+04681 | Bakersfield, CA	WECC-CA	1
+04843 | Baltimore, MD	RFC	1
+04951 | Bangor, ME	NPCC	1
+05167 | Barnstable Town, MA	NPCC	1
+06058 | Beaumont, TX	SERC	1
+06652 | Bellingham, WA	WECC-ExCA	0.999999999999998
+06760 | Beloit, WI--IL	RFC	0.350676641241134
+06760 | Beloit, WI--IL	MRO	0.649323358758866
+06868 | Bend, OR	WECC-ExCA	1
+07138 | Benton Harbor--St. Joseph--Fair Plain, MI	RFC	1
+07705 | Billings, MT	WECC-ExCA	1
+07732 | Binghamton, NY--PA	NPCC	0.983178352429469
+07732 | Binghamton, NY--PA	RFC	0.0168216475705297
+07786 | Birmingham, AL	SERC	1
+07921 | Bismarck, ND	MRO	1
+08407 | Bloomington--Normal, IL	SERC	1
+08434 | Bloomsburg--Berwick, PA	RFC	1
+08785 | Boise City, ID	WECC-ExCA	1
+08974 | Bonita Springs, FL	FRCC	1
+09271 | Boston, MA--NH--RI	NPCC	1
+09298 | Boulder, CO	WECC-ExCA	1
+09514 | Bozeman, MT	WECC-ExCA	1
+09946 | Bremerton, WA	WECC-ExCA	1
+10162 | Bridgeport--Stamford, CT--NY	NPCC	1
+10189 | Bridgeton, NJ	RFC	1
+10891 | Browns Mills--Fort Dix, NJ	RFC	1
+10972 | Brownsville, TX	TRE	1
+11350 | Buffalo, NY	NPCC	1
+11431 | Bullhead City, AZ--NV	WECC-ExCA	1
+11755 | Burlington, VT	NPCC	1
+12052 | Butte-Silver Bow, MT	WECC-ExCA	1
+12754 | Camarillo, CA	WECC-CA	1
+13375 | Canton, OH	RFC	1
+13510 | Cape Coral, FL	FRCC	1
+14158 | Carson City, NV	WECC-ExCA	1
+14401 | Casa Grande, AZ	WECC-ExCA	1
+14482 | Casper, WY	WECC-ExCA	1
+14698 | Cedar City, UT	WECC-ExCA	1
+14752 | Cedar Rapids, IA	MRO	1
+15076 | Centralia, WA	WECC-ExCA	1
+15184 | Chambersburg, PA	RFC	1
+15211 | Champaign, IL	SERC	1
+15508 | Charleston--North Charleston, SC	SERC	1
+15670 | Charlotte, NC--SC	SERC	1
+15724 | Charlottesville, VA	SERC	1
+15832 | Chattanooga, TN--GA	SERC	1
+16237 | Cheyenne, WY	WECC-ExCA	1
+16264 | Chicago, IL--IN	RFC	1.00000000000451
+16318 | Chico, CA	WECC-CA	1
+16885 | Cincinnati, OH--KY--IN	RFC	0.777240395533251
+16885 | Cincinnati, OH--KY--IN	SERC	0.22275960446675
+17533 | Cleburne, TX	TRE	1
+17668 | Cleveland, OH	RFC	1
+18289 | Coalinga, CA	WECC-CA	1
+18451 | Coeur d'Alene, ID	WECC-ExCA	1
+18748 | College Station--Bryan, TX	TRE	0.278724834623286
+18748 | College Station--Bryan, TX	SERC	0.721275165376714
+18856 | Colorado Springs, CO	WECC-ExCA	1
+18964 | Columbia, SC	SERC	1
+19234 | Columbus, OH	RFC	1
+19504 | Concord, CA	WECC-CA	1
+19531 | Concord, NH	NPCC	1
+19558 | Concord, NC	SERC	1
+19755 | Conroe--The Woodlands, TX	SERC	0.740753728825895
+19755 | Conroe--The Woodlands, TX	TRE	0.259246271174106
+20287 | Corpus Christi, TX	TRE	1
+20422 | Corvallis, OR	WECC-ExCA	1
+21745 | Cumberland, MD--WV--PA	RFC	1
+22042 | Dallas--Fort Worth--Arlington, TX	TRE	1
+22096 | Danbury, CT--NY	NPCC	1
+22366 | Davenport, IA--IL	SERC	0.539207351053315
+22366 | Davenport, IA--IL	MRO	0.460792763388584
+22420 | Davis, CA	WECC-CA	1
+22528 | Dayton, OH	RFC	1
+22960 | DeKalb, IL	RFC	1
+22987 | Delano, CA	WECC-CA	1
+23203 | Del Rio, TX	TRE	1
+23500 | Denton--Lewisville, TX	TRE	1
+23527 | Denver--Aurora, CO	WECC-ExCA	1
+23743 | Des Moines, IA	MRO	1
+23824 | Detroit, MI	RFC	0.999999999999999
+24580 | Dover, DE	RFC	1
+24607 | Dover--Rochester, NH--ME	NPCC	1
+24850 | Duluth, MN--WI	MRO	0.999999999999999
+25228 | Durham, NC	SERC	1
+25849 | East Stroudsburg, PA--NJ	RFC	1
+26038 | Eau Claire, WI	MRO	1
+26416 | El Centro--Calexico, CA	WECC-CA	1
+26794 | Elkhart, IN--MI	RFC	1
+27118 | Elmira, NY	NPCC	1
+27253 | El Paso, TX--NM	WECC-ExCA	1
+27261 | El Paso de Robles (Paso Robles)--Atascadero, CA	WECC-CA	1
+27766 | Erie, PA	RFC	1
+28117 | Eugene, OR	WECC-ExCA	1
+28198 | Eureka, CA	WECC-CA	1
+28657 | Fairfield, CA	WECC-CA	1
+29089 | Fargo, ND--MN	MRO	1
+29278 | Farmington, NM	WECC-ExCA	1
+29440 | Fayetteville, NC	SERC	1
+29818 | Flagstaff, AZ	WECC-ExCA	1
+30628 | Fort Collins, CO	WECC-ExCA	1
+31087 | Fort Wayne, IN	RFC	1
+31150 | Four Corners, FL	FRCC	1
+31450 | Franklin--Highland Lake, NJ	RFC	1
+31519 | Frederick, MD	RFC	1
+31600 | Fredericksburg, VA	SERC	1
+31843 | Fresno, CA	WECC-CA	1
+32167 | Gainesville, FL	FRCC	1
+32194 | Gainesville, GA	SERC	1
+32491 | Galveston, TX	TRE	1
+33247 | Gillette, WY	WECC-ExCA	1
+33328 | Gilroy--Morgan Hill, CA	WECC-CA	1
+33598 | Glens Falls, NY	NPCC	1
+34273 | Grand Junction, CO	WECC-ExCA	1
+34300 | Grand Rapids, MI	RFC	1
+34516 | Grants Pass, OR	WECC-ExCA	1
+34597 | Grass Valley, CA	WECC-CA	1
+34759 | Great Falls, MT	WECC-ExCA	1
+34786 | Greeley, CO	WECC-ExCA	1
+34813 | Green Bay, WI	MRO	1
+35164 | Greensboro, NC	SERC	1
+35380 | Greenville, NC	SERC	1
+35461 | Greenville, SC	SERC	1
+36055 | Gustine, CA	WECC-CA	1
+36190 | Hagerstown, MD--WV--PA	RFC	1
+36703 | Hanford, CA	WECC-CA	1
+36784 | Hanover, PA	RFC	1
+37081 | Harrisburg, PA	RFC	1
+37162 | Harrisonburg, VA	SERC	1
+37243 | Hartford, CT	NPCC	1
+37945 | Hazleton, PA	RFC	1
+38161 | Helena, MT	WECC-ExCA	1
+38215 | Hemet, CA	WECC-CA	1
+38647 | Hickory, NC	SERC	1
+39079 | Hilton Head Island, SC	SERC	0.999999999999999
+39214 | Hobbs, NM	SPP	1
+39511 | Hollister, CA	WECC-CA	1
+40429 | Houston, TX	SERC	0.0268364277815857
+40429 | Houston, TX	TRE	0.973163572218413
+40780 | Huntsville, AL	SERC	1
+40996 | Idaho Falls, ID	WECC-ExCA	1
+41212 | Indianapolis, IN	RFC	1
+41347 | Indio--Cathedral City, CA	WECC-CA	1
+41590 | Iowa City, IA	MRO	1
+41914 | Ithaca, NY	NPCC	1
+42346 | Jacksonville, FL	FRCC	1
+43291 | Johnstown, PA	RFC	1
+43723 | Kalamazoo, MI	RFC	1
+43777 | Kalispell, MT	WECC-ExCA	1
+43885 | Kankakee, IL	RFC	1
+43912 | Kansas City, MO--KS	SERC	6.48738378043447e-05
+43912 | Kansas City, MO--KS	SPP	0.999935126162196
+44479 | Kennewick--Pasco, WA	WECC-ExCA	1
+44506 | Kenosha, WI--IL	RFC	1
+44992 | Killeen, TX	TRE	1
+45127 | Kingman, AZ	WECC-ExCA	1
+45262 | Kingston, NY	NPCC	1
+45451 | Kissimmee, FL	FRCC	1
+45505 | Klamath Falls--Altamont, OR	WECC-ExCA	1
+45640 | Knoxville, TN	SERC	1
+45910 | La Crosse, WI--MN	MRO	1
+45937 | Lady Lake--The Villages, FL	FRCC	1
+46018 | Lafayette, IN	RFC	1
+46126 | Lafayette--Louisville--Erie, CO	WECC-ExCA	1
+46747 | Lake Havasu City, AZ	WECC-ExCA	1
+47530 | Lancaster, PA	RFC	1
+47611 | Lancaster--Palmdale, CA	WECC-CA	1
+47719 | Lansing, MI	RFC	1
+47827 | Laramie, WY	WECC-ExCA	1
+47854 | Laredo, TX	TRE	1
+47935 | Las Cruces, NM	WECC-ExCA	1
+47995 | Las Vegas--Henderson, NV	WECC-ExCA	1
+48664 | Lebanon, PA	RFC	1
+48826 | Lee's Summit, MO	SPP	1
+49096 | Leominster--Fitchburg, MA	NPCC	1
+49312 | Lewiston, ID--WA	WECC-ExCA	1
+49582 | Lexington-Fayette, KY	SERC	1
+49594 | Lexington Park--California--Chesapeake Ranch Estates, MD	RFC	0.999999999999998
+49933 | Lincoln, NE	MRO	1
+50392 | Little Rock, AR	SERC	1
+50527 | Livermore, CA	WECC-CA	1
+50851 | Lodi, CA	WECC-CA	1
+50959 | Logan, UT	WECC-ExCA	1
+51040 | Lompoc, CA	WECC-CA	1
+51175 | Longmont, CO	WECC-ExCA	1
+51283 | Longview, WA--OR	WECC-ExCA	1
+51445 | Los Angeles--Long Beach--Anaheim, CA	WECC-CA	1
+51472 | Los Banos, CA	WECC-CA	1
+51499 | Los Lunas, NM	WECC-ExCA	1
+51755 | Louisville/Jefferson County, KY--IN	SERC	0.805984305917903
+51755 | Louisville/Jefferson County, KY--IN	RFC	0.194015694082097
+51877 | Lubbock, TX	SPP	1
+52201 | Lynchburg, VA	SERC	0.602307474322573
+52201 | Lynchburg, VA	RFC	0.397692525677429
+52390 | McAllen, TX	TRE	1
+52687 | McKinney, TX	TRE	1
+52741 | McMinnville, OR	WECC-ExCA	1
+52984 | Madera, CA	WECC-CA	1
+53200 | Madison, WI	MRO	1
+53740 | Manchester, NH	NPCC	1
+53794 | Mandeville--Covington, LA	SPP	0.963226452252816
+53794 | Mandeville--Covington, LA	SERC	0.0367735477471838
+54145 | Manteca, CA	WECC-CA	1
+54477 | Maricopa, AZ	WECC-ExCA	1
+55333 | Marysville, WA	WECC-ExCA	1
+55603 | Mauldin--Simpsonville, SC	SERC	1
+55981 | Medford, OR	WECC-ExCA	1
+56116 | Memphis, TN--MS--AR	SERC	1
+56251 | Merced, CA	WECC-CA	1
+56602 | Miami, FL	FRCC	1
+56656 | Michigan City--La Porte, IN--MI	RFC	1
+56899 | Middletown, NY	NPCC	1
+57007 | Midland, TX	TRE	1
+57439 | Milton--Lewisburg, PA	RFC	1
+57466 | Milwaukee, WI	RFC	1
+57628 | Minneapolis--St. Paul, MN--WI	MRO	1
+57709 | Mission Viejo--Lake Forest--San Clemente, CA	WECC-CA	0.999999999999999
+57736 | Missoula, MT	WECC-ExCA	1
+58006 | Modesto, CA	WECC-CA	1
+59518 | Moses Lake, WA	WECC-ExCA	1
+60490 | Mount Vernon, WA	WECC-ExCA	1
+60799 | Murrieta--Temecula--Menifee, CA	WECC-CA	1
+60841 | Muskegon, MI	RFC	1
+60895 | Myrtle Beach--Socastee, SC--NC	SERC	1
+60976 | Nampa, ID	WECC-ExCA	1
+61057 | Napa, CA	WECC-CA	1
+61165 | Nashua, NH--MA	NPCC	1
+61273 | Nashville-Davidson, TN	SERC	1
+61786 | New Bedford, MA	NPCC	1
+62407 | New Haven, CT	NPCC	1
+62677 | New Orleans, LA	SERC	1
+63217 | New York--Newark, NY--NJ--CT	NPCC	0.453388370101432
+63217 | New York--Newark, NY--NJ--CT	RFC	0.546611631083625
+63325 | Nogales, AZ	WECC-ExCA	1
+63433 | Norman, OK	SPP	1
+63838 | North Port--Port Charlotte, FL	FRCC	1
+64135 | Norwich--New London, CT--RI	NPCC	1
+64378 | Oak Harbor, WA	WECC-ExCA	0.999999999999999
+64660 | Ocean Pines, MD--DE	RFC	1
+64864 | Odessa, TX	TRE	1
+64945 | Ogden--Layton, UT	WECC-ExCA	1
+65080 | Oklahoma City, OK	SPP	1
+65242 | Olympia--Lacey, WA	WECC-ExCA	1
+65269 | Omaha, NE--IA	MRO	1
+65863 | Orlando, FL	FRCC	1
+65944 | Oroville, CA	WECC-CA	1
+66241 | Oswego, NY	NPCC	1
+66673 | Oxnard, CA	WECC-CA	1
+67105 | Palm Bay--Melbourne, FL	FRCC	1
+67375 | Paradise, CA	WECC-CA	1
+68509 | Peoria, IL	SERC	1
+68833 | Peru--LaSalle, IL	SERC	1
+68887 | Petaluma, CA	WECC-CA	1
+69076 | Philadelphia, PA--NJ--DE--MD	RFC	1
+69184 | Phoenix--Mesa, AZ	WECC-ExCA	1
+69517 | Pinehurst--Southern Pines, NC	SERC	1
+69697 | Pittsburgh, PA	RFC	1
+69778 | Pittsfield, MA	NPCC	1
+70426 | Pocatello, ID	WECC-ExCA	1
+70993 | Port Arthur, TX	SERC	1
+71074 | Porterville, CA	WECC-CA	1
+71263 | Portland, ME	NPCC	1.000000000003
+71317 | Portland, OR--WA	WECC-ExCA	1
+71479 | Port St. Lucie, FL	FRCC	1
+71506 | Portsmouth, NH--ME	NPCC	1
+71749 | Pottstown, PA	RFC	1
+71776 | Pottsville, PA	RFC	1
+71803 | Poughkeepsie--Newburgh, NY--NJ	RFC	0.0248078121384717
+71803 | Poughkeepsie--Newburgh, NY--NJ	NPCC	0.975192187861528
+72112 | Prescott Valley--Prescott, AZ	WECC-ExCA	1
+72505 | Providence, RI--MA	NPCC	1.00000000000004
+72559 | Provo--Orem, UT	WECC-ExCA	1
+72613 | Pueblo, CO	WECC-ExCA	1
+73153 | Racine, WI	RFC	1
+73261 | Raleigh, NC	SERC	1
+73396 | Rapid City, SD	WECC-ExCA	0.989377322192823
+73396 | Rapid City, SD	MRO	0.0106226778071761
+73693 | Reading, PA	RFC	1
+73774 | Redding, CA	WECC-CA	1
+74044 | Reedley--Dinuba, CA	WECC-CA	1
+74179 | Reno, NV--CA	WECC-ExCA	0.999963007659168
+74179 | Reno, NV--CA	WECC-CA	3.69923408328013e-05
+74746 | Richmond, VA	SERC	1
+74827 | Ridgecrest, CA	WECC-CA	1
+75340 | Riverside--San Bernardino, CA	WECC-CA	1
+75421 | Roanoke, VA	RFC	0.886135515396352
+75421 | Roanoke, VA	SERC	0.113864484603647
+75637 | Rochester, MN	MRO	1
+75664 | Rochester, NY	NPCC	1
+75718 | Rockford, IL	RFC	1
+76231 | Rome, NY	NPCC	1
+76339 | Roseburg, OR	WECC-ExCA	1
+76447 | Roswell, NM	WECC-ExCA	0.00011123197447704
+76447 | Roswell, NM	SPP	0.999888768025523
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	MRO	0.0697554550325338
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	RFC	0.930244544967466
+77068 | Sacramento, CA	WECC-CA	1
+77161 | Sahuarita--Green Valley, AZ	WECC-ExCA	1
+77338 | St. Cloud, MN	MRO	1
+77446 | St. George, UT	WECC-ExCA	1
+77770 | St. Louis, MO--IL	SERC	1
+78229 | Salem, OR	WECC-ExCA	1
+78310 | Salinas, CA	WECC-CA	1
+78364 | Salisbury, MD--DE	RFC	1
+78499 | Salt Lake City--West Valley City, UT	WECC-ExCA	1
+78553 | San Angelo, TX	TRE	1
+78580 | San Antonio, TX	TRE	1
+78661 | San Diego, CA	WECC-CA	1
+78904 | San Francisco--Oakland, CA	WECC-CA	1.0000000000002
+79039 | San Jose, CA	WECC-CA	1
+79147 | San Luis Obispo, CA	WECC-CA	1
+79282 | Santa Barbara, CA	WECC-CA	0.999999999999998
+79309 | Santa Clarita, CA	WECC-CA	1
+79336 | Santa Cruz, CA	WECC-CA	0.999999999999999
+79363 | Santa Fe, NM	WECC-ExCA	1
+79417 | Santa Maria, CA	WECC-CA	1
+79498 | Santa Rosa, CA	WECC-CA	1
+79606 | Sarasota--Bradenton, FL	FRCC	1
+79633 | Saratoga Springs, NY	NPCC	1
+80227 | Scranton, PA	RFC	1
+80362 | Seaside--Monterey, CA	WECC-CA	1
+80389 | Seattle, WA	WECC-ExCA	1
+80400 | Sebastian--Vero Beach South--Florida Ridge, FL	FRCC	1
+80551 | Selma, CA	WECC-CA	1
+80985 | Shamokin--Mount Carmel, PA	RFC	1
+81739 | Shreveport, LA	SPP	1
+81901 | Sierra Vista, AZ	WECC-ExCA	1
+82144 | Simi Valley, CA	WECC-CA	1
+82225 | Sioux City, IA--NE--SD	MRO	1
+82252 | Sioux Falls, SD	MRO	1
+83008 | Sonoma, CA	WECC-CA	1
+83116 | South Bend, IN--MI	RFC	1
+83764 | Spokane, WA	WECC-ExCA	1
+83899 | Springfield, IL	SERC	1
+83926 | Springfield, MA--CT	NPCC	1
+83953 | Springfield, MO	SPP	1
+84493 | State College, PA	RFC	1
+84630 | Staunton--Waynesboro, VA	SERC	1
+85087 | Stockton, CA	WECC-CA	1
+86302 | Syracuse, NY	NPCC	1
+86599 | Tampa--St. Petersburg, FL	FRCC	1
+87058 | Temple, TX	TRE	1
+87220 | Texas City, TX	TRE	1
+87490 | Thousand Oaks, CA	WECC-CA	1
+87868 | Toledo, OH--MI	RFC	1
+88057 | Tooele, UT	WECC-ExCA	1
+88192 | Torrington, CT	NPCC	1
+88273 | Tracy, CA	WECC-CA	1
+88462 | Trenton, NJ	RFC	1
+88624 | Truckee, CA	WECC-CA	1
+88732 | Tucson, AZ	WECC-ExCA	1
+88948 | Tulsa, OK	SPP	1
+89083 | Turlock, CA	WECC-CA	1
+89245 | Twin Falls, ID	WECC-ExCA	1
+89263 | Twin Rivers--Hightstown, NJ	RFC	1
+89326 | Tyler, TX	TRE	1
+89785 | Utica, NY	NPCC	1
+89866 | Vacaville, CA	WECC-CA	1
+90028 | Vallejo, CA	WECC-CA	1
+90541 | Victorville--Hesperia, CA	WECC-CA	1
+90658 | Villas, NJ	RFC	1
+90730 | Vineland, NJ	RFC	1
+90892 | Virginia Beach, VA	SERC	1
+90946 | Visalia, CA	WECC-CA	1
+91027 | Waco, TX	TRE	1
+91261 | Waldorf, MD	RFC	1
+91405 | Walla Walla, WA--OR	WECC-ExCA	1
+92242 | Washington, DC--VA--MD	RFC	0.476883731576932
+92242 | Washington, DC--VA--MD	SERC	0.523116268423069
+92485 | Waterbury, CT	NPCC	1
+92593 | Waterloo, IA	MRO	1
+92674 | Watertown, NY	NPCC	1
+92890 | Watsonville, CA	WECC-CA	1
+93484 | Weatherford, TX	TRE	1
+93862 | Wenatchee, WA	WECC-ExCA	1
+94294 | Westminster--Eldersburg, MD	RFC	1
+95077 | Wichita, KS	SPP	1
+95104 | Wichita Falls, TX	TRE	1
+95455 | Williamsport, PA	RFC	1
+95833 | Wilmington, NC	SERC	1
+96103 | Winchester, VA	RFC	1
+96670 | Winston-Salem, NC	SERC	1
+96913 | Woodburn, OR	WECC-ExCA	1
+96994 | Woodland, CA	WECC-CA	1
+97291 | Worcester, MA--CT	NPCC	1
+97507 | Yakima, WA	WECC-ExCA	1
+97750 | York, PA	RFC	1
+97939 | Yuba City, CA	WECC-CA	1
+98020 | Yuma, AZ--CA	WECC-CA	0.0231596489589172
+98020 | Yuma, AZ--CA	WECC-ExCA	0.976840351041083
+@ Anacortes, WA	WECC-ExCA	1
+@ Anniston, AL	SERC	1
+@ Ardmore, OK	TRE	1
+@ Artesia, NM	TRE	1
+@ Ashtabula, OH	RFC	1
+@ Augusta, GA	SERC	1
+@ Bakersfield, CA	WECC-CA	1
+@ Baton Rouge, LA	SERC	1
+@ Batton Rouge, LA	SERC	1
+@ Bay City, TX	TRE	1
+@ Bayport, TX	TRE	1
+@ Baytown, TX	TRE	1
+@ Beaumont, TX	TRE	1
+@ Belle Chasse, LA	SERC	1
+@ Belle, WV	RFC	1
+@ Belvidere, NJ	NPCC	1
+@ Benicia, CA	WECC-CA	1
+@ Billings, MT	WECC-ExCA	1
+@ Blaine, WA	WECC-ExCA	1
+@ Borger, TX	SPP	1
+@ Bradley, IL	MRO	1
+@ Brorger, TX	SPP	1
+@ Burkville, AL	SERC	1
+@ Butler, IN	MRO	1
+@ Butte, MT	WECC-ExCA	1
+@ Calvert City, KY	SERC	1
+@ Carson, CA	WECC-CA	1
+@ Catlettsburg, KY	RFC	1
+@ Cedar City, UT	WECC-ExCA	1
+@ Channelview, TX	TRE	1
+@ Charleston, TN	SERC	1
+@ Charlotte, NC	SERC	1
+@ Chattanooga, TN	SERC	1
+@ Cherry Point, WA	WECC-ExCA	1
+@ Cheyenne, WY	MRO	1
+@ Cincinnati, OH	RFC	1
+@ Coffeyville, KS	SERC	1
+@ Columbus, MS	SERC	1
+@ Commerce City, CO	MRO	1
+@ Convent, LA	SERC	1
+@ Conway, KS	SPP	1
+@ Corpus Christi, TX	TRE	1
+@ Cotton Valley, LA	TRE	1
+@ Crawfordsville, IN	MRO	1
+@ Dallas, TX	TRE	1
+@ Decatur, AL	SERC	1
+@ Decatur, IL	MRO	1
+@ Decatur, IN	MRO	1
+@ Deepwater, NJ	RFC	1
+@ Deer Park, TX	TRE	1
+@ Delaware City, DE	RFC	1
+@ Des Moines, IA	MRO	1
+@ Detroit, MI	MRO	1
+@ East Chicago, IN	MRO	1
+@ Eastover, SC	SERC	1
+@ Ecorse, MI	RFC	1
+@ El Dorado, AR	SERC	1
+@ El Dorado, KS	SERC	1
+@ El Segundo, CA	WECC-CA	1
+@ Euclid, OH	RFC	1
+@ Fairless Hills, PA	RFC	1
+@ Fort Worth, TX	TRE	1
+@ Freeport, TX	TRE	1
+@ Gainesville, GA	SERC	1
+@ Gallatin, TN	SERC	1
+@ Geismar, LA	SERC	1
+@ Great Falls, MT	WECC-ExCA	1
+@ Hamilton, MS	SERC	1
+@ Hannibal, MO	SERC	1
+@ Hartford, IL	RFC	1
+@ Henderson, NV	WECC-CA	1
+@ Huntsville, AL	SERC	1
+@ Ingleside, TX	TRE	1
+@ Institute, WV	RFC	1
+@ Jacksonville, IL	MRO	1
+@ Joliet, IL	MRO	1
+@ Kalama, WA	WECC-ExCA	1
+@ Karns City, PA	RFC	1
+@ Kingsport, TN	SERC	1
+@ LaBarge, WY	WECC-ExCA	1
+@ Lake Charles, LA	SERC	1
+@ La Porte, TX	TRE	1
+@ Laurel, MT	WECC-ExCA	1
+@ Lemont, IL	MRO	1
+@ Lima, OH	RFC	1
+@ Lincoln, NE	MRO	1
+@ Linden, NJ	NPCC	1
+@ Longview, TX	TRE	1
+@ Longview, WA	WECC-ExCA	1
+@ Louisville, KY	RFC	1
+@ Luling, LA	SERC	1
+@ Mankato, MN	MRO	1
+@ Mapleton, IL	MRO	1
+@ Marcus Hook, PA	RFC	1
+@ Martinez, CA	WECC-CA	1
+@ McIntosh, AL	SERC	1
+@ McPherson, KS	SPP	1
+@ Memphis, TN	SERC	1
+@ Middleton, OH	RFC	1
+@ Midland, MI	MRO	1
+@ Mobile, AL	SERC	1
+@ Mont Belvieu, TX	TRE	1
+@ Mont Belview, TX	TRE	1
+@ Moses Lake, WA	WECC-ExCA	1
+@ Mount Vernon, IN	RFC	1
+@ New Castle, DE	RFC	1
+@ Newell, WV	RFC	1
+@ New Orleans, LA	SERC	1
+@ Niagara Falls, NY	NPCC	1
+@ Norco, LA	SERC	1
+@ Norcross, GA	SERC	1
+@ Ontario, CA	WECC-CA	1
+@ Pasadena, TX	TRE	1
+@ Pascagoula, MS	SERC	1
+@ Paulsboro, NJ	RFC	1
+@ Pensacola, FL	SERC	1
+@ Petrolia, PA	RFC	1
+@ Plaquemine, LA	SERC	1
+@ Point Comfort, TX	TRE	1
+@ Ponca City, OK	SPP	1
+@ Port Arthur, TX	SERC	1
+@ Port Edwards, WI	MRO	1
+@ Princeton, LA	TRE	1
+@ Proctor, WV	RFC	1
+@ Raleigh, NC	SERC	1
+@ Richmond, CA	WECC-CA	1
+@ Rockport, IN	RFC	1
+@ Rodeo, CA	WECC-CA	1
+@ Rouseville, PA	NPCC	1
+@ Sacramento, CA	WECC-CA	1
+@ Salina, KS	SPP	1
+@ Salt Lake City, UT	WECC-ExCA	1
+@ Saraland, AL	SERC	1
+@ Sauget, IL	RFC	1
+@ Seymour, IN	RFC	1
+@ Shreveport, LA	TRE	1
+@ Sidney, OH	RFC	1
+@ Silsbee, TX	TRE	1
+@ Sioux City, IA	MRO	1
+@ Smackover, AR	SERC	1
+@ St. Charles, LA	SERC	1
+@ St. Gabriel, LA	SERC	1
+@ St. Joseph, MO	SERC	1
+@ St. Marys, PA	NPCC	1
+@ St. Paul, MN	MRO	1
+@ St. Paul Park, MN	MRO	1
+@ Stuttgart, AR	SERC	1
+@ Sweeney, TX	TRE	1
+@ Taft, LA	SERC	1
+@ Texas City, TX	TRE	1
+@ Theodore, AL	SERC	1
+@ Three Rivers, TX	TRE	1
+@ Toledo, OH	RFC	1
+@ Torrance, CA	WECC-CA	1
+@ Tuscaloosa, AL	SERC	1
+@ Valdosta, GA	FRCC	1
+@ Vicksburg, MS	SERC	1
+@ Victoria, TX	TRE	1
+@ Weirton, WV	RFC	1
+@ Westlake, LA	SERC	1
+@ West Leechburg, PA	RFC	1
+@ Whiting, IN	MRO	1
+@ Wichita, KS	SPP	1
+@ Wilmington, CA	WECC-CA	1
+@ Wood River, IL	RFC	1
+@ Wright, WY	MRO	1
+@ Wynneywood, OK	TRE	1

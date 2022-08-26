@@ -1,0 +1,658 @@
+Network ID	Zone	Fraction
+00199 | Aberdeen--Bel Air South--Bel Air North, MD	p123	0.999999999133489
+00280 | Abilene, TX	p61	1
+00766 | Akron, OH	p112	0.031413860525756
+00766 | Akron, OH	p111	0.968586139474244
+00820 | Alamogordo, NM	p31	1
+00955 | Albany, OR	p5	1
+00970 | Albany--Schenectady, NY	p127	1
+01171 | Albuquerque, NM	p31	1
+01495 | Allentown, PA--NJ	p126	0.04084990753241
+01495 | Allentown, PA--NJ	p122	0.95915009246759
+01792 | Altoona, PA	p122	1
+01927 | Amarillo, TX	p48	1
+02413 | Anderson, SC	p95	1
+02602 | Ann Arbor, MI	p103	1
+02683 | Antioch, CA	p9	1
+02764 | Appleton, WI	p76	1
+02926 | Arcata-McKinleyville, CA	p9	1
+03196 | Arroyo Grande--Grover Beach, CA	p9	1
+03358 | Asheville, NC	p97	1
+03763 | Athens-Clarke County, GA	p94	1
+03817 | Atlanta, GA	p94	1
+03898 | Atlantic City, NJ	p126	0.999999996915838
+04114 | Auburn, NY	p127	1
+04130 | Auburn--North Auburn, CA	p9	1
+04222 | Augusta-Richmond County, GA--SC	p94	0.653354542540636
+04222 | Augusta-Richmond County, GA--SC	p96	0.346645457459365
+04384 | Austin, TX	p64	1
+04549 | Avondale--Goodyear, AZ	p28	1
+04681 | Bakersfield, CA	p10	1
+04843 | Baltimore, MD	p123	0.999999996638831
+04951 | Bangor, ME	p134	1
+05167 | Barnstable Town, MA	p131	1
+06058 | Beaumont, TX	p66	1
+06652 | Bellingham, WA	p1	0.999999998824854
+06760 | Beloit, WI--IL	p78	0.649292120853215
+06760 | Beloit, WI--IL	p80	0.350707879146843
+06868 | Bend, OR	p5	1
+07138 | Benton Harbor--St. Joseph--Fair Plain, MI	p104	0.999999999048467
+07705 | Billings, MT	p20	1
+07732 | Binghamton, NY--PA	p122	0.0168140407872634
+07732 | Binghamton, NY--PA	p127	0.983185959212739
+07786 | Birmingham, AL	p90	0.0131685184068256
+07786 | Birmingham, AL	p89	0.986831481593174
+07921 | Bismarck, ND	p36	1
+08407 | Bloomington--Normal, IL	p83	1
+08434 | Bloomsburg--Berwick, PA	p122	1
+08785 | Boise City, ID	p15	1
+08974 | Bonita Springs, FL	p101	1
+09271 | Boston, MA--NH--RI	p131	0.934560980414484
+09271 | Boston, MA--NH--RI	p130	0.0652339348079553
+09271 | Boston, MA--NH--RI	p133	0.000205084113621062
+09298 | Boulder, CO	p33	1
+09514 | Bozeman, MT	p18	1
+09946 | Bremerton, WA	p1	0.999999994456627
+10162 | Bridgeport--Stamford, CT--NY	p132	0.971210116864633
+10162 | Bridgeport--Stamford, CT--NY	p127	0.0287898819974931
+10189 | Bridgeton, NJ	p126	1
+10891 | Browns Mills--Fort Dix, NJ	p126	1
+10972 | Brownsville, TX	p65	1
+11350 | Buffalo, NY	p127	1
+11431 | Bullhead City, AZ--NV	p27	0.97869005139898
+11431 | Bullhead City, AZ--NV	p13	0.0213099486010203
+11755 | Burlington, VT	p129	1
+12052 | Butte-Silver Bow, MT	p17	1
+12754 | Camarillo, CA	p10	1
+13375 | Canton, OH	p111	1
+13510 | Cape Coral, FL	p101	1
+14158 | Carson City, NV	p12	1
+14401 | Casa Grande, AZ	p28	1
+14482 | Casper, WY	p24	1
+14698 | Cedar City, UT	p25	1
+14752 | Cedar Rapids, IA	p70	1
+15076 | Centralia, WA	p1	0.347890446596371
+15076 | Centralia, WA	p2	0.652109553403627
+15184 | Chambersburg, PA	p120	1
+15211 | Champaign, IL	p83	1
+15508 | Charleston--North Charleston, SC	p96	1
+15670 | Charlotte, NC--SC	p95	0.0679253704317795
+15670 | Charlotte, NC--SC	p97	0.932074629568224
+15724 | Charlottesville, VA	p99	1
+15832 | Chattanooga, TN--GA	p92	0.759088118918937
+15832 | Chattanooga, TN--GA	p94	0.240911881081064
+16237 | Cheyenne, WY	p24	1
+16264 | Chicago, IL--IN	p105	0.130447117490739
+16264 | Chicago, IL--IN	p80	0.869551868572828
+16264 | Chicago, IL--IN	p79	1.01383175575359e-06
+16318 | Chico, CA	p9	1
+16885 | Cincinnati, OH--KY--IN	p114	0.76373396743119
+16885 | Cincinnati, OH--KY--IN	p107	0.0135389072262342
+16885 | Cincinnati, OH--KY--IN	p109	0.222727125342576
+17533 | Cleburne, TX	p63	1
+17668 | Cleveland, OH	p111	0.999999999825465
+18289 | Coalinga, CA	p9	1
+18451 | Coeur d'Alene, ID	p14	0.999989455800895
+18451 | Coeur d'Alene, ID	p3	1.05441991034168e-05
+18748 | College Station--Bryan, TX	p64	1
+18856 | Colorado Springs, CO	p33	0.000360787699890837
+18856 | Colorado Springs, CO	p34	0.99963921230011
+18964 | Columbia, SC	p96	1
+19234 | Columbus, OH	p112	0.999858780638568
+19234 | Columbus, OH	p113	0.000141219361432342
+19504 | Concord, CA	p9	1
+19531 | Concord, NH	p130	1
+19558 | Concord, NC	p97	1
+19755 | Conroe--The Woodlands, TX	p66	0.999491855926398
+19755 | Conroe--The Woodlands, TX	p67	0.000508144073601326
+20287 | Corpus Christi, TX	p65	1
+20422 | Corvallis, OR	p5	1
+21745 | Cumberland, MD--WV--PA	p121	0.952706261676874
+21745 | Cumberland, MD--WV--PA	p122	0.00165165149050649
+21745 | Cumberland, MD--WV--PA	p116	0.0456420868326202
+22042 | Dallas--Fort Worth--Arlington, TX	p63	1
+22096 | Danbury, CT--NY	p127	0.0495809543043021
+22096 | Danbury, CT--NY	p132	0.950419045695692
+22366 | Davenport, IA--IL	p70	0.460780710501198
+22366 | Davenport, IA--IL	p81	0.539219289498801
+22420 | Davis, CA	p9	1
+22528 | Dayton, OH	p114	0.068076695153863
+22528 | Dayton, OH	p113	0.931923304846137
+22960 | DeKalb, IL	p80	1
+22987 | Delano, CA	p10	1
+23203 | Del Rio, TX	p61	1
+23500 | Denton--Lewisville, TX	p63	1
+23527 | Denver--Aurora, CO	p33	1
+23743 | Des Moines, IA	p70	1
+23824 | Detroit, MI	p103	0.999999999704475
+24580 | Dover, DE	p125	1
+24607 | Dover--Rochester, NH--ME	p134	0.11582147700279
+24607 | Dover--Rochester, NH--ME	p130	0.884178521787884
+24850 | Duluth, MN--WI	p43	0.799079517926409
+24850 | Duluth, MN--WI	p46	0.200920478773377
+25228 | Durham, NC	p98	1
+25849 | East Stroudsburg, PA--NJ	p122	0.991948081896791
+25849 | East Stroudsburg, PA--NJ	p126	0.0080519181032087
+26038 | Eau Claire, WI	p46	1
+26416 | El Centro--Calexico, CA	p10	1
+26794 | Elkhart, IN--MI	p104	0.0154647796394321
+26794 | Elkhart, IN--MI	p105	0.984535220360566
+27118 | Elmira, NY	p127	1
+27253 | El Paso, TX--NM	p59	0.929448152759686
+27253 | El Paso, TX--NM	p31	0.0705518466560003
+27261 | El Paso de Robles (Paso Robles)--Atascadero, CA	p9	1
+27766 | Erie, PA	p122	1
+28117 | Eugene, OR	p5	1
+28198 | Eureka, CA	p9	1
+28657 | Fairfield, CA	p9	1
+29089 | Fargo, ND--MN	p37	0.751143673310429
+29089 | Fargo, ND--MN	p42	0.248856326689607
+29278 | Farmington, NM	p31	1
+29440 | Fayetteville, NC	p98	1
+29818 | Flagstaff, AZ	p28	1
+30628 | Fort Collins, CO	p33	1
+31087 | Fort Wayne, IN	p105	1
+31150 | Four Corners, FL	p101	1
+31450 | Franklin--Highland Lake, NJ	p126	1
+31519 | Frederick, MD	p121	1
+31600 | Fredericksburg, VA	p99	1
+31843 | Fresno, CA	p9	1
+32167 | Gainesville, FL	p101	1
+32194 | Gainesville, GA	p94	1
+32491 | Galveston, TX	p67	1
+33247 | Gillette, WY	p23	1
+33328 | Gilroy--Morgan Hill, CA	p9	1
+33598 | Glens Falls, NY	p127	1
+34273 | Grand Junction, CO	p33	1
+34300 | Grand Rapids, MI	p103	1
+34516 | Grants Pass, OR	p6	1
+34597 | Grass Valley, CA	p9	1
+34759 | Great Falls, MT	p18	1
+34786 | Greeley, CO	p33	1
+34813 | Green Bay, WI	p75	0.999999999759271
+35164 | Greensboro, NC	p97	1
+35380 | Greenville, NC	p98	1
+35461 | Greenville, SC	p95	1
+36055 | Gustine, CA	p9	1
+36190 | Hagerstown, MD--WV--PA	p120	0.062897982737095
+36190 | Hagerstown, MD--WV--PA	p121	0.412989263146881
+36190 | Hagerstown, MD--WV--PA	p116	0.524110400733767
+36190 | Hagerstown, MD--WV--PA	p100	2.35338226305999e-06
+36703 | Hanford, CA	p9	1
+36784 | Hanover, PA	p122	1
+37081 | Harrisburg, PA	p122	1
+37162 | Harrisonburg, VA	p99	1
+37243 | Hartford, CT	p131	1.35539398895855e-05
+37243 | Hartford, CT	p132	0.99998644606011
+37945 | Hazleton, PA	p122	1
+38161 | Helena, MT	p18	1
+38215 | Hemet, CA	p10	1
+38647 | Hickory, NC	p97	1
+39079 | Hilton Head Island, SC	p96	0.999999998767908
+39214 | Hobbs, NM	p47	1
+39511 | Hollister, CA	p9	1
+40429 | Houston, TX	p66	0.0543748159927583
+40429 | Houston, TX	p67	0.94543559108932
+40429 | Houston, TX	p64	0.000189592873938062
+40780 | Huntsville, AL	p89	1
+40996 | Idaho Falls, ID	p16	1
+41212 | Indianapolis, IN	p105	0.186949352525382
+41212 | Indianapolis, IN	p106	0.70842387010877
+41212 | Indianapolis, IN	p107	0.104626777365847
+41347 | Indio--Cathedral City, CA	p10	1
+41590 | Iowa City, IA	p70	1
+41914 | Ithaca, NY	p127	1
+42346 | Jacksonville, FL	p101	0.99999999997465
+43291 | Johnstown, PA	p122	1
+43723 | Kalamazoo, MI	p104	1
+43777 | Kalispell, MT	p17	1
+43885 | Kankakee, IL	p80	1
+43912 | Kansas City, MO--KS	p53	0.40999242989873
+43912 | Kansas City, MO--KS	p54	0.590007570101271
+44479 | Kennewick--Pasco, WA	p3	0.307143176982391
+44479 | Kennewick--Pasco, WA	p2	0.692856823017612
+44506 | Kenosha, WI--IL	p79	0.999973764470519
+44506 | Kenosha, WI--IL	p80	2.62354322424094e-05
+44992 | Killeen, TX	p63	1
+45127 | Kingman, AZ	p27	1
+45262 | Kingston, NY	p127	1
+45451 | Kissimmee, FL	p101	1
+45505 | Klamath Falls--Altamont, OR	p6	1
+45640 | Knoxville, TN	p92	1
+45910 | La Crosse, WI--MN	p77	0.00326944871140965
+45910 | La Crosse, WI--MN	p46	0.940645404380492
+45910 | La Crosse, WI--MN	p68	0.0560851469080907
+45937 | Lady Lake--The Villages, FL	p101	1
+46018 | Lafayette, IN	p105	1
+46126 | Lafayette--Louisville--Erie, CO	p33	1
+46747 | Lake Havasu City, AZ	p27	1
+47530 | Lancaster, PA	p122	1
+47611 | Lancaster--Palmdale, CA	p10	1
+47719 | Lansing, MI	p103	1
+47827 | Laramie, WY	p24	1
+47854 | Laredo, TX	p65	1
+47935 | Las Cruces, NM	p31	1
+47995 | Las Vegas--Henderson, NV	p13	1
+48664 | Lebanon, PA	p122	1
+48826 | Lee's Summit, MO	p54	1
+49096 | Leominster--Fitchburg, MA	p131	1
+49312 | Lewiston, ID--WA	p14	0.575775164970393
+49312 | Lewiston, ID--WA	p2	0.424224835029591
+49582 | Lexington-Fayette, KY	p109	1
+49594 | Lexington Park--California--Chesapeake Ranch Estates, MD	p123	0.999999995155829
+49933 | Lincoln, NE	p41	1
+50392 | Little Rock, AR	p85	1
+50527 | Livermore, CA	p9	1
+50851 | Lodi, CA	p9	1
+50959 | Logan, UT	p25	1
+51040 | Lompoc, CA	p9	1
+51175 | Longmont, CO	p33	1
+51283 | Longview, WA--OR	p2	0.927379934350771
+51283 | Longview, WA--OR	p5	0.0726200656492283
+51445 | Los Angeles--Long Beach--Anaheim, CA	p10	0.999999999692998
+51472 | Los Banos, CA	p9	1
+51499 | Los Lunas, NM	p31	1
+51755 | Louisville/Jefferson County, KY--IN	p107	0.193973494351357
+51755 | Louisville/Jefferson County, KY--IN	p109	0.806026505648649
+51877 | Lubbock, TX	p48	1
+52201 | Lynchburg, VA	p118	0.824414586802961
+52201 | Lynchburg, VA	p99	0.175585413197038
+52390 | McAllen, TX	p65	1
+52687 | McKinney, TX	p63	1
+52741 | McMinnville, OR	p5	1
+52984 | Madera, CA	p9	1
+53200 | Madison, WI	p78	1
+53740 | Manchester, NH	p130	1
+53794 | Mandeville--Covington, LA	p58	1
+54145 | Manteca, CA	p9	1
+54477 | Maricopa, AZ	p28	1
+55333 | Marysville, WA	p1	0.999999999870738
+55603 | Mauldin--Simpsonville, SC	p95	1
+55981 | Medford, OR	p6	1
+56116 | Memphis, TN--MS--AR	p85	0.0459168781268115
+56116 | Memphis, TN--MS--AR	p92	0.76319010259921
+56116 | Memphis, TN--MS--AR	p87	0.190893019273979
+56251 | Merced, CA	p9	1
+56602 | Miami, FL	p102	0.999999999057177
+56656 | Michigan City--La Porte, IN--MI	p104	0.0194564136002441
+56656 | Michigan City--La Porte, IN--MI	p105	0.980543585918343
+56899 | Middletown, NY	p127	1
+57007 | Midland, TX	p62	1
+57439 | Milton--Lewisburg, PA	p122	1
+57466 | Milwaukee, WI	p79	0.999999999848097
+57628 | Minneapolis--St. Paul, MN--WI	p43	0.99931513803397
+57628 | Minneapolis--St. Paul, MN--WI	p46	0.000684861966030018
+57709 | Mission Viejo--Lake Forest--San Clemente, CA	p10	0.945045566610953
+57709 | Mission Viejo--Lake Forest--San Clemente, CA	p11	0.0549544330307462
+57736 | Missoula, MT	p17	1
+58006 | Modesto, CA	p9	1
+59518 | Moses Lake, WA	p4	1
+60490 | Mount Vernon, WA	p1	1
+60799 | Murrieta--Temecula--Menifee, CA	p10	1
+60841 | Muskegon, MI	p103	1
+60895 | Myrtle Beach--Socastee, SC--NC	p98	0.150763914294045
+60895 | Myrtle Beach--Socastee, SC--NC	p96	0.849236084709747
+60976 | Nampa, ID	p15	1
+61057 | Napa, CA	p9	1
+61165 | Nashua, NH--MA	p131	0.0372325115954408
+61165 | Nashua, NH--MA	p130	0.962767488404558
+61273 | Nashville-Davidson, TN	p92	1
+61786 | New Bedford, MA	p131	0.999999996937921
+62407 | New Haven, CT	p132	0.999999999547161
+62677 | New Orleans, LA	p58	1
+63217 | New York--Newark, NY--NJ--CT	p128	0.231202715603732
+63217 | New York--Newark, NY--NJ--CT	p126	0.544683809740496
+63217 | New York--Newark, NY--NJ--CT	p127	0.224100814997256
+63217 | New York--Newark, NY--NJ--CT	p132	1.2658286247411e-05
+63325 | Nogales, AZ	p30	0.999999999216485
+63433 | Norman, OK	p50	1
+63838 | North Port--Port Charlotte, FL	p101	1
+64135 | Norwich--New London, CT--RI	p132	0.900122835260838
+64135 | Norwich--New London, CT--RI	p133	0.0998771628689624
+64378 | Oak Harbor, WA	p1	0.999999997784847
+64660 | Ocean Pines, MD--DE	p123	0.847206088334356
+64660 | Ocean Pines, MD--DE	p125	0.152793898563375
+64864 | Odessa, TX	p62	1
+64945 | Ogden--Layton, UT	p25	1
+65080 | Oklahoma City, OK	p50	1
+65242 | Olympia--Lacey, WA	p1	0.999999997785849
+65269 | Omaha, NE--IA	p41	0.872011696294615
+65269 | Omaha, NE--IA	p45	0.127988303705388
+65863 | Orlando, FL	p101	1
+65944 | Oroville, CA	p9	1
+66241 | Oswego, NY	p127	1
+66673 | Oxnard, CA	p10	0.999999999481165
+67105 | Palm Bay--Melbourne, FL	p102	0.999999995054955
+67375 | Paradise, CA	p9	1
+68509 | Peoria, IL	p82	1
+68833 | Peru--LaSalle, IL	p81	0.243579502207635
+68833 | Peru--LaSalle, IL	p80	0.756420497792363
+68887 | Petaluma, CA	p9	1
+69076 | Philadelphia, PA--NJ--DE--MD	p126	0.255595883286871
+69076 | Philadelphia, PA--NJ--DE--MD	p125	0.0981200952880661
+69076 | Philadelphia, PA--NJ--DE--MD	p123	0.0216625757056899
+69076 | Philadelphia, PA--NJ--DE--MD	p122	0.624621445685969
+69184 | Phoenix--Mesa, AZ	p28	1
+69517 | Pinehurst--Southern Pines, NC	p98	1
+69697 | Pittsburgh, PA	p115	1
+69778 | Pittsfield, MA	p131	1
+70426 | Pocatello, ID	p16	1
+70993 | Port Arthur, TX	p66	0.999994833222184
+70993 | Port Arthur, TX	p58	5.16677781518082e-06
+71074 | Porterville, CA	p10	1
+71263 | Portland, ME	p134	0.999999997765522
+71317 | Portland, OR--WA	p5	0.764802574259612
+71317 | Portland, OR--WA	p2	0.235197425740389
+71479 | Port St. Lucie, FL	p102	0.999999997356471
+71506 | Portsmouth, NH--ME	p134	0.187205741852203
+71506 | Portsmouth, NH--ME	p130	0.812794254155568
+71749 | Pottstown, PA	p122	1
+71776 | Pottsville, PA	p122	1
+71803 | Poughkeepsie--Newburgh, NY--NJ	p126	0.0248074165084336
+71803 | Poughkeepsie--Newburgh, NY--NJ	p127	0.975192583491569
+72112 | Prescott Valley--Prescott, AZ	p28	1
+72505 | Providence, RI--MA	p133	0.693106924270784
+72505 | Providence, RI--MA	p131	0.30689307438163
+72559 | Provo--Orem, UT	p25	1
+72613 | Pueblo, CO	p34	1
+73153 | Racine, WI	p79	1
+73261 | Raleigh, NC	p98	1
+73396 | Rapid City, SD	p38	0.129029723019444
+73396 | Rapid City, SD	p32	0.87097027698055
+73693 | Reading, PA	p122	1
+73774 | Redding, CA	p9	1
+74044 | Reedley--Dinuba, CA	p10	0.475935084779938
+74044 | Reedley--Dinuba, CA	p9	0.524064915220061
+74179 | Reno, NV--CA	p9	7.91802335734492e-05
+74179 | Reno, NV--CA	p12	0.999920819766423
+74746 | Richmond, VA	p99	1
+74827 | Ridgecrest, CA	p10	1
+75340 | Riverside--San Bernardino, CA	p10	1
+75421 | Roanoke, VA	p118	1
+75637 | Rochester, MN	p43	1
+75664 | Rochester, NY	p127	1
+75718 | Rockford, IL	p80	1
+76231 | Rome, NY	p127	1
+76339 | Roseburg, OR	p6	1
+76447 | Roswell, NM	p47	1
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	p80	0.858605677830825
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	p79	0.141394322169188
+77068 | Sacramento, CA	p9	1
+77161 | Sahuarita--Green Valley, AZ	p30	1
+77338 | St. Cloud, MN	p43	1
+77446 | St. George, UT	p25	1
+77770 | St. Louis, MO--IL	p72	0.736723905831332
+77770 | St. Louis, MO--IL	p81	0.263276094168666
+78229 | Salem, OR	p5	1
+78310 | Salinas, CA	p9	1
+78364 | Salisbury, MD--DE	p125	0.296899204780856
+78364 | Salisbury, MD--DE	p123	0.703100795219134
+78499 | Salt Lake City--West Valley City, UT	p25	1
+78553 | San Angelo, TX	p61	1
+78580 | San Antonio, TX	p64	0.135176699825862
+78580 | San Antonio, TX	p65	0.864823300174141
+78661 | San Diego, CA	p11	0.999999999021436
+78904 | San Francisco--Oakland, CA	p9	1
+79039 | San Jose, CA	p9	1
+79147 | San Luis Obispo, CA	p9	1
+79282 | Santa Barbara, CA	p9	0.999360930026013
+79282 | Santa Barbara, CA	p10	0.000639069003913931
+79309 | Santa Clarita, CA	p10	1
+79336 | Santa Cruz, CA	p9	1
+79363 | Santa Fe, NM	p31	1
+79417 | Santa Maria, CA	p9	1
+79498 | Santa Rosa, CA	p9	1
+79606 | Sarasota--Bradenton, FL	p101	1
+79633 | Saratoga Springs, NY	p127	1
+80227 | Scranton, PA	p122	1
+80362 | Seaside--Monterey, CA	p9	1
+80389 | Seattle, WA	p1	0.999999999228017
+80400 | Sebastian--Vero Beach South--Florida Ridge, FL	p102	0.999999996153837
+80551 | Selma, CA	p10	0.00546849319312865
+80551 | Selma, CA	p9	0.99453150680687
+80985 | Shamokin--Mount Carmel, PA	p122	1
+81739 | Shreveport, LA	p58	1
+81901 | Sierra Vista, AZ	p28	1
+82144 | Simi Valley, CA	p10	1
+82225 | Sioux City, IA--NE--SD	p38	0.106562887214704
+82225 | Sioux City, IA--NE--SD	p45	0.695718449900585
+82225 | Sioux City, IA--NE--SD	p40	0.197718662884703
+82252 | Sioux Falls, SD	p38	1
+83008 | Sonoma, CA	p9	1
+83116 | South Bend, IN--MI	p104	0.210457628252927
+83116 | South Bend, IN--MI	p105	0.789542371747092
+83764 | Spokane, WA	p3	0.999999163492367
+83764 | Spokane, WA	p14	8.36507632827303e-07
+83899 | Springfield, IL	p82	1
+83926 | Springfield, MA--CT	p131	0.775982104691956
+83926 | Springfield, MA--CT	p132	0.224017895308045
+83953 | Springfield, MO	p55	1
+84493 | State College, PA	p119	1
+84630 | Staunton--Waynesboro, VA	p99	1
+85087 | Stockton, CA	p9	1
+86302 | Syracuse, NY	p127	1
+86599 | Tampa--St. Petersburg, FL	p101	1
+87058 | Temple, TX	p63	1
+87220 | Texas City, TX	p67	1
+87490 | Thousand Oaks, CA	p10	1
+87868 | Toledo, OH--MI	p103	0.0899645507998456
+87868 | Toledo, OH--MI	p111	0.910035449010101
+88057 | Tooele, UT	p25	1
+88192 | Torrington, CT	p132	1
+88273 | Tracy, CA	p9	1
+88462 | Trenton, NJ	p122	4.34207113823944e-06
+88462 | Trenton, NJ	p126	0.999995657928861
+88624 | Truckee, CA	p9	1
+88732 | Tucson, AZ	p30	0.984927650896576
+88732 | Tucson, AZ	p28	0.0150723491034221
+88948 | Tulsa, OK	p51	1
+89083 | Turlock, CA	p9	1
+89245 | Twin Falls, ID	p16	1
+89263 | Twin Rivers--Hightstown, NJ	p126	1
+89326 | Tyler, TX	p63	1
+89785 | Utica, NY	p127	1
+89866 | Vacaville, CA	p9	1
+90028 | Vallejo, CA	p9	1
+90541 | Victorville--Hesperia, CA	p10	1
+90658 | Villas, NJ	p126	0.999999996520949
+90730 | Vineland, NJ	p126	1
+90892 | Virginia Beach, VA	p99	0.999999996817605
+90946 | Visalia, CA	p9	1.40311669261447e-06
+90946 | Visalia, CA	p10	0.999998596883309
+91027 | Waco, TX	p63	1
+91261 | Waldorf, MD	p123	1
+91405 | Walla Walla, WA--OR	p5	0.201297651523356
+91405 | Walla Walla, WA--OR	p2	0.798702348476644
+92242 | Washington, DC--VA--MD	p99	0.523910822277004
+92242 | Washington, DC--VA--MD	p121	0.0125007319480558
+92242 | Washington, DC--VA--MD	p123	0.463588445774942
+92485 | Waterbury, CT	p132	1
+92593 | Waterloo, IA	p69	1
+92674 | Watertown, NY	p127	1
+92890 | Watsonville, CA	p9	1
+93484 | Weatherford, TX	p63	1
+93862 | Wenatchee, WA	p4	0.501524299641332
+93862 | Wenatchee, WA	p1	0.498475700358673
+94294 | Westminster--Eldersburg, MD	p123	1
+95077 | Wichita, KS	p53	1
+95104 | Wichita Falls, TX	p63	1
+95455 | Williamsport, PA	p122	1
+95833 | Wilmington, NC	p98	1
+96103 | Winchester, VA	p100	1
+96670 | Winston-Salem, NC	p97	1
+96913 | Woodburn, OR	p5	1
+96994 | Woodland, CA	p9	1
+97291 | Worcester, MA--CT	p131	0.895289147571354
+97291 | Worcester, MA--CT	p132	0.104710852428641
+97507 | Yakima, WA	p2	1
+97750 | York, PA	p122	1
+97939 | Yuba City, CA	p9	1
+98020 | Yuma, AZ--CA	p28	0.976818191013859
+98020 | Yuma, AZ--CA	p10	0.0231818089861409
+@ Anacortes, WA		1
+@ Anniston, AL		1
+@ Ardmore, OK		1
+@ Artesia, NM		1
+@ Ashtabula, OH		1
+@ Augusta, GA		1
+@ Bakersfield, CA		1
+@ Baton Rouge, LA		1
+@ Batton Rouge, LA		1
+@ Bay City, TX		1
+@ Bayport, TX		1
+@ Baytown, TX		1
+@ Beaumont, TX		1
+@ Belle Chasse, LA		1
+@ Belle, WV		1
+@ Belvidere, NJ		1
+@ Benicia, CA		1
+@ Billings, MT		1
+@ Blaine, WA		1
+@ Borger, TX		1
+@ Bradley, IL		1
+@ Brorger, TX		1
+@ Burkville, AL		1
+@ Butler, IN		1
+@ Butte, MT		1
+@ Calvert City, KY		1
+@ Carson, CA		1
+@ Catlettsburg, KY		1
+@ Cedar City, UT		1
+@ Channelview, TX		1
+@ Charleston, TN		1
+@ Charlotte, NC		1
+@ Chattanooga, TN		1
+@ Cherry Point, WA		1
+@ Cheyenne, WY		1
+@ Cincinnati, OH		1
+@ Coffeyville, KS		1
+@ Columbus, MS		1
+@ Commerce City, CO		1
+@ Convent, LA		1
+@ Conway, KS		1
+@ Corpus Christi, TX		1
+@ Cotton Valley, LA		1
+@ Crawfordsville, IN		1
+@ Dallas, TX		1
+@ Decatur, AL		1
+@ Decatur, IL		1
+@ Decatur, IN		1
+@ Deepwater, NJ		1
+@ Deer Park, TX		1
+@ Delaware City, DE		1
+@ Des Moines, IA		1
+@ Detroit, MI		1
+@ East Chicago, IN		1
+@ Eastover, SC		1
+@ Ecorse, MI		1
+@ El Dorado, AR		1
+@ El Dorado, KS		1
+@ El Segundo, CA		1
+@ Euclid, OH		1
+@ Fairless Hills, PA		1
+@ Fort Worth, TX		1
+@ Freeport, TX		1
+@ Gainesville, GA		1
+@ Gallatin, TN		1
+@ Geismar, LA		1
+@ Great Falls, MT		1
+@ Hamilton, MS		1
+@ Hannibal, MO		1
+@ Hartford, IL		1
+@ Henderson, NV		1
+@ Huntsville, AL		1
+@ Ingleside, TX		1
+@ Institute, WV		1
+@ Jacksonville, IL		1
+@ Joliet, IL		1
+@ Kalama, WA		1
+@ Karns City, PA		1
+@ Kingsport, TN		1
+@ LaBarge, WY		1
+@ Lake Charles, LA		1
+@ La Porte, TX		1
+@ Laurel, MT		1
+@ Lemont, IL		1
+@ Lima, OH		1
+@ Lincoln, NE		1
+@ Linden, NJ		1
+@ Longview, TX		1
+@ Longview, WA		1
+@ Louisville, KY		1
+@ Luling, LA		1
+@ Mankato, MN		1
+@ Mapleton, IL		1
+@ Marcus Hook, PA		1
+@ Martinez, CA		1
+@ McIntosh, AL		1
+@ McPherson, KS		1
+@ Memphis, TN		1
+@ Middleton, OH		1
+@ Midland, MI		1
+@ Mobile, AL		1
+@ Mont Belvieu, TX		1
+@ Mont Belview, TX		1
+@ Moses Lake, WA		1
+@ Mount Vernon, IN		1
+@ New Castle, DE		1
+@ Newell, WV		1
+@ New Orleans, LA		1
+@ Niagara Falls, NY		1
+@ Norco, LA		1
+@ Norcross, GA		1
+@ Ontario, CA		1
+@ Pasadena, TX		1
+@ Pascagoula, MS		1
+@ Paulsboro, NJ		1
+@ Pensacola, FL		1
+@ Petrolia, PA		1
+@ Plaquemine, LA		1
+@ Point Comfort, TX		1
+@ Ponca City, OK		1
+@ Port Arthur, TX		1
+@ Port Edwards, WI		1
+@ Princeton, LA		1
+@ Proctor, WV		1
+@ Raleigh, NC		1
+@ Richmond, CA		1
+@ Rockport, IN		1
+@ Rodeo, CA		1
+@ Rouseville, PA		1
+@ Sacramento, CA		1
+@ Salina, KS		1
+@ Salt Lake City, UT		1
+@ Saraland, AL		1
+@ Sauget, IL		1
+@ Seymour, IN		1
+@ Shreveport, LA		1
+@ Sidney, OH		1
+@ Silsbee, TX		1
+@ Sioux City, IA		1
+@ Smackover, AR		1
+@ St. Charles, LA		1
+@ St. Gabriel, LA		1
+@ St. Joseph, MO		1
+@ St. Marys, PA		1
+@ St. Paul, MN		1
+@ St. Paul Park, MN		1
+@ Stuttgart, AR		1
+@ Sweeney, TX		1
+@ Taft, LA		1
+@ Texas City, TX		1
+@ Theodore, AL		1
+@ Three Rivers, TX		1
+@ Toledo, OH		1
+@ Torrance, CA		1
+@ Tuscaloosa, AL		1
+@ Valdosta, GA		1
+@ Vicksburg, MS		1
+@ Victoria, TX		1
+@ Weirton, WV		1
+@ Westlake, LA		1
+@ West Leechburg, PA		1
+@ Whiting, IN		1
+@ Wichita, KS		1
+@ Wilmington, CA		1
+@ Wood River, IL		1
+@ Wright, WY		1
+@ Wynneywood, OK		1

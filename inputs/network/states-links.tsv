@@ -1,0 +1,5000 @@
+Network ID	Zone	Fraction
+Link 1	Florida	0.275184241662727
+Link 1	Texas	0.724815758337273
+Link 10	Florida	1.0
+Link 100	Texas	1.0
+Link 1000	North Carolina	0.401811018112793
+Link 1000	Georgia	0.452814490662791
+Link 1000	South Carolina	0.145374491224433
+Link 1001	North Carolina	0.377744450982098
+Link 1001	South Carolina	0.622255549017901
+Link 1002	South Carolina	0.239817085038339
+Link 1002	Georgia	0.760182914961666
+Link 1003	North Carolina	1.0
+Link 1004	North Carolina	1.0
+Link 1005	North Carolina	1.0
+Link 1006	North Carolina	1.0
+Link 1007	North Carolina	1.0
+Link 1008	North Carolina	1.0
+Link 1009	California	1.0
+Link 101	Texas	1.0
+Link 1010	California	1.0
+Link 1011	California	1.0
+Link 1012	New Mexico	0.552711401522683
+Link 1012	Texas	0.447288598477325
+Link 1013	Texas	1.0
+Link 1014	Texas	0.442760994763152
+Link 1014	New Mexico	0.557239005236817
+Link 1015	New Mexico	0.550566682283651
+Link 1015	Arizona	0.449433317716347
+Link 1016	New Mexico	1.0
+Link 1017	New Mexico	0.545450154689859
+Link 1017	Arizona	0.454549845310153
+Link 1018	California	1.0
+Link 1019	California	1.0
+Link 102	Texas	1.0
+Link 1020	California	1.0
+Link 1021	Oklahoma	0.290422150012193
+Link 1021	Texas	0.709577849987821
+Link 1022	Texas	1.0
+Link 1023	Texas	1.0
+Link 1024	California	1.0
+Link 1025	California	1.0
+Link 1026	California	1.0
+Link 1027	North Carolina	1.0
+Link 1028	North Carolina	1.0
+Link 1029	North Carolina	1.0
+Link 103	Louisiana	0.76391899154094
+Link 103	Florida	0.23608100845906
+Link 1030	California	1.0
+Link 1031	California	1.0
+Link 1032	California	1.0
+Link 1033	North Carolina	1.0
+Link 1034	North Carolina	1.0
+Link 1035	North Carolina	1.0
+Link 1036	California	1.0
+Link 1037	California	1.0
+Link 1038	California	1.0
+Link 1039	North Carolina	0.4761706116764
+Link 1039	Tennessee	0.523829388323601
+Link 104	Texas	0.724815758337274
+Link 104	Florida	0.275184241662727
+Link 1040	South Carolina	0.145374491224433
+Link 1040	North Carolina	0.401811018112793
+Link 1040	Georgia	0.452814490662791
+Link 1041	North Carolina	0.271142015781441
+Link 1041	Georgia	0.4351071514685
+Link 1041	Tennessee	0.29375083275003
+Link 1042	North Carolina	1.0
+Link 1043	North Carolina	1.0
+Link 1044	North Carolina	1.0
+Link 1045	Oklahoma	1.0
+Link 1046	Oklahoma	1.0
+Link 1047	Oklahoma	1.0
+Link 1048	Tennessee	0.563953266240309
+Link 1048	Alabama	0.436046733759708
+Link 1049	Alabama	1.0
+Link 105	Texas	0.206851309826228
+Link 105	Louisiana	0.793148690173772
+Link 1050	Alabama	0.546559329714815
+Link 1050	Tennessee	0.453440670285196
+Link 1051	Oklahoma	0.789398785950674
+Link 1051	Texas	0.210601214049334
+Link 1052	Oklahoma	0.305260213171108
+Link 1052	Texas	0.694739786828925
+Link 1053	Oklahoma	1.0
+Link 1054	California	1.0
+Link 1055	California	1.0
+Link 1056	California	1.0
+Link 1057	Texas	0.151446997473463
+Link 1057	Oklahoma	0.848553002526565
+Link 1058	Oklahoma	1.0
+Link 1059	Oklahoma	0.80543942892001
+Link 1059	Texas	0.194560571079997
+Link 106	Texas	1.0
+Link 1060	Arizona	0.0615051300252675
+Link 1060	Nevada	0.938494869974741
+Link 1061	Nevada	1.0
+Link 1062	Nevada	0.926980352738776
+Link 1062	Arizona	0.0730196472612062
+Link 1063	Tennessee	1.0
+Link 1064	Alabama	0.196857318276017
+Link 1064	Tennessee	0.803142681724011
+Link 1065	Alabama	0.436046733759708
+Link 1065	Tennessee	0.563953266240309
+Link 1066	Texas	0.402022879933612
+Link 1066	Oklahoma	0.597977120066342
+Link 1067	Texas	1.0
+Link 1068	Texas	0.210601214049334
+Link 1068	Oklahoma	0.789398785950675
+Link 1069	California	1.0
+Link 107	Texas	1.0
+Link 1070	California	1.0
+Link 1071	California	1.0
+Link 1072	North Carolina	1.0
+Link 1073	North Carolina	1.0
+Link 1074	North Carolina	1.0
+Link 1075	Oklahoma	1.0
+Link 1076	Oklahoma	1.0
+Link 1077	Oklahoma	1.0
+Link 1078	California	1.0
+Link 1079	California	1.0
+Link 108	Texas	1.0
+Link 1080	California	1.0
+Link 1081	North Carolina	1.0
+Link 1082	North Carolina	1.0
+Link 1083	North Carolina	1.0
+Link 1084	Arizona	0.689777635446474
+Link 1084	Nevada	0.31022236455355
+Link 1085	Nevada	0.0139994426233567
+Link 1085	Arizona	0.986000557376642
+Link 1086	Arizona	0.0730196472612062
+Link 1086	Nevada	0.926980352738775
+Link 1087	California	1.0
+Link 1088	California	1.0
+Link 1089	California	1.0
+Link 109	Texas	0.999999999999997
+Link 1090	Georgia	0.0134101446053682
+Link 1090	Tennessee	0.986589855394629
+Link 1091	Tennessee	0.0981085007393476
+Link 1091	Georgia	0.132015236165462
+Link 1091	Alabama	0.769876263095158
+Link 1092	Alabama	0.196857318276017
+Link 1092	Tennessee	0.80314268172401
+Link 1093	Nevada	0.22011291499441
+Link 1093	California	0.779887085005603
+Link 1094	Nevada	0.938494869974741
+Link 1094	Arizona	0.0615051300252675
+Link 1095	California	0.941297596659262
+Link 1095	Arizona	0.0403681453511953
+Link 1095	Nevada	0.0183342579895758
+Link 1096	California	1.0
+Link 1097	California	1.0
+Link 1098	California	1.0
+Link 1099	California	1.0
+Link 11	Florida	1.0
+Link 110	Texas	1.0
+Link 1100	California	1.0
+Link 1101	California	1.0
+Link 1102	California	0.781823918349906
+Link 1102	Nevada	0.218176081650115
+Link 1103	California	0.779887085005603
+Link 1103	Nevada	0.22011291499441
+Link 1104	California	1.0
+Link 1105	Georgia	0.0131912469081916
+Link 1105	Tennessee	0.986808753091817
+Link 1106	Georgia	0.0134101446053682
+Link 1106	Tennessee	0.986589855394627
+Link 1107	Tennessee	1.0
+Link 1108	Oklahoma	1.0
+Link 1109	Oklahoma	1.0
+Link 111	Texas	1.0
+Link 1110	Oklahoma	1.0
+Link 1111	California	1.0
+Link 1112	California	1.0
+Link 1113	California	1.0
+Link 1114	California	1.0
+Link 1115	California	1.0
+Link 1116	California	1.0
+Link 1117	California	1.0
+Link 1118	California	0.999999999999999
+Link 1119	California	1.0
+Link 112	Texas	0.999999999999984
+Link 1120	North Carolina	1.0
+Link 1121	North Carolina	1.0
+Link 1122	North Carolina	1.0
+Link 1123	Tennessee	1.0
+Link 1124	Tennessee	1.0
+Link 1125	Tennessee	1.0
+Link 1126	Arkansas	0.54111413830023
+Link 1126	Oklahoma	0.458885861699766
+Link 1127	Arkansas	0.409920103051743
+Link 1127	Louisiana	0.233522072160746
+Link 1127	Texas	0.356557824787539
+Link 1128	Texas	0.402022879933612
+Link 1128	Oklahoma	0.597977120066341
+Link 1129	Tennessee	0.478385823973358
+Link 1129	North Carolina	0.521614176026637
+Link 113	Texas	1.0
+Link 1130	North Carolina	1.0
+Link 1131	Tennessee	0.53932617307557
+Link 1131	North Carolina	0.460673826924435
+Link 1132	Oklahoma	0.404718327654652
+Link 1132	Arkansas	0.595281672345366
+Link 1133	Arkansas	1.0
+Link 1134	Oklahoma	0.458885861699765
+Link 1134	Arkansas	0.541114138300229
+Link 1135	Tennessee	1.0
+Link 1136	Georgia	0.13805575993542
+Link 1136	Tennessee	0.861944240064586
+Link 1137	Georgia	0.0131912469081916
+Link 1137	Tennessee	0.986808753091818
+Link 1138	Oklahoma	0.293718790248478
+Link 1138	Texas	0.706281209751513
+Link 1139	Texas	0.709577849987821
+Link 1139	Oklahoma	0.290422150012192
+Link 114	Texas	0.999999999999997
+Link 1140	Texas	1.0
+Link 1141	California	1.0
+Link 1142	California	1.0
+Link 1143	California	1.0
+Link 1144	New Mexico	1.0
+Link 1145	New Mexico	1.0
+Link 1146	New Mexico	1.0
+Link 1147	Oklahoma	1.0
+Link 1148	Oklahoma	1.0
+Link 1149	Oklahoma	1.0
+Link 115	Texas	1.0
+Link 1150	Arizona	0.524667919976104
+Link 1150	New Mexico	0.475332080023889
+Link 1151	Arizona	0.449433317716347
+Link 1151	New Mexico	0.550566682283651
+Link 1152	Arizona	1.0
+Link 1153	Nevada	0.289403105988952
+Link 1153	California	0.710596894011068
+Link 1154	California	0.781823918349908
+Link 1154	Nevada	0.218176081650115
+Link 1155	California	1.0
+Link 1156	California	1.0
+Link 1157	California	1.0
+Link 1158	California	1.0
+Link 1159	Tennessee	1.0
+Link 116	Texas	1.0
+Link 1160	Tennessee	0.53932617307557
+Link 1160	North Carolina	0.460673826924435
+Link 1161	North Carolina	0.4761706116764
+Link 1161	Tennessee	0.523829388323601
+Link 1162	Texas	1.0
+Link 1163	Texas	1.0
+Link 1164	Texas	1.0
+Link 1165	California	1.0
+Link 1166	California	1.0
+Link 1167	California	1.0
+Link 1168	California	1.0
+Link 1169	California	1.0
+Link 117	Texas	1.00000000000001
+Link 1170	California	1.0
+Link 1171	California	0.999999999999999
+Link 1172	California	1.0
+Link 1173	California	1.0
+Link 1174	Tennessee	1.0
+Link 1175	Tennessee	1.0
+Link 1176	Tennessee	1.0
+Link 1177	California	1.0
+Link 1178	California	1.0
+Link 1179	California	1.0
+Link 118	Texas	1.0
+Link 1180	California	1.0
+Link 1181	California	1.0
+Link 1182	California	1.0
+Link 1183	California	1.0
+Link 1184	California	1.0
+Link 1185	California	1.0
+Link 1186	Arizona	0.739225028780503
+Link 1186	New Mexico	0.260774971219525
+Link 1187	New Mexico	1.0
+Link 1188	New Mexico	0.47533208002389
+Link 1188	Arizona	0.524667919976104
+Link 1189	California	1.0
+Link 119	Texas	1.0
+Link 1190	California	1.0
+Link 1191	California	1.0
+Link 1192	California	1.0
+Link 1193	California	1.0
+Link 1194	California	1.0
+Link 1195	California	1.0
+Link 1196	California	1.0
+Link 1197	California	1.0
+Link 1198	California	1.0
+Link 1199	California	1.0
+Link 12	Florida	1.0
+Link 120	Texas	1.0
+Link 1200	California	1.0
+Link 1201	California	1.0
+Link 1202	California	1.0
+Link 1203	California	1.0
+Link 1204	California	1.0
+Link 1205	California	0.999999999999999
+Link 1206	California	1.0
+Link 1207	California	1.0
+Link 1208	California	1.0
+Link 1209	California	1.0
+Link 121	Texas	1.0
+Link 1210	Utah	0.115328860389358
+Link 1210	Nevada	0.654102670934503
+Link 1210	Arizona	0.230568468676137
+Link 1211	Arizona	0.926879574674538
+Link 1211	Utah	0.0731204253254745
+Link 1212	Arizona	0.689777635446474
+Link 1212	Nevada	0.310222364553551
+Link 1213	Arizona	1.0
+Link 1214	Arizona	1.0
+Link 1215	Arizona	1.0
+Link 1216	California	1.0
+Link 1217	California	1.0
+Link 1218	California	1.0
+Link 1219	North Carolina	0.394052799998555
+Link 1219	Virginia	0.605947200001454
+Link 122	Texas	1.0
+Link 1220	North Carolina	0.382612204894573
+Link 1220	Virginia	0.617387795105412
+Link 1221	North Carolina	1.0
+Link 1222	Arizona	0.932362897296881
+Link 1222	Utah	0.067637102703113
+Link 1223	Arizona	1.0
+Link 1224	Utah	0.0731204253254745
+Link 1224	Arizona	0.926879574674538
+Link 1225	California	1.0
+Link 1226	California	1.0
+Link 1227	California	1.0
+Link 1228	Missouri	0.508191779002489
+Link 1228	Oklahoma	0.491808220997504
+Link 1229	Missouri	0.279873770278434
+Link 1229	Arkansas	0.720126229721599
+Link 123	Texas	1.0
+Link 1230	Arkansas	0.595281672345365
+Link 1230	Oklahoma	0.404718327654651
+Link 1231	California	1.0
+Link 1232	California	1.0
+Link 1233	California	1.0
+Link 1234	California	1.0
+Link 1235	California	1.0
+Link 1236	California	1.0
+Link 1237	Virginia	0.646641622160998
+Link 1237	North Carolina	0.353358377839041
+Link 1238	North Carolina	0.404110307734656
+Link 1238	Virginia	0.595889692265367
+Link 1239	North Carolina	1.0
+Link 124	Texas	0.999999999999999
+Link 1240	California	1.0
+Link 1241	California	1.0
+Link 1242	California	1.0
+Link 1243	Virginia	1.0
+Link 1244	Virginia	0.646641622160998
+Link 1244	North Carolina	0.353358377839041
+Link 1245	North Carolina	0.382612204894573
+Link 1245	Virginia	0.617387795105412
+Link 1246	California	1.0
+Link 1247	California	1.0
+Link 1248	California	1.0
+Link 1249	New Mexico	0.70907376094606
+Link 1249	Texas	0.290926239053931
+Link 125	Texas	1.0
+Link 1250	Texas	0.447288598477325
+Link 1250	New Mexico	0.552711401522681
+Link 1251	New Mexico	1.0
+Link 1252	California	1.0
+Link 1253	California	1.0
+Link 1254	California	1.0
+Link 1255	California	1.0
+Link 1256	California	1.0
+Link 1257	California	1.0
+Link 1258	New Mexico	1.0
+Link 1259	New Mexico	1.0
+Link 126	Texas	1.0
+Link 1260	New Mexico	1.0
+Link 1261	Oklahoma	0.846038805895084
+Link 1261	Kansas	0.153961194104917
+Link 1262	Kansas	0.08116662747685
+Link 1262	Oklahoma	0.918833372523142
+Link 1263	Oklahoma	1.0
+Link 1264	Virginia	1.0
+Link 1265	Virginia	0.276207591096809
+Link 1265	North Carolina	0.723792408903184
+Link 1266	Virginia	0.492457504336691
+Link 1266	North Carolina	0.507542495663296
+Link 1267	Texas	0.363516789998711
+Link 1267	Oklahoma	0.636483210001304
+Link 1268	Texas	0.151446997473463
+Link 1268	Oklahoma	0.848553002526565
+Link 1269	Texas	0.706281209751513
+Link 1269	Oklahoma	0.293718790248478
+Link 127	Texas	1.0
+Link 1270	Virginia	0.561779072167345
+Link 1270	North Carolina	0.43822092783268
+Link 1271	Virginia	0.492457504336691
+Link 1271	North Carolina	0.507542495663296
+Link 1272	North Carolina	1.0
+Link 1273	Kansas	0.426929954408418
+Link 1273	Oklahoma	0.00141025873599883
+Link 1273	Missouri	0.571659786855586
+Link 1274	Oklahoma	0.491808220997504
+Link 1274	Missouri	0.508191779002489
+Link 1275	Kansas	0.08116662747685
+Link 1275	Oklahoma	0.918833372523142
+Link 1276	California	1.0
+Link 1277	California	1.0
+Link 1278	California	1.0
+Link 1279	California	1.0
+Link 128	Texas	1.0
+Link 1280	California	1.0
+Link 1281	California	1.0
+Link 1282	California	1.0
+Link 1283	California	1.0
+Link 1284	California	1.0
+Link 1285	Kansas	0.688803367669128
+Link 1285	Oklahoma	0.311196632330863
+Link 1286	Kansas	0.67892842531278
+Link 1286	Oklahoma	0.321071574687168
+Link 1287	Kansas	1.0
+Link 1288	California	1.0
+Link 1289	California	1.0
+Link 129	Texas	1.0
+Link 1290	California	1.0
+Link 1291	California	1.0
+Link 1292	California	1.0
+Link 1293	California	1.0
+Link 1294	California	1.0
+Link 1295	California	1.0
+Link 1296	California	1.0
+Link 1297	California	1.0
+Link 1298	California	1.0
+Link 1299	California	1.0
+Link 13	Florida	1.0
+Link 130	Texas	1.0
+Link 1300	Kansas	1.0
+Link 1301	Oklahoma	0.277555853420892
+Link 1301	Kansas	0.722444146579131
+Link 1302	Oklahoma	0.311196632330863
+Link 1302	Kansas	0.688803367669128
+Link 1303	California	1.0
+Link 1304	California	1.0
+Link 1305	California	1.0
+Link 1306	California	1.0
+Link 1307	California	1.0
+Link 1308	California	1.0
+Link 1309	North Carolina	0.380388244935317
+Link 1309	Virginia	0.619611755064698
+Link 131	Texas	1.0
+Link 1310	Virginia	0.561779072167345
+Link 1310	North Carolina	0.43822092783268
+Link 1311	North Carolina	1.0
+Link 1312	Tennessee	1.0
+Link 1313	Tennessee	1.0
+Link 1314	Tennessee	1.0
+Link 1315	Virginia	1.0
+Link 1316	Virginia	0.619611755064698
+Link 1316	North Carolina	0.380388244935317
+Link 1317	North Carolina	0.404110307734656
+Link 1317	Virginia	0.595889692265366
+Link 1318	Tennessee	0.299579417621563
+Link 1318	Kentucky	0.667403718942179
+Link 1318	Indiana	0.0330168634362621
+Link 1319	Indiana	0.0325613981051485
+Link 1319	Kentucky	0.771915569011751
+Link 1319	Tennessee	0.195523032883077
+Link 132	Texas	1.0
+Link 1320	Tennessee	1.0
+Link 1321	Kentucky	0.677519409488784
+Link 1321	Tennessee	0.287533405406917
+Link 1321	Indiana	0.0349471851043305
+Link 1322	Tennessee	1.0
+Link 1323	Indiana	0.0341450768830942
+Link 1323	Kentucky	0.456098871260718
+Link 1323	Tennessee	0.509756051856194
+Link 1324	Arizona	0.717350706834706
+Link 1324	Utah	0.282649293165255
+Link 1325	Arizona	0.932362897296882
+Link 1325	Utah	0.067637102703113
+Link 1326	Utah	1.0
+Link 1327	Kansas	0.999103769175904
+Link 1327	Oklahoma	0.000896230824096263
+Link 1328	Kansas	0.153961194104917
+Link 1328	Oklahoma	0.846038805895084
+Link 1329	Kansas	0.722444146579131
+Link 1329	Oklahoma	0.277555853420892
+Link 133	Florida	1.0
+Link 1330	California	1.0
+Link 1331	California	1.0
+Link 1332	California	1.0
+Link 1333	Indiana	0.656449410772792
+Link 1333	Kentucky	0.343550589227202
+Link 1334	Tennessee	0.299579417621563
+Link 1334	Kentucky	0.667403718942179
+Link 1334	Indiana	0.0330168634362621
+Link 1335	Kentucky	0.677519409488784
+Link 1335	Indiana	0.0349471851043305
+Link 1335	Tennessee	0.287533405406917
+Link 1336	California	1.0
+Link 1337	California	1.0
+Link 1338	California	1.0
+Link 1339	Nevada	0.69008472109461
+Link 1339	Utah	0.123943957466329
+Link 1339	Arizona	0.185971321439039
+Link 134	Florida	1.0
+Link 1340	Nevada	0.654102670934503
+Link 1340	Utah	0.115328860389358
+Link 1340	Arizona	0.230568468676137
+Link 1341	Nevada	1.0
+Link 1342	Arkansas	0.923529801769839
+Link 1342	Tennessee	0.0764701982301715
+Link 1343	Arkansas	0.847047149487067
+Link 1343	Mississippi	0.00119255807375844
+Link 1343	Tennessee	0.151760292439151
+Link 1344	Arkansas	1.0
+Link 1345	California	0.999999999999998
+Link 1346	California	1.0
+Link 1347	California	0.999999999999998
+Link 1348	Utah	1.0
+Link 1349	Utah	1.0
+Link 135	Florida	1.0
+Link 1350	Utah	1.0
+Link 1351	California	1.0
+Link 1352	California	1.0
+Link 1353	California	0.999999999999998
+Link 1354	California	0.999999999999997
+Link 1355	California	1.0
+Link 1356	California	1.0
+Link 1357	California	1.0
+Link 1358	California	1.0
+Link 1359	California	1.0
+Link 136	Texas	1.0
+Link 1360	Virginia	1.0
+Link 1361	Virginia	1.0
+Link 1362	Virginia	1.0
+Link 1363	California	1.0
+Link 1364	California	0.999999999999997
+Link 1365	California	1.0
+Link 1366	Virginia	0.477375364123349
+Link 1366	North Carolina	0.522624635876617
+Link 1367	Virginia	0.605947200001454
+Link 1367	North Carolina	0.394052799998555
+Link 1368	North Carolina	1.0
+Link 1369	California	1.0
+Link 137	Texas	0.999999999999997
+Link 1370	California	1.0
+Link 1371	California	1.0
+Link 1372	Virginia	1.0
+Link 1373	Virginia	1.0
+Link 1374	Virginia	1.0
+Link 1375	Tennessee	0.169682644919857
+Link 1375	Kentucky	0.830317355080116
+Link 1376	Kentucky	0.673260376979862
+Link 1376	Tennessee	0.326739623020111
+Link 1377	Tennessee	1.0
+Link 1378	North Carolina	0.85831240823765
+Link 1378	Virginia	0.14168759176239
+Link 1379	North Carolina	1.0
+Link 138	Texas	0.999999999999999
+Link 1380	Virginia	0.27620759109681
+Link 1380	North Carolina	0.723792408903185
+Link 1381	California	1.0
+Link 1382	California	1.0
+Link 1383	California	1.0
+Link 1384	California	1.0
+Link 1385	California	1.0
+Link 1386	California	1.0
+Link 1387	North Carolina	0.356962695000767
+Link 1387	Florida	0.643037304999222
+Link 1388	Florida	1.0
+Link 1389	North Carolina	0.692065633578055
+Link 1389	Florida	0.30793436642194
+Link 139	Texas	1.0
+Link 1390	West Virginia	0.4013086226301
+Link 1390	North Carolina	0.336505355981521
+Link 1390	Virginia	0.262186021388423
+Link 1391	North Carolina	0.521614176026637
+Link 1391	Tennessee	0.478385823973358
+Link 1392	Kentucky	0.00503379204050437
+Link 1392	Virginia	0.504426806941985
+Link 1392	West Virginia	0.430948403341082
+Link 1392	Tennessee	0.0595909976764429
+Link 1393	West Virginia	0.763368124533996
+Link 1393	Virginia	0.236631875466
+Link 1394	Virginia	0.47737536412335
+Link 1394	North Carolina	0.522624635876617
+Link 1395	West Virginia	0.4013086226301
+Link 1395	Virginia	0.262186021388423
+Link 1395	North Carolina	0.336505355981521
+Link 1396	Kentucky	0.832861353023659
+Link 1396	Indiana	0.0072239191109652
+Link 1396	Tennessee	0.159914727865387
+Link 1397	Kentucky	0.895350097719849
+Link 1397	Indiana	0.104649902280154
+Link 1398	Kentucky	0.83882015076037
+Link 1398	Tennessee	0.161179849239612
+Link 1399	California	1.0
+Link 14	Florida	1.0
+Link 140	Texas	1.0
+Link 1400	California	1.0
+Link 1401	California	1.0
+Link 1402	Kentucky	1.0
+Link 1403	Kentucky	0.830317355080116
+Link 1403	Tennessee	0.169682644919857
+Link 1404	Kentucky	0.83882015076037
+Link 1404	Tennessee	0.161179849239612
+Link 1405	California	1.0
+Link 1406	California	1.0
+Link 1407	California	1.0
+Link 1408	California	1.0
+Link 1409	California	1.0
+Link 141	Texas	1.0
+Link 1410	California	1.0
+Link 1411	California	1.0
+Link 1412	California	0.999999999999999
+Link 1413	California	1.0
+Link 1414	California	1.0
+Link 1415	California	1.0
+Link 1416	California	1.0
+Link 1417	California	1.0
+Link 1418	California	1.0
+Link 1419	California	1.00000000000001
+Link 142	Texas	1.0
+Link 1420	California	1.0
+Link 1421	California	1.0
+Link 1422	California	1.0
+Link 1423	California	1.0
+Link 1424	California	1.0
+Link 1425	California	1.0
+Link 1426	Maryland	0.147050476359053
+Link 1426	Virginia	0.85294952364097
+Link 1427	Maryland	0.219672757566807
+Link 1427	Virginia	0.780327242433193
+Link 1428	Virginia	1.0
+Link 1429	Kentucky	0.359968772769072
+Link 1429	Tennessee	0.478852793162781
+Link 1429	Illinois	0.111505442238043
+Link 1429	Indiana	0.0496729918301107
+Link 143	Texas	1.0
+Link 1430	Indiana	0.0341450768830942
+Link 1430	Kentucky	0.456098871260718
+Link 1430	Tennessee	0.509756051856194
+Link 1431	Tennessee	1.0
+Link 1432	Kentucky	0.767180461172237
+Link 1432	Virginia	0.171488093902879
+Link 1432	Tennessee	0.0613314449248857
+Link 1433	Tennessee	1.0
+Link 1434	Kentucky	0.673260376979862
+Link 1434	Tennessee	0.326739623020111
+Link 1435	Kentucky	0.39603434166407
+Link 1435	Indiana	0.603965658335939
+Link 1436	Tennessee	0.159914727865387
+Link 1436	Indiana	0.0072239191109652
+Link 1436	Kentucky	0.832861353023659
+Link 1437	Indiana	0.0325613981051485
+Link 1437	Kentucky	0.771915569011751
+Link 1437	Tennessee	0.195523032883077
+Link 1438	Kansas	1.0
+Link 1439	Kansas	1.0
+Link 144	Texas	1.0
+Link 1440	Kansas	1.0
+Link 1441	California	1.0
+Link 1442	California	1.0
+Link 1443	California	1.0
+Link 1444	Kansas	1.0
+Link 1445	Kansas	1.0
+Link 1446	Kansas	1.0
+Link 1447	California	1.0
+Link 1448	California	1.0
+Link 1449	California	1.0
+Link 145	Texas	1.0
+Link 1450	California	1.0
+Link 1451	California	1.0
+Link 1452	California	1.0
+Link 1453	Kansas	0.309305466867494
+Link 1453	Oklahoma	0.690694533132513
+Link 1454	Kansas	0.678928425312781
+Link 1454	Oklahoma	0.321071574687167
+Link 1455	Oklahoma	1.0
+Link 1456	California	1.0
+Link 1457	California	1.0
+Link 1458	California	1.0
+Link 1459	New Mexico	0.160511602021977
+Link 1459	Oklahoma	0.00222321523638251
+Link 1459	Texas	0.420353758535918
+Link 1459	Colorado	0.416911424205734
+Link 146	Texas	1.0
+Link 1460	Texas	0.290926239053931
+Link 1460	New Mexico	0.70907376094606
+Link 1461	Colorado	0.487080364471227
+Link 1461	New Mexico	0.51291963552877
+Link 1462	Delaware	0.11769269953834
+Link 1462	Maryland	0.882307300461666
+Link 1463	Maryland	0.327727273747215
+Link 1463	Virginia	0.672272726252807
+Link 1464	Delaware	0.0338846820264839
+Link 1464	Maryland	0.819799973653423
+Link 1464	Virginia	0.146315344320114
+Link 1465	Virginia	1.0
+Link 1466	Virginia	1.0
+Link 1467	Virginia	1.0
+Link 1468	Virginia	1.0
+Link 1469	Virginia	1.0
+Link 147	Texas	1.0
+Link 1470	Virginia	1.0
+Link 1471	Tennessee	0.056033192226118
+Link 1471	Kentucky	0.0917743705984082
+Link 1471	West Virginia	0.442549267241329
+Link 1471	Virginia	0.409643169934169
+Link 1472	West Virginia	1.0
+Link 1473	Virginia	0.504426806941985
+Link 1473	West Virginia	0.430948403341083
+Link 1473	Kentucky	0.00503379204050437
+Link 1473	Tennessee	0.0595909976764429
+Link 1474	Tennessee	0.0576998607264058
+Link 1474	Arkansas	0.606110651074348
+Link 1474	Missouri	0.336189488199234
+Link 1475	Tennessee	0.0764701982301715
+Link 1475	Arkansas	0.923529801769838
+Link 1476	Arkansas	0.720126229721599
+Link 1476	Missouri	0.279873770278434
+Link 1477	Ohio	0.113092905694612
+Link 1477	West Virginia	0.839517324376816
+Link 1477	Kentucky	0.0473897699285789
+Link 1478	Tennessee	0.056033192226118
+Link 1478	Kentucky	0.0917743705984082
+Link 1478	West Virginia	0.442549267241329
+Link 1478	Virginia	0.409643169934169
+Link 1479	Kentucky	0.543764433414659
+Link 1479	Ohio	0.0108043131040453
+Link 1479	Tennessee	0.0563372874146393
+Link 1479	West Virginia	0.0851055546861451
+Link 1479	Virginia	0.303988411380508
+Link 148	Texas	1.0
+Link 1480	Maryland	0.952800387463082
+Link 1480	Delaware	0.0471996125369325
+Link 1481	Delaware	0.0338846820264839
+Link 1481	Maryland	0.819799973653423
+Link 1481	Virginia	0.146315344320114
+Link 1482	Maryland	0.219672757566807
+Link 1482	Virginia	0.780327242433193
+Link 1483	California	1.0
+Link 1484	California	1.0
+Link 1485	California	1.0
+Link 1486	Virginia	0.542162299755563
+Link 1486	Maryland	0.457837700244436
+Link 1487	Virginia	0.85294952364097
+Link 1487	Maryland	0.147050476359054
+Link 1488	Virginia	1.0
+Link 1489	California	1.0
+Link 149	Texas	1.0
+Link 1490	California	1.0
+Link 1491	California	1.0
+Link 1492	California	1.0
+Link 1493	California	1.0
+Link 1494	California	1.0
+Link 1495	California	1.0
+Link 1496	California	1.0
+Link 1497	California	1.0
+Link 1498	California	1.0
+Link 1499	California	1.0
+Link 15	Florida	1.0
+Link 150	Texas	1.0
+Link 1500	California	1.0
+Link 1501	California	1.0
+Link 1502	California	1.0
+Link 1503	California	1.0
+Link 1504	Maryland	1.0
+Link 1505	Virginia	0.542162299755563
+Link 1505	Maryland	0.457837700244436
+Link 1506	Virginia	0.417799128499353
+Link 1506	Maryland	0.582200871500647
+Link 1507	Virginia	1.0
+Link 1508	Virginia	1.0
+Link 1509	Virginia	1.0
+Link 151	Louisiana	1.0
+Link 1510	California	1.0
+Link 1511	California	1.0
+Link 1512	California	1.0
+Link 1513	Arkansas	0.157296343701547
+Link 1513	Tennessee	0.111908978273737
+Link 1513	Missouri	0.660341904091866
+Link 1513	Illinois	0.070452773932883
+Link 1514	Illinois	0.274663341052268
+Link 1514	Missouri	0.725336658947734
+Link 1515	Arkansas	0.128098283450766
+Link 1515	Illinois	0.163051386890652
+Link 1515	Tennessee	0.118832359684182
+Link 1515	Missouri	0.590017969974393
+Link 1516	Kansas	1.0
+Link 1517	Kansas	1.0
+Link 1518	Kansas	1.0
+Link 1519	West Virginia	0.0066976921053552
+Link 1519	Ohio	0.0105341927064715
+Link 1519	Kentucky	0.982768115188172
+Link 152	Louisiana	1.0
+Link 1520	Virginia	0.303988411380508
+Link 1520	Tennessee	0.0563372874146393
+Link 1520	Ohio	0.0108043131040453
+Link 1520	Kentucky	0.543764433414659
+Link 1520	West Virginia	0.0851055546861451
+Link 1521	Tennessee	0.0613314449248857
+Link 1521	Virginia	0.171488093902879
+Link 1521	Kentucky	0.767180461172238
+Link 1522	California	1.0
+Link 1523	California	1.0
+Link 1524	California	1.0
+Link 1525	Missouri	0.00571389150242835
+Link 1525	Illinois	0.924263775395854
+Link 1525	Indiana	0.0618170215042957
+Link 1525	Kentucky	0.00820531159744536
+Link 1526	Tennessee	0.47885279316278
+Link 1526	Indiana	0.0496729918301107
+Link 1526	Illinois	0.111505442238043
+Link 1526	Kentucky	0.359968772769072
+Link 1527	Illinois	0.163051386890652
+Link 1527	Arkansas	0.128098283450766
+Link 1527	Missouri	0.590017969974393
+Link 1527	Tennessee	0.118832359684182
+Link 1528	California	1.0
+Link 1529	California	1.0
+Link 153	Louisiana	1.0
+Link 1530	California	1.0
+Link 1531	Kansas	1.0
+Link 1532	Kansas	1.0
+Link 1533	Kansas	1.0
+Link 1534	Illinois	0.918060477102492
+Link 1534	Missouri	0.0819395228974982
+Link 1535	Illinois	0.852214539799827
+Link 1535	Missouri	0.147785460200182
+Link 1536	Missouri	0.150787015324874
+Link 1536	Illinois	0.849212984675124
+Link 1537	Missouri	1.0
+Link 1538	Illinois	0.070452773932883
+Link 1538	Arkansas	0.157296343701547
+Link 1538	Missouri	0.660341904091866
+Link 1538	Tennessee	0.111908978273737
+Link 1539	Missouri	0.336189488199234
+Link 1539	Tennessee	0.0576998607264058
+Link 1539	Arkansas	0.606110651074349
+Link 154	Texas	0.999999999999999
+Link 1540	California	1.0
+Link 1541	California	1.0
+Link 1542	California	1.0
+Link 1543	Missouri	0.202980124716247
+Link 1543	Kansas	0.796415045815726
+Link 1543	Oklahoma	0.000604829468009621
+Link 1544	Missouri	1.0
+Link 1545	Kansas	0.426929954408418
+Link 1545	Oklahoma	0.00141025873599883
+Link 1545	Missouri	0.571659786855586
+Link 1546	Missouri	0.704627169028021
+Link 1546	Illinois	0.295372830971975
+Link 1547	Missouri	0.147785460200182
+Link 1547	Illinois	0.852214539799827
+Link 1548	Missouri	0.725336658947735
+Link 1548	Illinois	0.274663341052268
+Link 1549	California	1.0
+Link 155	Texas	1.0
+Link 1550	California	1.0
+Link 1551	California	1.0
+Link 1552	Virginia	1.0
+Link 1553	Maryland	0.403528076335899
+Link 1553	Virginia	0.596471923664106
+Link 1554	Virginia	0.417799128499353
+Link 1554	Maryland	0.582200871500647
+Link 1555	Oklahoma	0.171759576911889
+Link 1555	Texas	0.322307046613595
+Link 1555	Colorado	0.489856245969137
+Link 1555	New Mexico	0.0160771305053959
+Link 1556	Texas	1.0
+Link 1557	Colorado	0.416911424205734
+Link 1557	Texas	0.420353758535918
+Link 1557	New Mexico	0.160511602021976
+Link 1557	Oklahoma	0.00222321523638251
+Link 1558	Oklahoma	0.319846988158086
+Link 1558	Kansas	0.330134292934195
+Link 1558	Texas	0.350018718907717
+Link 1559	Kansas	0.309305466867494
+Link 1559	Oklahoma	0.690694533132513
+Link 156	Texas	0.999999999999999
+Link 1560	Texas	0.363516789998711
+Link 1560	Oklahoma	0.636483210001304
+Link 1561	California	1.0
+Link 1562	California	1.0
+Link 1563	California	1.0
+Link 1564	Indiana	0.872811918422571
+Link 1564	Kentucky	0.12718808157739
+Link 1565	Kentucky	0.895350097719848
+Link 1565	Indiana	0.104649902280154
+Link 1566	Indiana	0.917232534654471
+Link 1566	Kentucky	0.0827674653454975
+Link 1567	California	1.0
+Link 1568	California	1.0
+Link 1569	California	1.0
+Link 157	Florida	0.340459136225096
+Link 157	Louisiana	0.659540863774904
+Link 1570	Oklahoma	0.000599829466379521
+Link 1570	Kansas	0.969087256470509
+Link 1570	Missouri	0.030312914063106
+Link 1571	Kansas	0.0820688265683016
+Link 1571	Missouri	0.917931173431695
+Link 1572	Oklahoma	0.000604829468009621
+Link 1572	Kansas	0.796415045815725
+Link 1572	Missouri	0.202980124716247
+Link 1573	California	0.852019596990787
+Link 1573	Nevada	0.14798040300924
+Link 1574	California	1.0
+Link 1575	California	0.848230485184767
+Link 1575	Nevada	0.151769514815227
+Link 1576	Virginia	1.0
+Link 1577	Virginia	1.0
+Link 1578	Virginia	1.0
+Link 1579	Oklahoma	0.181990709786059
+Link 1579	Kansas	0.506817427280071
+Link 1579	Texas	0.311191862933884
+Link 158	Florida	1.0
+Link 1580	Kansas	1.0
+Link 1581	Kansas	0.330134292934195
+Link 1581	Oklahoma	0.319846988158086
+Link 1581	Texas	0.350018718907716
+Link 1582	Virginia	1.0
+Link 1583	Virginia	1.0
+Link 1584	Virginia	1.0
+Link 1585	Ohio	0.100708160661749
+Link 1585	Kentucky	0.89929183933826
+Link 1586	Ohio	0.0927641577950407
+Link 1586	Kentucky	0.907235842204955
+Link 1587	Ohio	1.0
+Link 1588	California	1.0
+Link 1589	California	1.0
+Link 159	Louisiana	0.76391899154094
+Link 159	Florida	0.23608100845906
+Link 1590	California	1.0
+Link 1591	Maryland	0.12769104890159
+Link 1591	Delaware	0.872308951098422
+Link 1592	Maryland	0.882307300461666
+Link 1592	Delaware	0.11769269953834
+Link 1593	Delaware	0.929657792867123
+Link 1593	Maryland	0.070342207132901
+Link 1594	California	1.0
+Link 1595	California	1.0
+Link 1596	California	1.0
+Link 1597	Kansas	1.0
+Link 1598	Kansas	1.0
+Link 1599	Kansas	1.0
+Link 16	Texas	0.999999999999998
+Link 160	Louisiana	1.0
+Link 1600	California	1.0
+Link 1601	California	1.0
+Link 1602	California	1.0
+Link 1603	California	1.0
+Link 1604	California	1.0
+Link 1605	California	1.0
+Link 1606	New Jersey	0.347644326794692
+Link 1606	Delaware	0.652355673205315
+Link 1607	New Jersey	0.322475623962178
+Link 1607	Delaware	0.352680213668228
+Link 1607	Maryland	0.324844162369599
+Link 1608	Maryland	0.12769104890159
+Link 1608	Delaware	0.872308951098422
+Link 1609	Nevada	0.154242314650437
+Link 1609	California	0.845757685349566
+Link 161	Louisiana	1.0
+Link 1610	Nevada	0.151769514815227
+Link 1610	California	0.848230485184768
+Link 1611	California	1.0
+Link 1612	Maryland	1.0
+Link 1613	Maryland	1.0
+Link 1614	Maryland	1.0
+Link 1615	California	0.851520352244745
+Link 1615	Nevada	0.148479647755233
+Link 1616	California	1.0
+Link 1617	Nevada	0.14798040300924
+Link 1617	California	0.852019596990787
+Link 1618	Indiana	0.965141378308548
+Link 1618	Kentucky	0.0348586216914401
+Link 1619	Indiana	0.917232534654471
+Link 1619	Kentucky	0.0827674653454975
+Link 162	Louisiana	1.0
+Link 1620	Kentucky	0.39603434166407
+Link 1620	Indiana	0.603965658335939
+Link 1621	Virginia	0.162069911138288
+Link 1621	District of Columbia	0.0757899282841446
+Link 1621	Maryland	0.76214016057758
+Link 1622	Maryland	1.0
+Link 1623	Maryland	0.403528076335899
+Link 1623	Virginia	0.596471923664106
+Link 1624	California	1.0
+Link 1625	California	1.0
+Link 1626	California	1.0
+Link 1627	California	1.0
+Link 1628	California	1.0
+Link 1629	California	1.0
+Link 163	Louisiana	1.0
+Link 1630	Nevada	0.204752384182803
+Link 1630	California	0.795247615817209
+Link 1631	California	0.845757685349565
+Link 1631	Nevada	0.154242314650437
+Link 1632	California	1.0
+Link 1633	Virginia	1.0
+Link 1634	Virginia	1.0
+Link 1635	Virginia	1.0
+Link 1636	California	1.0
+Link 1637	California	0.415523358301198
+Link 1637	Nevada	0.584476641698821
+Link 1638	California	0.795247615817209
+Link 1638	Nevada	0.204752384182803
+Link 1639	Ohio	0.116824991755384
+Link 1639	Kentucky	0.720617219934712
+Link 1639	Indiana	0.162557788309908
+Link 164	Louisiana	1.0
+Link 1640	Ohio	0.0927641577950406
+Link 1640	Kentucky	0.907235842204955
+Link 1641	Kentucky	1.0
+Link 1642	California	1.0
+Link 1643	California	1.0
+Link 1644	California	1.0
+Link 1645	Colorado	0.828252773284547
+Link 1645	New Mexico	0.171747226715457
+Link 1646	Colorado	0.487080364471227
+Link 1646	New Mexico	0.51291963552877
+Link 1647	New Mexico	1.0
+Link 1648	New Jersey	1.0
+Link 1649	Delaware	0.652355673205316
+Link 1649	New Jersey	0.347644326794692
+Link 165	Louisiana	1.0
+Link 1650	Delaware	0.520556360399709
+Link 1650	New Jersey	0.479443639600291
+Link 1651	Indiana	0.0636211580166039
+Link 1651	Illinois	0.92774370651039
+Link 1651	Kentucky	0.00815904308215002
+Link 1651	Missouri	0.000476092390858694
+Link 1652	Missouri	0.00571389150242835
+Link 1652	Illinois	0.924263775395854
+Link 1652	Indiana	0.0618170215042957
+Link 1652	Kentucky	0.00820531159744536
+Link 1653	Missouri	0.0819395228974982
+Link 1653	Illinois	0.918060477102492
+Link 1654	Maryland	0.749187508344835
+Link 1654	Delaware	0.250812491655173
+Link 1655	Delaware	0.929657792867123
+Link 1655	Maryland	0.070342207132901
+Link 1656	Maryland	0.952800387463082
+Link 1656	Delaware	0.0471996125369325
+Link 1657	New Jersey	1.0
+Link 1658	New Jersey	1.0
+Link 1659	New Jersey	1.0
+Link 166	Louisiana	1.0
+Link 1660	Virginia	0.152212223717893
+Link 1660	Maryland	0.847787776282079
+Link 1661	Maryland	1.0
+Link 1662	Maryland	0.76214016057758
+Link 1662	District of Columbia	0.0757899282841446
+Link 1662	Virginia	0.162069911138288
+Link 1663	Virginia	0.351322272195849
+Link 1663	West Virginia	0.265066520242941
+Link 1663	Maryland	0.383611207561209
+Link 1664	Maryland	0.770583023779248
+Link 1664	Virginia	0.229416976220737
+Link 1665	Virginia	1.0
+Link 1666	Delaware	0.248103489763813
+Link 1666	Maryland	0.751896510236188
+Link 1667	Maryland	0.749187508344836
+Link 1667	Delaware	0.250812491655173
+Link 1668	Maryland	1.0
+Link 1669	California	0.851401972079482
+Link 1669	Nevada	0.148598027920513
+Link 167	Louisiana	1.0
+Link 1670	California	1.0
+Link 1671	California	0.851520352244745
+Link 1671	Nevada	0.148479647755233
+Link 1672	California	1.0
+Link 1673	California	1.0
+Link 1674	California	1.0
+Link 1675	Ohio	1.0
+Link 1676	Ohio	1.0
+Link 1677	Ohio	1.0
+Link 1678	Kentucky	0.0400372776715774
+Link 1678	Ohio	0.20628540614
+Link 1678	Indiana	0.753677316188413
+Link 1679	Kentucky	0.720617219934712
+Link 1679	Ohio	0.116824991755384
+Link 1679	Indiana	0.162557788309908
+Link 168	Louisiana	1.0
+Link 1680	Kentucky	0.12718808157739
+Link 1680	Indiana	0.872811918422571
+Link 1681	Delaware	0.328350423491869
+Link 1681	Maryland	0.671649576508137
+Link 1682	Delaware	0.248103489763813
+Link 1682	Maryland	0.751896510236188
+Link 1683	Maryland	1.0
+Link 1684	California	1.0
+Link 1685	California	1.0
+Link 1686	California	1.0
+Link 1687	Maryland	1.0
+Link 1688	Virginia	0.152212223717893
+Link 1688	Maryland	0.847787776282079
+Link 1689	Maryland	0.770583023779248
+Link 1689	Virginia	0.229416976220737
+Link 169	Texas	1.0
+Link 1690	New Jersey	1.0
+Link 1691	New Jersey	1.0
+Link 1692	New Jersey	1.0
+Link 1693	West Virginia	0.0642338111625262
+Link 1693	Maryland	0.93576618883746
+Link 1694	West Virginia	0.265066520242942
+Link 1694	Virginia	0.351322272195849
+Link 1694	Maryland	0.383611207561209
+Link 1695	West Virginia	0.577340349800687
+Link 1695	Virginia	0.337673182176988
+Link 1695	Maryland	0.0849864680223472
+Link 1696	Nevada	0.540150654333987
+Link 1696	California	0.459849345665971
+Link 1697	Nevada	1.0
+Link 1698	Nevada	0.584476641698821
+Link 1698	California	0.415523358301198
+Link 1699	California	1.0
+Link 17	Texas	0.999999999999998
+Link 170	Texas	0.999999999999998
+Link 1700	California	1.0
+Link 1701	California	1.0
+Link 1702	West Virginia	0.00644070586817498
+Link 1702	Kentucky	0.282216332647453
+Link 1702	Ohio	0.711342961484366
+Link 1703	Ohio	0.0105341927064715
+Link 1703	Kentucky	0.982768115188171
+Link 1703	West Virginia	0.0066976921053552
+Link 1704	Kentucky	0.899291839338261
+Link 1704	Ohio	0.100708160661749
+Link 1705	Missouri	0.0196322481857493
+Link 1705	Kansas	0.980367751814248
+Link 1706	Oklahoma	0.000599829466379521
+Link 1706	Missouri	0.030312914063106
+Link 1706	Kansas	0.969087256470511
+Link 1707	Kansas	0.999103769175905
+Link 1707	Oklahoma	0.000896230824096263
+Link 1708	New Jersey	0.800123754155865
+Link 1708	Delaware	0.199876245844134
+Link 1709	New Jersey	0.479443639600291
+Link 1709	Delaware	0.520556360399709
+Link 171	Texas	1.0
+Link 1710	Delaware	1.0
+Link 1711	West Virginia	0.463825536934348
+Link 1711	Maryland	0.197764088949385
+Link 1711	Virginia	0.338410374116271
+Link 1712	Virginia	1.0
+Link 1713	West Virginia	0.613941395141787
+Link 1713	Virginia	0.314207572814441
+Link 1713	Maryland	0.0718510320437571
+Link 1714	New Jersey	0.960224698600873
+Link 1714	Delaware	0.0397753013991267
+Link 1715	Delaware	0.199876245844134
+Link 1715	New Jersey	0.800123754155866
+Link 1716	New Jersey	0.400484273428043
+Link 1716	Delaware	0.599515726571956
+Link 1717	New Jersey	0.469088944092641
+Link 1717	Delaware	0.530911055907359
+Link 1718	Delaware	0.599515726571955
+Link 1718	New Jersey	0.400484273428043
+Link 1719	New Jersey	0.0891747807062055
+Link 1719	Delaware	0.910825219293793
+Link 172	Texas	0.0299642281565374
+Link 172	Louisiana	0.970035771843467
+Link 1720	Delaware	0.272080374442387
+Link 1720	Maryland	0.727919625557607
+Link 1721	Delaware	1.0
+Link 1722	Maryland	0.671649576508137
+Link 1722	Delaware	0.328350423491869
+Link 1723	Illinois	0.998504081305636
+Link 1723	Missouri	0.0014959186943582
+Link 1724	Illinois	0.849212984675123
+Link 1724	Missouri	0.150787015324874
+Link 1725	Illinois	0.981186160158467
+Link 1725	Missouri	0.0188138398415432
+Link 1726	California	1.0
+Link 1727	California	1.0
+Link 1728	California	1.0
+Link 1729	Ohio	0.0375651529064923
+Link 1729	West Virginia	0.962434847093479
+Link 173	Texas	0.206851309826227
+Link 173	Louisiana	0.793148690173772
+Link 1730	Ohio	0.0262205455660425
+Link 1730	West Virginia	0.973779454433927
+Link 1731	West Virginia	1.0
+Link 1732	California	1.0
+Link 1733	California	1.0
+Link 1734	California	1.0
+Link 1735	Missouri	0.99216015857516
+Link 1735	Illinois	0.00783984142483916
+Link 1736	Missouri	0.866428704004388
+Link 1736	Illinois	0.133571295995618
+Link 1737	Missouri	1.0
+Link 1738	Ohio	0.00598974674062789
+Link 1738	Virginia	0.241141006493682
+Link 1738	West Virginia	0.752869246765671
+Link 1739	West Virginia	0.763368124533995
+Link 1739	Virginia	0.236631875466
+Link 174	Texas	0.999999999999984
+Link 1740	West Virginia	0.973779454433929
+Link 1740	Ohio	0.0262205455660425
+Link 1741	Missouri	0.289503810262336
+Link 1741	Illinois	0.710496189737653
+Link 1742	Missouri	0.0188138398415432
+Link 1742	Illinois	0.981186160158467
+Link 1743	Illinois	0.295372830971975
+Link 1743	Missouri	0.704627169028021
+Link 1744	Pennsylvania	0.0717728215947849
+Link 1744	Delaware	0.0591253769207239
+Link 1744	New Jersey	0.869101801484502
+Link 1745	Pennsylvania	0.0469749518152068
+Link 1745	New Jersey	0.953025048184793
+Link 1746	Delaware	0.0397753013991266
+Link 1746	New Jersey	0.960224698600873
+Link 1747	New Jersey	0.549686802284863
+Link 1747	Pennsylvania	0.396283697285355
+Link 1747	Delaware	0.0540295004297813
+Link 1748	New Jersey	0.869101801484503
+Link 1748	Pennsylvania	0.0717728215947849
+Link 1748	Delaware	0.0591253769207239
+Link 1749	New Jersey	0.530079359558996
+Link 1749	Pennsylvania	0.189270082855209
+Link 1749	Delaware	0.28065055758581
+Link 175	Louisiana	0.968595607494942
+Link 175	Texas	0.0314043925050577
+Link 1750	Kentucky	0.0087060683285556
+Link 1750	Illinois	0.90310742248725
+Link 1750	Indiana	0.0881865091842008
+Link 1751	Illinois	0.927743706510389
+Link 1751	Indiana	0.063621158016604
+Link 1751	Kentucky	0.00815904308215002
+Link 1751	Missouri	0.000476092390858694
+Link 1752	Missouri	0.000725618649327567
+Link 1752	Illinois	0.999274381350672
+Link 1753	New Jersey	0.954602642163264
+Link 1753	Pennsylvania	0.0453973578367362
+Link 1754	New Jersey	1.0
+Link 1755	New Jersey	0.953025048184793
+Link 1755	Pennsylvania	0.0469749518152068
+Link 1756	Illinois	1.0
+Link 1757	Missouri	0.00103897167696247
+Link 1757	Illinois	0.998961028323038
+Link 1758	Missouri	0.0014959186943582
+Link 1758	Illinois	0.998504081305636
+Link 1759	Maryland	0.20077865324802
+Link 1759	Delaware	0.138480498474974
+Link 1759	New Jersey	0.660740848277001
+Link 176	Louisiana	1.0
+Link 1760	Maryland	0.324844162369599
+Link 1760	Delaware	0.352680213668227
+Link 1760	New Jersey	0.322475623962178
+Link 1761	New Jersey	1.0
+Link 1762	Virginia	0.206878351096775
+Link 1762	Ohio	0.00629087606787348
+Link 1762	West Virginia	0.786830772835361
+Link 1763	Virginia	1.0
+Link 1764	Virginia	0.241141006493682
+Link 1764	West Virginia	0.752869246765672
+Link 1764	Ohio	0.00598974674062789
+Link 1765	Ohio	1.0
+Link 1766	Ohio	1.0
+Link 1767	Ohio	1.0
+Link 1768	Pennsylvania	0.274402626279816
+Link 1768	Maryland	0.725597373720194
+Link 1769	Maryland	0.665324182873083
+Link 1769	Pennsylvania	0.334675817126914
+Link 177	Louisiana	0.970035771843467
+Link 177	Texas	0.0299642281565374
+Link 1770	Maryland	1.0
+Link 1771	New Jersey	0.271057857801147
+Link 1771	Delaware	0.550758892174753
+Link 1771	Pennsylvania	0.178183250024096
+Link 1772	Pennsylvania	0.189270082855209
+Link 1772	Delaware	0.28065055758581
+Link 1772	New Jersey	0.530079359558996
+Link 1773	Delaware	0.530911055907359
+Link 1773	New Jersey	0.469088944092641
+Link 1774	Illinois	1.0
+Link 1775	Missouri	0.000725618649327567
+Link 1775	Illinois	0.999274381350672
+Link 1776	Illinois	0.998961028323038
+Link 1776	Missouri	0.00103897167696247
+Link 1777	Maryland	1.0
+Link 1778	Maryland	1.0
+Link 1779	Maryland	1.0
+Link 178	Louisiana	1.0
+Link 1780	California	1.0
+Link 1781	California	1.0
+Link 1782	California	1.0
+Link 1783	Virginia	0.151080693390453
+Link 1783	West Virginia	0.842366273534018
+Link 1783	Ohio	0.00655303307554779
+Link 1784	Virginia	1.0
+Link 1785	Virginia	0.206878351096775
+Link 1785	West Virginia	0.78683077283536
+Link 1785	Ohio	0.00629087606787348
+Link 1786	Maryland	0.577000900508389
+Link 1786	Pennsylvania	0.422999099491606
+Link 1787	West Virginia	0.0642338111625262
+Link 1787	Maryland	0.93576618883746
+Link 1788	West Virginia	0.0681229064051243
+Link 1788	Pennsylvania	0.548548595394091
+Link 1788	Maryland	0.383328498200783
+Link 1789	Missouri	0.0525892231892836
+Link 1789	Illinois	0.947410776810705
+Link 179	Louisiana	1.0
+Link 1790	Missouri	0.289503810262336
+Link 1790	Illinois	0.710496189737653
+Link 1791	Missouri	0.86642870400439
+Link 1791	Illinois	0.133571295995618
+Link 1792	Pennsylvania	0.525543534557419
+Link 1792	Maryland	0.474456465442563
+Link 1793	Maryland	1.0
+Link 1794	Pennsylvania	0.504468260592788
+Link 1794	Maryland	0.495531739407227
+Link 1795	Pennsylvania	1.0
+Link 1796	Maryland	0.495531739407227
+Link 1796	Pennsylvania	0.504468260592788
+Link 1797	Maryland	0.665324182873083
+Link 1797	Pennsylvania	0.334675817126914
+Link 1798	Delaware	0.0503884326559288
+Link 1798	Pennsylvania	0.844562756351639
+Link 1798	New Jersey	0.10504881099244
+Link 1799	Pennsylvania	0.746333563015297
+Link 1799	New Jersey	0.253666436984695
+Link 18	Texas	1.0
+Link 180	Louisiana	1.0
+Link 1800	Delaware	0.0540295004297813
+Link 1800	New Jersey	0.549686802284863
+Link 1800	Pennsylvania	0.396283697285355
+Link 1801	California	1.0
+Link 1802	California	1.0
+Link 1803	California	1.0
+Link 1804	New Mexico	0.185238908776897
+Link 1804	Utah	0.729439676142857
+Link 1804	Arizona	0.0853214150802364
+Link 1805	New Mexico	0.260774971219525
+Link 1805	Arizona	0.739225028780503
+Link 1806	Arizona	0.717350706834706
+Link 1806	Utah	0.282649293165255
+Link 1807	Colorado	1.0
+Link 1808	Colorado	1.0
+Link 1809	Colorado	1.0
+Link 181	Texas	1.0
+Link 1810	Colorado	1.0
+Link 1811	Colorado	1.0
+Link 1812	Colorado	1.0
+Link 1813	Kentucky	0.0140909245491485
+Link 1813	Indiana	0.985909075450882
+Link 1814	Indiana	1.0
+Link 1815	Kentucky	0.0348586216914401
+Link 1815	Indiana	0.965141378308545
+Link 1816	Indiana	1.0
+Link 1817	Indiana	1.0
+Link 1818	Indiana	1.0
+Link 1819	West Virginia	0.00629583680895054
+Link 1819	Kentucky	0.167134369896905
+Link 1819	Ohio	0.826569793294118
+Link 182	Texas	1.0
+Link 1820	West Virginia	0.00644070586817498
+Link 1820	Kentucky	0.282216332647453
+Link 1820	Ohio	0.711342961484367
+Link 1821	Ohio	1.0
+Link 1822	Colorado	0.115129376514864
+Link 1822	Utah	0.884870623485135
+Link 1823	Colorado	0.879954709434417
+Link 1823	New Mexico	0.120045290565555
+Link 1824	New Mexico	0.185238908776897
+Link 1824	Arizona	0.0853214150802364
+Link 1824	Utah	0.729439676142856
+Link 1825	New Jersey	1.0
+Link 1826	New Jersey	1.0
+Link 1827	New Jersey	1.0
+Link 1828	Pennsylvania	1.0
+Link 1829	Pennsylvania	0.274402626279816
+Link 1829	Maryland	0.725597373720194
+Link 183	Texas	1.0
+Link 1830	Pennsylvania	0.422999099491606
+Link 1830	Maryland	0.577000900508389
+Link 1831	Maryland	0.486842164832966
+Link 1831	West Virginia	0.513157835167029
+Link 1832	Virginia	0.337673182176988
+Link 1832	West Virginia	0.577340349800686
+Link 1832	Maryland	0.0849864680223472
+Link 1833	Maryland	0.197764088949385
+Link 1833	Virginia	0.338410374116271
+Link 1833	West Virginia	0.463825536934348
+Link 1834	Kentucky	0.00865239537108667
+Link 1834	Indiana	0.135833518807123
+Link 1834	Illinois	0.855514085821763
+Link 1835	Kentucky	0.0087060683285556
+Link 1835	Illinois	0.903107422487251
+Link 1835	Indiana	0.0881865091842008
+Link 1836	Illinois	1.0
+Link 1837	Ohio	1.0
+Link 1838	Ohio	0.953997712825045
+Link 1838	West Virginia	0.00780809846742284
+Link 1838	Kentucky	0.0381941887075094
+Link 1839	West Virginia	0.00629583680895054
+Link 1839	Kentucky	0.167134369896905
+Link 1839	Ohio	0.826569793294117
+Link 184	Texas	0.999999999999998
+Link 1840	Pennsylvania	1.0
+Link 1841	Pennsylvania	0.626089097543111
+Link 1841	Maryland	0.373910902456894
+Link 1842	Maryland	0.474456465442563
+Link 1842	Pennsylvania	0.525543534557419
+Link 1843	Illinois	0.0421362121428763
+Link 1843	Kentucky	0.00814728353111627
+Link 1843	Indiana	0.94971650432599
+Link 1844	Indiana	0.985909075450882
+Link 1844	Kentucky	0.0140909245491485
+Link 1845	Kentucky	0.343550589227202
+Link 1845	Indiana	0.656449410772792
+Link 1846	Colorado	0.873742612437647
+Link 1846	New Mexico	0.126257387562364
+Link 1847	Colorado	1.0
+Link 1848	New Mexico	0.171747226715457
+Link 1848	Colorado	0.828252773284546
+Link 1849	Pennsylvania	0.17157770942821
+Link 1849	New Jersey	0.828422290571833
+Link 185	Texas	1.0
+Link 1850	New Jersey	0.6627691633912
+Link 1850	Pennsylvania	0.337230836608837
+Link 1851	New Jersey	1.0
+Link 1852	New Jersey	0.333537695949266
+Link 1852	Pennsylvania	0.666462304050733
+Link 1853	New Jersey	0.828422290571833
+Link 1853	Pennsylvania	0.17157770942821
+Link 1854	New Jersey	0.954602642163264
+Link 1854	Pennsylvania	0.0453973578367362
+Link 1855	Colorado	1.0
+Link 1856	Colorado	1.0
+Link 1857	Colorado	1.0
+Link 1858	New Jersey	0.433530305715657
+Link 1858	Pennsylvania	0.566469694284334
+Link 1859	New Jersey	0.994208798723103
+Link 1859	Pennsylvania	0.00579120127690534
+Link 186	Texas	1.0
+Link 1860	Pennsylvania	0.337230836608837
+Link 1860	New Jersey	0.6627691633912
+Link 1861	Delaware	0.237916156351198
+Link 1861	Pennsylvania	0.713458691500728
+Link 1861	Maryland	0.0486251521480796
+Link 1862	Maryland	0.727919625557607
+Link 1862	Delaware	0.272080374442387
+Link 1863	Maryland	0.373910902456894
+Link 1863	Pennsylvania	0.626089097543111
+Link 1864	Colorado	1.0
+Link 1865	Colorado	0.873742612437646
+Link 1865	New Mexico	0.126257387562364
+Link 1866	New Mexico	0.120045290565555
+Link 1866	Colorado	0.879954709434417
+Link 1867	Pennsylvania	1.0
+Link 1868	Pennsylvania	1.0
+Link 1869	Pennsylvania	1.0
+Link 187	Texas	1.0
+Link 1870	Pennsylvania	1.0
+Link 1871	Pennsylvania	0.666462304050733
+Link 1871	New Jersey	0.333537695949266
+Link 1872	Pennsylvania	0.746333563015297
+Link 1872	New Jersey	0.253666436984695
+Link 1873	Maryland	0.333860685291023
+Link 1873	West Virginia	0.589161056615937
+Link 1873	Pennsylvania	0.0694684395591098
+Link 1873	Ohio	0.00750981853393403
+Link 1874	West Virginia	0.613941395141787
+Link 1874	Maryland	0.0718510320437571
+Link 1874	Virginia	0.314207572814441
+Link 1875	Virginia	0.151080693390452
+Link 1875	West Virginia	0.84236627353402
+Link 1875	Ohio	0.00655303307554779
+Link 1876	Pennsylvania	0.734922716647583
+Link 1876	New Jersey	0.0106709550945417
+Link 1876	Delaware	0.25440632825788
+Link 1877	Delaware	0.0256482544952056
+Link 1877	Pennsylvania	0.936663524810275
+Link 1877	New Jersey	0.037688220694519
+Link 1878	Pennsylvania	0.178183250024096
+Link 1878	Delaware	0.550758892174753
+Link 1878	New Jersey	0.271057857801147
+Link 1879	Indiana	0.471374504149379
+Link 1879	Illinois	0.528625495850612
+Link 188	Texas	0.999999999999998
+Link 1880	Indiana	0.949716504325991
+Link 1880	Illinois	0.0421362121428763
+Link 1880	Kentucky	0.00814728353111627
+Link 1881	Illinois	0.855514085821762
+Link 1881	Indiana	0.135833518807123
+Link 1881	Kentucky	0.00865239537108667
+Link 1882	New Jersey	1.0
+Link 1883	New Jersey	1.0
+Link 1884	New Jersey	0.994208798723103
+Link 1884	Pennsylvania	0.00579120127690534
+Link 1885	Pennsylvania	1.0
+Link 1886	Delaware	0.0503884326559288
+Link 1886	New Jersey	0.10504881099244
+Link 1886	Pennsylvania	0.844562756351639
+Link 1887	Delaware	0.0256482544952056
+Link 1887	New Jersey	0.037688220694519
+Link 1887	Pennsylvania	0.936663524810275
+Link 1888	Colorado	1.0
+Link 1889	Colorado	1.0
+Link 189	Texas	1.0
+Link 1890	Colorado	1.0
+Link 1891	California	1.0
+Link 1892	California	1.0
+Link 1893	California	1.0
+Link 1894	New Jersey	0.00744125455907119
+Link 1894	Pennsylvania	0.762014823613159
+Link 1894	Delaware	0.230543921827791
+Link 1895	New Jersey	0.0891747807062056
+Link 1895	Delaware	0.910825219293794
+Link 1896	Delaware	0.237916156351199
+Link 1896	Pennsylvania	0.713458691500729
+Link 1896	Maryland	0.0486251521480797
+Link 1897	Kansas	0.00261856548612733
+Link 1897	Missouri	0.997381434513873
+Link 1898	Missouri	0.917931173431695
+Link 1898	Kansas	0.0820688265683016
+Link 1899	Kansas	0.117240728802541
+Link 1899	Missouri	0.882759271197412
+Link 19	Texas	0.999999999999995
+Link 190	Texas	1.0
+Link 1900	Pennsylvania	1.0
+Link 1901	New Jersey	0.0106709550945417
+Link 1901	Pennsylvania	0.734922716647582
+Link 1901	Delaware	0.25440632825788
+Link 1902	Pennsylvania	0.762014823613158
+Link 1902	New Jersey	0.00744125455907119
+Link 1902	Delaware	0.230543921827791
+Link 1903	Pennsylvania	1.0
+Link 1904	Pennsylvania	1.0
+Link 1905	Pennsylvania	1.0
+Link 1906	Colorado	1.0
+Link 1907	Colorado	1.0
+Link 1908	Colorado	1.0
+Link 1909	Missouri	0.991967380363015
+Link 1909	Illinois	0.00803261963698472
+Link 191	Texas	1.0
+Link 1910	Illinois	0.00783984142483916
+Link 1910	Missouri	0.992160158575161
+Link 1911	Missouri	1.0
+Link 1912	Pennsylvania	1.0
+Link 1913	Pennsylvania	1.0
+Link 1914	Pennsylvania	1.0
+Link 1915	Utah	1.0
+Link 1916	Utah	1.0
+Link 1917	Utah	1.0
+Link 1918	Colorado	1.0
+Link 1919	Colorado	1.0
+Link 192	Texas	1.0
+Link 1920	Colorado	1.0
+Link 1921	West Virginia	0.31427821143647
+Link 1921	Ohio	0.685721788563554
+Link 1922	West Virginia	0.839517324376816
+Link 1922	Ohio	0.113092905694612
+Link 1922	Kentucky	0.047389769928579
+Link 1923	West Virginia	0.00780809846742284
+Link 1923	Ohio	0.953997712825045
+Link 1923	Kentucky	0.0381941887075094
+Link 1924	Missouri	0.127262358397608
+Link 1924	Kansas	0.872737641602383
+Link 1925	Kansas	0.117240728802541
+Link 1925	Missouri	0.882759271197414
+Link 1926	Kansas	0.980367751814249
+Link 1926	Missouri	0.0196322481857493
+Link 1927	Pennsylvania	1.0
+Link 1928	Pennsylvania	1.0
+Link 1929	Pennsylvania	1.0
+Link 193	Texas	1.0
+Link 1930	Pennsylvania	0.886603936867229
+Link 1930	West Virginia	0.00703141134409922
+Link 1930	Maryland	0.106364651788666
+Link 1931	Pennsylvania	0.0694684395591098
+Link 1931	West Virginia	0.589161056615938
+Link 1931	Ohio	0.00750981853393403
+Link 1931	Maryland	0.333860685291023
+Link 1932	Ohio	0.0128336368454898
+Link 1932	West Virginia	0.345674596182095
+Link 1932	Pennsylvania	0.641491766972383
+Link 1933	Indiana	0.796903919877143
+Link 1933	Ohio	0.203096080122867
+Link 1934	Kentucky	0.0400372776715774
+Link 1934	Indiana	0.753677316188413
+Link 1934	Ohio	0.20628540614
+Link 1935	Indiana	1.0
+Link 1936	Colorado	0.1620321705404
+Link 1936	Utah	0.837967829459606
+Link 1937	Utah	0.884870623485136
+Link 1937	Colorado	0.115129376514864
+Link 1938	Utah	1.0
+Link 1939	Pennsylvania	0.796568465292582
+Link 1939	Maryland	0.158130281128057
+Link 1939	West Virginia	0.0453012535793303
+Link 194	Texas	1.0
+Link 1940	West Virginia	0.513157835167029
+Link 1940	Maryland	0.486842164832966
+Link 1941	Maryland	0.11034939451227
+Link 1941	West Virginia	0.0102873960567674
+Link 1941	Pennsylvania	0.879363209431001
+Link 1942	Pennsylvania	1.0
+Link 1943	Pennsylvania	0.879363209431001
+Link 1943	West Virginia	0.0102873960567674
+Link 1943	Maryland	0.11034939451227
+Link 1944	Pennsylvania	0.845008226911812
+Link 1944	Maryland	0.140849715458076
+Link 1944	West Virginia	0.0141420576301188
+Link 1945	West Virginia	0.122598875737507
+Link 1945	Ohio	0.00013285120455945
+Link 1945	Pennsylvania	0.877268273057918
+Link 1946	Pennsylvania	0.641491766972383
+Link 1946	West Virginia	0.345674596182095
+Link 1946	Ohio	0.0128336368454898
+Link 1947	Ohio	0.180775019841073
+Link 1947	West Virginia	0.817979149015239
+Link 1947	Pennsylvania	0.0012458311436628
+Link 1948	Ohio	0.249874845016437
+Link 1948	Indiana	0.750125154983581
+Link 1949	Ohio	1.0
+Link 195	Texas	1.00000000000001
+Link 1950	Indiana	0.796903919877143
+Link 1950	Ohio	0.203096080122867
+Link 1951	Pennsylvania	1.0
+Link 1952	Maryland	0.383328498200783
+Link 1952	West Virginia	0.0681229064051243
+Link 1952	Pennsylvania	0.548548595394091
+Link 1953	Pennsylvania	0.796568465292583
+Link 1953	West Virginia	0.0453012535793303
+Link 1953	Maryland	0.158130281128057
+Link 1954	Pennsylvania	1.0
+Link 1955	Pennsylvania	1.0
+Link 1956	Pennsylvania	1.0
+Link 1957	Colorado	1.0
+Link 1958	Colorado	1.0
+Link 1959	Colorado	1.0
+Link 196	Texas	1.0
+Link 1960	Utah	1.0
+Link 1961	Utah	1.0
+Link 1962	Utah	1.0
+Link 1963	Pennsylvania	1.0
+Link 1964	Pennsylvania	1.0
+Link 1965	Pennsylvania	1.0
+Link 1966	Missouri	0.0598420767314301
+Link 1966	Kansas	0.940157923268568
+Link 1967	Kansas	0.872737641602382
+Link 1967	Missouri	0.127262358397608
+Link 1968	Kansas	1.0
+Link 1969	Pennsylvania	1.0
+Link 197	Texas	1.0
+Link 1970	Maryland	0.140849715458076
+Link 1970	West Virginia	0.0141420576301188
+Link 1970	Pennsylvania	0.845008226911812
+Link 1971	West Virginia	0.00703141134409922
+Link 1971	Pennsylvania	0.88660393686723
+Link 1971	Maryland	0.106364651788666
+Link 1972	Illinois	1.0
+Link 1973	Illinois	1.0
+Link 1974	Illinois	1.0
+Link 1975	Illinois	1.0
+Link 1976	Illinois	1.0
+Link 1977	Illinois	1.0
+Link 1978	Pennsylvania	1.0
+Link 1979	Pennsylvania	1.0
+Link 198	Texas	1.0
+Link 1980	Pennsylvania	1.0
+Link 1981	Ohio	1.0
+Link 1982	Ohio	1.0
+Link 1983	Ohio	1.0
+Link 1984	New Jersey	0.965767360737284
+Link 1984	New York	0.0342326392627127
+Link 1985	New Jersey	1.0
+Link 1986	New York	0.0182843277694297
+Link 1986	New Jersey	0.981715672230572
+Link 1987	Illinois	1.0
+Link 1988	Illinois	1.0
+Link 1989	Illinois	1.0
+Link 199	Louisiana	1.0
+Link 1990	Ohio	0.969542449843586
+Link 1990	West Virginia	0.0304575501564139
+Link 1991	Ohio	0.0375651529064923
+Link 1991	West Virginia	0.962434847093478
+Link 1992	Ohio	0.685721788563554
+Link 1992	West Virginia	0.31427821143647
+Link 1993	Pennsylvania	1.0
+Link 1994	Pennsylvania	1.0
+Link 1995	Pennsylvania	1.0
+Link 1996	Utah	1.0
+Link 1997	Utah	1.0
+Link 1998	Utah	1.0
+Link 1999	Nevada	0.161416514695567
+Link 1999	California	0.83858348530447
+Link 2	Florida	1.0
+Link 20	Texas	0.999999999999983
+Link 200	Louisiana	1.0
+Link 2000	California	1.0
+Link 2001	California	0.851401972079482
+Link 2001	Nevada	0.148598027920513
+Link 2002	Pennsylvania	1.0
+Link 2003	Pennsylvania	1.0
+Link 2004	Pennsylvania	1.0
+Link 2005	Ohio	1.0
+Link 2006	Ohio	1.0
+Link 2007	Ohio	1.0
+Link 2008	Colorado	1.0
+Link 2009	Colorado	1.0
+Link 201	Louisiana	1.0
+Link 2010	Colorado	1.0
+Link 2011	Illinois	1.0
+Link 2012	Illinois	1.0
+Link 2013	Illinois	1.0
+Link 2014	New York	0.25300152365712
+Link 2014	New Jersey	0.746998476342884
+Link 2015	New Jersey	0.965767360737284
+Link 2015	New York	0.0342326392627127
+Link 2016	New York	0.431572060470023
+Link 2016	New Jersey	0.568427939529983
+Link 2017	Indiana	1.0
+Link 2018	Indiana	1.0
+Link 2019	Indiana	1.0
+Link 202	Florida	1.0
+Link 2020	Pennsylvania	1.0
+Link 2021	Pennsylvania	1.0
+Link 2022	Pennsylvania	1.0
+Link 2023	Utah	1.0
+Link 2024	Utah	1.0
+Link 2025	Utah	1.0
+Link 2026	Illinois	1.0
+Link 2027	Illinois	1.0
+Link 2028	Illinois	1.0
+Link 2029	California	1.0
+Link 203	Florida	1.0
+Link 2030	California	1.0
+Link 2031	California	1.0
+Link 2032	Colorado	1.0
+Link 2033	Colorado	1.0
+Link 2034	Colorado	1.0
+Link 2035	Pennsylvania	1.0
+Link 2036	Pennsylvania	1.0
+Link 2037	Pennsylvania	1.0
+Link 2038	Pennsylvania	1.0
+Link 2039	Pennsylvania	1.0
+Link 204	Florida	1.0
+Link 2040	Pennsylvania	1.0
+Link 2041	Pennsylvania	0.810398132938286
+Link 2041	New Jersey	0.189601867061711
+Link 2042	Pennsylvania	0.280317402019765
+Link 2042	New Jersey	0.719682597980235
+Link 2043	Pennsylvania	1.0
+Link 2044	Pennsylvania	1.0
+Link 2045	Pennsylvania	1.0
+Link 2046	Pennsylvania	1.0
+Link 2047	Indiana	0.192611393485477
+Link 2047	Ohio	0.80738860651452
+Link 2048	Ohio	1.0
+Link 2049	Ohio	0.747424456125497
+Link 2049	Indiana	0.252575543874521
+Link 205	Louisiana	1.0
+Link 2050	New York	0.114888169993057
+Link 2050	New Jersey	0.885111830006941
+Link 2051	New Jersey	1.0
+Link 2052	New Jersey	0.746998476342884
+Link 2052	New York	0.25300152365712
+Link 2053	Pennsylvania	1.0
+Link 2054	Pennsylvania	1.0
+Link 2055	Pennsylvania	1.0
+Link 2056	Nebraska	0.680730236406864
+Link 2056	Kansas	0.0798489733612385
+Link 2056	Missouri	0.239420790231882
+Link 2057	Kansas	0.940157923268567
+Link 2057	Missouri	0.0598420767314301
+Link 2058	Kansas	0.59184742083639
+Link 2058	Nebraska	0.408152579163607
+Link 2059	New Jersey	0.963231875675487
+Link 2059	Pennsylvania	0.0367681243245332
+Link 206	Louisiana	1.0
+Link 2060	New Jersey	0.433530305715657
+Link 2060	Pennsylvania	0.566469694284334
+Link 2061	Pennsylvania	0.280317402019765
+Link 2061	New Jersey	0.719682597980235
+Link 2062	West Virginia	0.0865589059639403
+Link 2062	Ohio	0.912469706635477
+Link 2062	Pennsylvania	0.000971387400587851
+Link 2063	Pennsylvania	0.0012458311436628
+Link 2063	West Virginia	0.817979149015238
+Link 2063	Ohio	0.180775019841073
+Link 2064	Ohio	0.936694954771649
+Link 2064	West Virginia	0.0633050452283434
+Link 2065	Indiana	1.0
+Link 2066	Indiana	0.252575543874521
+Link 2066	Ohio	0.747424456125497
+Link 2067	Ohio	0.249874845016437
+Link 2067	Indiana	0.750125154983581
+Link 2068	West Virginia	0.056648770025634
+Link 2068	Ohio	0.943351229974374
+Link 2069	West Virginia	0.762218982478297
+Link 2069	Ohio	0.234149855184476
+Link 2069	Pennsylvania	0.00363116233726699
+Link 207	Louisiana	1.0
+Link 2070	West Virginia	0.0865589059639403
+Link 2070	Ohio	0.912469706635478
+Link 2070	Pennsylvania	0.000971387400587851
+Link 2071	Ohio	1.0
+Link 2072	West Virginia	0.0633050452283434
+Link 2072	Ohio	0.93669495477165
+Link 2073	West Virginia	0.0304575501564139
+Link 2073	Ohio	0.969542449843585
+Link 2074	Pennsylvania	0.809737275249192
+Link 2074	Ohio	0.0426572750331006
+Link 2074	West Virginia	0.147605449717722
+Link 2075	Pennsylvania	0.877268273057919
+Link 2075	Ohio	0.00013285120455945
+Link 2075	West Virginia	0.122598875737506
+Link 2076	Ohio	0.234149855184475
+Link 2076	West Virginia	0.762218982478297
+Link 2076	Pennsylvania	0.00363116233726699
+Link 2077	Illinois	0.525963968480142
+Link 2077	Indiana	0.474036031519861
+Link 2078	Indiana	1.0
+Link 2079	Indiana	0.471374504149379
+Link 2079	Illinois	0.528625495850612
+Link 208	Louisiana	1.0
+Link 2080	Pennsylvania	0.035046947290276
+Link 2080	New Jersey	0.964953052709715
+Link 2081	New Jersey	1.0
+Link 2082	New Jersey	0.963231875675487
+Link 2082	Pennsylvania	0.0367681243245332
+Link 2083	California	1.0
+Link 2084	California	1.0
+Link 2085	California	1.0
+Link 2086	California	1.0
+Link 2087	California	1.0
+Link 2088	California	1.0
+Link 2089	Pennsylvania	1.0
+Link 209	Louisiana	1.0
+Link 2090	Pennsylvania	1.0
+Link 2091	Pennsylvania	1.0
+Link 2092	Pennsylvania	1.0
+Link 2093	Pennsylvania	1.0
+Link 2094	Pennsylvania	1.0
+Link 2095	Pennsylvania	1.0
+Link 2096	Pennsylvania	1.0
+Link 2097	Pennsylvania	1.0
+Link 2098	California	1.0
+Link 2099	California	1.0
+Link 21	Texas	1.0
+Link 210	Louisiana	1.0
+Link 2100	California	0.999999999999999
+Link 2101	Pennsylvania	1.0
+Link 2102	New Jersey	0.208247110104207
+Link 2102	Pennsylvania	0.791752889895786
+Link 2103	New Jersey	0.189601867061711
+Link 2103	Pennsylvania	0.810398132938286
+Link 2104	Ohio	0.814165240990733
+Link 2104	Indiana	0.185834759009257
+Link 2105	Ohio	1.0
+Link 2106	Ohio	0.807388606514519
+Link 2106	Indiana	0.192611393485477
+Link 2107	Pennsylvania	1.0
+Link 2108	Pennsylvania	1.0
+Link 2109	Pennsylvania	1.0
+Link 211	Texas	0.414974474238228
+Link 211	Louisiana	0.585025525761783
+Link 2110	Pennsylvania	1.0
+Link 2111	Pennsylvania	1.0
+Link 2112	Pennsylvania	1.0
+Link 2113	Pennsylvania	1.0
+Link 2114	Pennsylvania	1.0
+Link 2115	Pennsylvania	1.0
+Link 2116	Colorado	1.0
+Link 2117	Colorado	1.0
+Link 2118	Colorado	1.0
+Link 2119	Colorado	0.801533055675083
+Link 2119	Wyoming	0.19846694432489
+Link 212	Texas	1.0
+Link 2120	Colorado	1.0
+Link 2121	Wyoming	0.224924230769065
+Link 2121	Colorado	0.775075769230905
+Link 2122	Ohio	1.0
+Link 2123	Ohio	1.0
+Link 2124	Ohio	1.0
+Link 2125	Pennsylvania	1.0
+Link 2126	Pennsylvania	1.0
+Link 2127	Pennsylvania	1.0
+Link 2128	New Jersey	0.959498846173139
+Link 2128	Pennsylvania	0.0299391131156131
+Link 2128	New York	0.0105620407112663
+Link 2129	New York	0.0182843277694297
+Link 2129	New Jersey	0.981715672230572
+Link 213	Texas	0.273869013730982
+Link 213	Louisiana	0.726130986269028
+Link 2130	New Jersey	0.964953052709717
+Link 2130	Pennsylvania	0.035046947290276
+Link 2131	California	1.00000000000001
+Link 2132	California	1.0
+Link 2133	California	1.0
+Link 2134	Colorado	1.0
+Link 2135	Colorado	1.0
+Link 2136	Colorado	1.0
+Link 2137	New Jersey	0.956779806868619
+Link 2137	Pennsylvania	0.0432201931313592
+Link 2138	New York	0.0143785556253595
+Link 2138	New Jersey	0.985621444374641
+Link 2139	Pennsylvania	0.0299391131156131
+Link 2139	New Jersey	0.959498846173139
+Link 2139	New York	0.0105620407112663
+Link 214	Louisiana	1.0
+Link 2140	Illinois	1.0
+Link 2141	Illinois	1.0
+Link 2142	Illinois	1.0
+Link 2143	Colorado	0.7787299062047
+Link 2143	Wyoming	0.221270093795301
+Link 2144	Colorado	0.801533055675083
+Link 2144	Wyoming	0.19846694432489
+Link 2145	Wyoming	1.0
+Link 2146	Pennsylvania	1.0
+Link 2147	Pennsylvania	1.0
+Link 2148	Pennsylvania	1.0
+Link 2149	Illinois	0.346325879926391
+Link 2149	Indiana	0.653674120073603
+Link 215	Louisiana	1.0
+Link 2150	Indiana	0.474036031519861
+Link 2150	Illinois	0.525963968480142
+Link 2151	Illinois	1.0
+Link 2152	Pennsylvania	1.0
+Link 2153	Pennsylvania	1.0
+Link 2154	Pennsylvania	1.0
+Link 2155	Utah	1.0
+Link 2156	Utah	1.0
+Link 2157	Utah	1.0
+Link 2158	Iowa	0.2830833329316
+Link 2158	Kansas	0.0277672420751155
+Link 2158	Missouri	0.527521154737262
+Link 2158	Nebraska	0.161628270256015
+Link 2159	Nebraska	0.680730236406863
+Link 2159	Missouri	0.239420790231882
+Link 2159	Kansas	0.0798489733612385
+Link 216	Louisiana	1.0
+Link 2160	Nebraska	1.0
+Link 2161	Pennsylvania	1.0
+Link 2162	Pennsylvania	1.0
+Link 2163	Pennsylvania	1.0
+Link 2164	Indiana	1.0
+Link 2165	Indiana	1.0
+Link 2166	Indiana	1.0
+Link 2167	California	1.0
+Link 2168	California	1.0
+Link 2169	California	0.999999999999996
+Link 217	Texas	1.0
+Link 2170	Nebraska	1.0
+Link 2171	Nebraska	1.0
+Link 2172	Nebraska	1.0
+Link 2173	Nevada	1.0
+Link 2174	California	0.710596894011068
+Link 2174	Nevada	0.289403105988952
+Link 2175	California	0.838583485304466
+Link 2175	Nevada	0.161416514695568
+Link 2176	Illinois	1.0
+Link 2177	Illinois	1.0
+Link 2178	Illinois	1.0
+Link 2179	Wyoming	0.261804875767747
+Link 2179	Colorado	0.73819512423228
+Link 218	Texas	1.0
+Link 2180	Colorado	0.602308816518119
+Link 2180	Wyoming	0.397691183481868
+Link 2181	Colorado	1.0
+Link 2182	Connecticut	0.557774827432539
+Link 2182	New York	0.442225172567461
+Link 2183	Connecticut	0.544294276788901
+Link 2183	New York	0.455705723211118
+Link 2184	Connecticut	1.0
+Link 2185	Pennsylvania	1.0
+Link 2186	Pennsylvania	1.0
+Link 2187	Pennsylvania	1.0
+Link 2188	Pennsylvania	0.855486365892082
+Link 2188	West Virginia	0.0774695465345838
+Link 2188	Ohio	0.0670440875733236
+Link 2189	Pennsylvania	1.0
+Link 219	Texas	1.0
+Link 2190	West Virginia	0.147605449717722
+Link 2190	Pennsylvania	0.809737275249192
+Link 2190	Ohio	0.0426572750331006
+Link 2191	Utah	1.0
+Link 2192	Utah	1.0
+Link 2193	Utah	1.0
+Link 2194	Illinois	1.0
+Link 2195	Illinois	1.0
+Link 2196	Illinois	1.0
+Link 2197	Pennsylvania	1.0
+Link 2198	Pennsylvania	1.0
+Link 2199	Pennsylvania	1.0
+Link 22	Texas	0.999999999999992
+Link 220	Louisiana	0.692730391235534
+Link 220	Texas	0.307269608764465
+Link 2200	New York	0.11462503185667
+Link 2200	New Jersey	0.885374968143326
+Link 2201	New Jersey	0.568427939529983
+Link 2201	New York	0.431572060470023
+Link 2202	New Jersey	0.985621444374641
+Link 2202	New York	0.0143785556253595
+Link 2203	Pennsylvania	1.0
+Link 2204	Pennsylvania	1.0
+Link 2205	Pennsylvania	1.0
+Link 2206	New York	0.615280518034823
+Link 2206	Connecticut	0.384719481965177
+Link 2207	New York	0.387629661010886
+Link 2207	Connecticut	0.140400580902924
+Link 2207	New Jersey	0.471969758086206
+Link 2208	New Jersey	0.885111830006941
+Link 2208	New York	0.114888169993057
+Link 2209	Connecticut	1.0
+Link 221	Louisiana	1.0
+Link 2210	Connecticut	0.384719481965177
+Link 2210	New York	0.615280518034823
+Link 2211	New York	0.442225172567462
+Link 2211	Connecticut	0.557774827432538
+Link 2212	Wyoming	1.0
+Link 2213	Wyoming	0.224924230769065
+Link 2213	Colorado	0.775075769230905
+Link 2214	Colorado	0.602308816518119
+Link 2214	Wyoming	0.397691183481868
+Link 2215	Indiana	1.0
+Link 2216	Indiana	1.0
+Link 2217	Indiana	1.0
+Link 2218	New Jersey	0.689034031105544
+Link 2218	Pennsylvania	0.310965968894479
+Link 2219	Pennsylvania	0.0432201931313592
+Link 2219	New Jersey	0.956779806868619
+Link 222	Louisiana	0.726130986269028
+Link 222	Texas	0.273869013730982
+Link 2220	New Jersey	0.208247110104207
+Link 2220	Pennsylvania	0.791752889895786
+Link 2221	Pennsylvania	1.0
+Link 2222	Pennsylvania	1.0
+Link 2223	Pennsylvania	1.0
+Link 2224	Pennsylvania	1.0
+Link 2225	Pennsylvania	1.0
+Link 2226	Pennsylvania	1.0
+Link 2227	Pennsylvania	1.0
+Link 2228	Pennsylvania	1.0
+Link 2229	Pennsylvania	1.0
+Link 223	Florida	1.0
+Link 2230	Illinois	0.981481482422951
+Link 2230	Iowa	0.0185185175770369
+Link 2231	Illinois	0.972701517286407
+Link 2231	Iowa	0.0272984827135926
+Link 2232	Illinois	1.0
+Link 2233	New York	0.544599378941423
+Link 2233	New Jersey	0.455400621058587
+Link 2234	New York	0.11462503185667
+Link 2234	New Jersey	0.885374968143326
+Link 2235	New Jersey	0.377030536310792
+Link 2235	New York	0.622969463689216
+Link 2236	Connecticut	1.0
+Link 2237	Connecticut	1.0
+Link 2238	Connecticut	1.0
+Link 2239	Iowa	0.0170542685570055
+Link 2239	Missouri	0.0292677493239432
+Link 2239	Illinois	0.953677982119038
+Link 224	Florida	1.0
+Link 2240	Illinois	0.981481482422951
+Link 2240	Iowa	0.0185185175770369
+Link 2241	Illinois	0.947410776810705
+Link 2241	Missouri	0.0525892231892836
+Link 2242	New York	1.0
+Link 2243	New Jersey	0.225605409740173
+Link 2243	New York	0.774394590259811
+Link 2244	New Jersey	0.455400621058587
+Link 2244	New York	0.544599378941423
+Link 2245	Illinois	1.0
+Link 2246	Illinois	1.0
+Link 2247	Illinois	1.0
+Link 2248	Connecticut	0.305843094058504
+Link 2248	New York	0.694156905941509
+Link 2249	Connecticut	1.0
+Link 225	Florida	1.0
+Link 2250	New York	0.455705723211118
+Link 2250	Connecticut	0.544294276788901
+Link 2251	Indiana	0.116826038462538
+Link 2251	Ohio	0.883173961537474
+Link 2252	Indiana	0.185834759009257
+Link 2252	Ohio	0.814165240990733
+Link 2253	Indiana	1.0
+Link 2254	New York	0.76700328243996
+Link 2254	Connecticut	0.232996717560055
+Link 2255	New York	0.694156905941509
+Link 2255	Connecticut	0.305843094058504
+Link 2256	New Jersey	0.225605409740173
+Link 2256	New York	0.77439459025981
+Link 2257	Pennsylvania	1.0
+Link 2258	Pennsylvania	1.0
+Link 2259	Pennsylvania	1.0
+Link 226	Louisiana	1.0
+Link 2260	Illinois	1.0
+Link 2261	Illinois	1.0
+Link 2262	Illinois	1.0
+Link 2263	Pennsylvania	1.0
+Link 2264	Pennsylvania	1.0
+Link 2265	Pennsylvania	1.0
+Link 2266	Iowa	0.563013106266053
+Link 2266	Missouri	0.435802597966078
+Link 2266	Kansas	0.00118429576784473
+Link 2267	Missouri	0.437744174149084
+Link 2267	Kansas	0.00120738658291879
+Link 2267	Iowa	0.561048439268036
+Link 2268	Iowa	1.0
+Link 2269	Ohio	1.0
+Link 227	Texas	0.0314043925050577
+Link 227	Louisiana	0.968595607494942
+Link 2270	Ohio	1.0
+Link 2271	Ohio	1.0
+Link 2272	Connecticut	1.0
+Link 2273	Connecticut	1.0
+Link 2274	Connecticut	1.0
+Link 2275	Illinois	1.0
+Link 2276	Illinois	1.0
+Link 2277	Illinois	1.0
+Link 2278	Ohio	1.0
+Link 2279	Ohio	1.0
+Link 228	Texas	0.414974474238228
+Link 228	Louisiana	0.585025525761783
+Link 2280	Ohio	1.0
+Link 2281	Pennsylvania	0.845863024617563
+Link 2281	West Virginia	0.0542495227803515
+Link 2281	Ohio	0.0998874526020543
+Link 2282	Pennsylvania	1.0
+Link 2283	Ohio	0.0670440875733236
+Link 2283	Pennsylvania	0.855486365892081
+Link 2283	West Virginia	0.0774695465345838
+Link 2284	Pennsylvania	1.0
+Link 2285	Pennsylvania	1.0
+Link 2286	Pennsylvania	1.0
+Link 2287	Indiana	1.0
+Link 2288	Indiana	1.0
+Link 2289	Indiana	1.0
+Link 229	Louisiana	1.0
+Link 2290	Indiana	1.0
+Link 2291	Indiana	1.0
+Link 2292	Indiana	1.0
+Link 2293	West Virginia	0.048711396892967
+Link 2293	Ohio	0.951288603107033
+Link 2294	Ohio	0.943351229974374
+Link 2294	West Virginia	0.056648770025634
+Link 2295	Ohio	1.0
+Link 2296	Iowa	0.388517161582209
+Link 2296	Missouri	0.611482838417764
+Link 2297	Kansas	0.00261856548612733
+Link 2297	Missouri	0.997381434513872
+Link 2298	Missouri	0.435802597966078
+Link 2298	Kansas	0.00118429576784473
+Link 2298	Iowa	0.563013106266052
+Link 2299	Illinois	0.972039921075092
+Link 2299	Iowa	0.0279600789249274
+Link 23	Texas	0.999999999999998
+Link 230	Louisiana	1.0
+Link 2300	Illinois	1.0
+Link 2301	Illinois	0.972701517286409
+Link 2301	Iowa	0.0272984827135926
+Link 2302	Indiana	1.0
+Link 2303	Indiana	0.653674120073604
+Link 2303	Illinois	0.346325879926391
+Link 2304	Illinois	0.795650009183402
+Link 2304	Indiana	0.204349990816614
+Link 2305	Ohio	1.0
+Link 2306	Ohio	1.0
+Link 2307	Ohio	1.0
+Link 2309	Pennsylvania	1.0
+Link 231	Louisiana	1.0
+Link 2310	Pennsylvania	1.0
+Link 2311	New Jersey	0.54306691411764
+Link 2311	Massachusetts	0.45693308588236
+Link 2312	Connecticut	0.140400580902924
+Link 2312	New Jersey	0.471969758086207
+Link 2312	New York	0.387629661010886
+Link 2313	Massachusetts	0.392926347242914
+Link 2313	Connecticut	0.212731676351005
+Link 2313	Rhode Island	0.394341976406073
+Link 2314	Massachusetts	1.0
+Link 2315	Connecticut	0.212731676351005
+Link 2315	Rhode Island	0.394341976406073
+Link 2315	Massachusetts	0.392926347242914
+Link 2316	Massachusetts	0.222573088485348
+Link 2316	Rhode Island	0.486501154143449
+Link 2316	Connecticut	0.290925757371193
+Link 2317	Massachusetts	0.7279786598429
+Link 2317	Delaware	0.0307599388186572
+Link 2317	Maryland	0.241261401338444
+Link 2318	New Jersey	0.660740848277001
+Link 2318	Delaware	0.138480498474974
+Link 2318	Maryland	0.20077865324802
+Link 2319	Massachusetts	0.45693308588236
+Link 2319	New Jersey	0.54306691411764
+Link 232	Texas	1.0
+Link 2320	Ohio	1.0
+Link 2321	Ohio	1.0
+Link 2322	Ohio	0.999999999999987
+Link 2323	Iowa	0.536289432461818
+Link 2323	Illinois	0.00963039222122034
+Link 2323	Missouri	0.454080175316982
+Link 2324	Illinois	0.00803261963698472
+Link 2324	Missouri	0.991967380363015
+Link 2325	Missouri	0.611482838417764
+Link 2325	Iowa	0.388517161582209
+Link 2326	Michigan	0.000691005532242676
+Link 2326	Indiana	0.999308994467757
+Link 2327	Indiana	0.996889557120071
+Link 2327	Michigan	0.00311044287993048
+Link 2328	Indiana	1.0
+Link 2329	Illinois	1.0
+Link 233	Texas	1.0
+Link 2330	Illinois	1.0
+Link 2331	Illinois	1.0
+Link 2332	Indiana	0.999999999999999
+Link 2333	Indiana	1.0
+Link 2334	Indiana	1.0
+Link 2335	Indiana	0.132296311482454
+Link 2335	Illinois	0.867703688517559
+Link 2336	Illinois	0.0246077770154471
+Link 2336	Indiana	0.975392222984557
+Link 2337	Illinois	0.795650009183402
+Link 2337	Indiana	0.204349990816614
+Link 2338	Illinois	0.0550785952989417
+Link 2338	Iowa	0.944921404701061
+Link 2339	Illinois	0.953677982119038
+Link 2339	Missouri	0.0292677493239431
+Link 2339	Iowa	0.0170542685570055
+Link 234	Texas	1.0
+Link 2340	Missouri	0.0519779451605416
+Link 2340	Illinois	0.297056339897817
+Link 2340	Iowa	0.650965714941625
+Link 2341	Indiana	0.997249023396293
+Link 2341	Michigan	0.00275097660370402
+Link 2342	Indiana	0.999308994467757
+Link 2342	Michigan	0.000691005532242676
+Link 2343	Indiana	1.0
+Link 2344	Rhode Island	0.288266035541182
+Link 2344	Massachusetts	0.711733964458823
+Link 2345	Rhode Island	0.486501154143448
+Link 2345	Massachusetts	0.222573088485348
+Link 2345	Connecticut	0.290925757371193
+Link 2346	Rhode Island	0.575462861396854
+Link 2346	Connecticut	0.424537138603163
+Link 2347	Connecticut	1.0
+Link 2348	Connecticut	1.0
+Link 2349	Connecticut	1.0
+Link 235	Louisiana	1.0
+Link 2350	Indiana	0.0971600992487916
+Link 2350	Illinois	0.90283990075121
+Link 2351	Indiana	0.132296311482454
+Link 2351	Illinois	0.867703688517559
+Link 2352	Illinois	1.0
+Link 2353	Connecticut	1.0
+Link 2354	Connecticut	1.0
+Link 2355	Connecticut	1.0
+Link 2356	Illinois	0.88747556081381
+Link 2356	Indiana	0.112524439186211
+Link 2357	Illinois	0.90283990075121
+Link 2357	Indiana	0.0971600992487916
+Link 2358	Illinois	1.0
+Link 2359	Illinois	1.0
+Link 236	Louisiana	1.0
+Link 2360	Indiana	0.344069305430847
+Link 2360	Illinois	0.655930694569153
+Link 2361	Indiana	0.112524439186211
+Link 2361	Illinois	0.887475560813809
+Link 2362	Nevada	0.12912729010689
+Link 2362	California	0.870872709893116
+Link 2363	Nevada	0.540150654333987
+Link 2363	California	0.459849345665971
+Link 2364	California	1.0
+Link 2365	Ohio	1.0
+Link 2366	Ohio	0.961656963733497
+Link 2366	West Virginia	0.0383430362664996
+Link 2367	Ohio	0.951288603107033
+Link 2367	West Virginia	0.048711396892967
+Link 2368	Connecticut	1.0
+Link 2369	Connecticut	1.0
+Link 237	Louisiana	1.0
+Link 2370	Connecticut	1.0
+Link 2371	Ohio	1.0
+Link 2372	Ohio	1.0
+Link 2373	Ohio	1.0
+Link 2374	Connecticut	1.0
+Link 2375	Connecticut	1.0
+Link 2376	Connecticut	1.0
+Link 2377	Ohio	0.289923664647006
+Link 2377	Pennsylvania	0.710076335352983
+Link 2378	West Virginia	0.0542495227803515
+Link 2378	Pennsylvania	0.845863024617563
+Link 2378	Ohio	0.0998874526020543
+Link 2379	Ohio	0.961656963733498
+Link 2379	West Virginia	0.0383430362664997
+Link 238	Louisiana	1.0
+Link 2380	Illinois	1.0
+Link 2381	Illinois	1.0
+Link 2382	Illinois	1.0
+Link 2383	Pennsylvania	1.0
+Link 2384	Pennsylvania	1.0
+Link 2385	Pennsylvania	1.0
+Link 2386	Ohio	1.0
+Link 2387	Ohio	1.0
+Link 2388	Ohio	1.0
+Link 2389	Kansas	0.586947927433996
+Link 2389	Nebraska	0.413052072566022
+Link 239	Louisiana	1.0
+Link 2390	Nebraska	1.0
+Link 2391	Nebraska	0.408152579163608
+Link 2391	Kansas	0.59184742083639
+Link 2392	Ohio	0.921305019652097
+Link 2392	Indiana	0.0786949803479258
+Link 2393	Ohio	1.0
+Link 2394	Ohio	0.883173961537475
+Link 2394	Indiana	0.116826038462538
+Link 2395	New York	1.0
+Link 2396	New York	1.0
+Link 2397	New York	1.0
+Link 2398	Colorado	0.849246660559114
+Link 2398	Wyoming	0.150753339440884
+Link 2399	Wyoming	0.261804875767747
+Link 2399	Colorado	0.73819512423228
+Link 24	Texas	0.999999999999983
+Link 240	Louisiana	1.0
+Link 2400	Colorado	1.0
+Link 2401	Iowa	1.0
+Link 2402	Illinois	0.297056339897817
+Link 2402	Iowa	0.650965714941625
+Link 2402	Missouri	0.0519779451605416
+Link 2403	Illinois	0.00963039222122034
+Link 2403	Iowa	0.536289432461819
+Link 2403	Missouri	0.454080175316983
+Link 2404	Illinois	0.96831092296816
+Link 2404	Iowa	0.0316890770318351
+Link 2405	Illinois	1.0
+Link 2406	Illinois	0.972039921075091
+Link 2406	Iowa	0.0279600789249274
+Link 2407	Michigan	0.670559588965388
+Link 2407	Indiana	0.329440411034646
+Link 2408	Michigan	0.811970530227684
+Link 2408	Indiana	0.188029469772309
+Link 2409	Michigan	0.00275097660370402
+Link 2409	Indiana	0.997249023396293
+Link 241	Louisiana	1.0
+Link 2410	Indiana	1.0
+Link 2411	Indiana	1.0
+Link 2412	Indiana	1.0
+Link 2413	Ohio	0.38857764781075
+Link 2413	Pennsylvania	0.611422352189261
+Link 2414	Pennsylvania	1.0
+Link 2415	Pennsylvania	0.710076335352983
+Link 2415	Ohio	0.289923664647006
+Link 2416	Illinois	1.0
+Link 2417	Illinois	1.0
+Link 2418	Illinois	1.0
+Link 2419	Ohio	1.0
+Link 242	Louisiana	1.0
+Link 2420	Ohio	1.0
+Link 2421	Ohio	1.0
+Link 2422	New York	0.79471926818619
+Link 2422	Connecticut	0.205280731813816
+Link 2423	Connecticut	0.232996717560055
+Link 2423	New York	0.76700328243996
+Link 2424	New York	1.0
+Link 2425	Connecticut	0.769421471318433
+Link 2425	Massachusetts	0.230578528681561
+Link 2426	Massachusetts	0.431933221156802
+Link 2426	Rhode Island	0.56806677884318
+Link 2427	Rhode Island	0.575462861396854
+Link 2427	Connecticut	0.424537138603163
+Link 2428	Wyoming	1.0
+Link 2429	Wyoming	1.0
+Link 243	Louisiana	1.0
+Link 2430	Wyoming	1.0
+Link 2431	Pennsylvania	0.392716272789475
+Link 2431	New Jersey	0.308065429940826
+Link 2431	New York	0.299218297269723
+Link 2432	New York	0.622969463689216
+Link 2432	New Jersey	0.377030536310792
+Link 2433	Pennsylvania	0.310965968894479
+Link 2433	New Jersey	0.689034031105545
+Link 2434	Pennsylvania	0.86436646045756
+Link 2434	New York	0.135633539542397
+Link 2435	Pennsylvania	1.0
+Link 2436	Pennsylvania	0.830320441546928
+Link 2436	New York	0.169679558453105
+Link 2438	New York	0.173801624360387
+Link 2438	Pennsylvania	0.826198375639574
+Link 244	Louisiana	1.0
+Link 2440	Utah	1.0
+Link 2441	Utah	1.0
+Link 2442	Utah	1.0
+Link 2443	Michigan	0.819849979921185
+Link 2443	Ohio	0.180150020078766
+Link 2444	Ohio	1.0
+Link 2445	Ohio	0.188765099827707
+Link 2445	Michigan	0.811234900172286
+Link 2446	Connecticut	0.843456063853576
+Link 2446	Massachusetts	0.156543936146434
+Link 2447	Connecticut	1.0
+Link 2448	Connecticut	0.711142162160282
+Link 2448	Massachusetts	0.288857837839736
+Link 2449	Wyoming	0.400422091815168
+Link 2449	Colorado	0.303442794175963
+Link 2449	Utah	0.296135114008876
+Link 245	Louisiana	1.0
+Link 2450	Utah	0.837967829459607
+Link 2450	Colorado	0.162032170540399
+Link 2451	Wyoming	0.553429382535576
+Link 2451	Utah	0.446570617464417
+Link 2452	New York	1.0
+Link 2454	Pennsylvania	0.864366460457561
+Link 2454	New York	0.135633539542397
+Link 2455	Connecticut	0.63493472411414
+Link 2455	Massachusetts	0.365065275885862
+Link 2456	Massachusetts	0.288857837839736
+Link 2456	Connecticut	0.711142162160283
+Link 2457	Connecticut	1.0
+Link 2458	Nebraska	0.0660575826111969
+Link 2458	Iowa	0.933942417388814
+Link 2459	Kansas	0.00120738658291879
+Link 2459	Iowa	0.561048439268036
+Link 2459	Missouri	0.437744174149084
+Link 246	Louisiana	1.0
+Link 2460	Iowa	0.2830833329316
+Link 2460	Nebraska	0.161628270256014
+Link 2460	Missouri	0.527521154737261
+Link 2460	Kansas	0.0277672420751155
+Link 2461	Indiana	0.409238299454593
+Link 2461	Michigan	0.590761700545401
+Link 2462	Indiana	1.0
+Link 2463	Indiana	0.203477942001517
+Link 2463	Michigan	0.796522057998498
+Link 2464	Illinois	1.0
+Link 2465	Illinois	1.0
+Link 2466	Illinois	1.0
+Link 2467	Michigan	1.0
+Link 2468	Ohio	0.194418826037355
+Link 2468	Michigan	0.805581173962623
+Link 2469	Michigan	0.819849979921185
+Link 2469	Ohio	0.180150020078766
+Link 247	Louisiana	1.0
+Link 2470	Massachusetts	1.0
+Link 2471	Connecticut	0.769421471318433
+Link 2471	Massachusetts	0.230578528681561
+Link 2472	Connecticut	0.843456063853576
+Link 2472	Massachusetts	0.156543936146434
+Link 2473	Utah	0.523798846316768
+Link 2473	Wyoming	0.476201153683236
+Link 2474	Utah	0.446570617464416
+Link 2474	Wyoming	0.553429382535577
+Link 2475	Utah	1.0
+Link 2476	Connecticut	0.443240902282842
+Link 2476	New York	0.556759097717146
+Link 2477	Connecticut	1.0
+Link 2478	New York	0.79471926818619
+Link 2478	Connecticut	0.205280731813816
+Link 2479	Oregon	0.24168935221167
+Link 2479	California	0.758310647788322
+Link 248	Louisiana	1.0
+Link 2480	Oregon	0.200817377348911
+Link 2480	California	0.79918262265109
+Link 2481	California	1.0
+Link 2482	Massachusetts	1.0
+Link 2483	Massachusetts	0.711733964458823
+Link 2483	Rhode Island	0.288266035541182
+Link 2484	Massachusetts	0.798313517696568
+Link 2484	Rhode Island	0.201686482303454
+Link 2485	Illinois	0.00631293304128342
+Link 2485	Indiana	0.993687066958716
+Link 2486	Indiana	0.999999999999999
+Link 2487	Illinois	0.0246077770154471
+Link 2487	Indiana	0.975392222984557
+Link 2488	Wyoming	0.518624903850264
+Link 2488	Idaho	0.00972611311528362
+Link 2488	Utah	0.47164898303447
+Link 2489	Wyoming	0.476201153683236
+Link 2489	Utah	0.523798846316768
+Link 249	Louisiana	1.0
+Link 2490	Utah	1.0
+Link 2491	Oregon	0.0977160724330494
+Link 2491	California	0.902283927566943
+Link 2492	California	1.0
+Link 2493	Oregon	0.141675619996543
+Link 2493	California	0.858324380003424
+Link 2495	Ohio	1.0
+Link 2496	Ohio	0.194418826037355
+Link 2496	Michigan	0.805581173962623
+Link 2497	Oregon	1.0
+Link 2498	Oregon	0.24168935221167
+Link 2498	California	0.758310647788322
+Link 2499	California	0.707603623178714
+Link 2499	Oregon	0.292396376821262
+Link 25	Florida	1.0
+Link 250	Texas	1.0
+Link 2500	Illinois	1.0
+Link 2501	Illinois	1.0
+Link 2502	Illinois	1.0
+Link 2503	Illinois	1.0
+Link 2504	Illinois	1.0
+Link 2505	Illinois	1.0
+Link 2506	Oregon	1.0
+Link 2507	Oregon	0.141675619996543
+Link 2507	California	0.858324380003424
+Link 2508	Oregon	0.200817377348911
+Link 2508	California	0.79918262265109
+Link 2509	Pennsylvania	1.0
+Link 251	Texas	1.0
+Link 2510	Pennsylvania	1.0
+Link 2511	Pennsylvania	1.0
+Link 2512	New York	1.0
+Link 2513	New York	1.0
+Link 2514	New York	1.0
+Link 2515	Iowa	1.0
+Link 2516	Iowa	1.0
+Link 2517	Iowa	1.0
+Link 2518	Massachusetts	1.0
+Link 2519	Rhode Island	0.201686482303454
+Link 2519	Massachusetts	0.798313517696568
+Link 252	Texas	1.0
+Link 2520	Rhode Island	0.56806677884318
+Link 2520	Massachusetts	0.431933221156802
+Link 2521	Iowa	1.0
+Link 2522	Iowa	1.0
+Link 2523	Iowa	1.0
+Link 2524	Michigan	0.877987208707347
+Link 2524	Indiana	0.122012791292633
+Link 2525	Indiana	0.203477942001517
+Link 2525	Michigan	0.796522057998498
+Link 2526	Indiana	0.996889557120071
+Link 2526	Michigan	0.00311044287993048
+Link 2527	Illinois	0.201850276778074
+Link 2527	Indiana	0.798149723221926
+Link 2528	Indiana	0.993687066958716
+Link 2528	Illinois	0.00631293304128342
+Link 2529	Indiana	0.344069305430847
+Link 2529	Illinois	0.655930694569153
+Link 253	Florida	0.152719915326616
+Link 253	Mississippi	0.00388116129990004
+Link 253	Alabama	0.319060008869606
+Link 253	Louisiana	0.524338914503871
+Link 2530	Michigan	1.0
+Link 2531	Michigan	1.00000000000001
+Link 2532	Michigan	1.0
+Link 2533	Iowa	0.0538546733622086
+Link 2533	South Dakota	5.0163568703749e-05
+Link 2533	Nebraska	0.946095163069086
+Link 2534	South Dakota	6.03782838211827e-05
+Link 2534	Nebraska	0.739932184818744
+Link 2534	Iowa	0.260007436897463
+Link 2535	Nebraska	1.0
+Link 2536	Michigan	1.0
+Link 2537	Indiana	0.122012791292633
+Link 2537	Michigan	0.877987208707347
+Link 2538	Indiana	0.188029469772309
+Link 2538	Michigan	0.811970530227684
+Link 2539	Wisconsin	0.140737319629424
+Link 2539	Illinois	0.859262680370602
+Link 254	Louisiana	0.863138387281586
+Link 254	Mississippi	0.136861612718411
+Link 2540	Illinois	1.0
+Link 2541	Wisconsin	0.474147349413737
+Link 2541	Illinois	0.525852650586259
+Link 2542	Massachusetts	1.0
+Link 2543	Massachusetts	0.365065275885862
+Link 2543	Connecticut	0.634934724114141
+Link 2544	Massachusetts	0.66493381461169
+Link 2544	Connecticut	0.335066185388349
+Link 2545	Illinois	0.72272064660814
+Link 2545	Wisconsin	0.277279353391866
+Link 2546	Illinois	1.0
+Link 2547	Illinois	0.859262680370601
+Link 2547	Wisconsin	0.140737319629424
+Link 2548	Massachusetts	0.258682785370482
+Link 2548	New York	0.741317214629524
+Link 2549	Massachusetts	0.66493381461169
+Link 2549	Connecticut	0.335066185388349
+Link 255	Alabama	0.671308683200154
+Link 255	Mississippi	0.14302754339053
+Link 255	Florida	0.185663773409316
+Link 2550	Connecticut	0.443240902282842
+Link 2550	New York	0.556759097717146
+Link 2551	Indiana	0.0776116582796224
+Link 2551	Michigan	0.652120336853635
+Link 2551	Ohio	0.270268004866737
+Link 2552	Ohio	0.188765099827707
+Link 2552	Michigan	0.811234900172286
+Link 2553	Ohio	0.921305019652097
+Link 2553	Indiana	0.0786949803479258
+Link 2554	Utah	0.696674375355128
+Link 2554	Idaho	0.122550932415768
+Link 2554	Nevada	0.180774692229098
+Link 2555	Idaho	0.288887328746305
+Link 2555	Utah	0.711112671253679
+Link 2556	Utah	1.0
+Link 2557	Massachusetts	1.0
+Link 2558	Massachusetts	1.0
+Link 2559	Massachusetts	1.0
+Link 256	Florida	0.999999999999994
+Link 2560	Pennsylvania	0.708526784397269
+Link 2560	New York	0.291473215602717
+Link 2561	New Jersey	0.308065429940826
+Link 2561	Pennsylvania	0.392716272789476
+Link 2561	New York	0.299218297269724
+Link 2562	Pennsylvania	1.0
+Link 2563	Virginia	0.550594644984952
+Link 2563	Massachusetts	0.449405355015039
+Link 2564	Virginia	0.672272726252808
+Link 2564	Maryland	0.327727273747216
+Link 2565	Delaware	0.0307599388186572
+Link 2565	Massachusetts	0.7279786598429
+Link 2565	Maryland	0.241261401338444
+Link 2566	Kansas	0.61994084032626
+Link 2566	Colorado	0.380059159673734
+Link 2567	Texas	0.311191862933884
+Link 2567	Oklahoma	0.181990709786059
+Link 2567	Kansas	0.506817427280072
+Link 2568	New Mexico	0.0160771305053959
+Link 2568	Texas	0.322307046613595
+Link 2568	Colorado	0.489856245969136
+Link 2568	Oklahoma	0.171759576911889
+Link 2569	Iowa	0.075419017355512
+Link 2569	Illinois	0.924580982644465
+Link 257	Louisiana	0.659540863774904
+Link 257	Florida	0.340459136225096
+Link 2570	Illinois	1.0
+Link 2571	Iowa	0.0316890770318351
+Link 2571	Illinois	0.968310922968161
+Link 2572	Michigan	1.0
+Link 2573	Indiana	0.0776116582796224
+Link 2573	Ohio	0.270268004866737
+Link 2573	Michigan	0.652120336853635
+Link 2574	Michigan	0.759032076287307
+Link 2574	Indiana	0.198781614984658
+Link 2574	Ohio	0.0421863087279931
+Link 2575	Iowa	0.959523502410548
+Link 2575	Illinois	0.0404764975894692
+Link 2576	Illinois	0.0550785952989417
+Link 2576	Iowa	0.944921404701062
+Link 2577	Iowa	1.0
+Link 2578	Massachusetts	1.0
+Link 2579	Massachusetts	1.0
+Link 258	Louisiana	0.524338914503871
+Link 258	Alabama	0.319060008869606
+Link 258	Mississippi	0.00388116129990004
+Link 258	Florida	0.152719915326616
+Link 2580	Massachusetts	1.0
+Link 2581	New York	0.192901838494646
+Link 2581	Pennsylvania	0.807098161505339
+Link 2582	New York	0.169679558453105
+Link 2582	Pennsylvania	0.830320441546928
+Link 2583	Pennsylvania	1.0
+Link 2584	Nevada	0.112712216949966
+Link 2584	Oregon	0.087698949054811
+Link 2584	California	0.799588833995234
+Link 2585	Nevada	0.12912729010689
+Link 2585	California	0.870872709893115
+Link 2586	Oregon	0.0977160724330494
+Link 2586	California	0.902283927566943
+Link 2587	New York	0.756579245869057
+Link 2587	Massachusetts	0.243420754130969
+Link 2588	New York	0.741317214629524
+Link 2588	Massachusetts	0.258682785370482
+Link 2589	New York	1.0
+Link 259	Louisiana	1.0
+Link 2590	Pennsylvania	0.393912865699039
+Link 2590	New York	0.606087134300992
+Link 2591	New York	0.291473215602717
+Link 2591	Pennsylvania	0.708526784397269
+Link 2592	New York	0.173801624360387
+Link 2592	Pennsylvania	0.826198375639574
+Link 2593	Massachusetts	1.0
+Link 2594	Massachusetts	1.0
+Link 2595	Massachusetts	1.0
+Link 2596	Illinois	1.0
+Link 2597	Illinois	1.0
+Link 2598	Illinois	1.0
+Link 2599	Massachusetts	0.53617838891469
+Link 2599	New Hampshire	0.463821611085328
+Link 26	Florida	1.0
+Link 260	Louisiana	1.0
+Link 2600	New Hampshire	0.300086912606053
+Link 2600	Massachusetts	0.699913087393923
+Link 2601	Massachusetts	1.0
+Link 2602	Michigan	1.0
+Link 2603	Michigan	0.759032076287307
+Link 2603	Indiana	0.198781614984658
+Link 2603	Ohio	0.0421863087279931
+Link 2604	Indiana	0.409238299454593
+Link 2604	Michigan	0.5907617005454
+Link 2606	Ohio	0.999999999999987
+Link 2608	Illinois	0.773408014283363
+Link 2608	Wisconsin	0.226591985716636
+Link 2609	Illinois	1.0
+Link 261	Louisiana	1.0
+Link 2610	Wisconsin	0.180570168950948
+Link 2610	Illinois	0.819429831049036
+Link 2611	Nevada	0.351972377802033
+Link 2611	Idaho	0.109385396246901
+Link 2611	Utah	0.538642225951109
+Link 2612	Utah	0.696674375355129
+Link 2612	Nevada	0.180774692229098
+Link 2612	Idaho	0.122550932415768
+Link 2613	Utah	1.0
+Link 2614	Kansas	0.608256827824216
+Link 2614	Colorado	0.391743172175795
+Link 2615	Colorado	0.380059159673734
+Link 2615	Kansas	0.61994084032626
+Link 2616	Colorado	1.0
+Link 2617	Michigan	0.687541951027759
+Link 2617	Illinois	0.312458048972241
+Link 2618	Michigan	0.670559588965388
+Link 2618	Indiana	0.329440411034646
+Link 2619	Illinois	0.201850276778074
+Link 2619	Indiana	0.798149723221926
+Link 262	Alabama	0.735072110255636
+Link 262	Florida	0.264927889744366
+Link 2620	Nevada	0.906928412267214
+Link 2620	Idaho	0.0930715877327871
+Link 2621	Idaho	0.109385396246901
+Link 2621	Nevada	0.351972377802033
+Link 2621	Utah	0.538642225951108
+Link 2622	Arizona	0.185971321439039
+Link 2622	Nevada	0.69008472109461
+Link 2622	Utah	0.123943957466329
+Link 2623	Idaho	0.402599242857794
+Link 2623	Utah	0.59740075714217
+Link 2624	Utah	1.0
+Link 2625	Idaho	0.288887328746305
+Link 2625	Utah	0.711112671253679
+Link 2626	Pennsylvania	1.0
+Link 2627	Pennsylvania	1.0
+Link 2628	Pennsylvania	1.0
+Link 2629	Wisconsin	0.702769920981639
+Link 2629	Illinois	0.297230079018336
+Link 263	Alabama	0.671308683200154
+Link 263	Florida	0.185663773409316
+Link 263	Mississippi	0.14302754339053
+Link 2630	Wisconsin	1.0
+Link 2631	Wisconsin	0.474147349413737
+Link 2631	Illinois	0.525852650586259
+Link 2632	Pennsylvania	0.675560433826305
+Link 2632	New York	0.324439566173683
+Link 2633	New York	0.612874896807011
+Link 2633	Pennsylvania	0.387125103193007
+Link 2634	Pennsylvania	1.0
+Link 2635	Idaho	0.16997018902925
+Link 2635	Nevada	0.830029810970755
+Link 2636	Idaho	0.0930715877327871
+Link 2636	Nevada	0.906928412267213
+Link 2637	Nevada	1.0
+Link 2638	Wisconsin	0.827655722830615
+Link 2638	Illinois	0.172344277169421
+Link 2639	Wisconsin	1.0
+Link 264	Mississippi	0.351070514204907
+Link 264	Alabama	0.648929485795094
+Link 2640	Wisconsin	0.702769920981639
+Link 2640	Illinois	0.297230079018336
+Link 2641	Massachusetts	0.137130239573872
+Link 2641	North Carolina	0.862869760426129
+Link 2642	North Carolina	0.858312408237651
+Link 2642	Virginia	0.14168759176239
+Link 2643	Massachusetts	0.449405355015039
+Link 2643	Virginia	0.550594644984945
+Link 2644	Utah	0.493313622864185
+Link 2644	Idaho	0.506686377135807
+Link 2645	Idaho	0.748994113523712
+Link 2645	Utah	0.25100588647626
+Link 2646	Utah	1.0
+Link 2647	New York	1.0
+Link 2648	New York	1.0
+Link 2649	New York	1.0
+Link 265	Mississippi	0.39627537283788
+Link 265	Louisiana	0.603724627162117
+Link 2650	Iowa	0.328125806168282
+Link 2650	Nebraska	0.671874193831718
+Link 2651	Nebraska	0.739932184818745
+Link 2651	Iowa	0.260007436897463
+Link 2651	South Dakota	6.03782838211827e-05
+Link 2652	Nebraska	0.291743302543086
+Link 2652	Iowa	0.707482655865041
+Link 2652	South Dakota	0.000774041591873132
+Link 2653	New York	1.0
+Link 2654	New York	1.0
+Link 2655	New York	1.0
+Link 2656	New York	1.0
+Link 2657	New York	1.0
+Link 2658	New York	1.0
+Link 2659	New York	1.0
+Link 266	Mississippi	0.136861612718411
+Link 266	Louisiana	0.863138387281586
+Link 2660	New York	0.606087134300991
+Link 2660	Pennsylvania	0.393912865699039
+Link 2661	New York	1.0
+Link 2662	Michigan	1.0
+Link 2663	Michigan	1.0
+Link 2664	Michigan	1.0
+Link 2665	New Hampshire	1.0
+Link 2666	Massachusetts	0.731992103685382
+Link 2666	New Hampshire	0.268007896314637
+Link 2667	New Hampshire	0.300086912606053
+Link 2667	Massachusetts	0.699913087393924
+Link 2668	Massachusetts	0.348992217467744
+Link 2668	New Hampshire	0.651007782532273
+Link 2669	New Hampshire	1.0
+Link 267	Louisiana	1.0
+Link 2670	New Hampshire	0.463821611085328
+Link 2670	Massachusetts	0.53617838891469
+Link 2671	Idaho	0.190461607676313
+Link 2671	Nevada	0.809538392323718
+Link 2672	Idaho	0.16997018902925
+Link 2672	Nevada	0.830029810970756
+Link 2673	Nevada	1.0
+Link 2674	Idaho	1.0
+Link 2675	Idaho	0.506686377135807
+Link 2675	Utah	0.493313622864185
+Link 2676	Idaho	0.402599242857794
+Link 2676	Utah	0.59740075714217
+Link 2677	Massachusetts	0.546633081738898
+Link 2677	New Hampshire	0.453366918261097
+Link 2678	Massachusetts	1.0
+Link 2679	Massachusetts	0.731992103685382
+Link 2679	New Hampshire	0.268007896314637
+Link 268	Texas	1.0
+Link 2680	Wisconsin	0.548382675258694
+Link 2680	Illinois	3.60928389757458e-06
+Link 2680	Michigan	0.45161371545741
+Link 2681	Michigan	0.687541951027759
+Link 2681	Illinois	0.312458048972241
+Link 2682	Illinois	0.72272064660814
+Link 2682	Wisconsin	0.277279353391866
+Link 2683	Kansas	0.612558081727952
+Link 2683	Colorado	0.387441918272031
+Link 2684	Kansas	0.608256827824216
+Link 2684	Colorado	0.391743172175795
+Link 2685	Colorado	1.0
+Link 2686	New York	1.0
+Link 2687	New York	1.0
+Link 2688	New York	1.0
+Link 2689	Michigan	1.0
+Link 269	Texas	1.0
+Link 2690	Michigan	1.0
+Link 2691	Michigan	0.999999999999999
+Link 2692	New York	0.659270836536045
+Link 2692	Pennsylvania	0.340729163463946
+Link 2693	New York	1.0
+Link 2694	New York	0.192901838494646
+Link 2694	Pennsylvania	0.807098161505339
+Link 2695	New York	0.270972510032346
+Link 2695	Pennsylvania	0.729027489967654
+Link 2696	New York	1.0
+Link 2697	New York	0.324439566173683
+Link 2697	Pennsylvania	0.675560433826305
+Link 2698	Michigan	1.0
+Link 2699	Michigan	1.0
+Link 27	Florida	1.0
+Link 270	Texas	1.0
+Link 2700	Michigan	1.0
+Link 2701	Wisconsin	0.723572249256277
+Link 2701	Illinois	0.276427750743754
+Link 2702	Illinois	0.0338357408502096
+Link 2702	Wisconsin	0.966164259149797
+Link 2703	Wisconsin	0.180570168950948
+Link 2703	Illinois	0.819429831049036
+Link 2704	New York	1.0
+Link 2705	Pennsylvania	0.340729163463946
+Link 2705	New York	0.659270836536045
+Link 2706	New York	0.612874896807011
+Link 2706	Pennsylvania	0.387125103193007
+Link 2707	Iowa	0.295495795614398
+Link 2707	Wisconsin	0.373203598342695
+Link 2707	Illinois	0.331300606042916
+Link 2708	Illinois	0.276427750743754
+Link 2708	Wisconsin	0.723572249256277
+Link 2709	Iowa	0.075419017355512
+Link 2709	Illinois	0.924580982644465
+Link 271	Texas	1.0
+Link 2710	New York	1.0
+Link 2711	New York	1.0
+Link 2712	New York	1.0
+Link 2713	Wisconsin	0.542752710528228
+Link 2713	Michigan	0.457247289471772
+Link 2714	Wisconsin	0.548382675258694
+Link 2714	Michigan	0.45161371545741
+Link 2714	Illinois	3.60928389757458e-06
+Link 2715	Wisconsin	1.0
+Link 2716	Illinois	0.0245068906085347
+Link 2716	Wisconsin	0.975493109391465
+Link 2717	Wisconsin	0.827655722830615
+Link 2717	Illinois	0.172344277169421
+Link 2718	Illinois	0.773408014283363
+Link 2718	Wisconsin	0.226591985716636
+Link 2719	New York	1.0
+Link 272	Texas	1.0
+Link 2720	New York	1.0
+Link 2721	New York	1.0
+Link 2722	New Hampshire	1.0
+Link 2723	New Hampshire	1.0
+Link 2724	New Hampshire	1.0
+Link 2725	New York	1.0
+Link 2726	New York	1.0
+Link 2727	New York	1.0
+Link 2728	New Hampshire	0.999770300419982
+Link 2728	Maine	0.000229699580017307
+Link 2729	New Hampshire	0.958575526304166
+Link 2729	Maine	0.0414244736958398
+Link 273	Texas	1.0
+Link 2730	New Hampshire	1.0
+Link 2731	New York	0.790777721655268
+Link 2731	Massachusetts	0.20922227834477
+Link 2732	New York	0.756579245869057
+Link 2732	Massachusetts	0.243420754130969
+Link 2733	New York	1.0
+Link 2734	Oregon	1.0
+Link 2735	Oregon	1.0
+Link 2736	Oregon	1.0
+Link 2737	New York	1.0
+Link 2738	New York	1.0
+Link 2739	New York	1.0
+Link 274	Texas	1.0
+Link 2740	Colorado	0.509057530450348
+Link 2740	Wyoming	0.49094246954965
+Link 2741	Wyoming	1.0
+Link 2742	Wyoming	0.150753339440884
+Link 2742	Colorado	0.849246660559116
+Link 2743	New Hampshire	0.758334495193103
+Link 2743	Massachusetts	0.241665504806882
+Link 2744	New Hampshire	1.0
+Link 2745	Massachusetts	0.348992217467744
+Link 2745	New Hampshire	0.651007782532273
+Link 2746	New York	1.0
+Link 2747	New York	1.0
+Link 2748	New York	1.0
+Link 2749	New York	0.784691950214548
+Link 2749	Massachusetts	0.215308049785487
+Link 275	Texas	1.0
+Link 2750	New York	0.790777721655269
+Link 2750	Massachusetts	0.20922227834477
+Link 2751	New York	1.0
+Link 2752	Maine	0.000221565252138935
+Link 2752	New Hampshire	0.99977843474786
+Link 2753	New Hampshire	0.999770300419982
+Link 2753	Maine	0.000229699580017307
+Link 2754	New Hampshire	1.0
+Link 2755	Colorado	0.37826025076238
+Link 2755	Kansas	0.621739749237623
+Link 2756	Kansas	1.0
+Link 2757	Kansas	0.612558081727953
+Link 2757	Colorado	0.387441918272031
+Link 2758	Oregon	0.261012919272857
+Link 2758	Idaho	0.136606564795535
+Link 2758	Nevada	0.602380515931591
+Link 2759	Idaho	1.0
+Link 276	Texas	1.0
+Link 2760	Nevada	0.809538392323721
+Link 2760	Idaho	0.190461607676313
+Link 2761	Idaho	1.0
+Link 2762	Idaho	1.0
+Link 2763	Idaho	1.0
+Link 2764	Wisconsin	0.469329414055265
+Link 2764	Michigan	0.530670585944735
+Link 2765	Michigan	0.999999999999999
+Link 2766	Wisconsin	0.542752710528228
+Link 2766	Michigan	0.457247289471772
+Link 2767	Wyoming	1.0
+Link 2768	Wyoming	0.49094246954965
+Link 2768	Colorado	0.509057530450349
+Link 2769	Wyoming	0.400422091815169
+Link 2769	Colorado	0.303442794175963
+Link 2769	Utah	0.296135114008876
+Link 277	Texas	1.0
+Link 2770	Idaho	0.830629619850101
+Link 2770	Utah	0.169370380149905
+Link 2771	Idaho	0.748994113523713
+Link 2771	Utah	0.25100588647626
+Link 2772	Idaho	1.0
+Link 2773	Iowa	0.379590486674883
+Link 2773	South Dakota	0.593633188739497
+Link 2773	Nebraska	0.0267763245856621
+Link 2774	Nebraska	0.00849909136145022
+Link 2774	South Dakota	0.590934711359608
+Link 2774	Iowa	0.400566197278956
+Link 2775	Nebraska	0.291743302543086
+Link 2775	Iowa	0.707482655865041
+Link 2775	South Dakota	0.000774041591873132
+Link 2776	Iowa	0.996486201288255
+Link 2776	Nebraska	0.00351379871173063
+Link 2777	Iowa	0.933942417388813
+Link 2777	Nebraska	0.0660575826111969
+Link 2778	Iowa	0.328125806168282
+Link 2778	Nebraska	0.671874193831718
+Link 2779	New York	1.0
+Link 278	Texas	1.0
+Link 2780	New York	1.0
+Link 2781	New York	1.0
+Link 2782	Michigan	1.0
+Link 2783	Michigan	1.0
+Link 2784	Michigan	1.0
+Link 2785	Michigan	1.0
+Link 2786	Michigan	1.0
+Link 2787	Michigan	1.0
+Link 2788	Maine	0.884516719968791
+Link 2788	New Hampshire	0.115483280031193
+Link 2789	New Hampshire	0.125025756527028
+Link 2789	Maine	0.874974243472965
+Link 279	Texas	1.0
+Link 2790	New Hampshire	0.958575526304167
+Link 2790	Maine	0.0414244736958398
+Link 2791	Massachusetts	1.0
+Link 2792	Massachusetts	1.0
+Link 2793	Massachusetts	1.0
+Link 2794	Wisconsin	1.0
+Link 2795	Illinois	0.0245068906085347
+Link 2795	Wisconsin	0.975493109391465
+Link 2796	Wisconsin	0.966164259149796
+Link 2796	Illinois	0.0338357408502096
+Link 2797	Idaho	0.528618377375853
+Link 2797	Wyoming	0.471381622624167
+Link 2798	Utah	0.47164898303447
+Link 2798	Idaho	0.00972611311528362
+Link 2798	Wyoming	0.518624903850264
+Link 2799	Utah	0.169370380149905
+Link 2799	Idaho	0.830629619850101
+Link 28	Florida	1.0
+Link 280	Texas	1.0
+Link 2800	Wyoming	1.0
+Link 2801	Wyoming	1.0
+Link 2802	Wyoming	1.0
+Link 2803	New York	0.999999999999997
+Link 2804	New York	1.0
+Link 2805	New York	1.0
+Link 2806	Maine	0.690500138956467
+Link 2806	Massachusetts	0.309499861043533
+Link 2807	Massachusetts	0.546633081738898
+Link 2807	New Hampshire	0.453366918261097
+Link 2808	New Hampshire	0.125025756527028
+Link 2808	Maine	0.874974243472964
+Link 2809	Wyoming	1.0
+Link 281	Texas	1.0
+Link 2810	Wyoming	1.0
+Link 2811	Wyoming	1.0
+Link 2812	Wisconsin	0.056112471612758
+Link 2812	Iowa	0.726001911036586
+Link 2812	Minnesota	0.21788561735064
+Link 2813	Minnesota	0.106769478382372
+Link 2813	Wisconsin	0.0987877885129616
+Link 2813	Iowa	0.794442733104683
+Link 2814	Iowa	1.0
+Link 2815	Minnesota	0.000368803212543867
+Link 2815	Iowa	0.481585281982917
+Link 2815	Illinois	0.0170844398069332
+Link 2815	Wisconsin	0.500961474997581
+Link 2816	Illinois	0.0404764975894692
+Link 2816	Iowa	0.959523502410548
+Link 2817	Wisconsin	0.0987877885129615
+Link 2817	Minnesota	0.106769478382372
+Link 2817	Iowa	0.794442733104682
+Link 2818	New York	1.0
+Link 2819	New York	1.0
+Link 282	Texas	1.0
+Link 2820	New York	1.0
+Link 2821	Wisconsin	1.0
+Link 2822	Illinois	0.331300606042916
+Link 2822	Wisconsin	0.373203598342695
+Link 2822	Iowa	0.295495795614398
+Link 2823	Iowa	0.481585281982916
+Link 2823	Wisconsin	0.500961474997581
+Link 2823	Illinois	0.0170844398069332
+Link 2823	Minnesota	0.000368803212543867
+Link 2826	Michigan	1.00000000000001
+Link 2827	Florida	0.557758960319174
+Link 2827	Massachusetts	0.442241039680785
+Link 2828	Florida	0.643037304999222
+Link 2828	North Carolina	0.356962695000767
+Link 2829	Massachusetts	0.137130239573872
+Link 2829	North Carolina	0.862869760426128
+Link 283	Texas	1.0
+Link 2830	New York	1.00000000000001
+Link 2831	New York	1.0
+Link 2832	New York	1.0
+Link 2833	Minnesota	0.269294736307842
+Link 2833	Iowa	0.730705263692144
+Link 2834	Iowa	1.0
+Link 2835	Iowa	0.731582476433874
+Link 2835	Minnesota	0.268417523566063
+Link 2836	Minnesota	0.905607496351708
+Link 2836	Wisconsin	0.0943925036482909
+Link 2837	Iowa	0.726001911036586
+Link 2837	Wisconsin	0.056112471612758
+Link 2837	Minnesota	0.21788561735064
+Link 2838	Iowa	0.650739667862974
+Link 2838	Minnesota	0.349260332136991
+Link 2839	Michigan	1.0
+Link 284	Texas	1.0
+Link 2840	Michigan	1.0
+Link 2841	Michigan	1.0
+Link 2842	Iowa	0.598054037187659
+Link 2842	Minnesota	0.401945962812334
+Link 2843	Iowa	1.0
+Link 2844	Minnesota	0.269294736307842
+Link 2844	Iowa	0.730705263692144
+Link 2845	Wisconsin	1.0
+Link 2846	Wisconsin	1.0
+Link 2847	Wisconsin	1.0
+Link 2848	New Hampshire	0.576543985788697
+Link 2848	Vermont	0.0773111948652788
+Link 2848	Massachusetts	0.346144819346035
+Link 2849	Massachusetts	0.241665504806882
+Link 2849	New Hampshire	0.758334495193103
+Link 285	Texas	1.0
+Link 2850	Massachusetts	1.0
+Link 2851	South Dakota	0.364062251136044
+Link 2851	Wyoming	0.63593774886394
+Link 2852	Wyoming	0.482927308298141
+Link 2852	South Dakota	0.370724533350952
+Link 2852	Nebraska	0.146348158350931
+Link 2853	Wyoming	1.0
+Link 2854	Nebraska	0.00330012805755072
+Link 2854	Iowa	0.593002285088699
+Link 2854	Minnesota	0.403697586853749
+Link 2855	Iowa	0.731582476433873
+Link 2855	Minnesota	0.268417523566063
+Link 2856	Nebraska	0.00351379871173063
+Link 2856	Iowa	0.996486201288254
+Link 2857	Minnesota	1.0
+Link 2858	Minnesota	0.349260332136991
+Link 2858	Iowa	0.650739667862974
+Link 2859	Iowa	0.598054037187659
+Link 2859	Minnesota	0.401945962812334
+Link 286	Texas	1.0
+Link 2860	New Hampshire	0.416238692023746
+Link 2860	New York	0.201906667692115
+Link 2860	Vermont	0.381854640284154
+Link 2861	New Hampshire	0.576543985788698
+Link 2861	Vermont	0.0773111948652788
+Link 2861	Massachusetts	0.346144819346035
+Link 2862	New York	0.784691950214548
+Link 2862	Massachusetts	0.215308049785487
+Link 2863	Wisconsin	1.0
+Link 2864	Wisconsin	1.0
+Link 2865	Wisconsin	1.0
+Link 2866	Oregon	1.0
+Link 2867	Oregon	1.0
+Link 2868	Oregon	1.0
+Link 2869	Oregon	1.0
+Link 287	Texas	1.0
+Link 2870	Oregon	1.0
+Link 2871	Oregon	1.0
+Link 2872	Oregon	1.0
+Link 2873	Oregon	1.0
+Link 2874	Oregon	1.0
+Link 2875	New York	1.0
+Link 2876	New York	1.0
+Link 2877	New York	1.0
+Link 2878	Wisconsin	1.0
+Link 2879	Wisconsin	1.0
+Link 288	Texas	1.0
+Link 2880	Wisconsin	0.999999999999999
+Link 2881	Michigan	0.320083909139679
+Link 2881	Wisconsin	0.679916090860321
+Link 2882	Wisconsin	0.469329414055265
+Link 2882	Michigan	0.530670585944735
+Link 2883	Wisconsin	1.0
+Link 2884	Oregon	1.0
+Link 2885	Oregon	1.0
+Link 2886	Oregon	1.0
+Link 2887	New Hampshire	0.425539928345679
+Link 2887	Vermont	0.574460071654304
+Link 2888	Vermont	0.381854640284154
+Link 2888	New Hampshire	0.416238692023746
+Link 2888	New York	0.201906667692115
+Link 2889	Vermont	0.478059271886721
+Link 2889	New York	0.521940728113292
+Link 289	Florida	1.0
+Link 2890	New York	1.0
+Link 2891	New York	1.0
+Link 2892	New York	1.0
+Link 2893	South Dakota	0.298205040844187
+Link 2893	Colorado	0.168563929943299
+Link 2893	Nebraska	0.243742857987227
+Link 2893	Wyoming	0.289488171225307
+Link 2894	Wyoming	0.221270093795301
+Link 2894	Colorado	0.7787299062047
+Link 2895	Wyoming	0.482927308298141
+Link 2895	South Dakota	0.370724533350952
+Link 2895	Nebraska	0.146348158350931
+Link 2896	Wisconsin	1.0
+Link 2897	Wisconsin	1.0
+Link 2898	Wisconsin	1.0
+Link 29	Florida	1.0
+Link 290	Florida	0.999999999999999
+Link 2900	Ohio	1.0
+Link 2902	Maine	0.893212588164711
+Link 2902	Massachusetts	0.10678741183529
+Link 2903	Maine	0.690500138956467
+Link 2903	Massachusetts	0.309499861043533
+Link 2904	Maine	1.0
+Link 2905	Wisconsin	0.730504022262586
+Link 2905	Michigan	0.269495977737413
+Link 2906	Wisconsin	0.679916090860321
+Link 2906	Michigan	0.320083909139679
+Link 2907	Wisconsin	1.0
+Link 2908	Kansas	0.228004058783179
+Link 2908	South Dakota	0.208711648737587
+Link 2908	Nebraska	0.563284292479274
+Link 2909	Kansas	0.621739749237623
+Link 2909	Colorado	0.37826025076238
+Link 291	Florida	0.999999999999994
+Link 2910	Colorado	0.168563929943299
+Link 2910	Wyoming	0.289488171225307
+Link 2910	South Dakota	0.298205040844187
+Link 2910	Nebraska	0.243742857987227
+Link 2911	Minnesota	1.0
+Link 2912	Minnesota	1.0
+Link 2913	Minnesota	1.0
+Link 2914	South Dakota	0.113483438006487
+Link 2914	Minnesota	0.886516561993503
+Link 2915	Iowa	0.593002285088698
+Link 2915	Minnesota	0.403697586853749
+Link 2915	Nebraska	0.00330012805755072
+Link 2916	South Dakota	0.590934711359609
+Link 2916	Iowa	0.400566197278956
+Link 2916	Nebraska	0.00849909136145022
+Link 2917	Idaho	0.0872819129514063
+Link 2917	Oregon	0.912718087048607
+Link 2918	Idaho	0.136606564795535
+Link 2918	Oregon	0.261012919272857
+Link 2918	Nevada	0.602380515931588
+Link 2919	California	0.799588833995234
+Link 2919	Oregon	0.087698949054811
+Link 2919	Nevada	0.112712216949966
+Link 292	Louisiana	1.0
+Link 2920	Wisconsin	0.560717362840729
+Link 2920	Minnesota	0.439282637159284
+Link 2921	Wisconsin	1.0
+Link 2922	Minnesota	0.905607496351708
+Link 2922	Wisconsin	0.0943925036482909
+Link 2923	Oregon	1.0
+Link 2924	Oregon	1.0
+Link 2925	Oregon	1.0
+Link 2926	Minnesota	1.0
+Link 2927	Minnesota	1.0
+Link 2928	Minnesota	1.0
+Link 2929	Minnesota	1.0
+Link 293	Louisiana	1.0
+Link 2930	Minnesota	1.0
+Link 2931	Minnesota	1.0
+Link 2932	South Dakota	0.336280930527504
+Link 2932	Nebraska	0.663719069472477
+Link 2933	South Dakota	0.593633188739497
+Link 2933	Nebraska	0.0267763245856621
+Link 2933	Iowa	0.379590486674883
+Link 2934	South Dakota	5.0163568703749e-05
+Link 2934	Iowa	0.0538546733622086
+Link 2934	Nebraska	0.946095163069086
+Link 2935	California	0.473226143934536
+Link 2935	Oregon	0.526773856065496
+Link 2936	Oregon	1.0
+Link 2937	California	0.707603623178714
+Link 2937	Oregon	0.292396376821262
+Link 2938	Oregon	1.0
+Link 2939	Oregon	1.0
+Link 294	Louisiana	1.0
+Link 2940	Oregon	1.0
+Link 2941	South Dakota	0.365689194820824
+Link 2941	Wyoming	0.634310805179168
+Link 2942	South Dakota	0.364062251136044
+Link 2942	Wyoming	0.635937748863939
+Link 2943	Wyoming	1.0
+Link 2944	Nebraska	0.665090339624957
+Link 2944	South Dakota	0.334909660375059
+Link 2945	Kansas	0.586947927433996
+Link 2945	Nebraska	0.413052072566022
+Link 2946	Nebraska	0.563284292479274
+Link 2946	Kansas	0.228004058783179
+Link 2946	South Dakota	0.208711648737587
+Link 2947	Oregon	0.90440214518052
+Link 2947	Idaho	0.0955978548194743
+Link 2948	Oregon	0.912718087048608
+Link 2948	Idaho	0.0872819129514063
+Link 2949	Oregon	1.0
+Link 295	Texas	1.0
+Link 2950	Oregon	1.0
+Link 2951	Oregon	1.0
+Link 2952	Oregon	1.0
+Link 2953	Wyoming	1.0
+Link 2954	Wyoming	1.0
+Link 2955	Wyoming	1.0
+Link 2956	Oregon	1.0
+Link 2957	Oregon	1.0
+Link 2958	Oregon	1.0
+Link 2959	Oregon	1.0
+Link 296	Texas	1.0
+Link 2960	Oregon	1.0
+Link 2961	Oregon	1.0
+Link 2963	New York	1.0
+Link 2964	New York	1.0
+Link 2965	Wisconsin	1.0
+Link 2966	Wisconsin	1.0
+Link 2967	Wisconsin	1.0
+Link 297	Texas	1.0
+Link 2970	New York	1.0
+Link 2971	Oregon	1.0
+Link 2972	Oregon	1.0
+Link 2973	Oregon	1.0
+Link 2974	Maine	0.52677075244667
+Link 2974	New Hampshire	0.473229247553346
+Link 2975	New Hampshire	0.115483280031193
+Link 2975	Maine	0.884516719968791
+Link 2976	Maine	0.000221565252138935
+Link 2976	New Hampshire	0.999778434747861
+Link 2977	Oregon	1.0
+Link 2978	Oregon	1.0
+Link 2979	Oregon	1.0
+Link 298	Louisiana	1.0
+Link 2980	Minnesota	0.165862160596399
+Link 2980	Wisconsin	0.834137839403622
+Link 2981	Wisconsin	0.560717362840729
+Link 2981	Minnesota	0.439282637159284
+Link 2982	Minnesota	1.0
+Link 2983	Minnesota	1.0
+Link 2984	Minnesota	1.0
+Link 2985	Minnesota	1.0
+Link 2986	Montana	0.243592403596701
+Link 2986	Wyoming	0.75640759640327
+Link 2987	Wyoming	1.0
+Link 2988	Montana	0.203666676140018
+Link 2988	Wyoming	0.796333323859946
+Link 299	Louisiana	1.0
+Link 2990	New York	0.521940728113292
+Link 2990	Vermont	0.478059271886722
+Link 2992	Oregon	1.0
+Link 2993	Oregon	1.0
+Link 2994	Oregon	1.0
+Link 2995	Michigan	1.0
+Link 2996	Michigan	1.0
+Link 2997	Michigan	1.0
+Link 2998	Montana	1.0
+Link 2999	Montana	1.0
+Link 3	Texas	0.153396247875434
+Link 3	Florida	0.846603752124566
+Link 30	Florida	0.999999999999999
+Link 300	Louisiana	1.0
+Link 3000	Montana	1.0
+Link 3001	South Dakota	1.0
+Link 3002	South Dakota	0.336280930527504
+Link 3002	Nebraska	0.663719069472477
+Link 3003	Nebraska	0.665090339624956
+Link 3003	South Dakota	0.33490966037506
+Link 3004	Montana	0.205674058457581
+Link 3004	Wyoming	0.794325941542389
+Link 3005	Wyoming	0.471381622624166
+Link 3005	Idaho	0.528618377375853
+Link 3006	Montana	0.487229521713984
+Link 3006	Idaho	0.512770478285982
+Link 3007	Oregon	1.0
+Link 3008	Oregon	1.0
+Link 3009	Oregon	1.0
+Link 301	Alabama	1.0
+Link 3010	Montana	0.27264015603422
+Link 3010	Wyoming	0.72735984396581
+Link 3011	Montana	0.243592403596701
+Link 3011	Wyoming	0.756407596403265
+Link 3012	Montana	1.0
+Link 3013	Montana	1.0
+Link 3014	Montana	0.203666676140018
+Link 3014	Wyoming	0.796333323859946
+Link 3015	Montana	0.205674058457581
+Link 3015	Wyoming	0.794325941542388
+Link 3016	Washington	0.0523790863965656
+Link 3016	Oregon	0.947620913603425
+Link 3017	Oregon	0.488514500930275
+Link 3017	Washington	0.511485499069729
+Link 3018	Oregon	1.0
+Link 3019	Montana	1.0
+Link 302	Alabama	1.0
+Link 3020	Montana	0.487229521713984
+Link 3020	Idaho	0.512770478285982
+Link 3021	Idaho	0.444901342478456
+Link 3021	Montana	0.555098657521566
+Link 3022	Washington	0.029694636987066
+Link 3022	Oregon	0.970305363012932
+Link 3023	Oregon	0.68963068050945
+Link 3023	Washington	0.0282615259541347
+Link 3023	Idaho	0.282107793536448
+Link 3024	Oregon	0.90440214518052
+Link 3024	Idaho	0.0955978548194743
+Link 3025	Montana	1.0
+Link 3026	Montana	1.0
+Link 3027	Montana	1.0
+Link 3028	Idaho	1.0
+Link 3029	Idaho	1.0
+Link 303	Alabama	0.999999999999999
+Link 3030	Idaho	1.0
+Link 3031	Oregon	0.211625175226627
+Link 3031	Washington	0.788374824773376
+Link 3032	Oregon	0.309841501497211
+Link 3032	Washington	0.690158498502788
+Link 3033	Washington	0.558566120095642
+Link 3033	Oregon	0.441433879904359
+Link 3034	Washington	0.0543998957518461
+Link 3034	Oregon	0.945600104248189
+Link 3035	Washington	0.558566120095642
+Link 3035	Oregon	0.441433879904359
+Link 3036	Washington	0.0523790863965656
+Link 3036	Oregon	0.947620913603425
+Link 3037	Montana	0.328806695645199
+Link 3037	Idaho	0.671193304354807
+Link 3038	Idaho	0.444901342478457
+Link 3038	Montana	0.555098657521566
+Link 3039	Idaho	1.0
+Link 304	Florida	0.214469903186194
+Link 304	Alabama	0.785530096813793
+Link 3040	Oregon	0.842753808880659
+Link 3040	Washington	0.157246191119361
+Link 3041	Oregon	0.00612106030659852
+Link 3041	Washington	0.993878939693411
+Link 3042	Oregon	0.970305363012932
+Link 3042	Washington	0.029694636987066
+Link 3043	Wyoming	0.477087338025954
+Link 3043	Montana	0.522912661974045
+Link 3044	Wyoming	1.0
+Link 3045	Montana	0.27264015603422
+Link 3045	Wyoming	0.72735984396581
+Link 3046	South Dakota	0.119918359324466
+Link 3046	Minnesota	0.880081640675562
+Link 3047	Minnesota	1.0
+Link 3048	South Dakota	0.113483438006487
+Link 3048	Minnesota	0.886516561993502
+Link 3049	Oregon	0.00381959417582263
+Link 3049	Idaho	0.0416838352440167
+Link 3049	Washington	0.954496570580156
+Link 305	Florida	0.264927889744366
+Link 305	Alabama	0.735072110255637
+Link 3050	Washington	0.104987763359609
+Link 3050	Oregon	0.340419464081947
+Link 3050	Idaho	0.554592772558422
+Link 3051	Idaho	0.282107793536448
+Link 3051	Washington	0.0282615259541347
+Link 3051	Oregon	0.68963068050945
+Link 3052	Idaho	0.654283976128586
+Link 3052	Oregon	0.269632033676128
+Link 3052	Washington	0.0760839901952732
+Link 3053	Idaho	1.0
+Link 3054	Idaho	0.554592772558422
+Link 3054	Washington	0.104987763359609
+Link 3054	Oregon	0.340419464081947
+Link 3055	Washington	1.0
+Link 3056	Oregon	0.842753808880659
+Link 3056	Washington	0.157246191119361
+Link 3057	Washington	0.368483547231439
+Link 3057	Oregon	0.631516452768514
+Link 3058	Montana	1.0
+Link 3059	Montana	1.0
+Link 306	Alabama	0.999999999999999
+Link 3060	Montana	1.0
+Link 3062	New Hampshire	0.473229247553346
+Link 3062	Maine	0.52677075244667
+Link 3063	New Hampshire	0.425539928345679
+Link 3063	Vermont	0.574460071654303
+Link 3064	Washington	0.993234218809196
+Link 3064	Oregon	0.00676578119080428
+Link 3065	Washington	0.788374824773376
+Link 3065	Oregon	0.211625175226627
+Link 3066	Washington	0.964542311629868
+Link 3066	Oregon	0.0354576883701236
+Link 3067	Minnesota	0.595930966236992
+Link 3067	Wisconsin	0.404069033763009
+Link 3068	Minnesota	0.0308886872051797
+Link 3068	Wisconsin	0.969111312794789
+Link 3069	Wisconsin	0.834137839403622
+Link 3069	Minnesota	0.165862160596399
+Link 307	Louisiana	1.0
+Link 3070	Wisconsin	0.344975028978329
+Link 3070	Minnesota	0.655024971021619
+Link 3071	Wisconsin	0.404069033763009
+Link 3071	Minnesota	0.595930966236992
+Link 3072	Minnesota	1.0
+Link 3074	New York	0.270972510032346
+Link 3074	Pennsylvania	0.729027489967654
+Link 3075	Ohio	0.38857764781075
+Link 3075	Pennsylvania	0.611422352189261
+Link 3076	Washington	0.923185767156685
+Link 3076	Oregon	0.076814232843341
+Link 3077	Washington	0.368483547231439
+Link 3077	Oregon	0.631516452768514
+Link 3078	Oregon	1.0
+Link 3079	Montana	0.284029967914594
+Link 3079	Idaho	0.715970032085369
+Link 308	Louisiana	1.0
+Link 3080	Idaho	0.671193304354807
+Link 3080	Montana	0.328806695645199
+Link 3081	Idaho	1.0
+Link 3082	North Dakota	0.270552564345365
+Link 3082	South Dakota	0.729447435654629
+Link 3083	South Dakota	1.0
+Link 3084	South Dakota	0.676661769559921
+Link 3084	North Dakota	0.323338230440082
+Link 3085	Idaho	0.814823769322759
+Link 3085	Montana	0.185176230677245
+Link 3086	Montana	1.0
+Link 3087	Idaho	0.715970032085369
+Link 3087	Montana	0.284029967914594
+Link 3088	North Dakota	0.0260829405785523
+Link 3088	Minnesota	0.97391705942146
+Link 3089	Minnesota	0.880081640675563
+Link 3089	South Dakota	0.119918359324466
+Link 309	Louisiana	1.0
+Link 3090	North Dakota	0.26735679013399
+Link 3090	South Dakota	0.677137675057024
+Link 3090	Minnesota	0.0555055348089608
+Link 3091	Wisconsin	1.0
+Link 3092	Wisconsin	1.0
+Link 3093	Wisconsin	1.0
+Link 3094	Oregon	0.049277232140644
+Link 3094	Washington	0.950722767859333
+Link 3095	Washington	0.690158498502788
+Link 3095	Oregon	0.309841501497211
+Link 3096	Washington	0.993234218809196
+Link 3096	Oregon	0.00676578119080428
+Link 3098	New York	1.00000000000001
+Link 3099	New York	0.999999999999998
+Link 31	Texas	1.0
+Link 310	Louisiana	0.499493212771217
+Link 310	Texas	0.500506787228775
+Link 3100	Minnesota	0.758909192466688
+Link 3100	Wisconsin	0.241090807533322
+Link 3101	Minnesota	0.655024971021619
+Link 3101	Wisconsin	0.344975028978329
+Link 3102	Minnesota	1.0
+Link 3103	California	0.361764296052413
+Link 3103	Texas	0.638235703947587
+Link 3104	California	0.475546071023547
+Link 3104	Texas	0.524453928976453
+Link 3105	Texas	1.0
+Link 3106	Washington	1.0
+Link 3107	Washington	1.0
+Link 3108	Washington	1.0
+Link 3109	Idaho	0.739772398451093
+Link 3109	Montana	0.254358085321741
+Link 3109	Washington	0.00586951622716075
+Link 311	Louisiana	0.692730391235534
+Link 311	Texas	0.307269608764465
+Link 3110	Idaho	0.814823769322757
+Link 3110	Montana	0.185176230677245
+Link 3111	Washington	0.0760839901952732
+Link 3111	Oregon	0.269632033676128
+Link 3111	Idaho	0.654283976128586
+Link 3112	Wisconsin	0.0201614549003508
+Link 3112	Minnesota	0.97983854509965
+Link 3113	Wisconsin	0.241090807533323
+Link 3113	Minnesota	0.758909192466688
+Link 3114	Minnesota	1.0
+Link 3115	Washington	0.987672889417627
+Link 3115	Oregon	0.0123271105823742
+Link 3116	Oregon	0.076814232843341
+Link 3116	Washington	0.923185767156684
+Link 3117	Oregon	0.488514500930275
+Link 3117	Washington	0.511485499069729
+Link 3118	Washington	1.0
+Link 3119	Washington	1.0
+Link 312	Texas	1.0
+Link 3120	Washington	1.0
+Link 3121	Washington	0.996798054305721
+Link 3121	Oregon	0.00320194569427844
+Link 3122	Washington	0.99387893969341
+Link 3122	Oregon	0.00612106030659852
+Link 3123	Washington	1.0
+Link 3124	Oregon	0.0314770749034791
+Link 3124	Washington	0.968522925096548
+Link 3125	Oregon	0.049277232140644
+Link 3125	Washington	0.950722767859333
+Link 3126	Washington	1.0
+Link 3127	Oregon	0.0188364556931606
+Link 3127	Washington	0.981163544306854
+Link 3128	Oregon	0.0314770749034791
+Link 3128	Washington	0.968522925096548
+Link 3129	Washington	0.999999999999998
+Link 313	Florida	1.0
+Link 3133	Montana	1.0
+Link 3134	Montana	1.0
+Link 3135	Montana	1.0
+Link 3136	Washington	1.0
+Link 3137	Washington	1.0
+Link 3138	Washington	1.0
+Link 3139	Washington	1.0
+Link 314	Florida	1.0
+Link 3140	Washington	0.987672889417626
+Link 3140	Oregon	0.0123271105823742
+Link 3141	Washington	0.981163544306854
+Link 3141	Oregon	0.0188364556931606
+Link 3142	Washington	1.0
+Link 3143	Washington	0.999999999999998
+Link 3144	Washington	0.999999999999989
+Link 3145	Montana	1.0
+Link 3146	Montana	1.0
+Link 3147	Montana	1.0
+Link 3148	Idaho	0.396452545896207
+Link 3148	Washington	0.603547454103782
+Link 3149	Idaho	0.961517392674533
+Link 3149	Washington	0.0384826073254349
+Link 315	Florida	1.0
+Link 3150	Washington	0.915331715736014
+Link 3150	Idaho	0.0846682842640149
+Link 3151	North Dakota	0.998819995913181
+Link 3151	Minnesota	0.00118000408681907
+Link 3152	Minnesota	0.0555055348089608
+Link 3152	South Dakota	0.677137675057023
+Link 3152	North Dakota	0.26735679013399
+Link 3153	South Dakota	0.729447435654627
+Link 3153	North Dakota	0.270552564345365
+Link 3154	California	1.0
+Link 3155	California	0.999999999999999
+Link 3156	California	1.0
+Link 3157	Oregon	0.00240865993947611
+Link 3157	Washington	0.997591340060524
+Link 3158	Idaho	0.0846682842640149
+Link 3158	Washington	0.915331715736015
+Link 3159	Washington	0.954496570580155
+Link 3159	Idaho	0.0416838352440167
+Link 3159	Oregon	0.00381959417582263
+Link 316	Mississippi	0.30153109119491
+Link 316	Alabama	0.698468908805108
+Link 3160	Montana	1.0
+Link 3161	Montana	1.0
+Link 3162	Montana	1.0
+Link 3163	Montana	1.0
+Link 3164	Montana	1.0
+Link 3165	Montana	1.0
+Link 3166	Washington	0.999999999999986
+Link 3167	Washington	1.0
+Link 3168	Washington	1.0
+Link 3169	Washington	1.0
+Link 317	Alabama	1.0
+Link 3170	Washington	0.997591340060524
+Link 3170	Oregon	0.00240865993947611
+Link 3171	Oregon	0.00320194569427844
+Link 3171	Washington	0.99679805430572
+Link 3174	Michigan	1.0
+Link 3175	Washington	1.0
+Link 3176	Washington	1.0
+Link 3177	Washington	1.0
+Link 3178	Montana	1.0
+Link 3179	Montana	1.0
+Link 318	Alabama	0.648929485795094
+Link 318	Mississippi	0.351070514204907
+Link 3180	Montana	1.0
+Link 3181	Washington	1.0
+Link 3182	Washington	0.999999999999986
+Link 3183	Washington	1.0
+Link 3184	Montana	0.521910315259659
+Link 3184	Idaho	0.478089684740347
+Link 3185	Montana	0.254358085321741
+Link 3185	Washington	0.00586951622716075
+Link 3185	Idaho	0.739772398451092
+Link 3186	Idaho	0.961517392674532
+Link 3186	Washington	0.0384826073254349
+Link 3187	Wisconsin	0.195332520925061
+Link 3187	Michigan	0.804667479074939
+Link 3188	Michigan	1.0
+Link 3189	Michigan	0.269495977737413
+Link 3189	Wisconsin	0.730504022262586
+Link 319	Louisiana	1.0
+Link 3190	Washington	0.999999999999998
+Link 3191	Washington	1.0
+Link 3192	Washington	1.0
+Link 3193	Washington	1.0
+Link 3194	Washington	1.0
+Link 3195	Washington	1.0
+Link 3196	Washington	1.0
+Link 3197	Washington	0.999999999999998
+Link 3198	Washington	0.999999999999999
+Link 3199	Minnesota	0.0203539713540393
+Link 3199	Wisconsin	0.979646028645928
+Link 32	Texas	1.0
+Link 320	Louisiana	1.0
+Link 3200	Wisconsin	1.0
+Link 3201	Wisconsin	0.969111312794789
+Link 3201	Minnesota	0.0308886872051797
+Link 3202	Washington	1.0
+Link 3203	Washington	1.0
+Link 3204	Washington	1.0
+Link 3205	Idaho	0.356014346242332
+Link 3205	Montana	0.643985653757696
+Link 3206	Montana	1.0
+Link 3207	Idaho	0.478089684740347
+Link 3207	Montana	0.521910315259658
+Link 3208	Washington	1.00000000000001
+Link 3209	Washington	1.0
+Link 321	Louisiana	1.0
+Link 3210	Washington	0.999999999999999
+Link 3211	Washington	0.999999999999993
+Link 3212	Washington	1.0
+Link 3213	Washington	0.999999999999997
+Link 3214	Washington	1.0
+Link 3215	Washington	0.999999999999999
+Link 3216	Washington	0.999999999999997
+Link 3217	Washington	0.999999999999994
+Link 3218	Washington	0.999999999999993
+Link 3219	Washington	0.999999999999999
+Link 322	Texas	1.0
+Link 3221	Maine	1.0
+Link 3223	Montana	1.0
+Link 3224	Montana	1.0
+Link 3225	Montana	1.0
+Link 3226	Montana	1.0
+Link 3227	Montana	1.0
+Link 3228	Montana	1.0
+Link 3229	Montana	1.0
+Link 323	Texas	1.0
+Link 3230	Montana	1.0
+Link 3231	Montana	1.0
+Link 3232	Washington	0.999999999999994
+Link 3233	Washington	1.0
+Link 3234	Washington	0.999999999999989
+Link 3235	California	0.488470258238261
+Link 3235	Oregon	0.511529741761757
+Link 3236	California	0.473226143934536
+Link 3236	Oregon	0.526773856065496
+Link 3237	California	0.999999999999996
+Link 3238	Minnesota	0.0147479484029605
+Link 3238	Wisconsin	0.985252051597025
+Link 3239	Wisconsin	1.0
+Link 324	Texas	1.0
+Link 3240	Wisconsin	0.979646028645926
+Link 3240	Minnesota	0.0203539713540393
+Link 3241	Washington	1.0
+Link 3242	Washington	1.0
+Link 3243	Washington	1.0
+Link 3245	North Dakota	0.323338230440082
+Link 3245	South Dakota	0.676661769559921
+Link 3246	South Dakota	0.365689194820824
+Link 3246	Wyoming	0.634310805179169
+Link 3248	Washington	0.999999999999995
+Link 3249	Washington	0.999999999999994
+Link 325	Texas	1.0
+Link 3250	Washington	0.385522077234296
+Link 3250	Oregon	0.614477922765722
+Link 3251	Washington	0.964542311629868
+Link 3251	Oregon	0.0354576883701236
+Link 3252	Oregon	0.945600104248189
+Link 3252	Washington	0.0543998957518461
+Link 3255	New York	1.0
+Link 3256	Wisconsin	0.00347823441676054
+Link 3256	Minnesota	0.980098983394342
+Link 3256	North Dakota	0.0164227821888759
+Link 3257	Minnesota	0.979838545099651
+Link 3257	Wisconsin	0.0201614549003508
+Link 3258	North Dakota	0.0260829405785523
+Link 3258	Minnesota	0.973917059421459
+Link 3259	California	1.0
+Link 326	Texas	1.0
+Link 3260	California	1.0
+Link 3261	California	1.00000000000001
+Link 3264	Washington	1.0
+Link 3265	California	0.302336629737047
+Link 3265	Oregon	0.69766337026292
+Link 3266	Oregon	1.0
+Link 3267	California	0.488470258238261
+Link 3267	Oregon	0.511529741761757
+Link 3268	Montana	1.0
+Link 3269	Montana	1.0
+Link 327	Texas	1.0
+Link 3270	Montana	1.0
+Link 3271	Washington	1.0
+Link 3272	Washington	1.0
+Link 3273	Washington	1.00000000000001
+Link 3274	Washington	1.0
+Link 3275	Washington	1.0
+Link 3276	Washington	1.0
+Link 3279	Montana	0.522912661974046
+Link 3279	Wyoming	0.477087338025954
+Link 328	Texas	1.0
+Link 3281	Montana	1.0
+Link 3282	Montana	1.0
+Link 3284	Washington	1.0
+Link 3285	Washington	1.0
+Link 329	Texas	1.0
+Link 3293	Idaho	0.396452545896207
+Link 3293	Washington	0.603547454103782
+Link 3296	Idaho	0.356014346242332
+Link 3296	Montana	0.643985653757695
+Link 3299	Oregon	0.614477922765722
+Link 3299	Washington	0.385522077234296
+Link 33	Texas	0.999999999999998
+Link 330	Texas	1.0
+Link 3300	Oregon	1.0
+Link 3303	Washington	1.0
+Link 3305	Michigan	0.804667479074939
+Link 3305	Wisconsin	0.195332520925061
+Link 3306	Minnesota	0.0147479484029606
+Link 3306	Wisconsin	0.985252051597032
+Link 331	Texas	1.0
+Link 3312	Oregon	0.697663370262919
+Link 3312	California	0.302336629737046
+Link 3315	Washington	1.0
+Link 332	Texas	1.0
+Link 3324	Montana	1.0
+Link 3329	Minnesota	0.00118000408681907
+Link 3329	North Dakota	0.998819995913181
+Link 333	Texas	1.0
+Link 3332	Wisconsin	0.00347823441676054
+Link 3332	Minnesota	0.980098983394341
+Link 3332	North Dakota	0.0164227821888759
+Link 3337	Pennsylvania	1.0
+Link 3338	Pennsylvania	1.0
+Link 3339	Pennsylvania	1.0
+Link 334	Georgia	0.104412334060307
+Link 334	Florida	0.895587665939698
+Link 3340	Pennsylvania	1.0
+Link 3341	New York	0.148695513604045
+Link 3341	Pennsylvania	0.851304486395961
+Link 3342	Pennsylvania	1.0
+Link 3343	Pennsylvania	0.843839499961732
+Link 3343	New York	0.156160500038266
+Link 3344	Pennsylvania	1.0
+Link 3345	New York	0.148695513604045
+Link 3345	Pennsylvania	0.851304486395961
+Link 3346	Pennsylvania	0.843839499961732
+Link 3346	New York	0.156160500038266
+Link 3347	Ohio	0.237282918523507
+Link 3347	Michigan	0.762717081476524
+Link 3348	Michigan	1.0
+Link 3349	Ohio	0.893410041590552
+Link 3349	Michigan	0.106589958409448
+Link 335	Georgia	0.206389313356218
+Link 335	Florida	0.793610686643799
+Link 3350	Michigan	0.762717081476526
+Link 3350	Ohio	0.237282918523507
+Link 3351	Michigan	1.0
+Link 3352	Michigan	1.0
+Link 3353	Michigan	0.242028746809116
+Link 3353	Ohio	0.757971253190884
+Link 3354	Michigan	0.106589958409448
+Link 3354	Ohio	0.893410041590552
+Link 3355	Michigan	0.329478540108826
+Link 3355	Ohio	0.670521459891174
+Link 3356	Michigan	0.242028746809116
+Link 3356	Ohio	0.757971253190884
+Link 3357	Michigan	1.0
+Link 3358	Michigan	1.0
+Link 3359	Michigan	0.999999999999999
+Link 336	Florida	1.0
+Link 3360	Michigan	1.0
+Link 3361	Michigan	0.0691224279467458
+Link 3361	Ohio	0.930877572053253
+Link 3362	Ohio	0.670521459891175
+Link 3362	Michigan	0.329478540108825
+Link 3363	Michigan	1.0
+Link 3364	New York	0.999999999999993
+Link 3365	Pennsylvania	1.0
+Link 3366	Ohio	0.939401670236667
+Link 3366	Michigan	0.0605983297633325
+Link 3367	Ohio	0.930877572053253
+Link 3367	Michigan	0.0691224279467458
+Link 3368	Ohio	1.0
+Link 3369	Pennsylvania	1.0
+Link 337	Texas	1.0
+Link 3370	Michigan	0.99999999999995
+Link 3371	Ohio	1.0
+Link 3372	Michigan	0.0605983297633325
+Link 3372	Ohio	0.939401670236667
+Link 3373	Michigan	1.0
+Link 3374	Michigan	1.0
+Link 3375	Michigan	1.0
+Link 3376	Michigan	1.0
+Link 3377	Michigan	1.0
+Link 3378	New York	1.0
+Link 3379	New York	1.0
+Link 338	Texas	1.0
+Link 3380	New York	1.0
+Link 3381	New York	1.0
+Link 3382	New York	1.0
+Link 3383	New York	1.0
+Link 3384	New Hampshire	0.635898476177865
+Link 3384	Vermont	0.364101523822132
+Link 3385	Vermont	1.0
+Link 3387	Massachusetts	1.0
+Link 3388	Massachusetts	1.0
+Link 3389	Florida	0.999999999999975
+Link 339	Texas	1.0
+Link 3390	Massachusetts	1.0
+Link 3391	Maine	1.0
+Link 3392	Massachusetts	1.0
+Link 3393	Vermont	0.880345249387008
+Link 3393	New York	0.119654750612987
+Link 3394	New York	0.175243335035209
+Link 3394	Vermont	0.824756664964782
+Link 3396	Vermont	0.0755760302276712
+Link 3396	New York	0.924423969772329
+Link 3397	New York	1.0
+Link 3398	Vermont	0.167311463975589
+Link 3398	Maine	0.45707770938179
+Link 3398	New Hampshire	0.375610826642622
+Link 3399	New Hampshire	0.635898476177864
+Link 3399	Vermont	0.364101523822132
+Link 34	Florida	1.0
+Link 340	Texas	0.539602800893458
+Link 340	Louisiana	0.460397199106529
+Link 3403	New York	1.0
+Link 3404	New York	0.175243335035209
+Link 3404	Vermont	0.824756664964781
+Link 3405	New York	0.924423969772329
+Link 3405	Vermont	0.0755760302276712
+Link 3407	Vermont	1.0
+Link 3408	New York	0.119654750612987
+Link 3408	Vermont	0.880345249387009
+Link 341	Texas	0.500506787228775
+Link 341	Louisiana	0.499493212771217
+Link 3412	Michigan	0.999999999999968
+Link 3413	Michigan	1.0
+Link 3414	Michigan	1.0
+Link 3415	New York	1.0
+Link 3416	New York	1.0
+Link 342	Texas	1.0
+Link 3420	New Hampshire	0.361714960182556
+Link 3420	Maine	0.638285039817479
+Link 3421	New Hampshire	0.375610826642621
+Link 3421	Maine	0.457077709381789
+Link 3421	Vermont	0.167311463975588
+Link 3426	New York	1.0
+Link 3427	New York	1.0
+Link 3428	Maine	1.0
+Link 3429	Maine	0.638285039817478
+Link 3429	New Hampshire	0.361714960182555
+Link 343	Mississippi	0.681443509624527
+Link 343	Louisiana	0.31855649037547
+Link 3431	Michigan	0.99999999999995
+Link 3432	Michigan	0.999999999999968
+Link 3433	Florida	1.0
+Link 3434	Florida	0.999999999999975
+Link 3436	Wisconsin	0.436772335935684
+Link 3436	Michigan	0.563227664064318
+Link 3437	Michigan	1.0
+Link 3438	New York	1.0
+Link 344	Mississippi	0.39627537283788
+Link 344	Louisiana	0.603724627162117
+Link 3440	New York	1.0
+Link 3441	New York	0.999999999999999
+Link 3442	New York	1.0
+Link 3443	Washington	1.0
+Link 3444	Washington	1.0
+Link 3445	Washington	0.999999999999998
+Link 3446	Washington	1.0
+Link 3447	Washington	1.0
+Link 3448	Washington	1.0
+Link 3449	Washington	1.0
+Link 345	Louisiana	1.0
+Link 3450	Washington	0.999999999999998
+Link 3451	South Dakota	0.38351666353739
+Link 3451	North Dakota	0.371485689085088
+Link 3451	Montana	0.244997647377479
+Link 3452	Wyoming	0.160609715515575
+Link 3452	Montana	0.839390284484391
+Link 3453	North Dakota	1.0
+Link 3454	South Dakota	0.38351666353739
+Link 3454	Montana	0.244997647377479
+Link 3454	North Dakota	0.371485689085087
+Link 3455	Montana	1.0
+Link 3456	Montana	0.839390284484392
+Link 3456	Wyoming	0.160609715515575
+Link 3457	New York	1.0
+Link 3458	New York	0.999999999999999
+Link 3459	New York	0.999999999999993
+Link 346	Florida	0.48049534627265
+Link 346	Georgia	0.51950465372735
+Link 3460	Washington	0.999999999999999
+Link 3461	Washington	1.0
+Link 3462	New York	1.0
+Link 3463	New York	1.0
+Link 3465	Maine	1.0
+Link 3466	Maine	1.0
+Link 3468	Montana	1.0
+Link 3469	Montana	1.0
+Link 347	Florida	1.0
+Link 3470	Montana	1.0
+Link 3471	Montana	1.0
+Link 3473	Montana	1.0
+Link 3474	Montana	1.0
+Link 3478	Montana	1.0
+Link 3479	Montana	1.0
+Link 348	Florida	0.793610686643799
+Link 348	Georgia	0.206389313356217
+Link 3484	Montana	1.0
+Link 3485	Montana	1.0
+Link 349	Texas	1.0
+Link 3492	Idaho	1.0
+Link 3493	Montana	1.0
+Link 3494	Washington	1.0
+Link 3495	Washington	1.0
+Link 3497	Washington	1.0
+Link 3498	Washington	1.0
+Link 3499	Washington	1.0
+Link 35	Florida	1.0
+Link 350	Texas	1.0
+Link 3500	Washington	1.0
+Link 3501	Washington	0.376578479061928
+Link 3501	Idaho	0.623421520938028
+Link 3502	Idaho	1.0
+Link 3506	Wisconsin	0.122725666967175
+Link 3506	Michigan	0.866551604705489
+Link 3506	Minnesota	0.0107227283273365
+Link 3507	Wisconsin	0.436772335935684
+Link 3507	Michigan	0.563227664064318
+Link 3508	Maine	0.999999999999989
+Link 3509	Maine	1.0
+Link 351	Texas	1.0
+Link 3510	Maine	1.0
+Link 3512	Washington	0.376578479061927
+Link 3512	Idaho	0.623421520938026
+Link 3513	Washington	1.0
+Link 3517	North Dakota	0.999070050855942
+Link 3517	Minnesota	0.000929949144057642
+Link 3518	North Dakota	1.0
+Link 352	Alabama	0.799406287453002
+Link 352	Florida	0.200593712546985
+Link 3520	New York	1.0
+Link 3521	New York	1.0
+Link 3528	Oregon	0.332553682477153
+Link 3528	Washington	0.667446317522837
+Link 3529	Washington	0.999999999999999
+Link 353	Florida	0.214469903186193
+Link 353	Alabama	0.785530096813793
+Link 3536	Oregon	0.44903333678247
+Link 3536	Washington	0.550966663217475
+Link 3537	Washington	0.667446317522837
+Link 3537	Oregon	0.332553682477153
+Link 354	Alabama	1.0
+Link 3541	California	0.124910130921017
+Link 3541	Washington	0.293744124757223
+Link 3541	Oregon	0.581345744321731
+Link 3542	Oregon	0.449033336782471
+Link 3542	Washington	0.550966663217475
+Link 3543	Minnesota	0.660087849802803
+Link 3543	Wisconsin	0.00192139486903311
+Link 3543	North Dakota	0.337990755328158
+Link 3544	Minnesota	0.000929949144057643
+Link 3544	North Dakota	0.99907005085594
+Link 3545	Minnesota	0.996890802067936
+Link 3545	Wisconsin	0.00310919793206407
+Link 3546	Minnesota	0.660087849802805
+Link 3546	Wisconsin	0.00192139486903312
+Link 3546	North Dakota	0.337990755328159
+Link 3548	Maine	1.0
+Link 355	Texas	0.268181500357975
+Link 355	Arizona	0.731818499642025
+Link 3550	Maine	0.999999999999988
+Link 3551	Michigan	1.0
+Link 3552	Wisconsin	0.122725666967175
+Link 3552	Michigan	0.866551604705489
+Link 3552	Minnesota	0.0107227283273365
+Link 3553	Minnesota	0.996890802067934
+Link 3553	Wisconsin	0.00310919793206407
+Link 3554	Washington	0.269476435814622
+Link 3554	California	0.113557510221075
+Link 3554	Oregon	0.616966053964298
+Link 3556	Washington	0.293744124757222
+Link 3556	California	0.124910130921017
+Link 3556	Oregon	0.581345744321729
+Link 3559	Michigan	1.0
+Link 356	Texas	1.0
+Link 3561	Maine	1.0
+Link 357	Arizona	0.169705576868985
+Link 357	Texas	0.830294423131028
+Link 358	Louisiana	1.0
+Link 359	Louisiana	1.0
+Link 36	Florida	1.0
+Link 360	Louisiana	1.0
+Link 361	Alabama	0.566114821463152
+Link 361	Florida	0.433885178536854
+Link 362	Alabama	0.799406287453002
+Link 362	Florida	0.200593712546985
+Link 363	Alabama	1.0
+Link 364	Georgia	0.4001564893403
+Link 364	Florida	0.599843510659699
+Link 365	Florida	0.895587665939698
+Link 365	Georgia	0.104412334060307
+Link 366	Florida	1.0
+Link 367	Louisiana	1.0
+Link 368	Louisiana	1.0
+Link 369	Louisiana	1.0
+Link 37	Florida	1.0
+Link 370	Texas	1.0
+Link 371	Texas	1.0
+Link 372	Texas	1.0
+Link 373	Texas	1.0
+Link 374	Texas	1.0
+Link 375	Texas	1.0
+Link 376	Arizona	0.843276708311508
+Link 376	Texas	0.156723291688491
+Link 377	Arizona	0.731818499642025
+Link 377	Texas	0.268181500357975
+Link 378	Arizona	1.0
+Link 379	Texas	1.0
+Link 38	Florida	1.0
+Link 380	Texas	1.0
+Link 381	Texas	1.00000000000001
+Link 382	Louisiana	1.0
+Link 383	Louisiana	1.0
+Link 384	Louisiana	1.0
+Link 385	Arizona	0.538349977713345
+Link 385	Texas	0.0608016086421838
+Link 385	New Mexico	0.400848413644471
+Link 386	Texas	1.0
+Link 387	Arizona	0.843276708311508
+Link 387	Texas	0.156723291688491
+Link 388	Texas	1.0
+Link 389	Texas	1.0
+Link 39	Florida	1.0
+Link 390	Texas	1.0
+Link 391	Alabama	0.742830040351254
+Link 391	Mississippi	0.257169959648738
+Link 392	Alabama	1.0
+Link 393	Mississippi	0.30153109119491
+Link 393	Alabama	0.698468908805108
+Link 394	Louisiana	1.0
+Link 395	Louisiana	1.0
+Link 396	Louisiana	1.0
+Link 397	Texas	0.355387151841384
+Link 397	Louisiana	0.644612848158621
+Link 398	Louisiana	1.0
+Link 399	Louisiana	0.460397199106529
+Link 399	Texas	0.539602800893458
+Link 4	Florida	1.0
+Link 40	Florida	1.0
+Link 400	Texas	1.0
+Link 401	Texas	1.0
+Link 402	Texas	1.0
+Link 403	Texas	1.0
+Link 404	Texas	1.0
+Link 405	Texas	1.0
+Link 406	Arizona	1.0
+Link 407	Arizona	1.0
+Link 408	Arizona	1.0
+Link 409	Texas	1.0
+Link 41	Florida	1.0
+Link 410	Texas	1.0
+Link 411	Texas	1.0
+Link 412	Texas	1.0
+Link 413	Texas	1.0
+Link 414	Texas	1.0
+Link 415	Texas	1.0
+Link 416	Texas	1.0
+Link 417	Texas	1.0
+Link 418	Texas	1.0
+Link 419	Texas	1.0
+Link 42	Florida	1.0
+Link 420	Texas	1.0
+Link 421	Mississippi	0.688975637381352
+Link 421	Louisiana	0.311024362618645
+Link 422	Louisiana	1.0
+Link 423	Mississippi	0.731849405114973
+Link 423	Louisiana	0.268150594885049
+Link 424	Texas	1.0
+Link 425	Texas	1.0
+Link 426	Texas	1.0
+Link 427	Louisiana	0.387739194899352
+Link 427	Texas	0.612260805100647
+Link 428	Louisiana	0.416654573695647
+Link 428	Texas	0.583345426304363
+Link 429	Texas	1.0
+Link 43	Florida	1.0
+Link 430	Louisiana	1.0
+Link 431	Texas	0.355387151841384
+Link 431	Louisiana	0.644612848158621
+Link 432	Louisiana	0.416654573695646
+Link 432	Texas	0.583345426304363
+Link 433	Texas	1.0
+Link 434	Texas	1.0
+Link 435	Texas	1.0
+Link 436	Alabama	1.0
+Link 437	Alabama	0.745586466720574
+Link 437	Florida	0.25441353327942
+Link 438	Alabama	0.566114821463151
+Link 438	Florida	0.433885178536854
+Link 439	Arizona	1.0
+Link 44	Florida	1.0
+Link 440	Arizona	1.0
+Link 441	Arizona	1.0
+Link 442	Texas	1.0
+Link 443	Texas	1.0
+Link 444	Texas	1.0
+Link 445	Louisiana	1.0
+Link 446	Louisiana	1.0
+Link 447	Louisiana	1.0
+Link 448	Texas	1.0
+Link 449	Texas	1.0
+Link 45	Florida	1.0
+Link 450	Texas	1.0
+Link 451	Alabama	0.204520912685754
+Link 451	Louisiana	0.161730356257697
+Link 451	Mississippi	0.633748731056536
+Link 452	Mississippi	0.257169959648738
+Link 452	Alabama	0.742830040351254
+Link 453	Mississippi	0.681443509624528
+Link 453	Louisiana	0.31855649037547
+Link 454	Louisiana	0.279597185585675
+Link 454	Texas	0.720402814414338
+Link 455	Texas	0.612260805100647
+Link 455	Louisiana	0.387739194899352
+Link 456	Texas	1.0
+Link 457	Mississippi	0.0533939716233156
+Link 457	Louisiana	0.946606028376705
+Link 458	Mississippi	0.731849405114974
+Link 458	Louisiana	0.268150594885049
+Link 459	Louisiana	1.0
+Link 46	Florida	1.0
+Link 460	Texas	1.0
+Link 461	Texas	1.0
+Link 462	Texas	1.0
+Link 463	Alabama	0.436636783809677
+Link 463	Georgia	0.563363216190333
+Link 464	Georgia	0.4001564893403
+Link 464	Florida	0.599843510659699
+Link 465	Florida	0.25441353327942
+Link 465	Alabama	0.745586466720574
+Link 466	Arizona	0.920737538715652
+Link 466	California	0.0792624612843476
+Link 467	Arizona	0.227736283201047
+Link 467	California	0.772263716798962
+Link 468	Arizona	1.0
+Link 469	Texas	1.0
+Link 47	Florida	1.0
+Link 470	Texas	1.0
+Link 471	Texas	1.0
+Link 472	Texas	1.0
+Link 473	Texas	1.0
+Link 474	Texas	1.0
+Link 475	New Mexico	0.661069001584621
+Link 475	Texas	0.33893099841538
+Link 476	Texas	1.0
+Link 477	Texas	0.216900482682127
+Link 477	New Mexico	0.783099517317872
+Link 478	Texas	1.0
+Link 479	Texas	1.0
+Link 48	Florida	0.999999999999999
+Link 480	Texas	1.0
+Link 481	Texas	1.0
+Link 482	Texas	1.0
+Link 483	Texas	1.0
+Link 484	Texas	1.0
+Link 485	Texas	1.0
+Link 486	Texas	1.0
+Link 487	Arizona	1.0
+Link 488	Arizona	1.0
+Link 489	Arizona	1.0
+Link 49	Texas	1.0
+Link 490	New Mexico	1.0
+Link 491	New Mexico	0.126012460760817
+Link 491	Texas	0.873987539239196
+Link 492	Texas	0.33893099841538
+Link 492	New Mexico	0.661069001584622
+Link 493	Florida	0.815829820014182
+Link 493	South Carolina	0.184170179985818
+Link 494	Florida	1.0
+Link 495	South Carolina	0.207832533024632
+Link 495	Florida	0.63526669894202
+Link 495	Georgia	0.156900768033352
+Link 496	New Mexico	1.0
+Link 497	New Mexico	0.787321143566752
+Link 497	Texas	0.212678856433255
+Link 498	New Mexico	0.593578635904436
+Link 498	Texas	0.406421364095564
+Link 499	Texas	1.0
+Link 5	Florida	0.999999999999999
+Link 50	Texas	1.0
+Link 500	Texas	1.0
+Link 501	Texas	1.0
+Link 502	California	0.428911286923359
+Link 502	Arizona	0.571088713076654
+Link 503	California	1.0
+Link 504	California	0.0792624612843476
+Link 504	Arizona	0.920737538715652
+Link 505	New Mexico	0.645852100153938
+Link 505	Arizona	0.354147899846063
+Link 506	Texas	0.406421364095563
+Link 506	New Mexico	0.593578635904435
+Link 507	Texas	0.0608016086421838
+Link 507	New Mexico	0.400848413644471
+Link 507	Arizona	0.538349977713345
+Link 508	Georgia	0.896848420589983
+Link 508	South Carolina	0.103151579409976
+Link 509	Florida	0.63526669894202
+Link 509	Georgia	0.156900768033352
+Link 509	South Carolina	0.207832533024632
+Link 51	Texas	1.0
+Link 510	Georgia	0.51950465372735
+Link 510	Florida	0.48049534627265
+Link 511	Texas	1.0
+Link 512	Texas	1.0
+Link 513	Texas	1.0
+Link 514	Arizona	1.0
+Link 515	Arizona	1.0
+Link 516	Arizona	1.0
+Link 517	Texas	1.0
+Link 518	Texas	1.0
+Link 519	Texas	1.0
+Link 52	Texas	1.0
+Link 520	New Mexico	1.0
+Link 521	New Mexico	0.783099517317872
+Link 521	Texas	0.216900482682127
+Link 522	Texas	0.212678856433255
+Link 522	New Mexico	0.787321143566752
+Link 523	New Mexico	0.0966408028960096
+Link 523	Texas	0.903359197103993
+Link 524	Texas	1.0
+Link 525	Texas	0.873987539239196
+Link 525	New Mexico	0.126012460760817
+Link 526	Arizona	1.0
+Link 527	Arizona	1.0
+Link 528	Arizona	1.0
+Link 529	Alabama	1.0
+Link 53	Texas	1.0
+Link 530	Alabama	1.0
+Link 531	Alabama	1.0
+Link 532	Texas	1.0
+Link 533	Texas	1.0
+Link 534	Texas	1.0
+Link 535	Texas	1.0
+Link 536	Texas	1.0
+Link 537	Texas	1.0
+Link 538	Arkansas	0.271513402643833
+Link 538	Louisiana	0.728486597356162
+Link 539	Arkansas	0.159836071002492
+Link 539	Louisiana	0.840163928997499
+Link 54	Texas	1.0
+Link 540	Louisiana	1.0
+Link 541	Alabama	0.156876926512332
+Link 541	Louisiana	0.0034428392465228
+Link 541	Mississippi	0.839680234241162
+Link 542	Louisiana	0.161730356257697
+Link 542	Alabama	0.204520912685754
+Link 542	Mississippi	0.633748731056536
+Link 543	Louisiana	0.311024362618645
+Link 543	Mississippi	0.688975637381353
+Link 544	Arizona	1.0
+Link 545	Arizona	1.0
+Link 546	Arizona	1.0
+Link 547	South Carolina	0.41195668118063
+Link 547	Florida	0.588043318819371
+Link 548	South Carolina	0.184170179985818
+Link 548	Florida	0.815829820014182
+Link 549	South Carolina	0.999999999999994
+Link 55	Florida	1.0
+Link 550	Georgia	0.991807259339762
+Link 550	South Carolina	0.00819274066026735
+Link 551	South Carolina	0.775853173929549
+Link 551	Georgia	0.224146826070438
+Link 552	South Carolina	0.103151579409976
+Link 552	Georgia	0.896848420589985
+Link 553	Mississippi	0.173370420261644
+Link 553	Alabama	0.826629579738367
+Link 554	Alabama	1.0
+Link 555	Mississippi	0.194423317018412
+Link 555	Alabama	0.805576682981597
+Link 556	Alabama	1.0
+Link 557	Alabama	1.0
+Link 558	Alabama	1.0
+Link 559	Louisiana	0.688842019100703
+Link 559	Arkansas	0.230246996904399
+Link 559	Mississippi	0.08091098399493
+Link 56	Florida	1.0
+Link 560	Louisiana	0.946606028376706
+Link 560	Mississippi	0.0533939716233156
+Link 561	Louisiana	0.840163928997499
+Link 561	Arkansas	0.159836071002492
+Link 562	Arizona	1.0
+Link 563	Arizona	1.0
+Link 564	Arizona	1.0
+Link 565	Arizona	1.0
+Link 566	Arizona	1.0
+Link 567	Arizona	1.0
+Link 568	Texas	1.0
+Link 569	Texas	1.0
+Link 57	Florida	1.0
+Link 570	Texas	1.0
+Link 571	New Mexico	0.0811636136498052
+Link 571	Texas	0.918836386350211
+Link 572	Texas	1.0
+Link 573	Texas	0.903359197103992
+Link 573	New Mexico	0.0966408028960097
+Link 574	California	1.0
+Link 575	California	1.0
+Link 576	California	1.00000000000001
+Link 577	New Mexico	1.0
+Link 578	New Mexico	1.0
+Link 579	New Mexico	1.0
+Link 58	Texas	1.0
+Link 580	Arizona	1.0
+Link 581	Arizona	1.0
+Link 582	Arizona	1.0
+Link 583	Mississippi	0.996160577629807
+Link 583	Louisiana	0.00383942237019215
+Link 584	Alabama	0.805576682981598
+Link 584	Mississippi	0.194423317018412
+Link 585	Alabama	0.156876926512331
+Link 585	Louisiana	0.00344283924652279
+Link 585	Mississippi	0.83968023424116
+Link 586	California	1.0
+Link 587	California	1.0
+Link 588	California	1.0
+Link 589	Alabama	1.0
+Link 59	Texas	0.999999999999996
+Link 590	Alabama	1.0
+Link 591	Alabama	1.0
+Link 592	Arkansas	0.402476952896796
+Link 592	Louisiana	0.597523047103197
+Link 593	Arkansas	1.0
+Link 594	Arkansas	0.271513402643833
+Link 594	Louisiana	0.728486597356162
+Link 595	California	1.0
+Link 596	California	1.0
+Link 597	California	1.0
+Link 598	California	1.00000000000002
+Link 599	California	1.0
+Link 6	Florida	1.0
+Link 60	Texas	0.999999999999991
+Link 600	California	1.00000000000001
+Link 601	Texas	1.0
+Link 602	Texas	1.0
+Link 603	Texas	1.0
+Link 604	Texas	1.0
+Link 605	Texas	1.0
+Link 606	Texas	1.0
+Link 607	California	1.0
+Link 608	California	1.0
+Link 609	California	1.0
+Link 61	Florida	1.0
+Link 610	Alabama	0.577158515142491
+Link 610	Georgia	0.422841484857515
+Link 611	Georgia	1.0
+Link 612	Alabama	0.436636783809676
+Link 612	Georgia	0.563363216190333
+Link 613	California	1.0
+Link 614	California	1.0
+Link 615	California	1.0
+Link 616	South Carolina	1.0
+Link 617	South Carolina	1.0
+Link 618	South Carolina	0.999999999999994
+Link 619	Texas	1.0
+Link 62	Florida	1.0
+Link 620	Texas	1.0
+Link 621	Texas	1.0
+Link 622	Texas	1.0
+Link 623	Texas	1.0
+Link 624	Texas	1.0
+Link 625	Georgia	0.661920408688096
+Link 625	Alabama	0.338079591311904
+Link 626	Alabama	0.577158515142491
+Link 626	Georgia	0.422841484857515
+Link 627	Alabama	1.0
+Link 628	South Carolina	0.0128394639742366
+Link 628	Georgia	0.987160536025763
+Link 629	South Carolina	0.00819274066026735
+Link 629	Georgia	0.991807259339762
+Link 63	Florida	1.0
+Link 630	Georgia	1.0
+Link 631	Georgia	1.0
+Link 632	Georgia	1.0
+Link 633	Georgia	1.0
+Link 634	Georgia	0.0422967400637136
+Link 634	South Carolina	0.957703259936297
+Link 635	South Carolina	1.0
+Link 636	Georgia	0.224146826070438
+Link 636	South Carolina	0.775853173929549
+Link 637	California	1.0
+Link 638	California	1.0
+Link 639	California	1.0
+Link 64	Texas	1.0
+Link 640	California	1.0
+Link 641	California	1.0
+Link 642	California	1.0
+Link 643	Georgia	0.982075807798936
+Link 643	South Carolina	0.0179241922010496
+Link 644	Georgia	0.716344902927782
+Link 644	South Carolina	0.283655097072219
+Link 645	Georgia	0.987160536025765
+Link 645	South Carolina	0.0128394639742366
+Link 646	California	1.0
+Link 647	California	1.0
+Link 648	California	1.0
+Link 649	South Carolina	0.945962024281055
+Link 649	Georgia	0.0540379757189329
+Link 65	Texas	0.999999999999991
+Link 650	South Carolina	1.0
+Link 651	South Carolina	0.957703259936297
+Link 651	Georgia	0.0422967400637136
+Link 652	California	1.0
+Link 653	California	1.0
+Link 654	California	1.0
+Link 655	Georgia	1.0
+Link 656	Georgia	1.0
+Link 657	Georgia	1.0
+Link 658	California	1.0
+Link 659	California	1.0
+Link 66	Texas	0.999999999999994
+Link 660	California	1.0
+Link 661	California	1.0
+Link 662	California	1.0
+Link 663	California	1.0
+Link 664	New Mexico	1.0
+Link 665	New Mexico	1.0
+Link 666	New Mexico	1.0
+Link 667	Alabama	0.789923160850381
+Link 667	Mississippi	0.210076839149638
+Link 668	Mississippi	0.173370420261644
+Link 668	Alabama	0.826629579738367
+Link 669	Mississippi	1.0
+Link 67	Texas	1.0
+Link 670	South Carolina	0.232803132624227
+Link 670	Florida	0.767196867375772
+Link 671	Florida	0.588043318819371
+Link 671	South Carolina	0.41195668118063
+Link 672	South Carolina	1.0
+Link 673	California	0.999999999999997
+Link 674	California	1.0
+Link 675	California	1.0
+Link 676	California	1.0
+Link 677	California	1.0
+Link 678	California	1.0
+Link 679	Texas	0.694739786828924
+Link 679	Oklahoma	0.305260213171108
+Link 68	Texas	0.999999999999992
+Link 680	Texas	1.0
+Link 681	Oklahoma	0.401643420294947
+Link 681	Texas	0.598356579705079
+Link 682	California	1.0
+Link 683	California	1.0
+Link 684	California	1.0
+Link 685	Georgia	0.0484589395530128
+Link 685	South Carolina	0.951541060446998
+Link 686	South Carolina	0.945962024281056
+Link 686	Georgia	0.0540379757189329
+Link 687	Georgia	0.716344902927782
+Link 687	South Carolina	0.283655097072219
+Link 688	California	1.0
+Link 689	California	1.0
+Link 69	Texas	1.0
+Link 690	California	1.0
+Link 691	Georgia	1.0
+Link 692	Georgia	1.0
+Link 693	Georgia	1.0
+Link 694	California	1.0
+Link 695	California	1.0
+Link 696	California	1.0
+Link 697	California	1.0
+Link 698	California	1.0
+Link 699	California	1.0
+Link 7	Florida	1.0
+Link 70	Texas	1.0
+Link 700	California	1.0
+Link 701	California	1.0
+Link 702	California	1.0
+Link 703	Georgia	1.0
+Link 704	Georgia	1.0
+Link 705	Georgia	1.0
+Link 706	California	0.475546071023547
+Link 706	Texas	0.524453928976453
+Link 707	Arizona	0.571088713076652
+Link 707	California	0.428911286923359
+Link 708	Texas	0.830294423131028
+Link 708	Arizona	0.169705576868985
+Link 709	Texas	1.0
+Link 71	Texas	1.0
+Link 710	Texas	1.0
+Link 711	Texas	1.0
+Link 712	California	1.0
+Link 713	California	1.0
+Link 714	California	1.0
+Link 715	Florida	0.579632668765551
+Link 715	South Carolina	0.420367331234447
+Link 716	Florida	1.0
+Link 717	Florida	0.767196867375772
+Link 717	South Carolina	0.232803132624227
+Link 718	Oklahoma	0.645482455513657
+Link 718	Texas	0.354517544486331
+Link 719	Texas	0.598356579705079
+Link 719	Oklahoma	0.401643420294947
+Link 72	Texas	0.999999999999995
+Link 720	Texas	1.0
+Link 721	Florida	0.240491581570925
+Link 721	North Carolina	0.759508418429074
+Link 722	South Carolina	0.420367331234447
+Link 722	Florida	0.579632668765551
+Link 723	South Carolina	0.253643317223574
+Link 723	North Carolina	0.74635668277643
+Link 724	California	1.0
+Link 725	California	1.0
+Link 726	California	1.0
+Link 727	Arkansas	0.601190611629317
+Link 727	Mississippi	0.37436616754756
+Link 727	Louisiana	0.0244432208231362
+Link 728	Mississippi	0.08091098399493
+Link 728	Louisiana	0.688842019100704
+Link 728	Arkansas	0.230246996904399
+Link 729	Arkansas	1.0
+Link 73	Florida	1.0
+Link 730	California	1.0
+Link 731	California	0.999999999999997
+Link 732	California	1.0
+Link 733	Georgia	0.74317537451598
+Link 733	South Carolina	0.25682462548403
+Link 734	South Carolina	0.924734845739025
+Link 734	Georgia	0.0752651542609661
+Link 735	Georgia	0.982075807798936
+Link 735	South Carolina	0.0179241922010496
+Link 736	Arkansas	1.0
+Link 737	Arkansas	1.0
+Link 738	Arkansas	1.0
+Link 739	California	1.0
+Link 74	Florida	1.0
+Link 740	California	1.0
+Link 741	California	1.0
+Link 742	Arizona	1.0
+Link 743	Arizona	1.0
+Link 744	Arizona	1.0
+Link 745	California	1.0
+Link 746	California	1.0
+Link 747	California	1.0
+Link 748	California	0.999999999999996
+Link 749	California	1.0
+Link 75	Florida	1.0
+Link 750	California	1.0
+Link 751	California	1.0
+Link 752	California	1.0
+Link 753	California	1.0
+Link 754	California	1.0
+Link 755	California	0.999999999999996
+Link 756	California	1.00000000000002
+Link 757	Alabama	1.0
+Link 758	Alabama	1.0
+Link 759	Alabama	1.0
+Link 76	Texas	1.0
+Link 760	Arizona	0.999998982553796
+Link 760	California	1.01744619003049e-06
+Link 761	Arizona	1.0
+Link 762	California	0.298544909368316
+Link 762	Arizona	0.701455090631706
+Link 763	Alabama	1.0
+Link 764	Alabama	1.0
+Link 765	Alabama	1.0
+Link 766	South Carolina	1.0
+Link 767	South Carolina	1.0
+Link 768	South Carolina	1.0
+Link 769	California	1.0
+Link 77	Texas	1.0
+Link 770	California	1.0
+Link 771	California	1.0
+Link 772	California	0.955740030724833
+Link 772	Arizona	0.0442599692751793
+Link 773	Arizona	0.701455090631706
+Link 773	California	0.298544909368316
+Link 774	California	0.772263716798962
+Link 774	Arizona	0.227736283201047
+Link 775	Louisiana	0.303031097797632
+Link 775	Texas	0.69696890220236
+Link 776	Louisiana	1.0
+Link 777	Louisiana	0.279597185585675
+Link 777	Texas	0.720402814414339
+Link 778	Alabama	1.0
+Link 779	Alabama	1.0
+Link 78	Texas	1.0
+Link 780	Alabama	1.0
+Link 781	Arkansas	1.0
+Link 782	Arkansas	1.0
+Link 783	Arkansas	1.0
+Link 784	Georgia	0.0495488419423955
+Link 784	South Carolina	0.950451158057633
+Link 785	South Carolina	0.924734845739023
+Link 785	Georgia	0.0752651542609661
+Link 786	South Carolina	1.0
+Link 787	New Mexico	1.0
+Link 788	New Mexico	1.0
+Link 789	New Mexico	1.0
+Link 79	Texas	1.0
+Link 790	South Carolina	1.0
+Link 791	South Carolina	1.0
+Link 792	South Carolina	1.0
+Link 793	Texas	1.0
+Link 794	Texas	1.0
+Link 795	Texas	1.0
+Link 796	Alabama	1.0
+Link 797	Alabama	1.0
+Link 798	Alabama	1.0
+Link 799	California	1.0
+Link 8	Florida	1.0
+Link 80	Texas	1.0
+Link 800	California	1.0
+Link 801	California	1.0
+Link 802	Alabama	0.858349950775988
+Link 802	Mississippi	0.141650049224025
+Link 803	Alabama	1.0
+Link 804	Alabama	0.789923160850381
+Link 804	Mississippi	0.210076839149638
+Link 805	South Carolina	1.0
+Link 806	South Carolina	0.951541060446998
+Link 806	Georgia	0.0484589395530127
+Link 807	South Carolina	0.950451158057632
+Link 807	Georgia	0.0495488419423955
+Link 808	Arizona	0.0441140837441289
+Link 808	California	0.955885916255871
+Link 809	California	0.955740030724835
+Link 809	Arizona	0.0442599692751793
+Link 81	Texas	1.0
+Link 810	California	1.0
+Link 811	California	1.0
+Link 812	California	1.0
+Link 813	California	1.0
+Link 814	California	1.0
+Link 815	California	1.0
+Link 816	California	1.0
+Link 817	Tennessee	0.0365928679126756
+Link 817	Georgia	0.963407132087333
+Link 818	Alabama	0.338079591311904
+Link 818	Georgia	0.661920408688097
+Link 819	Tennessee	0.0364691786045832
+Link 819	Alabama	0.62973740509618
+Link 819	Georgia	0.333793416299211
+Link 82	Florida	1.0
+Link 820	Mississippi	0.996322219765652
+Link 820	Louisiana	0.00367778023434823
+Link 821	Mississippi	1.0
+Link 822	Mississippi	0.996160577629808
+Link 822	Louisiana	0.00383942237019215
+Link 823	Louisiana	0.00357008743107702
+Link 823	Mississippi	0.948392682714826
+Link 823	Tennessee	0.0480372298541179
+Link 824	Mississippi	0.910649293205292
+Link 824	Tennessee	0.0893507067947071
+Link 825	Louisiana	0.00367778023434823
+Link 825	Mississippi	0.996322219765652
+Link 826	Oklahoma	0.700545175712834
+Link 826	Texas	0.299454824287165
+Link 827	Oklahoma	1.0
+Link 828	Texas	0.354517544486331
+Link 828	Oklahoma	0.645482455513657
+Link 829	Arizona	1.0
+Link 83	Florida	1.0
+Link 830	Arizona	1.0
+Link 831	Arizona	0.999998982553796
+Link 831	California	1.01744619003049e-06
+Link 832	Tennessee	0.0799372568881359
+Link 832	Georgia	0.920062743111873
+Link 833	Tennessee	0.0365928679126756
+Link 833	Georgia	0.963407132087333
+Link 834	Georgia	0.13805575993542
+Link 834	Tennessee	0.861944240064586
+Link 835	Georgia	0.760182914961666
+Link 835	South Carolina	0.239817085038339
+Link 836	Georgia	0.74317537451598
+Link 836	South Carolina	0.25682462548403
+Link 837	Georgia	1.0
+Link 838	Mississippi	0.0637339632559785
+Link 838	Arkansas	0.759599401170764
+Link 838	Tennessee	0.176666635573248
+Link 839	Mississippi	0.948392682714825
+Link 839	Louisiana	0.00357008743107702
+Link 839	Tennessee	0.0480372298541179
+Link 84	Florida	1.0
+Link 840	Mississippi	0.374366167547561
+Link 840	Louisiana	0.0244432208231362
+Link 840	Arkansas	0.601190611629317
+Link 841	California	1.0
+Link 842	California	1.0
+Link 843	California	1.0
+Link 844	North Carolina	1.0
+Link 845	South Carolina	0.253643317223574
+Link 845	North Carolina	0.74635668277643
+Link 846	North Carolina	0.69389119187579
+Link 846	South Carolina	0.306108808124188
+Link 847	North Carolina	1.0
+Link 848	North Carolina	0.693891191875791
+Link 848	South Carolina	0.306108808124188
+Link 849	South Carolina	0.384390903122452
+Link 849	North Carolina	0.615609096877574
+Link 85	Texas	1.0
+Link 850	California	1.0
+Link 851	California	1.0
+Link 852	California	1.0
+Link 853	Georgia	0.915028980713233
+Link 853	Tennessee	0.0849710192867191
+Link 854	Georgia	1.0
+Link 855	Georgia	0.920062743111873
+Link 855	Tennessee	0.0799372568881359
+Link 856	Arizona	1.0
+Link 857	Arizona	1.0
+Link 858	Arizona	1.0
+Link 859	South Carolina	0.855241014231236
+Link 859	North Carolina	0.14475898576873
+Link 86	Texas	1.0
+Link 860	South Carolina	1.0
+Link 861	South Carolina	0.880751514526189
+Link 861	North Carolina	0.119248485473846
+Link 862	North Carolina	0.692065633578055
+Link 862	Florida	0.30793436642194
+Link 863	Florida	1.0
+Link 864	Florida	0.240491581570925
+Link 864	North Carolina	0.759508418429074
+Link 865	South Carolina	0.705455031792015
+Link 865	North Carolina	0.294544968207984
+Link 866	North Carolina	0.615609096877574
+Link 866	South Carolina	0.384390903122452
+Link 867	South Carolina	1.0
+Link 868	Alabama	0.769876263095158
+Link 868	Tennessee	0.0981085007393476
+Link 868	Georgia	0.132015236165462
+Link 869	Alabama	0.62973740509618
+Link 869	Tennessee	0.0364691786045832
+Link 869	Georgia	0.333793416299211
+Link 87	Texas	1.0
+Link 870	Alabama	1.0
+Link 871	Nevada	0.0139994426233567
+Link 871	Arizona	0.986000557376642
+Link 872	Arizona	1.0
+Link 873	Arizona	0.986011303670552
+Link 873	California	0.00130667816095102
+Link 873	Nevada	0.0126820181684789
+Link 874	Tennessee	0.453440670285196
+Link 874	Alabama	0.546559329714815
+Link 875	Alabama	0.858349950775988
+Link 875	Mississippi	0.141650049224025
+Link 876	Tennessee	0.220948765968736
+Link 876	Mississippi	0.503917021057111
+Link 876	Alabama	0.275134212974148
+Link 877	California	1.0
+Link 878	California	1.0
+Link 879	California	1.0
+Link 88	Texas	1.00000000000001
+Link 880	Tennessee	0.248873675075267
+Link 880	Georgia	0.751126324924712
+Link 881	Tennessee	0.0849710192867191
+Link 881	Georgia	0.915028980713232
+Link 882	Tennessee	1.0
+Link 883	California	1.0
+Link 884	California	1.0
+Link 885	California	1.0
+Link 886	California	1.0
+Link 887	California	1.0
+Link 888	California	1.0
+Link 889	Georgia	0.678918531187981
+Link 889	Tennessee	0.321081468812012
+Link 89	Texas	1.00000000000001
+Link 890	Georgia	1.0
+Link 891	Georgia	0.751126324924712
+Link 891	Tennessee	0.248873675075267
+Link 892	California	1.0
+Link 893	California	1.0
+Link 894	California	1.0
+Link 895	Texas	0.194560571079997
+Link 895	Oklahoma	0.80543942892001
+Link 896	Oklahoma	1.0
+Link 897	Texas	0.299454824287165
+Link 897	Oklahoma	0.700545175712834
+Link 898	New Mexico	1.0
+Link 899	New Mexico	1.0
+Link 9	Florida	1.0
+Link 90	Texas	0.999999999999997
+Link 900	New Mexico	1.0
+Link 901	Arizona	1.0
+Link 902	Arizona	1.0
+Link 903	Arizona	1.0
+Link 904	Nevada	0.0183342579895758
+Link 904	California	0.941297596659261
+Link 904	Arizona	0.0403681453511953
+Link 905	Nevada	0.0126820181684789
+Link 905	California	0.00130667816095102
+Link 905	Arizona	0.986011303670552
+Link 906	Arizona	0.0441140837441289
+Link 906	California	0.955885916255871
+Link 907	South Carolina	0.85271697428774
+Link 907	North Carolina	0.147283025712245
+Link 908	North Carolina	0.119248485473846
+Link 908	South Carolina	0.880751514526189
+Link 909	South Carolina	1.0
+Link 91	Texas	0.999999999999999
+Link 910	Arizona	1.0
+Link 911	Arizona	1.0
+Link 912	Arizona	1.0
+Link 913	North Carolina	1.0
+Link 914	North Carolina	0.294544968207984
+Link 914	South Carolina	0.705455031792015
+Link 915	North Carolina	0.14475898576873
+Link 915	South Carolina	0.855241014231236
+Link 916	North Carolina	1.0
+Link 917	North Carolina	1.0
+Link 918	North Carolina	1.0
+Link 919	California	1.0
+Link 92	Texas	1.0
+Link 920	California	1.0
+Link 921	California	1.0
+Link 922	North Carolina	1.0
+Link 923	North Carolina	1.0
+Link 924	North Carolina	1.0
+Link 925	California	1.0
+Link 926	California	1.0
+Link 927	California	1.0
+Link 928	Arkansas	0.847047149487066
+Link 928	Mississippi	0.00119255807375844
+Link 928	Tennessee	0.151760292439151
+Link 929	Tennessee	1.0
+Link 93	Texas	1.00000000000001
+Link 930	Arkansas	0.759599401170765
+Link 930	Tennessee	0.176666635573248
+Link 930	Mississippi	0.0637339632559785
+Link 931	New Mexico	1.0
+Link 932	New Mexico	1.0
+Link 933	New Mexico	1.0
+Link 934	Texas	0.356557824787539
+Link 934	Louisiana	0.233522072160746
+Link 934	Arkansas	0.409920103051743
+Link 935	Arkansas	0.402476952896796
+Link 935	Louisiana	0.597523047103197
+Link 936	Texas	0.69696890220236
+Link 936	Louisiana	0.303031097797632
+Link 937	South Carolina	0.567473130882773
+Link 937	North Carolina	0.432526869117232
+Link 938	South Carolina	1.0
+Link 939	North Carolina	0.507196128878623
+Link 939	South Carolina	0.492803871121368
+Link 94	Texas	1.0
+Link 940	Tennessee	0.326107726924586
+Link 940	Georgia	0.673892273075442
+Link 941	Georgia	1.0
+Link 942	Tennessee	0.321081468812012
+Link 942	Georgia	0.678918531187982
+Link 943	South Carolina	0.622255549017901
+Link 943	North Carolina	0.377744450982098
+Link 944	South Carolina	0.492803871121369
+Link 944	North Carolina	0.507196128878623
+Link 945	South Carolina	1.0
+Link 946	South Carolina	0.426216971480814
+Link 946	North Carolina	0.57378302851916
+Link 947	North Carolina	1.0
+Link 948	South Carolina	0.852716974287739
+Link 948	North Carolina	0.147283025712245
+Link 949	New Mexico	1.0
+Link 95	Texas	0.999999999999999
+Link 950	New Mexico	1.0
+Link 951	New Mexico	1.0
+Link 952	Texas	1.0
+Link 953	Texas	1.0
+Link 954	Texas	1.0
+Link 955	New Mexico	0.557239005236817
+Link 955	Texas	0.442760994763152
+Link 956	Texas	0.91883638635021
+Link 956	New Mexico	0.0811636136498052
+Link 957	New Mexico	1.0
+Link 958	North Carolina	1.0
+Link 959	North Carolina	1.0
+Link 96	Texas	1.0
+Link 960	North Carolina	1.0
+Link 961	California	1.0
+Link 962	California	1.0
+Link 963	California	1.0
+Link 964	Tennessee	1.0
+Link 965	Tennessee	0.220948765968736
+Link 965	Alabama	0.275134212974147
+Link 965	Mississippi	0.503917021057111
+Link 966	Tennessee	0.0893507067947071
+Link 966	Mississippi	0.910649293205292
+Link 967	Arizona	0.454549845310153
+Link 967	New Mexico	0.545450154689859
+Link 968	New Mexico	0.645852100153938
+Link 968	Arizona	0.354147899846063
+Link 969	Arizona	1.0
+Link 97	Texas	1.0
+Link 970	California	1.0
+Link 971	California	1.0
+Link 972	California	1.0
+Link 973	Alabama	1.0
+Link 974	Alabama	1.0
+Link 975	Alabama	1.0
+Link 976	Tennessee	1.0
+Link 977	Tennessee	0.29375083275003
+Link 977	Georgia	0.4351071514685
+Link 977	North Carolina	0.271142015781441
+Link 978	Tennessee	0.326107726924586
+Link 978	Georgia	0.673892273075442
+Link 979	Texas	1.0
+Link 98	Texas	1.0
+Link 980	Texas	1.0
+Link 981	Texas	1.0
+Link 982	Arizona	1.0
+Link 983	Arizona	1.0
+Link 984	Arizona	1.0
+Link 985	North Carolina	1.0
+Link 986	North Carolina	1.0
+Link 987	North Carolina	1.0
+Link 988	California	1.0
+Link 989	California	1.0
+Link 99	Texas	1.0
+Link 990	California	1.0
+Link 991	North Carolina	1.0
+Link 992	North Carolina	1.0
+Link 993	North Carolina	1.0
+Link 994	North Carolina	1.0
+Link 995	North Carolina	0.57378302851916
+Link 995	South Carolina	0.426216971480814
+Link 996	North Carolina	0.432526869117232
+Link 996	South Carolina	0.567473130882773
+Link 997	North Carolina	1.0
+Link 998	North Carolina	1.0
+Link 999	North Carolina	1.0

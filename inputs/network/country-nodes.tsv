@@ -1,0 +1,588 @@
+Network ID	Zone	Fraction
+00199 | Aberdeen--Bel Air South--Bel Air North, MD	USA	1
+00280 | Abilene, TX	USA	1
+00766 | Akron, OH	USA	1
+00820 | Alamogordo, NM	USA	1
+00955 | Albany, OR	USA	1
+00970 | Albany--Schenectady, NY	USA	1
+01171 | Albuquerque, NM	USA	1
+01495 | Allentown, PA--NJ	USA	1
+01792 | Altoona, PA	USA	1
+01927 | Amarillo, TX	USA	1
+02413 | Anderson, SC	USA	1
+02602 | Ann Arbor, MI	USA	1
+02683 | Antioch, CA	USA	1
+02764 | Appleton, WI	USA	1
+02926 | Arcata-McKinleyville, CA	USA	1
+03196 | Arroyo Grande--Grover Beach, CA	USA	1
+03358 | Asheville, NC	USA	1
+03763 | Athens-Clarke County, GA	USA	1
+03817 | Atlanta, GA	USA	1
+03898 | Atlantic City, NJ	USA	1
+04114 | Auburn, NY	USA	1
+04130 | Auburn--North Auburn, CA	USA	1
+04222 | Augusta-Richmond County, GA--SC	USA	1
+04384 | Austin, TX	USA	1
+04549 | Avondale--Goodyear, AZ	USA	1
+04681 | Bakersfield, CA	USA	1
+04843 | Baltimore, MD	USA	1
+04951 | Bangor, ME	USA	1
+05167 | Barnstable Town, MA	USA	1
+06058 | Beaumont, TX	USA	1
+06652 | Bellingham, WA	USA	1
+06760 | Beloit, WI--IL	USA	1
+06868 | Bend, OR	USA	1
+07138 | Benton Harbor--St. Joseph--Fair Plain, MI	USA	1
+07705 | Billings, MT	USA	1
+07732 | Binghamton, NY--PA	USA	1
+07786 | Birmingham, AL	USA	1
+07921 | Bismarck, ND	USA	1
+08407 | Bloomington--Normal, IL	USA	1
+08434 | Bloomsburg--Berwick, PA	USA	1
+08785 | Boise City, ID	USA	1
+08974 | Bonita Springs, FL	USA	1
+09271 | Boston, MA--NH--RI	USA	1
+09298 | Boulder, CO	USA	1
+09514 | Bozeman, MT	USA	1
+09946 | Bremerton, WA	USA	1
+10162 | Bridgeport--Stamford, CT--NY	USA	1
+10189 | Bridgeton, NJ	USA	1
+10891 | Browns Mills--Fort Dix, NJ	USA	1
+10972 | Brownsville, TX	USA	1
+11350 | Buffalo, NY	USA	1
+11431 | Bullhead City, AZ--NV	USA	1
+11755 | Burlington, VT	USA	1
+12052 | Butte-Silver Bow, MT	USA	1
+12754 | Camarillo, CA	USA	1
+13375 | Canton, OH	USA	1
+13510 | Cape Coral, FL	USA	1
+14158 | Carson City, NV	USA	1
+14401 | Casa Grande, AZ	USA	1
+14482 | Casper, WY	USA	1
+14698 | Cedar City, UT	USA	1
+14752 | Cedar Rapids, IA	USA	1
+15076 | Centralia, WA	USA	1
+15184 | Chambersburg, PA	USA	1
+15211 | Champaign, IL	USA	1
+15508 | Charleston--North Charleston, SC	USA	1
+15670 | Charlotte, NC--SC	USA	1
+15724 | Charlottesville, VA	USA	1
+15832 | Chattanooga, TN--GA	USA	1
+16237 | Cheyenne, WY	USA	1
+16264 | Chicago, IL--IN	USA	1
+16318 | Chico, CA	USA	1
+16885 | Cincinnati, OH--KY--IN	USA	1
+17533 | Cleburne, TX	USA	1
+17668 | Cleveland, OH	USA	1
+18289 | Coalinga, CA	USA	1
+18451 | Coeur d'Alene, ID	USA	1
+18748 | College Station--Bryan, TX	USA	1
+18856 | Colorado Springs, CO	USA	1
+18964 | Columbia, SC	USA	1
+19234 | Columbus, OH	USA	1
+19504 | Concord, CA	USA	1
+19531 | Concord, NH	USA	1
+19558 | Concord, NC	USA	1
+19755 | Conroe--The Woodlands, TX	USA	1
+20287 | Corpus Christi, TX	USA	1
+20422 | Corvallis, OR	USA	1
+21745 | Cumberland, MD--WV--PA	USA	1
+22042 | Dallas--Fort Worth--Arlington, TX	USA	1
+22096 | Danbury, CT--NY	USA	1
+22366 | Davenport, IA--IL	USA	1
+22420 | Davis, CA	USA	1
+22528 | Dayton, OH	USA	1
+22960 | DeKalb, IL	USA	1
+22987 | Delano, CA	USA	1
+23203 | Del Rio, TX	USA	1
+23500 | Denton--Lewisville, TX	USA	1
+23527 | Denver--Aurora, CO	USA	1
+23743 | Des Moines, IA	USA	1
+23824 | Detroit, MI	USA	1
+24580 | Dover, DE	USA	1
+24607 | Dover--Rochester, NH--ME	USA	1
+24850 | Duluth, MN--WI	USA	1
+25228 | Durham, NC	USA	1
+25849 | East Stroudsburg, PA--NJ	USA	1
+26038 | Eau Claire, WI	USA	1
+26416 | El Centro--Calexico, CA	USA	1
+26794 | Elkhart, IN--MI	USA	1
+27118 | Elmira, NY	USA	1
+27253 | El Paso, TX--NM	USA	1
+27261 | El Paso de Robles (Paso Robles)--Atascadero, CA	USA	1
+27766 | Erie, PA	USA	1
+28117 | Eugene, OR	USA	1
+28198 | Eureka, CA	USA	0.99999999999998
+28657 | Fairfield, CA	USA	1
+29089 | Fargo, ND--MN	USA	1
+29278 | Farmington, NM	USA	1
+29440 | Fayetteville, NC	USA	1
+29818 | Flagstaff, AZ	USA	1
+30628 | Fort Collins, CO	USA	1
+31087 | Fort Wayne, IN	USA	1
+31150 | Four Corners, FL	USA	1
+31450 | Franklin--Highland Lake, NJ	USA	1
+31519 | Frederick, MD	USA	1
+31600 | Fredericksburg, VA	USA	1
+31843 | Fresno, CA	USA	1
+32167 | Gainesville, FL	USA	1
+32194 | Gainesville, GA	USA	1
+32491 | Galveston, TX	USA	0.999999999999992
+33247 | Gillette, WY	USA	1
+33328 | Gilroy--Morgan Hill, CA	USA	1
+33598 | Glens Falls, NY	USA	1
+34273 | Grand Junction, CO	USA	1
+34300 | Grand Rapids, MI	USA	1
+34516 | Grants Pass, OR	USA	1
+34597 | Grass Valley, CA	USA	1
+34759 | Great Falls, MT	USA	1
+34786 | Greeley, CO	USA	1
+34813 | Green Bay, WI	USA	0.999999999999997
+35164 | Greensboro, NC	USA	1
+35380 | Greenville, NC	USA	1
+35461 | Greenville, SC	USA	1
+36055 | Gustine, CA	USA	1
+36190 | Hagerstown, MD--WV--PA	USA	1
+36703 | Hanford, CA	USA	1
+36784 | Hanover, PA	USA	1
+37081 | Harrisburg, PA	USA	1
+37162 | Harrisonburg, VA	USA	1
+37243 | Hartford, CT	USA	1
+37945 | Hazleton, PA	USA	1
+38161 | Helena, MT	USA	1
+38215 | Hemet, CA	USA	1
+38647 | Hickory, NC	USA	1
+39079 | Hilton Head Island, SC	USA	1
+39214 | Hobbs, NM	USA	1
+39511 | Hollister, CA	USA	1
+40429 | Houston, TX	USA	1
+40780 | Huntsville, AL	USA	1
+40996 | Idaho Falls, ID	USA	1
+41212 | Indianapolis, IN	USA	1
+41347 | Indio--Cathedral City, CA	USA	1
+41590 | Iowa City, IA	USA	1
+41914 | Ithaca, NY	USA	1
+42346 | Jacksonville, FL	USA	1
+43291 | Johnstown, PA	USA	1
+43723 | Kalamazoo, MI	USA	1
+43777 | Kalispell, MT	USA	1
+43885 | Kankakee, IL	USA	1
+43912 | Kansas City, MO--KS	USA	1
+44479 | Kennewick--Pasco, WA	USA	1
+44506 | Kenosha, WI--IL	USA	1
+44992 | Killeen, TX	USA	1
+45127 | Kingman, AZ	USA	1
+45262 | Kingston, NY	USA	1
+45451 | Kissimmee, FL	USA	1
+45505 | Klamath Falls--Altamont, OR	USA	1
+45640 | Knoxville, TN	USA	1
+45910 | La Crosse, WI--MN	USA	1
+45937 | Lady Lake--The Villages, FL	USA	1
+46018 | Lafayette, IN	USA	1
+46126 | Lafayette--Louisville--Erie, CO	USA	1
+46747 | Lake Havasu City, AZ	USA	1
+47530 | Lancaster, PA	USA	1
+47611 | Lancaster--Palmdale, CA	USA	1
+47719 | Lansing, MI	USA	1
+47827 | Laramie, WY	USA	1
+47854 | Laredo, TX	USA	0.999999999999999
+47935 | Las Cruces, NM	USA	1
+47995 | Las Vegas--Henderson, NV	USA	1
+48664 | Lebanon, PA	USA	1
+48826 | Lee's Summit, MO	USA	1
+49096 | Leominster--Fitchburg, MA	USA	1
+49312 | Lewiston, ID--WA	USA	1
+49582 | Lexington-Fayette, KY	USA	1
+49594 | Lexington Park--California--Chesapeake Ranch Estates, MD	USA	1
+49933 | Lincoln, NE	USA	1
+50392 | Little Rock, AR	USA	1
+50527 | Livermore, CA	USA	1
+50851 | Lodi, CA	USA	1
+50959 | Logan, UT	USA	1
+51040 | Lompoc, CA	USA	1
+51175 | Longmont, CO	USA	1
+51283 | Longview, WA--OR	USA	1
+51445 | Los Angeles--Long Beach--Anaheim, CA	USA	1
+51472 | Los Banos, CA	USA	1
+51499 | Los Lunas, NM	USA	1
+51755 | Louisville/Jefferson County, KY--IN	USA	1
+51877 | Lubbock, TX	USA	1
+52201 | Lynchburg, VA	USA	1
+52390 | McAllen, TX	USA	1
+52687 | McKinney, TX	USA	1
+52741 | McMinnville, OR	USA	1
+52984 | Madera, CA	USA	1
+53200 | Madison, WI	USA	1
+53740 | Manchester, NH	USA	1
+53794 | Mandeville--Covington, LA	USA	1
+54145 | Manteca, CA	USA	1
+54477 | Maricopa, AZ	USA	1
+55333 | Marysville, WA	USA	1
+55603 | Mauldin--Simpsonville, SC	USA	1
+55981 | Medford, OR	USA	1
+56116 | Memphis, TN--MS--AR	USA	1
+56251 | Merced, CA	USA	1
+56602 | Miami, FL	USA	1
+56656 | Michigan City--La Porte, IN--MI	USA	1
+56899 | Middletown, NY	USA	1
+57007 | Midland, TX	USA	1
+57439 | Milton--Lewisburg, PA	USA	1
+57466 | Milwaukee, WI	USA	1
+57628 | Minneapolis--St. Paul, MN--WI	USA	1
+57709 | Mission Viejo--Lake Forest--San Clemente, CA	USA	1
+57736 | Missoula, MT	USA	1
+58006 | Modesto, CA	USA	1
+59518 | Moses Lake, WA	USA	1
+60490 | Mount Vernon, WA	USA	1
+60799 | Murrieta--Temecula--Menifee, CA	USA	1
+60841 | Muskegon, MI	USA	1
+60895 | Myrtle Beach--Socastee, SC--NC	USA	1
+60976 | Nampa, ID	USA	1
+61057 | Napa, CA	USA	1
+61165 | Nashua, NH--MA	USA	1
+61273 | Nashville-Davidson, TN	USA	1
+61786 | New Bedford, MA	USA	1
+62407 | New Haven, CT	USA	1
+62677 | New Orleans, LA	USA	1
+63217 | New York--Newark, NY--NJ--CT	USA	1
+63325 | Nogales, AZ	USA	1
+63433 | Norman, OK	USA	1
+63838 | North Port--Port Charlotte, FL	USA	1
+64135 | Norwich--New London, CT--RI	USA	1
+64378 | Oak Harbor, WA	USA	0.999999999999968
+64660 | Ocean Pines, MD--DE	USA	1
+64864 | Odessa, TX	USA	1
+64945 | Ogden--Layton, UT	USA	1
+65080 | Oklahoma City, OK	USA	1
+65242 | Olympia--Lacey, WA	USA	1
+65269 | Omaha, NE--IA	USA	1
+65863 | Orlando, FL	USA	1
+65944 | Oroville, CA	USA	1
+66241 | Oswego, NY	USA	1
+66673 | Oxnard, CA	USA	1
+67105 | Palm Bay--Melbourne, FL	USA	1
+67375 | Paradise, CA	USA	1
+68509 | Peoria, IL	USA	1
+68833 | Peru--LaSalle, IL	USA	1
+68887 | Petaluma, CA	USA	1
+69076 | Philadelphia, PA--NJ--DE--MD	USA	1
+69184 | Phoenix--Mesa, AZ	USA	1
+69517 | Pinehurst--Southern Pines, NC	USA	1
+69697 | Pittsburgh, PA	USA	1
+69778 | Pittsfield, MA	USA	1
+70426 | Pocatello, ID	USA	1
+70993 | Port Arthur, TX	USA	1
+71074 | Porterville, CA	USA	1
+71263 | Portland, ME	USA	1
+71317 | Portland, OR--WA	USA	1
+71479 | Port St. Lucie, FL	USA	1
+71506 | Portsmouth, NH--ME	USA	1
+71749 | Pottstown, PA	USA	1
+71776 | Pottsville, PA	USA	1
+71803 | Poughkeepsie--Newburgh, NY--NJ	USA	1
+72112 | Prescott Valley--Prescott, AZ	USA	1
+72505 | Providence, RI--MA	USA	1
+72559 | Provo--Orem, UT	USA	1
+72613 | Pueblo, CO	USA	1
+73153 | Racine, WI	USA	1
+73261 | Raleigh, NC	USA	1
+73396 | Rapid City, SD	USA	1
+73693 | Reading, PA	USA	1
+73774 | Redding, CA	USA	1
+74044 | Reedley--Dinuba, CA	USA	1
+74179 | Reno, NV--CA	USA	1
+74746 | Richmond, VA	USA	1
+74827 | Ridgecrest, CA	USA	1
+75340 | Riverside--San Bernardino, CA	USA	1
+75421 | Roanoke, VA	USA	1
+75637 | Rochester, MN	USA	1
+75664 | Rochester, NY	USA	1
+75718 | Rockford, IL	USA	1
+76231 | Rome, NY	USA	1
+76339 | Roseburg, OR	USA	1
+76447 | Roswell, NM	USA	1
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	USA	1
+77068 | Sacramento, CA	USA	1
+77161 | Sahuarita--Green Valley, AZ	USA	1
+77338 | St. Cloud, MN	USA	1
+77446 | St. George, UT	USA	1
+77770 | St. Louis, MO--IL	USA	1
+78229 | Salem, OR	USA	1
+78310 | Salinas, CA	USA	1
+78364 | Salisbury, MD--DE	USA	1
+78499 | Salt Lake City--West Valley City, UT	USA	1
+78553 | San Angelo, TX	USA	1
+78580 | San Antonio, TX	USA	1
+78661 | San Diego, CA	USA	1
+78904 | San Francisco--Oakland, CA	USA	0.999999999999981
+79039 | San Jose, CA	USA	1
+79147 | San Luis Obispo, CA	USA	1
+79282 | Santa Barbara, CA	USA	0.999999999999985
+79309 | Santa Clarita, CA	USA	1
+79336 | Santa Cruz, CA	USA	1
+79363 | Santa Fe, NM	USA	1
+79417 | Santa Maria, CA	USA	1
+79498 | Santa Rosa, CA	USA	1
+79606 | Sarasota--Bradenton, FL	USA	1
+79633 | Saratoga Springs, NY	USA	1
+80227 | Scranton, PA	USA	1
+80362 | Seaside--Monterey, CA	USA	0.999999999999984
+80389 | Seattle, WA	USA	1
+80400 | Sebastian--Vero Beach South--Florida Ridge, FL	USA	1
+80551 | Selma, CA	USA	1
+80985 | Shamokin--Mount Carmel, PA	USA	1
+81739 | Shreveport, LA	USA	1
+81901 | Sierra Vista, AZ	USA	1
+82144 | Simi Valley, CA	USA	1
+82225 | Sioux City, IA--NE--SD	USA	1
+82252 | Sioux Falls, SD	USA	1
+83008 | Sonoma, CA	USA	1
+83116 | South Bend, IN--MI	USA	1
+83764 | Spokane, WA	USA	1
+83899 | Springfield, IL	USA	1
+83926 | Springfield, MA--CT	USA	1
+83953 | Springfield, MO	USA	1
+84493 | State College, PA	USA	1
+84630 | Staunton--Waynesboro, VA	USA	1
+85087 | Stockton, CA	USA	1
+86302 | Syracuse, NY	USA	1
+86599 | Tampa--St. Petersburg, FL	USA	1
+87058 | Temple, TX	USA	1
+87220 | Texas City, TX	USA	1
+87490 | Thousand Oaks, CA	USA	1
+87868 | Toledo, OH--MI	USA	1
+88057 | Tooele, UT	USA	1
+88192 | Torrington, CT	USA	1
+88273 | Tracy, CA	USA	1
+88462 | Trenton, NJ	USA	1
+88624 | Truckee, CA	USA	1
+88732 | Tucson, AZ	USA	1
+88948 | Tulsa, OK	USA	1
+89083 | Turlock, CA	USA	1
+89245 | Twin Falls, ID	USA	1
+89263 | Twin Rivers--Hightstown, NJ	USA	1
+89326 | Tyler, TX	USA	1
+89785 | Utica, NY	USA	1
+89866 | Vacaville, CA	USA	1
+90028 | Vallejo, CA	USA	1
+90541 | Victorville--Hesperia, CA	USA	1
+90658 | Villas, NJ	USA	1
+90730 | Vineland, NJ	USA	1
+90892 | Virginia Beach, VA	USA	0.99999999999999
+90946 | Visalia, CA	USA	1
+91027 | Waco, TX	USA	1
+91261 | Waldorf, MD	USA	1
+91405 | Walla Walla, WA--OR	USA	1
+92242 | Washington, DC--VA--MD	USA	1
+92485 | Waterbury, CT	USA	1
+92593 | Waterloo, IA	USA	1
+92674 | Watertown, NY	USA	1
+92890 | Watsonville, CA	USA	1
+93484 | Weatherford, TX	USA	1
+93862 | Wenatchee, WA	USA	1
+94294 | Westminster--Eldersburg, MD	USA	1
+95077 | Wichita, KS	USA	1
+95104 | Wichita Falls, TX	USA	1
+95455 | Williamsport, PA	USA	1
+95833 | Wilmington, NC	USA	1
+96103 | Winchester, VA	USA	1
+96670 | Winston-Salem, NC	USA	1
+96913 | Woodburn, OR	USA	1
+96994 | Woodland, CA	USA	1
+97291 | Worcester, MA--CT	USA	1
+97507 | Yakima, WA	USA	1
+97750 | York, PA	USA	1
+97939 | Yuba City, CA	USA	1
+98020 | Yuma, AZ--CA	USA	1
+@ Anacortes, WA	USA	1
+@ Anniston, AL	USA	1
+@ Ardmore, OK	USA	1
+@ Artesia, NM	USA	1
+@ Ashtabula, OH	USA	1
+@ Augusta, GA	USA	1
+@ Bakersfield, CA	USA	1
+@ Baton Rouge, LA	USA	1
+@ Batton Rouge, LA	USA	1
+@ Bay City, TX	USA	1
+@ Bayport, TX	USA	1
+@ Baytown, TX	USA	1
+@ Beaumont, TX	USA	1
+@ Belle Chasse, LA	USA	1
+@ Belle, WV	USA	1
+@ Belvidere, NJ	USA	1
+@ Benicia, CA	USA	1
+@ Billings, MT	USA	1
+@ Blaine, WA	USA	0.999999999999999
+@ Borger, TX	USA	1
+@ Bradley, IL	USA	1
+@ Brorger, TX	USA	1
+@ Burkville, AL	USA	1
+@ Butler, IN	USA	1
+@ Butte, MT	USA	1
+@ Calvert City, KY	USA	1
+@ Carson, CA	USA	1
+@ Catlettsburg, KY	USA	1
+@ Cedar City, UT	USA	1
+@ Channelview, TX	USA	1
+@ Charleston, TN	USA	1
+@ Charlotte, NC	USA	1
+@ Chattanooga, TN	USA	1
+@ Cherry Point, WA	USA	1
+@ Cheyenne, WY	USA	1
+@ Cincinnati, OH	USA	1
+@ Coffeyville, KS	USA	1
+@ Columbus, MS	USA	1
+@ Commerce City, CO	USA	1
+@ Convent, LA	USA	1
+@ Conway, KS	USA	1
+@ Corpus Christi, TX	USA	1
+@ Corunna, ON, CA	Canada	1
+@ Cotton Valley, LA	USA	1
+@ Crawfordsville, IN	USA	1
+@ Dallas, TX	USA	1
+@ Decatur, AL	USA	1
+@ Decatur, IL	USA	1
+@ Decatur, IN	USA	1
+@ Deepwater, NJ	USA	1
+@ Deer Park, TX	USA	1
+@ Delaware City, DE	USA	0.999999999999998
+@ Des Moines, IA	USA	1
+@ Detroit, MI	USA	1
+@ East Chicago, IN	USA	1
+@ Eastover, SC	USA	1
+@ Ecorse, MI	USA	1
+@ El Dorado, AR	USA	1
+@ El Dorado, KS	USA	1
+@ El Segundo, CA	USA	1
+@ Euclid, OH	USA	1
+@ Fairless Hills, PA	USA	1
+@ Fort Worth, TX	USA	1
+@ Freeport, TX	USA	1
+@ Gainesville, GA	USA	1
+@ Gallatin, TN	USA	1
+@ Geismar, LA	USA	1
+@ Great Falls, MT	USA	1
+@ Hamilton, MS	USA	1
+@ Hannibal, MO	USA	1
+@ Hartford, IL	USA	1
+@ Henderson, NV	USA	1
+@ Huntsville, AL	USA	1
+@ Ingleside, TX	USA	0.999999999999992
+@ Institute, WV	USA	1
+@ Jacksonville, IL	USA	1
+@ Joliet, IL	USA	1
+@ Kalama, WA	USA	1
+@ Karns City, PA	USA	1
+@ Kingsport, TN	USA	1
+@ LaBarge, WY	USA	1
+@ Lake Charles, LA	USA	1
+@ La Porte, TX	USA	1
+@ Laurel, MT	USA	1
+@ Lemont, IL	USA	1
+@ Lima, OH	USA	1
+@ Lincoln, NE	USA	1
+@ Linden, NJ	USA	1
+@ Longview, TX	USA	1
+@ Longview, WA	USA	1
+@ Louisville, KY	USA	1
+@ Luling, LA	USA	1
+@ Maitland, ON, CA	Canada	1
+@ Mankato, MN	USA	1
+@ Mapleton, IL	USA	1
+@ Marcus Hook, PA	USA	1
+@ Martinez, CA	USA	1
+@ McIntosh, AL	USA	1
+@ McPherson, KS	USA	1
+@ Memphis, TN	USA	1
+@ Middleton, OH	USA	1
+@ Midland, MI	USA	1
+@ Mobile, AL	USA	1
+@ Mont Belvieu, TX	USA	1
+@ Mont Belview, TX	USA	1
+@ Moses Lake, WA	USA	1
+@ Mount Vernon, IN	USA	1
+@ Nanticoke, ON, CA	Canada	1
+@ New Castle, DE	USA	1
+@ Newell, WV	USA	1
+@ New Orleans, LA	USA	1
+@ Niagara Falls, NY	USA	0.999999999999966
+@ Norco, LA	USA	1
+@ Norcross, GA	USA	1
+@ Ontario, CA	USA	1
+@ Pasadena, TX	USA	1
+@ Pascagoula, MS	USA	1
+@ Paulsboro, NJ	USA	1
+@ Pensacola, FL	USA	1
+@ Petrolia, PA	USA	1
+@ Plaquemine, LA	USA	1
+@ Point Comfort, TX	USA	1
+@ Ponca City, OK	USA	1
+@ Port Arthur, TX	USA	1
+@ Port Edwards, WI	USA	1
+@ Princeton, LA	USA	1
+@ Proctor, WV	USA	1
+@ Raleigh, NC	USA	1
+@ Richmond, CA	USA	1
+@ Rockport, IN	USA	1
+@ Rodeo, CA	USA	1
+@ Rouseville, PA	USA	1
+@ Sacramento, CA	USA	1
+@ Salina, KS	USA	1
+@ Salt Lake City, UT	USA	1
+@ Saraland, AL	USA	1
+@ Sarnia, ON, CA	Canada	1
+@ Sauget, IL	USA	1
+@ Seymour, IN	USA	1
+@ Shreveport, LA	USA	1
+@ Sidney, OH	USA	1
+@ Silsbee, TX	USA	1
+@ Sioux City, IA	USA	1
+@ Smackover, AR	USA	1
+@ St. Charles, LA	USA	1
+@ St. Gabriel, LA	USA	1
+@ St. Joseph, MO	USA	1
+@ St. Marys, PA	USA	1
+@ St. Paul, MN	USA	1
+@ St. Paul Park, MN	USA	1
+@ Stuttgart, AR	USA	1
+@ Sweeney, TX	USA	1
+@ Taft, LA	USA	1
+@ Texas City, TX	USA	1
+@ Theodore, AL	USA	1
+@ Three Rivers, TX	USA	1
+@ Toledo, OH	USA	1
+@ Torrance, CA	USA	1
+@ Tuscaloosa, AL	USA	1
+@ Valdosta, GA	USA	1
+@ Vicksburg, MS	USA	1
+@ Victoria, TX	USA	1
+@ Weirton, WV	USA	1
+@ Westlake, LA	USA	1
+@ West Leechburg, PA	USA	1
+@ Whiting, IN	USA	1
+@ Wichita, KS	USA	1
+@ Wilmington, CA	USA	1
+@ Windsor, ON, CA	Canada	1
+@ Wood River, IL	USA	1
+@ Wright, WY	USA	1
+@ Wynneywood, OK	USA	1
+@ Asbestos, QC, CA	Canada	1
+@ Becancour, QC, CA	Canada	1
+@ Burnaby, BC, CA	Canada	1
+@ Come By Chance, NL, CA	Canada	1
+@ Dartmouth, NS, CA	Canada	1
+@ Edmonton, AB, CA	Canada	1
+@ Fort McMurray, AB, CA	Canada	1
+@ Fort Saskatchewan, AB, CA	Canada	1
+@ Gibbons, AB, CA	Canada	1
+@ Hamilton, ON, CA	Canada	1
+@ Levis (Montreal), QC, CA	Canada	1
+@ Lloydminster, SK, CA	Canada	1
+@ Magog, QC, CA	Canada	1
+@ Mississauga, ON, CA	Canada	1
+@ Montreal, QC, CA	Canada	1
+@ Pointe-aux-Trembles, QC, CA	Canada	1
+@ Prince George, BC, CA	Canada	1
+@ Regina, SK, CA	Canada	1
+@ Saint John, NB, CA	Canada	1
+@ Scotford, AB, CA	Canada	1

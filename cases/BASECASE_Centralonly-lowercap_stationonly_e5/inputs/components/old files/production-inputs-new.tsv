@@ -1,0 +1,21 @@
+Material	Technology	Year	Nameplate Capacity [kg/yr]	Consumption [unit/kg]	Consumption [unit/km/kg]
+Electricity (Industrial) [kWh]	Central Grid Electrolysis (PEM)	2015	20622500	55.5	0
+Water Total [gal]	Central Grid Electrolysis (PEM)	2015	20622500	3.78	0
+Electricity (Industrial) [kWh]	Central Grid Electrolysis (PEM)	2040	21589750	51.3	0
+Water Total [gal]	Central Grid Electrolysis (PEM)	2040	21589750	3.78	0
+Natural Gas (Industrial) [MMBtu]	Central Natural Gas Reforming w/CCS	2015	138476255	0.1558	0
+Electricity (Industrial) [kWh]	Central Natural Gas Reforming w/CCS	2015	138476255	0.653097055	0
+Water Total [gal]	Central Natural Gas Reforming w/CCS	2015	138476255	4.85	0
+Natural Gas (Industrial) [MMBtu]	Central Natural Gas Reforming w/CCS	2040	138476255	0.1558	0
+Electricity (Industrial) [kWh]	Central Natural Gas Reforming w/CCS	2040	138476255	0.6	0
+Water Total [gal]	Central Natural Gas Reforming w/CCS	2040	138476255	4.85	0
+Electricity (Industrial) [kWh]	Onsite Electrolysis (PEM)	2015	618675	57	0
+Water Total [gal]	Onsite Electrolysis (PEM)	2015	618675	3.78	0
+Electricity (Industrial) [kWh]	Onsite Electrolysis (PEM)	2040	647692.5	52	0
+Water Total [gal]	Onsite Electrolysis (PEM)	2040	647692.5	3.78	0
+Water Total [gal]	Onsite Natural Gas Reforming	2015	547500	5.77	0
+Electricity (Commercial) [kWh]	Onsite Natural Gas Reforming	2015	547500	6.098819721	0
+Natural Gas (Industrial) [MMBtu]	Onsite Natural Gas Reforming	2015	547500	0.155797012	0
+Water Total [gal]	Onsite Natural Gas Reforming	2040	547500	4.38	0
+Electricity (Commercial) [kWh]	Onsite Natural Gas Reforming	2040	547500	7.256819721	0
+Natural Gas (Industrial) [MMBtu]	Onsite Natural Gas Reforming	2040	547500	0.145799343	0

@@ -1,0 +1,4005 @@
+Network ID	Territory	Fraction
+Link 1	South Atlantic	0.275184241662727
+Link 1	West South Central	0.724815758337273
+Link 10	South Atlantic	1.0
+Link 100	West South Central	1.0
+Link 1000	South Atlantic	1.0
+Link 1001	South Atlantic	1.0
+Link 1002	South Atlantic	1.0
+Link 1003	South Atlantic	1.0
+Link 1004	South Atlantic	1.0
+Link 1005	South Atlantic	1.0
+Link 1006	South Atlantic	1.0
+Link 1007	South Atlantic	1.0
+Link 1008	South Atlantic	1.0
+Link 1009	Pacific	1.0
+Link 101	West South Central	1.0
+Link 1010	Pacific	1.0
+Link 1011	Pacific	1.0
+Link 1012	West South Central	0.447288598477325
+Link 1012	Mountain	0.552711401522683
+Link 1013	West South Central	1.0
+Link 1014	West South Central	0.442760994763152
+Link 1014	Mountain	0.557239005236817
+Link 1015	Mountain	1.0
+Link 1016	Mountain	1.0
+Link 1017	Mountain	1.0
+Link 1018	Pacific	1.0
+Link 1019	Pacific	1.0
+Link 102	West South Central	1.0
+Link 1020	Pacific	1.0
+Link 1021	West South Central	1.0
+Link 1022	West South Central	1.0
+Link 1023	West South Central	1.0
+Link 1024	Pacific	1.0
+Link 1025	Pacific	1.0
+Link 1026	Pacific	1.0
+Link 1027	South Atlantic	1.0
+Link 1028	South Atlantic	1.0
+Link 1029	South Atlantic	1.0
+Link 103	West South Central	0.76391899154094
+Link 103	South Atlantic	0.23608100845906
+Link 1030	Pacific	1.0
+Link 1031	Pacific	1.0
+Link 1032	Pacific	1.0
+Link 1033	South Atlantic	1.0
+Link 1034	South Atlantic	1.0
+Link 1035	South Atlantic	1.0
+Link 1036	Pacific	1.0
+Link 1037	Pacific	1.0
+Link 1038	Pacific	1.0
+Link 1039	South Atlantic	0.4761706116764
+Link 1039	East South Central	0.523829388323601
+Link 104	South Atlantic	0.275184241662727
+Link 104	West South Central	0.724815758337274
+Link 1040	South Atlantic	1.0
+Link 1041	East South Central	0.29375083275003
+Link 1041	South Atlantic	0.706249167249959
+Link 1042	South Atlantic	1.0
+Link 1043	South Atlantic	1.0
+Link 1044	South Atlantic	1.0
+Link 1045	West South Central	1.0
+Link 1046	West South Central	1.0
+Link 1047	West South Central	1.0
+Link 1048	East South Central	1.0
+Link 1049	East South Central	1.0
+Link 105	West South Central	1.0
+Link 1050	East South Central	1.0
+Link 1051	West South Central	1.0
+Link 1052	West South Central	1.0
+Link 1053	West South Central	1.0
+Link 1054	Pacific	1.0
+Link 1055	Pacific	1.0
+Link 1056	Pacific	1.0
+Link 1057	West South Central	1.0
+Link 1058	West South Central	1.0
+Link 1059	West South Central	1.0
+Link 106	West South Central	1.0
+Link 1060	Mountain	1.0
+Link 1061	Mountain	1.0
+Link 1062	Mountain	1.0
+Link 1063	East South Central	1.0
+Link 1064	East South Central	1.0
+Link 1065	East South Central	1.0
+Link 1066	West South Central	1.0
+Link 1067	West South Central	1.0
+Link 1068	West South Central	1.0
+Link 1069	Pacific	1.0
+Link 107	West South Central	1.0
+Link 1070	Pacific	1.0
+Link 1071	Pacific	1.0
+Link 1072	South Atlantic	1.0
+Link 1073	South Atlantic	1.0
+Link 1074	South Atlantic	1.0
+Link 1075	West South Central	1.0
+Link 1076	West South Central	1.0
+Link 1077	West South Central	1.0
+Link 1078	Pacific	1.0
+Link 1079	Pacific	1.0
+Link 108	West South Central	1.0
+Link 1080	Pacific	1.0
+Link 1081	South Atlantic	1.0
+Link 1082	South Atlantic	1.0
+Link 1083	South Atlantic	1.0
+Link 1084	Mountain	1.0
+Link 1085	Mountain	1.0
+Link 1086	Mountain	1.0
+Link 1087	Pacific	1.0
+Link 1088	Pacific	1.0
+Link 1089	Pacific	1.0
+Link 109	West South Central	0.999999999999997
+Link 1090	East South Central	0.986589855394629
+Link 1090	South Atlantic	0.0134101446053682
+Link 1091	East South Central	0.867984763834528
+Link 1091	South Atlantic	0.132015236165462
+Link 1092	East South Central	1.0
+Link 1093	Pacific	0.779887085005603
+Link 1093	Mountain	0.22011291499441
+Link 1094	Mountain	1.0
+Link 1095	Pacific	0.941297596659262
+Link 1095	Mountain	0.0587024033407703
+Link 1096	Pacific	1.0
+Link 1097	Pacific	1.0
+Link 1098	Pacific	1.0
+Link 1099	Pacific	1.0
+Link 11	South Atlantic	1.0
+Link 110	West South Central	1.0
+Link 1100	Pacific	1.0
+Link 1101	Pacific	1.0
+Link 1102	Pacific	0.781823918349906
+Link 1102	Mountain	0.218176081650115
+Link 1103	Mountain	0.22011291499441
+Link 1103	Pacific	0.779887085005603
+Link 1104	Pacific	1.0
+Link 1105	South Atlantic	0.0131912469081916
+Link 1105	East South Central	0.986808753091817
+Link 1106	South Atlantic	0.0134101446053682
+Link 1106	East South Central	0.986589855394627
+Link 1107	East South Central	1.0
+Link 1108	West South Central	1.0
+Link 1109	West South Central	1.0
+Link 111	West South Central	1.0
+Link 1110	West South Central	1.0
+Link 1111	Pacific	1.0
+Link 1112	Pacific	1.0
+Link 1113	Pacific	1.0
+Link 1114	Pacific	1.0
+Link 1115	Pacific	1.0
+Link 1116	Pacific	1.0
+Link 1117	Pacific	1.0
+Link 1118	Pacific	0.999999999999999
+Link 1119	Pacific	1.0
+Link 112	West South Central	0.999999999999984
+Link 1120	South Atlantic	1.0
+Link 1121	South Atlantic	1.0
+Link 1122	South Atlantic	1.0
+Link 1123	East South Central	1.0
+Link 1124	East South Central	1.0
+Link 1125	East South Central	1.0
+Link 1126	West South Central	1.0
+Link 1127	West South Central	1.0
+Link 1128	West South Central	1.0
+Link 1129	South Atlantic	0.521614176026637
+Link 1129	East South Central	0.478385823973358
+Link 113	West South Central	1.0
+Link 1130	South Atlantic	1.0
+Link 1131	South Atlantic	0.460673826924435
+Link 1131	East South Central	0.53932617307557
+Link 1132	West South Central	1.0
+Link 1133	West South Central	1.0
+Link 1134	West South Central	1.0
+Link 1135	East South Central	1.0
+Link 1136	East South Central	0.861944240064586
+Link 1136	South Atlantic	0.13805575993542
+Link 1137	East South Central	0.986808753091818
+Link 1137	South Atlantic	0.0131912469081916
+Link 1138	West South Central	1.0
+Link 1139	West South Central	1.0
+Link 114	West South Central	0.999999999999997
+Link 1140	West South Central	1.0
+Link 1141	Pacific	1.0
+Link 1142	Pacific	1.0
+Link 1143	Pacific	1.0
+Link 1144	Mountain	1.0
+Link 1145	Mountain	1.0
+Link 1146	Mountain	1.0
+Link 1147	West South Central	1.0
+Link 1148	West South Central	1.0
+Link 1149	West South Central	1.0
+Link 115	West South Central	1.0
+Link 1150	Mountain	1.0
+Link 1151	Mountain	1.0
+Link 1152	Mountain	1.0
+Link 1153	Mountain	0.289403105988952
+Link 1153	Pacific	0.710596894011068
+Link 1154	Mountain	0.218176081650115
+Link 1154	Pacific	0.781823918349908
+Link 1155	Pacific	1.0
+Link 1156	Pacific	1.0
+Link 1157	Pacific	1.0
+Link 1158	Pacific	1.0
+Link 1159	East South Central	1.0
+Link 116	West South Central	1.0
+Link 1160	South Atlantic	0.460673826924435
+Link 1160	East South Central	0.53932617307557
+Link 1161	East South Central	0.523829388323601
+Link 1161	South Atlantic	0.4761706116764
+Link 1162	West South Central	1.0
+Link 1163	West South Central	1.0
+Link 1164	West South Central	1.0
+Link 1165	Pacific	1.0
+Link 1166	Pacific	1.0
+Link 1167	Pacific	1.0
+Link 1168	Pacific	1.0
+Link 1169	Pacific	1.0
+Link 117	West South Central	1.00000000000001
+Link 1170	Pacific	1.0
+Link 1171	Pacific	0.999999999999999
+Link 1172	Pacific	1.0
+Link 1173	Pacific	1.0
+Link 1174	East South Central	1.0
+Link 1175	East South Central	1.0
+Link 1176	East South Central	1.0
+Link 1177	Pacific	1.0
+Link 1178	Pacific	1.0
+Link 1179	Pacific	1.0
+Link 118	West South Central	1.0
+Link 1180	Pacific	1.0
+Link 1181	Pacific	1.0
+Link 1182	Pacific	1.0
+Link 1183	Pacific	1.0
+Link 1184	Pacific	1.0
+Link 1185	Pacific	1.0
+Link 1186	Mountain	1.0
+Link 1187	Mountain	1.0
+Link 1188	Mountain	1.0
+Link 1189	Pacific	1.0
+Link 119	West South Central	1.0
+Link 1190	Pacific	1.0
+Link 1191	Pacific	1.0
+Link 1192	Pacific	1.0
+Link 1193	Pacific	1.0
+Link 1194	Pacific	1.0
+Link 1195	Pacific	1.0
+Link 1196	Pacific	1.0
+Link 1197	Pacific	1.0
+Link 1198	Pacific	1.0
+Link 1199	Pacific	1.0
+Link 12	South Atlantic	1.0
+Link 120	West South Central	1.0
+Link 1200	Pacific	1.0
+Link 1201	Pacific	1.0
+Link 1202	Pacific	1.0
+Link 1203	Pacific	1.0
+Link 1204	Pacific	1.0
+Link 1205	Pacific	0.999999999999999
+Link 1206	Pacific	1.0
+Link 1207	Pacific	1.0
+Link 1208	Pacific	1.0
+Link 1209	Pacific	1.0
+Link 121	West South Central	1.0
+Link 1210	Mountain	1.0
+Link 1211	Mountain	1.0
+Link 1212	Mountain	1.0
+Link 1213	Mountain	1.0
+Link 1214	Mountain	1.0
+Link 1215	Mountain	1.0
+Link 1216	Pacific	1.0
+Link 1217	Pacific	1.0
+Link 1218	Pacific	1.0
+Link 1219	South Atlantic	1.0
+Link 122	West South Central	1.0
+Link 1220	South Atlantic	1.0
+Link 1221	South Atlantic	1.0
+Link 1222	Mountain	1.0
+Link 1223	Mountain	1.0
+Link 1224	Mountain	1.0
+Link 1225	Pacific	1.0
+Link 1226	Pacific	1.0
+Link 1227	Pacific	1.0
+Link 1228	West South Central	0.491808220997504
+Link 1228	West North Central	0.508191779002489
+Link 1229	West North Central	0.279873770278434
+Link 1229	West South Central	0.720126229721599
+Link 123	West South Central	1.0
+Link 1230	West South Central	1.0
+Link 1231	Pacific	1.0
+Link 1232	Pacific	1.0
+Link 1233	Pacific	1.0
+Link 1234	Pacific	1.0
+Link 1235	Pacific	1.0
+Link 1236	Pacific	1.0
+Link 1237	South Atlantic	1.0
+Link 1238	South Atlantic	1.0
+Link 1239	South Atlantic	1.0
+Link 124	West South Central	0.999999999999999
+Link 1240	Pacific	1.0
+Link 1241	Pacific	1.0
+Link 1242	Pacific	1.0
+Link 1243	South Atlantic	1.0
+Link 1244	South Atlantic	1.0
+Link 1245	South Atlantic	1.0
+Link 1246	Pacific	1.0
+Link 1247	Pacific	1.0
+Link 1248	Pacific	1.0
+Link 1249	West South Central	0.290926239053931
+Link 1249	Mountain	0.70907376094606
+Link 125	West South Central	1.0
+Link 1250	West South Central	0.447288598477325
+Link 1250	Mountain	0.552711401522681
+Link 1251	Mountain	1.0
+Link 1252	Pacific	1.0
+Link 1253	Pacific	1.0
+Link 1254	Pacific	1.0
+Link 1255	Pacific	1.0
+Link 1256	Pacific	1.0
+Link 1257	Pacific	1.0
+Link 1258	Mountain	1.0
+Link 1259	Mountain	1.0
+Link 126	West South Central	1.0
+Link 1260	Mountain	1.0
+Link 1261	West North Central	0.153961194104917
+Link 1261	West South Central	0.846038805895084
+Link 1262	West North Central	0.08116662747685
+Link 1262	West South Central	0.918833372523142
+Link 1263	West South Central	1.0
+Link 1264	South Atlantic	1.0
+Link 1265	South Atlantic	1.0
+Link 1266	South Atlantic	1.0
+Link 1267	West South Central	1.0
+Link 1268	West South Central	1.0
+Link 1269	West South Central	1.0
+Link 127	West South Central	1.0
+Link 1270	South Atlantic	1.0
+Link 1271	South Atlantic	1.0
+Link 1272	South Atlantic	1.0
+Link 1273	West North Central	0.998589741263993
+Link 1273	West South Central	0.00141025873599883
+Link 1274	West South Central	0.491808220997504
+Link 1274	West North Central	0.508191779002489
+Link 1275	West South Central	0.918833372523142
+Link 1275	West North Central	0.08116662747685
+Link 1276	Pacific	1.0
+Link 1277	Pacific	1.0
+Link 1278	Pacific	1.0
+Link 1279	Pacific	1.0
+Link 128	West South Central	1.0
+Link 1280	Pacific	1.0
+Link 1281	Pacific	1.0
+Link 1282	Pacific	1.0
+Link 1283	Pacific	1.0
+Link 1284	Pacific	1.0
+Link 1285	West North Central	0.688803367669128
+Link 1285	West South Central	0.311196632330863
+Link 1286	West North Central	0.67892842531278
+Link 1286	West South Central	0.321071574687168
+Link 1287	West North Central	1.0
+Link 1288	Pacific	1.0
+Link 1289	Pacific	1.0
+Link 129	West South Central	1.0
+Link 1290	Pacific	1.0
+Link 1291	Pacific	1.0
+Link 1292	Pacific	1.0
+Link 1293	Pacific	1.0
+Link 1294	Pacific	1.0
+Link 1295	Pacific	1.0
+Link 1296	Pacific	1.0
+Link 1297	Pacific	1.0
+Link 1298	Pacific	1.0
+Link 1299	Pacific	1.0
+Link 13	South Atlantic	1.0
+Link 130	West South Central	1.0
+Link 1300	West North Central	1.0
+Link 1301	West North Central	0.722444146579131
+Link 1301	West South Central	0.277555853420892
+Link 1302	West South Central	0.311196632330863
+Link 1302	West North Central	0.688803367669128
+Link 1303	Pacific	1.0
+Link 1304	Pacific	1.0
+Link 1305	Pacific	1.0
+Link 1306	Pacific	1.0
+Link 1307	Pacific	1.0
+Link 1308	Pacific	1.0
+Link 1309	South Atlantic	1.0
+Link 131	West South Central	1.0
+Link 1310	South Atlantic	1.0
+Link 1311	South Atlantic	1.0
+Link 1312	East South Central	1.0
+Link 1313	East South Central	1.0
+Link 1314	East South Central	1.0
+Link 1315	South Atlantic	1.0
+Link 1316	South Atlantic	1.0
+Link 1317	South Atlantic	1.0
+Link 1318	East North Central	0.0330168634362621
+Link 1318	East South Central	0.966983136563713
+Link 1319	East South Central	0.967438601894872
+Link 1319	East North Central	0.0325613981051485
+Link 132	West South Central	1.0
+Link 1320	East South Central	1.0
+Link 1321	East North Central	0.0349471851043305
+Link 1321	East South Central	0.965052814895685
+Link 1322	East South Central	1.0
+Link 1323	East North Central	0.0341450768830942
+Link 1323	East South Central	0.965854923116945
+Link 1324	Mountain	1.0
+Link 1325	Mountain	1.0
+Link 1326	Mountain	1.0
+Link 1327	West South Central	0.000896230824096263
+Link 1327	West North Central	0.999103769175904
+Link 1328	West South Central	0.846038805895084
+Link 1328	West North Central	0.153961194104917
+Link 1329	West North Central	0.722444146579131
+Link 1329	West South Central	0.277555853420892
+Link 133	South Atlantic	1.0
+Link 1330	Pacific	1.0
+Link 1331	Pacific	1.0
+Link 1332	Pacific	1.0
+Link 1333	East North Central	0.656449410772792
+Link 1333	East South Central	0.343550589227202
+Link 1334	East South Central	0.966983136563714
+Link 1334	East North Central	0.0330168634362621
+Link 1335	East North Central	0.0349471851043305
+Link 1335	East South Central	0.965052814895685
+Link 1336	Pacific	1.0
+Link 1337	Pacific	1.0
+Link 1338	Pacific	1.0
+Link 1339	Mountain	1.0
+Link 134	South Atlantic	1.0
+Link 1340	Mountain	1.0
+Link 1341	Mountain	1.0
+Link 1342	West South Central	0.923529801769839
+Link 1342	East South Central	0.0764701982301715
+Link 1343	West South Central	0.847047149487067
+Link 1343	East South Central	0.152952850512915
+Link 1344	West South Central	1.0
+Link 1345	Pacific	0.999999999999998
+Link 1346	Pacific	1.0
+Link 1347	Pacific	0.999999999999998
+Link 1348	Mountain	1.0
+Link 1349	Mountain	1.0
+Link 135	South Atlantic	1.0
+Link 1350	Mountain	1.0
+Link 1351	Pacific	1.0
+Link 1352	Pacific	1.0
+Link 1353	Pacific	0.999999999999998
+Link 1354	Pacific	0.999999999999997
+Link 1355	Pacific	1.0
+Link 1356	Pacific	1.0
+Link 1357	Pacific	1.0
+Link 1358	Pacific	1.0
+Link 1359	Pacific	1.0
+Link 136	West South Central	1.0
+Link 1360	South Atlantic	1.0
+Link 1361	South Atlantic	1.0
+Link 1362	South Atlantic	1.0
+Link 1363	Pacific	1.0
+Link 1364	Pacific	0.999999999999997
+Link 1365	Pacific	1.0
+Link 1366	South Atlantic	1.0
+Link 1367	South Atlantic	1.0
+Link 1368	South Atlantic	1.0
+Link 1369	Pacific	1.0
+Link 137	West South Central	0.999999999999997
+Link 1370	Pacific	1.0
+Link 1371	Pacific	1.0
+Link 1372	South Atlantic	1.0
+Link 1373	South Atlantic	1.0
+Link 1374	South Atlantic	1.0
+Link 1375	East South Central	1.0
+Link 1376	East South Central	1.0
+Link 1377	East South Central	1.0
+Link 1378	South Atlantic	1.00000000000001
+Link 1379	South Atlantic	1.0
+Link 138	West South Central	0.999999999999999
+Link 1380	South Atlantic	1.0
+Link 1381	Pacific	1.0
+Link 1382	Pacific	1.0
+Link 1383	Pacific	1.0
+Link 1384	Pacific	1.0
+Link 1385	Pacific	1.0
+Link 1386	Pacific	1.0
+Link 1387	South Atlantic	0.999999999999989
+Link 1388	South Atlantic	1.0
+Link 1389	South Atlantic	0.999999999999996
+Link 139	West South Central	1.0
+Link 1390	South Atlantic	1.0
+Link 1391	East South Central	0.478385823973358
+Link 1391	South Atlantic	0.521614176026637
+Link 1392	South Atlantic	0.935375210283089
+Link 1392	East South Central	0.0646247897169473
+Link 1393	South Atlantic	1.0
+Link 1394	South Atlantic	1.0
+Link 1395	South Atlantic	1.0
+Link 1396	East North Central	0.0072239191109652
+Link 1396	East South Central	0.992776080889035
+Link 1397	East North Central	0.104649902280154
+Link 1397	East South Central	0.895350097719849
+Link 1398	East South Central	1.0
+Link 1399	Pacific	1.0
+Link 14	South Atlantic	1.0
+Link 140	West South Central	1.0
+Link 1400	Pacific	1.0
+Link 1401	Pacific	1.0
+Link 1402	East South Central	1.0
+Link 1403	East South Central	1.0
+Link 1404	East South Central	1.0
+Link 1405	Pacific	1.0
+Link 1406	Pacific	1.0
+Link 1407	Pacific	1.0
+Link 1408	Pacific	1.0
+Link 1409	Pacific	1.0
+Link 141	West South Central	1.0
+Link 1410	Pacific	1.0
+Link 1411	Pacific	1.0
+Link 1412	Pacific	0.999999999999999
+Link 1413	Pacific	1.0
+Link 1414	Pacific	1.0
+Link 1415	Pacific	1.0
+Link 1416	Pacific	1.0
+Link 1417	Pacific	1.0
+Link 1418	Pacific	1.0
+Link 1419	Pacific	1.00000000000001
+Link 142	West South Central	1.0
+Link 1420	Pacific	1.0
+Link 1421	Pacific	1.0
+Link 1422	Pacific	1.0
+Link 1423	Pacific	1.0
+Link 1424	Pacific	1.0
+Link 1425	Pacific	1.0
+Link 1426	South Atlantic	1.00000000000002
+Link 1427	South Atlantic	1.0
+Link 1428	South Atlantic	1.0
+Link 1429	East North Central	0.161178434068155
+Link 1429	East South Central	0.83882156593185
+Link 143	West South Central	1.0
+Link 1430	East South Central	0.965854923116943
+Link 1430	East North Central	0.0341450768830942
+Link 1431	East South Central	1.0
+Link 1432	South Atlantic	0.171488093902879
+Link 1432	East South Central	0.828511906097123
+Link 1433	East South Central	1.0
+Link 1434	East South Central	1.0
+Link 1435	East South Central	0.39603434166407
+Link 1435	East North Central	0.603965658335939
+Link 1436	East North Central	0.0072239191109652
+Link 1436	East South Central	0.992776080889035
+Link 1437	East North Central	0.0325613981051485
+Link 1437	East South Central	0.967438601894874
+Link 1438	West North Central	1.0
+Link 1439	West North Central	1.0
+Link 144	West South Central	1.0
+Link 1440	West North Central	1.0
+Link 1441	Pacific	1.0
+Link 1442	Pacific	1.0
+Link 1443	Pacific	1.0
+Link 1444	West North Central	1.0
+Link 1445	West North Central	1.0
+Link 1446	West North Central	1.0
+Link 1447	Pacific	1.0
+Link 1448	Pacific	1.0
+Link 1449	Pacific	1.0
+Link 145	West South Central	1.0
+Link 1450	Pacific	1.0
+Link 1451	Pacific	1.0
+Link 1452	Pacific	1.0
+Link 1453	West North Central	0.309305466867494
+Link 1453	West South Central	0.690694533132513
+Link 1454	West North Central	0.678928425312781
+Link 1454	West South Central	0.321071574687167
+Link 1455	West South Central	1.0
+Link 1456	Pacific	1.0
+Link 1457	Pacific	1.0
+Link 1458	Pacific	1.0
+Link 1459	Mountain	0.577423026227712
+Link 1459	West South Central	0.42257697377231
+Link 146	West South Central	1.0
+Link 1460	West South Central	0.290926239053931
+Link 1460	Mountain	0.70907376094606
+Link 1461	Mountain	1.0
+Link 1462	South Atlantic	1.0
+Link 1463	South Atlantic	1.00000000000002
+Link 1464	South Atlantic	1.00000000000001
+Link 1465	South Atlantic	1.0
+Link 1466	South Atlantic	1.0
+Link 1467	South Atlantic	1.0
+Link 1468	South Atlantic	1.0
+Link 1469	South Atlantic	1.0
+Link 147	West South Central	1.0
+Link 1470	South Atlantic	1.0
+Link 1471	East South Central	0.147807562824526
+Link 1471	South Atlantic	0.852192437175498
+Link 1472	South Atlantic	1.0
+Link 1473	East South Central	0.0646247897169473
+Link 1473	South Atlantic	0.935375210283088
+Link 1474	West South Central	0.606110651074348
+Link 1474	East South Central	0.0576998607264058
+Link 1474	West North Central	0.336189488199234
+Link 1475	West South Central	0.923529801769838
+Link 1475	East South Central	0.0764701982301715
+Link 1476	West South Central	0.720126229721599
+Link 1476	West North Central	0.279873770278434
+Link 1477	East North Central	0.113092905694612
+Link 1477	East South Central	0.0473897699285789
+Link 1477	South Atlantic	0.839517324376816
+Link 1478	East South Central	0.147807562824526
+Link 1478	South Atlantic	0.852192437175498
+Link 1479	South Atlantic	0.389093966066653
+Link 1479	East North Central	0.0108043131040453
+Link 1479	East South Central	0.600101720829298
+Link 148	West South Central	1.0
+Link 1480	South Atlantic	1.0
+Link 1481	South Atlantic	1.00000000000001
+Link 1482	South Atlantic	1.0
+Link 1483	Pacific	1.0
+Link 1484	Pacific	1.0
+Link 1485	Pacific	1.0
+Link 1486	South Atlantic	0.999999999999999
+Link 1487	South Atlantic	1.00000000000002
+Link 1488	South Atlantic	1.0
+Link 1489	Pacific	1.0
+Link 149	West South Central	1.0
+Link 1490	Pacific	1.0
+Link 1491	Pacific	1.0
+Link 1492	Pacific	1.0
+Link 1493	Pacific	1.0
+Link 1494	Pacific	1.0
+Link 1495	Pacific	1.0
+Link 1496	Pacific	1.0
+Link 1497	Pacific	1.0
+Link 1498	Pacific	1.0
+Link 1499	Pacific	1.0
+Link 15	South Atlantic	1.0
+Link 150	West South Central	1.0
+Link 1500	Pacific	1.0
+Link 1501	Pacific	1.0
+Link 1502	Pacific	1.0
+Link 1503	Pacific	1.0
+Link 1504	South Atlantic	1.0
+Link 1505	South Atlantic	0.999999999999999
+Link 1506	South Atlantic	1.0
+Link 1507	South Atlantic	1.0
+Link 1508	South Atlantic	1.0
+Link 1509	South Atlantic	1.0
+Link 151	West South Central	1.0
+Link 1510	Pacific	1.0
+Link 1511	Pacific	1.0
+Link 1512	Pacific	1.0
+Link 1513	West South Central	0.157296343701547
+Link 1513	East North Central	0.070452773932883
+Link 1513	East South Central	0.111908978273737
+Link 1513	West North Central	0.660341904091866
+Link 1514	East North Central	0.274663341052268
+Link 1514	West North Central	0.725336658947734
+Link 1515	East North Central	0.163051386890652
+Link 1515	East South Central	0.118832359684182
+Link 1515	West North Central	0.590017969974393
+Link 1515	West South Central	0.128098283450766
+Link 1516	West North Central	1.0
+Link 1517	West North Central	1.0
+Link 1518	West North Central	1.0
+Link 1519	South Atlantic	0.0066976921053552
+Link 1519	East South Central	0.982768115188172
+Link 1519	East North Central	0.0105341927064715
+Link 152	West South Central	1.0
+Link 1520	East North Central	0.0108043131040453
+Link 1520	East South Central	0.600101720829298
+Link 1520	South Atlantic	0.389093966066653
+Link 1521	South Atlantic	0.171488093902879
+Link 1521	East South Central	0.828511906097123
+Link 1522	Pacific	1.0
+Link 1523	Pacific	1.0
+Link 1524	Pacific	1.0
+Link 1525	West North Central	0.00571389150242835
+Link 1525	East North Central	0.986080796900122
+Link 1525	East South Central	0.00820531159744536
+Link 1526	East North Central	0.161178434068155
+Link 1526	East South Central	0.838821565931849
+Link 1527	East South Central	0.118832359684182
+Link 1527	East North Central	0.163051386890652
+Link 1527	West South Central	0.128098283450766
+Link 1527	West North Central	0.590017969974393
+Link 1528	Pacific	1.0
+Link 1529	Pacific	1.0
+Link 153	West South Central	1.0
+Link 1530	Pacific	1.0
+Link 1531	West North Central	1.0
+Link 1532	West North Central	1.0
+Link 1533	West North Central	1.0
+Link 1534	East North Central	0.918060477102492
+Link 1534	West North Central	0.0819395228974982
+Link 1535	East North Central	0.852214539799827
+Link 1535	West North Central	0.147785460200182
+Link 1536	West North Central	0.150787015324874
+Link 1536	East North Central	0.849212984675124
+Link 1537	West North Central	1.0
+Link 1538	West North Central	0.660341904091866
+Link 1538	East North Central	0.070452773932883
+Link 1538	East South Central	0.111908978273737
+Link 1538	West South Central	0.157296343701547
+Link 1539	West North Central	0.336189488199234
+Link 1539	West South Central	0.606110651074349
+Link 1539	East South Central	0.0576998607264058
+Link 154	West South Central	0.999999999999999
+Link 1540	Pacific	1.0
+Link 1541	Pacific	1.0
+Link 1542	Pacific	1.0
+Link 1543	West South Central	0.000604829468009621
+Link 1543	West North Central	0.999395170531992
+Link 1544	West North Central	1.0
+Link 1545	West North Central	0.998589741263993
+Link 1545	West South Central	0.00141025873599883
+Link 1546	East North Central	0.295372830971975
+Link 1546	West North Central	0.704627169028021
+Link 1547	West North Central	0.147785460200182
+Link 1547	East North Central	0.852214539799827
+Link 1548	West North Central	0.725336658947735
+Link 1548	East North Central	0.274663341052268
+Link 1549	Pacific	1.0
+Link 155	West South Central	1.0
+Link 1550	Pacific	1.0
+Link 1551	Pacific	1.0
+Link 1552	South Atlantic	1.0
+Link 1553	South Atlantic	1.0
+Link 1554	South Atlantic	1.0
+Link 1555	West South Central	0.494066623525488
+Link 1555	Mountain	0.505933376474538
+Link 1556	West South Central	1.0
+Link 1557	Mountain	0.577423026227712
+Link 1557	West South Central	0.42257697377231
+Link 1558	West North Central	0.330134292934195
+Link 1558	West South Central	0.669865707065806
+Link 1559	West North Central	0.309305466867494
+Link 1559	West South Central	0.690694533132513
+Link 156	West South Central	0.999999999999999
+Link 1560	West South Central	1.0
+Link 1561	Pacific	1.0
+Link 1562	Pacific	1.0
+Link 1563	Pacific	1.0
+Link 1564	East North Central	0.872811918422571
+Link 1564	East South Central	0.12718808157739
+Link 1565	East South Central	0.895350097719848
+Link 1565	East North Central	0.104649902280154
+Link 1566	East South Central	0.0827674653454975
+Link 1566	East North Central	0.917232534654471
+Link 1567	Pacific	1.0
+Link 1568	Pacific	1.0
+Link 1569	Pacific	1.0
+Link 157	South Atlantic	0.340459136225096
+Link 157	West South Central	0.659540863774904
+Link 1570	West North Central	0.99940017053362
+Link 1570	West South Central	0.000599829466379521
+Link 1571	West North Central	1.0
+Link 1572	West North Central	0.999395170531991
+Link 1572	West South Central	0.000604829468009621
+Link 1573	Mountain	0.14798040300924
+Link 1573	Pacific	0.852019596990787
+Link 1574	Pacific	1.0
+Link 1575	Mountain	0.151769514815227
+Link 1575	Pacific	0.848230485184767
+Link 1576	South Atlantic	1.0
+Link 1577	South Atlantic	1.0
+Link 1578	South Atlantic	1.0
+Link 1579	West South Central	0.493182572719925
+Link 1579	West North Central	0.506817427280071
+Link 158	South Atlantic	1.0
+Link 1580	West North Central	1.0
+Link 1581	West South Central	0.669865707065806
+Link 1581	West North Central	0.330134292934195
+Link 1582	South Atlantic	1.0
+Link 1583	South Atlantic	1.0
+Link 1584	South Atlantic	1.0
+Link 1585	East North Central	0.100708160661749
+Link 1585	East South Central	0.89929183933826
+Link 1586	East South Central	0.907235842204955
+Link 1586	East North Central	0.0927641577950407
+Link 1587	East North Central	1.0
+Link 1588	Pacific	1.0
+Link 1589	Pacific	1.0
+Link 159	West South Central	0.76391899154094
+Link 159	South Atlantic	0.23608100845906
+Link 1590	Pacific	1.0
+Link 1591	South Atlantic	1.0
+Link 1592	South Atlantic	1.0
+Link 1593	South Atlantic	1.0
+Link 1594	Pacific	1.0
+Link 1595	Pacific	1.0
+Link 1596	Pacific	1.0
+Link 1597	West North Central	1.0
+Link 1598	West North Central	1.0
+Link 1599	West North Central	1.0
+Link 16	West South Central	0.999999999999998
+Link 160	West South Central	1.0
+Link 1600	Pacific	1.0
+Link 1601	Pacific	1.0
+Link 1602	Pacific	1.0
+Link 1603	Pacific	1.0
+Link 1604	Pacific	1.0
+Link 1605	Pacific	1.0
+Link 1606	Middle Atlantic	0.347644326794692
+Link 1606	South Atlantic	0.652355673205315
+Link 1607	South Atlantic	0.6775243760378
+Link 1607	Middle Atlantic	0.322475623962178
+Link 1608	South Atlantic	1.0
+Link 1609	Pacific	0.845757685349566
+Link 1609	Mountain	0.154242314650437
+Link 161	West South Central	1.0
+Link 1610	Pacific	0.848230485184768
+Link 1610	Mountain	0.151769514815227
+Link 1611	Pacific	1.0
+Link 1612	South Atlantic	1.0
+Link 1613	South Atlantic	1.0
+Link 1614	South Atlantic	1.0
+Link 1615	Pacific	0.851520352244745
+Link 1615	Mountain	0.148479647755233
+Link 1616	Pacific	1.0
+Link 1617	Pacific	0.852019596990787
+Link 1617	Mountain	0.14798040300924
+Link 1618	East North Central	0.965141378308548
+Link 1618	East South Central	0.0348586216914401
+Link 1619	East North Central	0.917232534654471
+Link 1619	East South Central	0.0827674653454975
+Link 162	West South Central	1.0
+Link 1620	East North Central	0.603965658335939
+Link 1620	East South Central	0.39603434166407
+Link 1621	South Atlantic	1.0
+Link 1622	South Atlantic	1.0
+Link 1623	South Atlantic	1.0
+Link 1624	Pacific	1.0
+Link 1625	Pacific	1.0
+Link 1626	Pacific	1.0
+Link 1627	Pacific	1.0
+Link 1628	Pacific	1.0
+Link 1629	Pacific	1.0
+Link 163	West South Central	1.0
+Link 1630	Mountain	0.204752384182803
+Link 1630	Pacific	0.795247615817209
+Link 1631	Mountain	0.154242314650437
+Link 1631	Pacific	0.845757685349565
+Link 1632	Pacific	1.0
+Link 1633	South Atlantic	1.0
+Link 1634	South Atlantic	1.0
+Link 1635	South Atlantic	1.0
+Link 1636	Pacific	1.0
+Link 1637	Mountain	0.584476641698821
+Link 1637	Pacific	0.415523358301198
+Link 1638	Mountain	0.204752384182803
+Link 1638	Pacific	0.795247615817209
+Link 1639	East North Central	0.279382780065292
+Link 1639	East South Central	0.720617219934712
+Link 164	West South Central	1.0
+Link 1640	East North Central	0.0927641577950406
+Link 1640	East South Central	0.907235842204955
+Link 1641	East South Central	1.0
+Link 1642	Pacific	1.0
+Link 1643	Pacific	1.0
+Link 1644	Pacific	1.0
+Link 1645	Mountain	1.0
+Link 1646	Mountain	1.0
+Link 1647	Mountain	1.0
+Link 1648	Middle Atlantic	1.0
+Link 1649	South Atlantic	0.652355673205316
+Link 1649	Middle Atlantic	0.347644326794692
+Link 165	West South Central	1.0
+Link 1650	South Atlantic	0.520556360399709
+Link 1650	Middle Atlantic	0.479443639600291
+Link 1651	East South Central	0.00815904308215002
+Link 1651	West North Central	0.000476092390858694
+Link 1651	East North Central	0.991364864526986
+Link 1652	East South Central	0.00820531159744536
+Link 1652	East North Central	0.986080796900122
+Link 1652	West North Central	0.00571389150242835
+Link 1653	West North Central	0.0819395228974982
+Link 1653	East North Central	0.918060477102492
+Link 1654	South Atlantic	1.0
+Link 1655	South Atlantic	1.0
+Link 1656	South Atlantic	1.0
+Link 1657	Middle Atlantic	1.0
+Link 1658	Middle Atlantic	1.0
+Link 1659	Middle Atlantic	1.0
+Link 166	West South Central	1.0
+Link 1660	South Atlantic	1.0
+Link 1661	South Atlantic	1.0
+Link 1662	South Atlantic	1.0
+Link 1663	South Atlantic	1.0
+Link 1664	South Atlantic	1.0
+Link 1665	South Atlantic	1.0
+Link 1666	South Atlantic	0.999999999999999
+Link 1667	South Atlantic	1.0
+Link 1668	South Atlantic	1.0
+Link 1669	Pacific	0.851401972079482
+Link 1669	Mountain	0.148598027920513
+Link 167	West South Central	1.0
+Link 1670	Pacific	1.0
+Link 1671	Pacific	0.851520352244745
+Link 1671	Mountain	0.148479647755233
+Link 1672	Pacific	1.0
+Link 1673	Pacific	1.0
+Link 1674	Pacific	1.0
+Link 1675	East North Central	1.0
+Link 1676	East North Central	1.0
+Link 1677	East North Central	1.0
+Link 1678	East South Central	0.0400372776715774
+Link 1678	East North Central	0.959962722328417
+Link 1679	East North Central	0.279382780065292
+Link 1679	East South Central	0.720617219934712
+Link 168	West South Central	1.0
+Link 1680	East North Central	0.872811918422571
+Link 1680	East South Central	0.12718808157739
+Link 1681	South Atlantic	1.0
+Link 1682	South Atlantic	0.999999999999999
+Link 1683	South Atlantic	1.0
+Link 1684	Pacific	1.0
+Link 1685	Pacific	1.0
+Link 1686	Pacific	1.0
+Link 1687	South Atlantic	1.0
+Link 1688	South Atlantic	1.0
+Link 1689	South Atlantic	1.0
+Link 169	West South Central	1.0
+Link 1690	Middle Atlantic	1.0
+Link 1691	Middle Atlantic	1.0
+Link 1692	Middle Atlantic	1.0
+Link 1693	South Atlantic	1.0
+Link 1694	South Atlantic	1.0
+Link 1695	South Atlantic	1.0
+Link 1696	Mountain	0.540150654333987
+Link 1696	Pacific	0.459849345665971
+Link 1697	Mountain	1.0
+Link 1698	Mountain	0.584476641698821
+Link 1698	Pacific	0.415523358301198
+Link 1699	Pacific	1.0
+Link 17	West South Central	0.999999999999998
+Link 170	West South Central	0.999999999999998
+Link 1700	Pacific	1.0
+Link 1701	Pacific	1.0
+Link 1702	East South Central	0.282216332647453
+Link 1702	East North Central	0.711342961484366
+Link 1702	South Atlantic	0.00644070586817498
+Link 1703	South Atlantic	0.0066976921053552
+Link 1703	East North Central	0.0105341927064715
+Link 1703	East South Central	0.982768115188171
+Link 1704	East North Central	0.100708160661749
+Link 1704	East South Central	0.899291839338261
+Link 1705	West North Central	1.0
+Link 1706	West South Central	0.000599829466379521
+Link 1706	West North Central	0.999400170533621
+Link 1707	West South Central	0.000896230824096263
+Link 1707	West North Central	0.999103769175905
+Link 1708	Middle Atlantic	0.800123754155865
+Link 1708	South Atlantic	0.199876245844134
+Link 1709	Middle Atlantic	0.479443639600291
+Link 1709	South Atlantic	0.520556360399709
+Link 171	West South Central	1.0
+Link 1710	South Atlantic	1.0
+Link 1711	South Atlantic	1.0
+Link 1712	South Atlantic	1.0
+Link 1713	South Atlantic	1.0
+Link 1714	Middle Atlantic	0.960224698600873
+Link 1714	South Atlantic	0.0397753013991267
+Link 1715	South Atlantic	0.199876245844134
+Link 1715	Middle Atlantic	0.800123754155866
+Link 1716	South Atlantic	0.599515726571956
+Link 1716	Middle Atlantic	0.400484273428043
+Link 1717	South Atlantic	0.530911055907359
+Link 1717	Middle Atlantic	0.469088944092641
+Link 1718	Middle Atlantic	0.400484273428043
+Link 1718	South Atlantic	0.599515726571955
+Link 1719	South Atlantic	0.910825219293793
+Link 1719	Middle Atlantic	0.0891747807062055
+Link 172	West South Central	1.0
+Link 1720	South Atlantic	1.0
+Link 1721	South Atlantic	1.0
+Link 1722	South Atlantic	1.0
+Link 1723	East North Central	0.998504081305636
+Link 1723	West North Central	0.0014959186943582
+Link 1724	West North Central	0.150787015324874
+Link 1724	East North Central	0.849212984675123
+Link 1725	West North Central	0.0188138398415432
+Link 1725	East North Central	0.981186160158467
+Link 1726	Pacific	1.0
+Link 1727	Pacific	1.0
+Link 1728	Pacific	1.0
+Link 1729	East North Central	0.0375651529064923
+Link 1729	South Atlantic	0.962434847093479
+Link 173	West South Central	1.0
+Link 1730	South Atlantic	0.973779454433927
+Link 1730	East North Central	0.0262205455660425
+Link 1731	South Atlantic	1.0
+Link 1732	Pacific	1.0
+Link 1733	Pacific	1.0
+Link 1734	Pacific	1.0
+Link 1735	East North Central	0.00783984142483916
+Link 1735	West North Central	0.99216015857516
+Link 1736	West North Central	0.866428704004388
+Link 1736	East North Central	0.133571295995618
+Link 1737	West North Central	1.0
+Link 1738	East North Central	0.00598974674062789
+Link 1738	South Atlantic	0.994010253259347
+Link 1739	South Atlantic	1.0
+Link 174	West South Central	0.999999999999984
+Link 1740	East North Central	0.0262205455660425
+Link 1740	South Atlantic	0.973779454433929
+Link 1741	East North Central	0.710496189737653
+Link 1741	West North Central	0.289503810262336
+Link 1742	East North Central	0.981186160158467
+Link 1742	West North Central	0.0188138398415432
+Link 1743	East North Central	0.295372830971975
+Link 1743	West North Central	0.704627169028021
+Link 1744	South Atlantic	0.0591253769207239
+Link 1744	Middle Atlantic	0.940874623079291
+Link 1745	Middle Atlantic	1.0
+Link 1746	Middle Atlantic	0.960224698600873
+Link 1746	South Atlantic	0.0397753013991266
+Link 1747	Middle Atlantic	0.945970499570218
+Link 1747	South Atlantic	0.0540295004297813
+Link 1748	Middle Atlantic	0.940874623079291
+Link 1748	South Atlantic	0.0591253769207239
+Link 1749	South Atlantic	0.28065055758581
+Link 1749	Middle Atlantic	0.719349442414205
+Link 175	West South Central	1.0
+Link 1750	East North Central	0.991293931671445
+Link 1750	East South Central	0.0087060683285556
+Link 1751	West North Central	0.000476092390858694
+Link 1751	East South Central	0.00815904308215002
+Link 1751	East North Central	0.991364864526989
+Link 1752	West North Central	0.000725618649327567
+Link 1752	East North Central	0.999274381350672
+Link 1753	Middle Atlantic	1.0
+Link 1754	Middle Atlantic	1.0
+Link 1755	Middle Atlantic	1.0
+Link 1756	East North Central	1.0
+Link 1757	East North Central	0.998961028323038
+Link 1757	West North Central	0.00103897167696247
+Link 1758	East North Central	0.998504081305636
+Link 1758	West North Central	0.0014959186943582
+Link 1759	Middle Atlantic	0.660740848277001
+Link 1759	South Atlantic	0.339259151722992
+Link 176	West South Central	1.0
+Link 1760	Middle Atlantic	0.322475623962178
+Link 1760	South Atlantic	0.6775243760378
+Link 1761	Middle Atlantic	1.0
+Link 1762	East North Central	0.00629087606787348
+Link 1762	South Atlantic	0.993709123932124
+Link 1763	South Atlantic	1.0
+Link 1764	South Atlantic	0.994010253259347
+Link 1764	East North Central	0.00598974674062789
+Link 1765	East North Central	1.0
+Link 1766	East North Central	1.0
+Link 1767	East North Central	1.0
+Link 1768	Middle Atlantic	0.274402626279816
+Link 1768	South Atlantic	0.725597373720194
+Link 1769	Middle Atlantic	0.334675817126914
+Link 1769	South Atlantic	0.665324182873083
+Link 177	West South Central	1.0
+Link 1770	South Atlantic	1.0
+Link 1771	Middle Atlantic	0.449241107825243
+Link 1771	South Atlantic	0.550758892174753
+Link 1772	Middle Atlantic	0.719349442414205
+Link 1772	South Atlantic	0.28065055758581
+Link 1773	Middle Atlantic	0.469088944092641
+Link 1773	South Atlantic	0.530911055907359
+Link 1774	East North Central	1.0
+Link 1775	East North Central	0.999274381350672
+Link 1775	West North Central	0.000725618649327567
+Link 1776	East North Central	0.998961028323038
+Link 1776	West North Central	0.00103897167696247
+Link 1777	South Atlantic	1.0
+Link 1778	South Atlantic	1.0
+Link 1779	South Atlantic	1.0
+Link 178	West South Central	1.0
+Link 1780	Pacific	1.0
+Link 1781	Pacific	1.0
+Link 1782	Pacific	1.0
+Link 1783	East North Central	0.00655303307554779
+Link 1783	South Atlantic	0.993446966924454
+Link 1784	South Atlantic	1.0
+Link 1785	East North Central	0.00629087606787348
+Link 1785	South Atlantic	0.993709123932126
+Link 1786	South Atlantic	0.577000900508389
+Link 1786	Middle Atlantic	0.422999099491606
+Link 1787	South Atlantic	1.0
+Link 1788	South Atlantic	0.451451404605902
+Link 1788	Middle Atlantic	0.548548595394091
+Link 1789	East North Central	0.947410776810705
+Link 1789	West North Central	0.0525892231892836
+Link 179	West South Central	1.0
+Link 1790	West North Central	0.289503810262336
+Link 1790	East North Central	0.710496189737653
+Link 1791	East North Central	0.133571295995618
+Link 1791	West North Central	0.86642870400439
+Link 1792	Middle Atlantic	0.525543534557419
+Link 1792	South Atlantic	0.474456465442563
+Link 1793	South Atlantic	1.0
+Link 1794	Middle Atlantic	0.504468260592788
+Link 1794	South Atlantic	0.495531739407227
+Link 1795	Middle Atlantic	1.0
+Link 1796	South Atlantic	0.495531739407227
+Link 1796	Middle Atlantic	0.504468260592788
+Link 1797	Middle Atlantic	0.334675817126914
+Link 1797	South Atlantic	0.665324182873083
+Link 1798	Middle Atlantic	0.949611567344073
+Link 1798	South Atlantic	0.0503884326559288
+Link 1799	Middle Atlantic	1.0
+Link 18	West South Central	1.0
+Link 180	West South Central	1.0
+Link 1800	Middle Atlantic	0.945970499570218
+Link 1800	South Atlantic	0.0540295004297813
+Link 1801	Pacific	1.0
+Link 1802	Pacific	1.0
+Link 1803	Pacific	1.0
+Link 1804	Mountain	1.0
+Link 1805	Mountain	1.0
+Link 1806	Mountain	1.0
+Link 1807	Mountain	1.0
+Link 1808	Mountain	1.0
+Link 1809	Mountain	1.0
+Link 181	West South Central	1.0
+Link 1810	Mountain	1.0
+Link 1811	Mountain	1.0
+Link 1812	Mountain	1.0
+Link 1813	East North Central	0.985909075450882
+Link 1813	East South Central	0.0140909245491485
+Link 1814	East North Central	1.0
+Link 1815	East South Central	0.0348586216914401
+Link 1815	East North Central	0.965141378308545
+Link 1816	East North Central	1.0
+Link 1817	East North Central	1.0
+Link 1818	East North Central	1.0
+Link 1819	East North Central	0.826569793294118
+Link 1819	South Atlantic	0.00629583680895054
+Link 1819	East South Central	0.167134369896905
+Link 182	West South Central	1.0
+Link 1820	South Atlantic	0.00644070586817498
+Link 1820	East North Central	0.711342961484367
+Link 1820	East South Central	0.282216332647453
+Link 1821	East North Central	1.0
+Link 1822	Mountain	1.0
+Link 1823	Mountain	1.0
+Link 1824	Mountain	1.0
+Link 1825	Middle Atlantic	1.0
+Link 1826	Middle Atlantic	1.0
+Link 1827	Middle Atlantic	1.0
+Link 1828	Middle Atlantic	1.0
+Link 1829	South Atlantic	0.725597373720194
+Link 1829	Middle Atlantic	0.274402626279816
+Link 183	West South Central	1.0
+Link 1830	South Atlantic	0.577000900508389
+Link 1830	Middle Atlantic	0.422999099491606
+Link 1831	South Atlantic	1.0
+Link 1832	South Atlantic	1.0
+Link 1833	South Atlantic	1.0
+Link 1834	East North Central	0.991347604628913
+Link 1834	East South Central	0.00865239537108667
+Link 1835	East North Central	0.991293931671445
+Link 1835	East South Central	0.0087060683285556
+Link 1836	East North Central	1.0
+Link 1837	East North Central	1.0
+Link 1838	East South Central	0.0381941887075094
+Link 1838	South Atlantic	0.00780809846742284
+Link 1838	East North Central	0.953997712825045
+Link 1839	East South Central	0.167134369896905
+Link 1839	South Atlantic	0.00629583680895054
+Link 1839	East North Central	0.826569793294117
+Link 184	West South Central	0.999999999999998
+Link 1840	Middle Atlantic	1.0
+Link 1841	Middle Atlantic	0.626089097543111
+Link 1841	South Atlantic	0.373910902456894
+Link 1842	Middle Atlantic	0.525543534557419
+Link 1842	South Atlantic	0.474456465442563
+Link 1843	East South Central	0.00814728353111627
+Link 1843	East North Central	0.991852716468883
+Link 1844	East North Central	0.985909075450882
+Link 1844	East South Central	0.0140909245491485
+Link 1845	East North Central	0.656449410772792
+Link 1845	East South Central	0.343550589227202
+Link 1846	Mountain	1.0
+Link 1847	Mountain	1.0
+Link 1848	Mountain	1.0
+Link 1849	Middle Atlantic	1.0
+Link 185	West South Central	1.0
+Link 1850	Middle Atlantic	1.0
+Link 1851	Middle Atlantic	1.0
+Link 1852	Middle Atlantic	1.0
+Link 1853	Middle Atlantic	1.0
+Link 1854	Middle Atlantic	1.0
+Link 1855	Mountain	1.0
+Link 1856	Mountain	1.0
+Link 1857	Mountain	1.0
+Link 1858	Middle Atlantic	1.0
+Link 1859	Middle Atlantic	1.0
+Link 186	West South Central	1.0
+Link 1860	Middle Atlantic	1.0
+Link 1861	South Atlantic	0.286541308499282
+Link 1861	Middle Atlantic	0.713458691500728
+Link 1862	South Atlantic	1.0
+Link 1863	Middle Atlantic	0.626089097543111
+Link 1863	South Atlantic	0.373910902456894
+Link 1864	Mountain	1.0
+Link 1865	Mountain	1.0
+Link 1866	Mountain	1.0
+Link 1867	Middle Atlantic	1.0
+Link 1868	Middle Atlantic	1.0
+Link 1869	Middle Atlantic	1.0
+Link 187	West South Central	1.0
+Link 1870	Middle Atlantic	1.0
+Link 1871	Middle Atlantic	1.0
+Link 1872	Middle Atlantic	1.0
+Link 1873	Middle Atlantic	0.0694684395591098
+Link 1873	South Atlantic	0.923021741906958
+Link 1873	East North Central	0.00750981853393403
+Link 1874	South Atlantic	1.0
+Link 1875	East North Central	0.00655303307554779
+Link 1875	South Atlantic	0.993446966924452
+Link 1876	Middle Atlantic	0.745593671742124
+Link 1876	South Atlantic	0.25440632825788
+Link 1877	Middle Atlantic	0.974351745504795
+Link 1877	South Atlantic	0.0256482544952056
+Link 1878	Middle Atlantic	0.449241107825243
+Link 1878	South Atlantic	0.550758892174753
+Link 1879	East North Central	1.0
+Link 188	West South Central	0.999999999999998
+Link 1880	East South Central	0.00814728353111627
+Link 1880	East North Central	0.991852716468883
+Link 1881	East North Central	0.991347604628912
+Link 1881	East South Central	0.00865239537108667
+Link 1882	Middle Atlantic	1.0
+Link 1883	Middle Atlantic	1.0
+Link 1884	Middle Atlantic	1.0
+Link 1885	Middle Atlantic	1.0
+Link 1886	Middle Atlantic	0.949611567344073
+Link 1886	South Atlantic	0.0503884326559288
+Link 1887	South Atlantic	0.0256482544952056
+Link 1887	Middle Atlantic	0.974351745504795
+Link 1888	Mountain	1.0
+Link 1889	Mountain	1.0
+Link 189	West South Central	1.0
+Link 1890	Mountain	1.0
+Link 1891	Pacific	1.0
+Link 1892	Pacific	1.0
+Link 1893	Pacific	1.0
+Link 1894	South Atlantic	0.230543921827791
+Link 1894	Middle Atlantic	0.76945607817223
+Link 1895	Middle Atlantic	0.0891747807062056
+Link 1895	South Atlantic	0.910825219293794
+Link 1896	Middle Atlantic	0.713458691500729
+Link 1896	South Atlantic	0.286541308499283
+Link 1897	West North Central	1.0
+Link 1898	West North Central	1.0
+Link 1899	West North Central	1.0
+Link 19	West South Central	0.999999999999995
+Link 190	West South Central	1.0
+Link 1900	Middle Atlantic	1.0
+Link 1901	Middle Atlantic	0.745593671742124
+Link 1901	South Atlantic	0.25440632825788
+Link 1902	South Atlantic	0.230543921827791
+Link 1902	Middle Atlantic	0.76945607817223
+Link 1903	Middle Atlantic	1.0
+Link 1904	Middle Atlantic	1.0
+Link 1905	Middle Atlantic	1.0
+Link 1906	Mountain	1.0
+Link 1907	Mountain	1.0
+Link 1908	Mountain	1.0
+Link 1909	East North Central	0.00803261963698472
+Link 1909	West North Central	0.991967380363015
+Link 191	West South Central	1.0
+Link 1910	West North Central	0.992160158575161
+Link 1910	East North Central	0.00783984142483916
+Link 1911	West North Central	1.0
+Link 1912	Middle Atlantic	1.0
+Link 1913	Middle Atlantic	1.0
+Link 1914	Middle Atlantic	1.0
+Link 1915	Mountain	1.0
+Link 1916	Mountain	1.0
+Link 1917	Mountain	1.0
+Link 1918	Mountain	1.0
+Link 1919	Mountain	1.0
+Link 192	West South Central	1.0
+Link 1920	Mountain	1.0
+Link 1921	East North Central	0.685721788563554
+Link 1921	South Atlantic	0.31427821143647
+Link 1922	East North Central	0.113092905694612
+Link 1922	East South Central	0.047389769928579
+Link 1922	South Atlantic	0.839517324376816
+Link 1923	East South Central	0.0381941887075094
+Link 1923	East North Central	0.953997712825045
+Link 1923	South Atlantic	0.00780809846742284
+Link 1924	West North Central	1.0
+Link 1925	West North Central	1.0
+Link 1926	West North Central	1.0
+Link 1927	Middle Atlantic	1.0
+Link 1928	Middle Atlantic	1.0
+Link 1929	Middle Atlantic	1.0
+Link 193	West South Central	1.0
+Link 1930	South Atlantic	0.113396063132765
+Link 1930	Middle Atlantic	0.886603936867229
+Link 1931	East North Central	0.00750981853393403
+Link 1931	Middle Atlantic	0.0694684395591098
+Link 1931	South Atlantic	0.923021741906957
+Link 1932	South Atlantic	0.345674596182095
+Link 1932	East North Central	0.0128336368454898
+Link 1932	Middle Atlantic	0.641491766972383
+Link 1933	East North Central	1.0
+Link 1934	East North Central	0.959962722328417
+Link 1934	East South Central	0.0400372776715774
+Link 1935	East North Central	1.0
+Link 1936	Mountain	1.0
+Link 1937	Mountain	1.0
+Link 1938	Mountain	1.0
+Link 1939	South Atlantic	0.203431534707387
+Link 1939	Middle Atlantic	0.796568465292582
+Link 194	West South Central	1.0
+Link 1940	South Atlantic	1.0
+Link 1941	Middle Atlantic	0.879363209431001
+Link 1941	South Atlantic	0.120636790569038
+Link 1942	Middle Atlantic	1.0
+Link 1943	Middle Atlantic	0.879363209431001
+Link 1943	South Atlantic	0.120636790569038
+Link 1944	Middle Atlantic	0.845008226911812
+Link 1944	South Atlantic	0.154991773088195
+Link 1945	East North Central	0.00013285120455945
+Link 1945	Middle Atlantic	0.877268273057918
+Link 1945	South Atlantic	0.122598875737507
+Link 1946	South Atlantic	0.345674596182095
+Link 1946	East North Central	0.0128336368454898
+Link 1946	Middle Atlantic	0.641491766972383
+Link 1947	Middle Atlantic	0.0012458311436628
+Link 1947	East North Central	0.180775019841073
+Link 1947	South Atlantic	0.817979149015239
+Link 1948	East North Central	1.0
+Link 1949	East North Central	1.0
+Link 195	West South Central	1.00000000000001
+Link 1950	East North Central	1.0
+Link 1951	Middle Atlantic	1.0
+Link 1952	Middle Atlantic	0.548548595394091
+Link 1952	South Atlantic	0.451451404605902
+Link 1953	Middle Atlantic	0.796568465292583
+Link 1953	South Atlantic	0.203431534707387
+Link 1954	Middle Atlantic	1.0
+Link 1955	Middle Atlantic	1.0
+Link 1956	Middle Atlantic	1.0
+Link 1957	Mountain	1.0
+Link 1958	Mountain	1.0
+Link 1959	Mountain	1.0
+Link 196	West South Central	1.0
+Link 1960	Mountain	1.0
+Link 1961	Mountain	1.0
+Link 1962	Mountain	1.0
+Link 1963	Middle Atlantic	1.0
+Link 1964	Middle Atlantic	1.0
+Link 1965	Middle Atlantic	1.0
+Link 1966	West North Central	1.0
+Link 1967	West North Central	1.0
+Link 1968	West North Central	1.0
+Link 1969	Middle Atlantic	1.0
+Link 197	West South Central	1.0
+Link 1970	Middle Atlantic	0.845008226911812
+Link 1970	South Atlantic	0.154991773088195
+Link 1971	Middle Atlantic	0.88660393686723
+Link 1971	South Atlantic	0.113396063132765
+Link 1972	East North Central	1.0
+Link 1973	East North Central	1.0
+Link 1974	East North Central	1.0
+Link 1975	East North Central	1.0
+Link 1976	East North Central	1.0
+Link 1977	East North Central	1.0
+Link 1978	Middle Atlantic	1.0
+Link 1979	Middle Atlantic	1.0
+Link 198	West South Central	1.0
+Link 1980	Middle Atlantic	1.0
+Link 1981	East North Central	1.0
+Link 1982	East North Central	1.0
+Link 1983	East North Central	1.0
+Link 1984	Middle Atlantic	0.999999999999997
+Link 1985	Middle Atlantic	1.0
+Link 1986	Middle Atlantic	1.0
+Link 1987	East North Central	1.0
+Link 1988	East North Central	1.0
+Link 1989	East North Central	1.0
+Link 199	West South Central	1.0
+Link 1990	South Atlantic	0.0304575501564139
+Link 1990	East North Central	0.969542449843586
+Link 1991	South Atlantic	0.962434847093478
+Link 1991	East North Central	0.0375651529064923
+Link 1992	East North Central	0.685721788563554
+Link 1992	South Atlantic	0.31427821143647
+Link 1993	Middle Atlantic	1.0
+Link 1994	Middle Atlantic	1.0
+Link 1995	Middle Atlantic	1.0
+Link 1996	Mountain	1.0
+Link 1997	Mountain	1.0
+Link 1998	Mountain	1.0
+Link 1999	Pacific	0.83858348530447
+Link 1999	Mountain	0.161416514695567
+Link 2	South Atlantic	1.0
+Link 20	West South Central	0.999999999999983
+Link 200	West South Central	1.0
+Link 2000	Pacific	1.0
+Link 2001	Mountain	0.148598027920513
+Link 2001	Pacific	0.851401972079482
+Link 2002	Middle Atlantic	1.0
+Link 2003	Middle Atlantic	1.0
+Link 2004	Middle Atlantic	1.0
+Link 2005	East North Central	1.0
+Link 2006	East North Central	1.0
+Link 2007	East North Central	1.0
+Link 2008	Mountain	1.0
+Link 2009	Mountain	1.0
+Link 201	West South Central	1.0
+Link 2010	Mountain	1.0
+Link 2011	East North Central	1.0
+Link 2012	East North Central	1.0
+Link 2013	East North Central	1.0
+Link 2014	Middle Atlantic	1.0
+Link 2015	Middle Atlantic	0.999999999999997
+Link 2016	Middle Atlantic	0.999999999999994
+Link 2017	East North Central	1.0
+Link 2018	East North Central	1.0
+Link 2019	East North Central	1.0
+Link 202	South Atlantic	1.0
+Link 2020	Middle Atlantic	1.0
+Link 2021	Middle Atlantic	1.0
+Link 2022	Middle Atlantic	1.0
+Link 2023	Mountain	1.0
+Link 2024	Mountain	1.0
+Link 2025	Mountain	1.0
+Link 2026	East North Central	1.0
+Link 2027	East North Central	1.0
+Link 2028	East North Central	1.0
+Link 2029	Pacific	1.0
+Link 203	South Atlantic	1.0
+Link 2030	Pacific	1.0
+Link 2031	Pacific	1.0
+Link 2032	Mountain	1.0
+Link 2033	Mountain	1.0
+Link 2034	Mountain	1.0
+Link 2035	Middle Atlantic	1.0
+Link 2036	Middle Atlantic	1.0
+Link 2037	Middle Atlantic	1.0
+Link 2038	Middle Atlantic	1.0
+Link 2039	Middle Atlantic	1.0
+Link 204	South Atlantic	1.0
+Link 2040	Middle Atlantic	1.0
+Link 2041	Middle Atlantic	1.0
+Link 2042	Middle Atlantic	1.0
+Link 2043	Middle Atlantic	1.0
+Link 2044	Middle Atlantic	1.0
+Link 2045	Middle Atlantic	1.0
+Link 2046	Middle Atlantic	1.0
+Link 2047	East North Central	1.0
+Link 2048	East North Central	1.0
+Link 2049	East North Central	1.0
+Link 205	West South Central	1.0
+Link 2050	Middle Atlantic	0.999999999999998
+Link 2051	Middle Atlantic	1.0
+Link 2052	Middle Atlantic	1.0
+Link 2053	Middle Atlantic	1.0
+Link 2054	Middle Atlantic	1.0
+Link 2055	Middle Atlantic	1.0
+Link 2056	West North Central	1.0
+Link 2057	West North Central	1.0
+Link 2058	West North Central	1.0
+Link 2059	Middle Atlantic	1.0
+Link 206	West South Central	1.0
+Link 2060	Middle Atlantic	1.0
+Link 2061	Middle Atlantic	1.0
+Link 2062	South Atlantic	0.0865589059639403
+Link 2062	Middle Atlantic	0.000971387400587851
+Link 2062	East North Central	0.912469706635477
+Link 2063	South Atlantic	0.817979149015238
+Link 2063	East North Central	0.180775019841073
+Link 2063	Middle Atlantic	0.0012458311436628
+Link 2064	South Atlantic	0.0633050452283434
+Link 2064	East North Central	0.936694954771649
+Link 2065	East North Central	1.0
+Link 2066	East North Central	1.0
+Link 2067	East North Central	1.0
+Link 2068	East North Central	0.943351229974374
+Link 2068	South Atlantic	0.056648770025634
+Link 2069	East North Central	0.234149855184476
+Link 2069	South Atlantic	0.762218982478297
+Link 2069	Middle Atlantic	0.00363116233726699
+Link 207	West South Central	1.0
+Link 2070	East North Central	0.912469706635478
+Link 2070	South Atlantic	0.0865589059639403
+Link 2070	Middle Atlantic	0.000971387400587851
+Link 2071	East North Central	1.0
+Link 2072	South Atlantic	0.0633050452283434
+Link 2072	East North Central	0.93669495477165
+Link 2073	South Atlantic	0.0304575501564139
+Link 2073	East North Central	0.969542449843585
+Link 2074	South Atlantic	0.147605449717722
+Link 2074	East North Central	0.0426572750331006
+Link 2074	Middle Atlantic	0.809737275249192
+Link 2075	South Atlantic	0.122598875737506
+Link 2075	East North Central	0.00013285120455945
+Link 2075	Middle Atlantic	0.877268273057919
+Link 2076	Middle Atlantic	0.00363116233726699
+Link 2076	East North Central	0.234149855184475
+Link 2076	South Atlantic	0.762218982478297
+Link 2077	East North Central	1.0
+Link 2078	East North Central	1.0
+Link 2079	East North Central	1.0
+Link 208	West South Central	1.0
+Link 2080	Middle Atlantic	1.0
+Link 2081	Middle Atlantic	1.0
+Link 2082	Middle Atlantic	1.0
+Link 2083	Pacific	1.0
+Link 2084	Pacific	1.0
+Link 2085	Pacific	1.0
+Link 2086	Pacific	1.0
+Link 2087	Pacific	1.0
+Link 2088	Pacific	1.0
+Link 2089	Middle Atlantic	1.0
+Link 209	West South Central	1.0
+Link 2090	Middle Atlantic	1.0
+Link 2091	Middle Atlantic	1.0
+Link 2092	Middle Atlantic	1.0
+Link 2093	Middle Atlantic	1.0
+Link 2094	Middle Atlantic	1.0
+Link 2095	Middle Atlantic	1.0
+Link 2096	Middle Atlantic	1.0
+Link 2097	Middle Atlantic	1.0
+Link 2098	Pacific	1.0
+Link 2099	Pacific	1.0
+Link 21	West South Central	1.0
+Link 210	West South Central	1.0
+Link 2100	Pacific	0.999999999999999
+Link 2101	Middle Atlantic	1.0
+Link 2102	Middle Atlantic	1.0
+Link 2103	Middle Atlantic	1.0
+Link 2104	East North Central	1.0
+Link 2105	East North Central	1.0
+Link 2106	East North Central	1.0
+Link 2107	Middle Atlantic	1.0
+Link 2108	Middle Atlantic	1.0
+Link 2109	Middle Atlantic	1.0
+Link 211	West South Central	1.0
+Link 2110	Middle Atlantic	1.0
+Link 2111	Middle Atlantic	1.0
+Link 2112	Middle Atlantic	1.0
+Link 2113	Middle Atlantic	1.0
+Link 2114	Middle Atlantic	1.0
+Link 2115	Middle Atlantic	1.0
+Link 2116	Mountain	1.0
+Link 2117	Mountain	1.0
+Link 2118	Mountain	1.0
+Link 2119	Mountain	1.0
+Link 212	West South Central	1.0
+Link 2120	Mountain	1.0
+Link 2121	Mountain	1.0
+Link 2122	East North Central	1.0
+Link 2123	East North Central	1.0
+Link 2124	East North Central	1.0
+Link 2125	Middle Atlantic	1.0
+Link 2126	Middle Atlantic	1.0
+Link 2127	Middle Atlantic	1.0
+Link 2128	Middle Atlantic	1.0
+Link 2129	Middle Atlantic	1.0
+Link 213	West South Central	1.0
+Link 2130	Middle Atlantic	1.0
+Link 2131	Pacific	1.00000000000001
+Link 2132	Pacific	1.0
+Link 2133	Pacific	1.0
+Link 2134	Mountain	1.0
+Link 2135	Mountain	1.0
+Link 2136	Mountain	1.0
+Link 2137	Middle Atlantic	1.0
+Link 2138	Middle Atlantic	1.0
+Link 2139	Middle Atlantic	1.0
+Link 214	West South Central	1.0
+Link 2140	East North Central	1.0
+Link 2141	East North Central	1.0
+Link 2142	East North Central	1.0
+Link 2143	Mountain	1.0
+Link 2144	Mountain	1.0
+Link 2145	Mountain	1.0
+Link 2146	Middle Atlantic	1.0
+Link 2147	Middle Atlantic	1.0
+Link 2148	Middle Atlantic	1.0
+Link 2149	East North Central	1.0
+Link 215	West South Central	1.0
+Link 2150	East North Central	1.0
+Link 2151	East North Central	1.0
+Link 2152	Middle Atlantic	1.0
+Link 2153	Middle Atlantic	1.0
+Link 2154	Middle Atlantic	1.0
+Link 2155	Mountain	1.0
+Link 2156	Mountain	1.0
+Link 2157	Mountain	1.0
+Link 2158	West North Central	1.0
+Link 2159	West North Central	1.0
+Link 216	West South Central	1.0
+Link 2160	West North Central	1.0
+Link 2161	Middle Atlantic	1.0
+Link 2162	Middle Atlantic	1.0
+Link 2163	Middle Atlantic	1.0
+Link 2164	East North Central	1.0
+Link 2165	East North Central	1.0
+Link 2166	East North Central	1.0
+Link 2167	Pacific	1.0
+Link 2168	Pacific	1.0
+Link 2169	Pacific	0.999999999999996
+Link 217	West South Central	1.0
+Link 2170	West North Central	1.0
+Link 2171	West North Central	1.0
+Link 2172	West North Central	1.0
+Link 2173	Mountain	1.0
+Link 2174	Mountain	0.289403105988952
+Link 2174	Pacific	0.710596894011068
+Link 2175	Mountain	0.161416514695568
+Link 2175	Pacific	0.838583485304466
+Link 2176	East North Central	1.0
+Link 2177	East North Central	1.0
+Link 2178	East North Central	1.0
+Link 2179	Mountain	1.0
+Link 218	West South Central	1.0
+Link 2180	Mountain	1.0
+Link 2181	Mountain	1.0
+Link 2182	New England	0.557774827432539
+Link 2182	Middle Atlantic	0.442225172567461
+Link 2183	Middle Atlantic	0.455705723211118
+Link 2183	New England	0.544294276788901
+Link 2184	New England	1.0
+Link 2185	Middle Atlantic	1.0
+Link 2186	Middle Atlantic	1.0
+Link 2187	Middle Atlantic	1.0
+Link 2188	South Atlantic	0.0774695465345838
+Link 2188	East North Central	0.0670440875733236
+Link 2188	Middle Atlantic	0.855486365892082
+Link 2189	Middle Atlantic	1.0
+Link 219	West South Central	1.0
+Link 2190	Middle Atlantic	0.809737275249192
+Link 2190	South Atlantic	0.147605449717722
+Link 2190	East North Central	0.0426572750331006
+Link 2191	Mountain	1.0
+Link 2192	Mountain	1.0
+Link 2193	Mountain	1.0
+Link 2194	East North Central	1.0
+Link 2195	East North Central	1.0
+Link 2196	East North Central	1.0
+Link 2197	Middle Atlantic	1.0
+Link 2198	Middle Atlantic	1.0
+Link 2199	Middle Atlantic	1.0
+Link 22	West South Central	0.999999999999992
+Link 220	West South Central	1.0
+Link 2200	Middle Atlantic	1.0
+Link 2201	Middle Atlantic	0.999999999999994
+Link 2202	Middle Atlantic	1.0
+Link 2203	Middle Atlantic	1.0
+Link 2204	Middle Atlantic	1.0
+Link 2205	Middle Atlantic	1.0
+Link 2206	New England	0.384719481965177
+Link 2206	Middle Atlantic	0.615280518034823
+Link 2207	New England	0.140400580902924
+Link 2207	Middle Atlantic	0.859599419097092
+Link 2208	Middle Atlantic	0.999999999999998
+Link 2209	New England	1.0
+Link 221	West South Central	1.0
+Link 2210	Middle Atlantic	0.615280518034823
+Link 2210	New England	0.384719481965177
+Link 2211	Middle Atlantic	0.442225172567462
+Link 2211	New England	0.557774827432538
+Link 2212	Mountain	1.0
+Link 2213	Mountain	1.0
+Link 2214	Mountain	1.0
+Link 2215	East North Central	1.0
+Link 2216	East North Central	1.0
+Link 2217	East North Central	1.0
+Link 2218	Middle Atlantic	1.0
+Link 2219	Middle Atlantic	1.0
+Link 222	West South Central	1.0
+Link 2220	Middle Atlantic	1.0
+Link 2221	Middle Atlantic	1.0
+Link 2222	Middle Atlantic	1.0
+Link 2223	Middle Atlantic	1.0
+Link 2224	Middle Atlantic	1.0
+Link 2225	Middle Atlantic	1.0
+Link 2226	Middle Atlantic	1.0
+Link 2227	Middle Atlantic	1.0
+Link 2228	Middle Atlantic	1.0
+Link 2229	Middle Atlantic	1.0
+Link 223	South Atlantic	1.0
+Link 2230	East North Central	0.981481482422951
+Link 2230	West North Central	0.0185185175770369
+Link 2231	West North Central	0.0272984827135926
+Link 2231	East North Central	0.972701517286407
+Link 2232	East North Central	1.0
+Link 2233	Middle Atlantic	1.0
+Link 2234	Middle Atlantic	1.0
+Link 2235	Middle Atlantic	1.0
+Link 2236	New England	1.0
+Link 2237	New England	1.0
+Link 2238	New England	1.0
+Link 2239	East North Central	0.953677982119038
+Link 2239	West North Central	0.0463220178809487
+Link 224	South Atlantic	1.0
+Link 2240	West North Central	0.0185185175770369
+Link 2240	East North Central	0.981481482422951
+Link 2241	West North Central	0.0525892231892836
+Link 2241	East North Central	0.947410776810705
+Link 2242	Middle Atlantic	1.0
+Link 2243	Middle Atlantic	1.0
+Link 2244	Middle Atlantic	1.0
+Link 2245	East North Central	1.0
+Link 2246	East North Central	1.0
+Link 2247	East North Central	1.0
+Link 2248	New England	0.305843094058504
+Link 2248	Middle Atlantic	0.694156905941509
+Link 2249	New England	1.0
+Link 225	South Atlantic	1.0
+Link 2250	Middle Atlantic	0.455705723211118
+Link 2250	New England	0.544294276788901
+Link 2251	East North Central	1.0
+Link 2252	East North Central	1.0
+Link 2253	East North Central	1.0
+Link 2254	Middle Atlantic	0.76700328243996
+Link 2254	New England	0.232996717560055
+Link 2255	New England	0.305843094058504
+Link 2255	Middle Atlantic	0.694156905941509
+Link 2256	Middle Atlantic	1.0
+Link 2257	Middle Atlantic	1.0
+Link 2258	Middle Atlantic	1.0
+Link 2259	Middle Atlantic	1.0
+Link 226	West South Central	1.0
+Link 2260	East North Central	1.0
+Link 2261	East North Central	1.0
+Link 2262	East North Central	1.0
+Link 2263	Middle Atlantic	1.0
+Link 2264	Middle Atlantic	1.0
+Link 2265	Middle Atlantic	1.0
+Link 2266	West North Central	1.0
+Link 2267	West North Central	1.0
+Link 2268	West North Central	1.0
+Link 2269	East North Central	1.0
+Link 227	West South Central	1.0
+Link 2270	East North Central	1.0
+Link 2271	East North Central	1.0
+Link 2272	New England	1.0
+Link 2273	New England	1.0
+Link 2274	New England	1.0
+Link 2275	East North Central	1.0
+Link 2276	East North Central	1.0
+Link 2277	East North Central	1.0
+Link 2278	East North Central	1.0
+Link 2279	East North Central	1.0
+Link 228	West South Central	0.999999999999999
+Link 2280	East North Central	1.0
+Link 2281	East North Central	0.0998874526020543
+Link 2281	South Atlantic	0.0542495227803515
+Link 2281	Middle Atlantic	0.845863024617563
+Link 2282	Middle Atlantic	1.0
+Link 2283	South Atlantic	0.0774695465345838
+Link 2283	Middle Atlantic	0.855486365892081
+Link 2283	East North Central	0.0670440875733236
+Link 2284	Middle Atlantic	1.0
+Link 2285	Middle Atlantic	1.0
+Link 2286	Middle Atlantic	1.0
+Link 2287	East North Central	1.0
+Link 2288	East North Central	1.0
+Link 2289	East North Central	1.0
+Link 229	West South Central	1.0
+Link 2290	East North Central	1.0
+Link 2291	East North Central	1.0
+Link 2292	East North Central	1.0
+Link 2293	East North Central	0.951288603107033
+Link 2293	South Atlantic	0.048711396892967
+Link 2294	South Atlantic	0.056648770025634
+Link 2294	East North Central	0.943351229974374
+Link 2295	East North Central	1.0
+Link 2296	West North Central	1.0
+Link 2297	West North Central	1.0
+Link 2298	West North Central	1.0
+Link 2299	East North Central	0.972039921075092
+Link 2299	West North Central	0.0279600789249274
+Link 23	West South Central	0.999999999999998
+Link 230	West South Central	1.0
+Link 2300	East North Central	1.0
+Link 2301	West North Central	0.0272984827135926
+Link 2301	East North Central	0.972701517286409
+Link 2302	East North Central	1.0
+Link 2303	East North Central	1.0
+Link 2304	East North Central	1.0
+Link 2305	East North Central	1.0
+Link 2306	East North Central	1.0
+Link 2307	East North Central	1.0
+Link 2309	Middle Atlantic	1.0
+Link 231	West South Central	1.0
+Link 2310	Middle Atlantic	1.0
+Link 2311	New England	0.45693308588236
+Link 2311	Middle Atlantic	0.54306691411764
+Link 2312	Middle Atlantic	0.859599419097093
+Link 2312	New England	0.140400580902924
+Link 2313	New England	0.999999999999999
+Link 2314	New England	1.0
+Link 2315	New England	0.999999999999999
+Link 2316	New England	1.0
+Link 2317	South Atlantic	0.272021340157098
+Link 2317	New England	0.7279786598429
+Link 2318	Middle Atlantic	0.660740848277001
+Link 2318	South Atlantic	0.339259151722992
+Link 2319	New England	0.45693308588236
+Link 2319	Middle Atlantic	0.54306691411764
+Link 232	West South Central	1.0
+Link 2320	East North Central	1.0
+Link 2321	East North Central	1.0
+Link 2322	East North Central	0.999999999999987
+Link 2323	East North Central	0.00963039222122034
+Link 2323	West North Central	0.990369607778761
+Link 2324	East North Central	0.00803261963698472
+Link 2324	West North Central	0.991967380363015
+Link 2325	West North Central	1.0
+Link 2326	East North Central	1.0
+Link 2327	East North Central	1.0
+Link 2328	East North Central	1.0
+Link 2329	East North Central	1.0
+Link 233	West South Central	1.0
+Link 2330	East North Central	1.0
+Link 2331	East North Central	1.0
+Link 2332	East North Central	0.999999999999999
+Link 2333	East North Central	1.0
+Link 2334	East North Central	1.0
+Link 2335	East North Central	1.0
+Link 2336	East North Central	1.0
+Link 2337	East North Central	1.0
+Link 2338	East North Central	0.0550785952989417
+Link 2338	West North Central	0.944921404701061
+Link 2339	East North Central	0.953677982119038
+Link 2339	West North Central	0.0463220178809487
+Link 234	West South Central	1.0
+Link 2340	West North Central	0.702943660102184
+Link 2340	East North Central	0.297056339897817
+Link 2341	East North Central	1.0
+Link 2342	East North Central	1.0
+Link 2343	East North Central	1.0
+Link 2344	New England	1.0
+Link 2345	New England	1.0
+Link 2346	New England	1.0
+Link 2347	New England	1.0
+Link 2348	New England	1.0
+Link 2349	New England	1.0
+Link 235	West South Central	1.0
+Link 2350	East North Central	1.0
+Link 2351	East North Central	1.0
+Link 2352	East North Central	1.0
+Link 2353	New England	1.0
+Link 2354	New England	1.0
+Link 2355	New England	1.0
+Link 2356	East North Central	1.0
+Link 2357	East North Central	1.0
+Link 2358	East North Central	1.0
+Link 2359	East North Central	1.0
+Link 236	West South Central	1.0
+Link 2360	East North Central	1.0
+Link 2361	East North Central	1.0
+Link 2362	Pacific	0.870872709893116
+Link 2362	Mountain	0.12912729010689
+Link 2363	Mountain	0.540150654333987
+Link 2363	Pacific	0.459849345665971
+Link 2364	Pacific	1.0
+Link 2365	East North Central	1.0
+Link 2366	East North Central	0.961656963733497
+Link 2366	South Atlantic	0.0383430362664996
+Link 2367	South Atlantic	0.048711396892967
+Link 2367	East North Central	0.951288603107033
+Link 2368	New England	1.0
+Link 2369	New England	1.0
+Link 237	West South Central	1.0
+Link 2370	New England	1.0
+Link 2371	East North Central	1.0
+Link 2372	East North Central	1.0
+Link 2373	East North Central	1.0
+Link 2374	New England	1.0
+Link 2375	New England	1.0
+Link 2376	New England	1.0
+Link 2377	East North Central	0.289923664647006
+Link 2377	Middle Atlantic	0.710076335352983
+Link 2378	Middle Atlantic	0.845863024617563
+Link 2378	South Atlantic	0.0542495227803515
+Link 2378	East North Central	0.0998874526020543
+Link 2379	East North Central	0.961656963733498
+Link 2379	South Atlantic	0.0383430362664997
+Link 238	West South Central	1.0
+Link 2380	East North Central	1.0
+Link 2381	East North Central	1.0
+Link 2382	East North Central	1.0
+Link 2383	Middle Atlantic	1.0
+Link 2384	Middle Atlantic	1.0
+Link 2385	Middle Atlantic	1.0
+Link 2386	East North Central	1.0
+Link 2387	East North Central	1.0
+Link 2388	East North Central	1.0
+Link 2389	West North Central	1.0
+Link 239	West South Central	1.0
+Link 2390	West North Central	1.0
+Link 2391	West North Central	1.0
+Link 2392	East North Central	1.0
+Link 2393	East North Central	1.0
+Link 2394	East North Central	1.0
+Link 2395	Middle Atlantic	1.0
+Link 2396	Middle Atlantic	1.0
+Link 2397	Middle Atlantic	1.0
+Link 2398	Mountain	1.0
+Link 2399	Mountain	1.0
+Link 24	West South Central	0.999999999999983
+Link 240	West South Central	1.0
+Link 2400	Mountain	1.0
+Link 2401	West North Central	1.0
+Link 2402	West North Central	0.702943660102185
+Link 2402	East North Central	0.297056339897817
+Link 2403	East North Central	0.00963039222122034
+Link 2403	West North Central	0.990369607778763
+Link 2404	West North Central	0.0316890770318351
+Link 2404	East North Central	0.96831092296816
+Link 2405	East North Central	1.0
+Link 2406	East North Central	0.972039921075091
+Link 2406	West North Central	0.0279600789249274
+Link 2407	East North Central	1.0
+Link 2408	East North Central	0.999999999999999
+Link 2409	East North Central	1.0
+Link 241	West South Central	1.0
+Link 2410	East North Central	1.0
+Link 2411	East North Central	1.0
+Link 2412	East North Central	1.0
+Link 2413	Middle Atlantic	0.611422352189261
+Link 2413	East North Central	0.38857764781075
+Link 2414	Middle Atlantic	1.0
+Link 2415	East North Central	0.289923664647006
+Link 2415	Middle Atlantic	0.710076335352983
+Link 2416	East North Central	1.0
+Link 2417	East North Central	1.0
+Link 2418	East North Central	1.0
+Link 2419	East North Central	1.0
+Link 242	West South Central	1.0
+Link 2420	East North Central	1.0
+Link 2421	East North Central	1.0
+Link 2422	Middle Atlantic	0.79471926818619
+Link 2422	New England	0.205280731813816
+Link 2423	Middle Atlantic	0.76700328243996
+Link 2423	New England	0.232996717560055
+Link 2424	Middle Atlantic	1.0
+Link 2425	New England	1.0
+Link 2426	New England	1.0
+Link 2427	New England	1.0
+Link 2428	Mountain	1.0
+Link 2429	Mountain	1.0
+Link 243	West South Central	1.0
+Link 2430	Mountain	1.0
+Link 2431	Middle Atlantic	1.0
+Link 2432	Middle Atlantic	1.0
+Link 2433	Middle Atlantic	1.0
+Link 2434	Middle Atlantic	1.0
+Link 2435	Middle Atlantic	1.0
+Link 2436	Middle Atlantic	1.0
+Link 2438	Middle Atlantic	1.0
+Link 244	West South Central	1.0
+Link 2440	Mountain	1.0
+Link 2441	Mountain	1.0
+Link 2442	Mountain	1.0
+Link 2443	East North Central	1.0
+Link 2444	East North Central	1.0
+Link 2445	East North Central	1.0
+Link 2446	New England	1.0
+Link 2447	New England	1.0
+Link 2448	New England	1.0
+Link 2449	Mountain	1.0
+Link 245	West South Central	1.0
+Link 2450	Mountain	1.0
+Link 2451	Mountain	1.0
+Link 2452	Middle Atlantic	1.0
+Link 2454	Middle Atlantic	1.0
+Link 2455	New England	1.0
+Link 2456	New England	1.0
+Link 2457	New England	1.0
+Link 2458	West North Central	1.0
+Link 2459	West North Central	1.0
+Link 246	West South Central	1.0
+Link 2460	West North Central	1.0
+Link 2461	East North Central	1.0
+Link 2462	East North Central	1.0
+Link 2463	East North Central	1.0
+Link 2464	East North Central	1.0
+Link 2465	East North Central	1.0
+Link 2466	East North Central	1.0
+Link 2467	East North Central	1.0
+Link 2468	East North Central	1.0
+Link 2469	East North Central	1.0
+Link 247	West South Central	1.0
+Link 2470	New England	1.0
+Link 2471	New England	1.0
+Link 2472	New England	1.0
+Link 2473	Mountain	1.0
+Link 2474	Mountain	1.0
+Link 2475	Mountain	1.0
+Link 2476	New England	0.443240902282842
+Link 2476	Middle Atlantic	0.556759097717146
+Link 2477	New England	1.0
+Link 2478	Middle Atlantic	0.79471926818619
+Link 2478	New England	0.205280731813816
+Link 2479	Pacific	0.999999999999999
+Link 248	West South Central	1.0
+Link 2480	Pacific	1.0
+Link 2481	Pacific	1.0
+Link 2482	New England	1.0
+Link 2483	New England	1.0
+Link 2484	New England	1.0
+Link 2485	East North Central	0.999999999999999
+Link 2486	East North Central	0.999999999999999
+Link 2487	East North Central	1.0
+Link 2488	Mountain	1.0
+Link 2489	Mountain	1.0
+Link 249	West South Central	1.0
+Link 2490	Mountain	1.0
+Link 2491	Pacific	1.0
+Link 2492	Pacific	1.0
+Link 2493	Pacific	1.0
+Link 2495	East North Central	1.0
+Link 2496	East North Central	1.0
+Link 2497	Pacific	1.0
+Link 2498	Pacific	0.999999999999999
+Link 2499	Pacific	0.999999999999969
+Link 25	South Atlantic	1.0
+Link 250	West South Central	1.0
+Link 2500	East North Central	1.0
+Link 2501	East North Central	1.0
+Link 2502	East North Central	1.0
+Link 2503	East North Central	1.0
+Link 2504	East North Central	1.0
+Link 2505	East North Central	1.0
+Link 2506	Pacific	1.0
+Link 2507	Pacific	1.0
+Link 2508	Pacific	1.0
+Link 2509	Middle Atlantic	1.0
+Link 251	West South Central	1.0
+Link 2510	Middle Atlantic	1.0
+Link 2511	Middle Atlantic	1.0
+Link 2512	Middle Atlantic	1.0
+Link 2513	Middle Atlantic	1.0
+Link 2514	Middle Atlantic	1.0
+Link 2515	West North Central	1.0
+Link 2516	West North Central	1.0
+Link 2517	West North Central	1.0
+Link 2518	New England	1.0
+Link 2519	New England	1.0
+Link 252	West South Central	1.0
+Link 2520	New England	1.0
+Link 2521	West North Central	1.0
+Link 2522	West North Central	1.0
+Link 2523	West North Central	1.0
+Link 2524	East North Central	1.0
+Link 2525	East North Central	1.0
+Link 2526	East North Central	1.0
+Link 2527	East North Central	1.0
+Link 2528	East North Central	0.999999999999999
+Link 2529	East North Central	1.0
+Link 253	South Atlantic	0.152719915326616
+Link 253	East South Central	0.322941170169506
+Link 253	West South Central	0.524338914503871
+Link 2530	East North Central	1.0
+Link 2531	East North Central	1.00000000000001
+Link 2532	East North Central	1.0
+Link 2533	West North Central	1.0
+Link 2534	West North Central	1.0
+Link 2535	West North Central	1.0
+Link 2536	East North Central	1.0
+Link 2537	East North Central	1.0
+Link 2538	East North Central	0.999999999999999
+Link 2539	East North Central	1.0
+Link 254	East South Central	0.136861612718411
+Link 254	West South Central	0.863138387281586
+Link 2540	East North Central	1.0
+Link 2541	East North Central	1.0
+Link 2542	New England	1.0
+Link 2543	New England	1.0
+Link 2544	New England	1.0
+Link 2545	East North Central	1.0
+Link 2546	East North Central	1.0
+Link 2547	East North Central	1.0
+Link 2548	New England	0.258682785370482
+Link 2548	Middle Atlantic	0.741317214629524
+Link 2549	New England	1.0
+Link 255	South Atlantic	0.185663773409316
+Link 255	East South Central	0.814336226590684
+Link 2550	Middle Atlantic	0.556759097717146
+Link 2550	New England	0.443240902282842
+Link 2551	East North Central	1.0
+Link 2552	East North Central	1.0
+Link 2553	East North Central	1.0
+Link 2554	Mountain	1.0
+Link 2555	Mountain	1.0
+Link 2556	Mountain	1.0
+Link 2557	New England	1.0
+Link 2558	New England	1.0
+Link 2559	New England	1.0
+Link 256	South Atlantic	0.999999999999994
+Link 2560	Middle Atlantic	1.0
+Link 2561	Middle Atlantic	1.0
+Link 2562	Middle Atlantic	1.0
+Link 2563	South Atlantic	0.550594644984952
+Link 2563	New England	0.449405355015039
+Link 2564	South Atlantic	1.00000000000002
+Link 2565	New England	0.7279786598429
+Link 2565	South Atlantic	0.272021340157098
+Link 2566	Mountain	0.380059159673734
+Link 2566	West North Central	0.61994084032626
+Link 2567	West South Central	0.493182572719926
+Link 2567	West North Central	0.506817427280072
+Link 2568	West South Central	0.494066623525487
+Link 2568	Mountain	0.505933376474537
+Link 2569	West North Central	0.075419017355512
+Link 2569	East North Central	0.924580982644465
+Link 257	West South Central	0.659540863774904
+Link 257	South Atlantic	0.340459136225096
+Link 2570	East North Central	1.0
+Link 2571	East North Central	0.968310922968161
+Link 2571	West North Central	0.0316890770318351
+Link 2572	East North Central	1.0
+Link 2573	East North Central	1.0
+Link 2574	East North Central	1.0
+Link 2575	West North Central	0.959523502410548
+Link 2575	East North Central	0.0404764975894692
+Link 2576	West North Central	0.944921404701062
+Link 2576	East North Central	0.0550785952989417
+Link 2577	West North Central	1.0
+Link 2578	New England	1.0
+Link 2579	New England	1.0
+Link 258	South Atlantic	0.152719915326616
+Link 258	West South Central	0.524338914503871
+Link 258	East South Central	0.322941170169506
+Link 2580	New England	1.0
+Link 2581	Middle Atlantic	1.0
+Link 2582	Middle Atlantic	1.0
+Link 2583	Middle Atlantic	1.0
+Link 2584	Pacific	0.887287783050018
+Link 2584	Mountain	0.112712216949966
+Link 2585	Mountain	0.12912729010689
+Link 2585	Pacific	0.870872709893115
+Link 2586	Pacific	1.0
+Link 2587	New England	0.243420754130969
+Link 2587	Middle Atlantic	0.756579245869057
+Link 2588	New England	0.258682785370482
+Link 2588	Middle Atlantic	0.741317214629524
+Link 2589	Middle Atlantic	1.0
+Link 259	West South Central	1.0
+Link 2590	Middle Atlantic	1.0
+Link 2591	Middle Atlantic	1.0
+Link 2592	Middle Atlantic	1.0
+Link 2593	New England	1.0
+Link 2594	New England	1.0
+Link 2595	New England	1.0
+Link 2596	East North Central	1.0
+Link 2597	East North Central	1.0
+Link 2598	East North Central	1.0
+Link 2599	New England	1.0
+Link 26	South Atlantic	1.0
+Link 260	West South Central	1.0
+Link 2600	New England	1.0
+Link 2601	New England	1.0
+Link 2602	East North Central	1.0
+Link 2603	East North Central	1.0
+Link 2604	East North Central	1.0
+Link 2606	East North Central	0.999999999999987
+Link 2608	East North Central	1.0
+Link 2609	East North Central	1.0
+Link 261	West South Central	1.0
+Link 2610	East North Central	1.0
+Link 2611	Mountain	1.0
+Link 2612	Mountain	1.0
+Link 2613	Mountain	1.0
+Link 2614	Mountain	0.391743172175795
+Link 2614	West North Central	0.608256827824216
+Link 2615	West North Central	0.61994084032626
+Link 2615	Mountain	0.380059159673734
+Link 2616	Mountain	1.0
+Link 2617	East North Central	1.0
+Link 2618	East North Central	1.0
+Link 2619	East North Central	1.0
+Link 262	South Atlantic	0.264927889744366
+Link 262	East South Central	0.735072110255636
+Link 2620	Mountain	1.0
+Link 2621	Mountain	1.0
+Link 2622	Mountain	1.0
+Link 2623	Mountain	1.0
+Link 2624	Mountain	1.0
+Link 2625	Mountain	1.0
+Link 2626	Middle Atlantic	1.0
+Link 2627	Middle Atlantic	1.0
+Link 2628	Middle Atlantic	1.0
+Link 2629	East North Central	1.0
+Link 263	South Atlantic	0.185663773409316
+Link 263	East South Central	0.814336226590684
+Link 2630	East North Central	1.0
+Link 2631	East North Central	1.0
+Link 2632	Middle Atlantic	1.0
+Link 2633	Middle Atlantic	1.00000000000001
+Link 2634	Middle Atlantic	1.0
+Link 2635	Mountain	1.0
+Link 2636	Mountain	1.0
+Link 2637	Mountain	1.0
+Link 2638	East North Central	1.0
+Link 2639	East North Central	1.0
+Link 264	East South Central	1.0
+Link 2640	East North Central	1.0
+Link 2641	South Atlantic	0.862869760426129
+Link 2641	New England	0.137130239573872
+Link 2642	South Atlantic	1.00000000000001
+Link 2643	New England	0.449405355015039
+Link 2643	South Atlantic	0.550594644984952
+Link 2644	Mountain	1.0
+Link 2645	Mountain	1.0
+Link 2646	Mountain	1.0
+Link 2647	Middle Atlantic	1.0
+Link 2648	Middle Atlantic	1.0
+Link 2649	Middle Atlantic	1.0
+Link 265	West South Central	0.603724627162117
+Link 265	East South Central	0.39627537283788
+Link 2650	West North Central	1.0
+Link 2651	West North Central	1.0
+Link 2652	West North Central	1.0
+Link 2653	Middle Atlantic	1.0
+Link 2654	Middle Atlantic	1.0
+Link 2655	Middle Atlantic	1.0
+Link 2656	Middle Atlantic	1.0
+Link 2657	Middle Atlantic	1.0
+Link 2658	Middle Atlantic	1.0
+Link 2659	Middle Atlantic	1.0
+Link 266	East South Central	0.136861612718411
+Link 266	West South Central	0.863138387281586
+Link 2660	Middle Atlantic	1.0
+Link 2661	Middle Atlantic	1.0
+Link 2662	East North Central	1.0
+Link 2663	East North Central	1.0
+Link 2664	East North Central	1.0
+Link 2665	New England	1.0
+Link 2666	New England	1.0
+Link 2667	New England	1.0
+Link 2668	New England	1.0
+Link 2669	New England	1.0
+Link 267	West South Central	1.0
+Link 2670	New England	1.0
+Link 2671	Mountain	1.0
+Link 2672	Mountain	1.0
+Link 2673	Mountain	1.0
+Link 2674	Mountain	1.0
+Link 2675	Mountain	1.0
+Link 2676	Mountain	1.0
+Link 2677	New England	0.999999999999996
+Link 2678	New England	1.0
+Link 2679	New England	1.0
+Link 268	West South Central	1.0
+Link 2680	East North Central	1.0
+Link 2681	East North Central	1.0
+Link 2682	East North Central	1.0
+Link 2683	West North Central	0.612558081727952
+Link 2683	Mountain	0.387441918272031
+Link 2684	West North Central	0.608256827824216
+Link 2684	Mountain	0.391743172175795
+Link 2685	Mountain	1.0
+Link 2686	Middle Atlantic	1.0
+Link 2687	Middle Atlantic	1.0
+Link 2688	Middle Atlantic	1.0
+Link 2689	East North Central	1.0
+Link 269	West South Central	1.0
+Link 2690	East North Central	1.0
+Link 2691	East North Central	0.999999999999999
+Link 2692	Middle Atlantic	1.0
+Link 2693	Middle Atlantic	1.0
+Link 2694	Middle Atlantic	1.0
+Link 2695	Middle Atlantic	1.0
+Link 2696	Middle Atlantic	1.0
+Link 2697	Middle Atlantic	1.0
+Link 2698	East North Central	1.0
+Link 2699	East North Central	1.0
+Link 27	South Atlantic	1.0
+Link 270	West South Central	1.0
+Link 2700	East North Central	1.0
+Link 2701	East North Central	1.0
+Link 2702	East North Central	1.0
+Link 2703	East North Central	1.0
+Link 2704	Middle Atlantic	1.0
+Link 2705	Middle Atlantic	1.0
+Link 2706	Middle Atlantic	1.00000000000001
+Link 2707	East North Central	0.704504204385638
+Link 2707	West North Central	0.295495795614398
+Link 2708	East North Central	1.0
+Link 2709	West North Central	0.075419017355512
+Link 2709	East North Central	0.924580982644465
+Link 271	West South Central	1.0
+Link 2710	Middle Atlantic	1.0
+Link 2711	Middle Atlantic	1.0
+Link 2712	Middle Atlantic	1.0
+Link 2713	East North Central	1.0
+Link 2714	East North Central	1.0
+Link 2715	East North Central	1.0
+Link 2716	East North Central	1.0
+Link 2717	East North Central	1.0
+Link 2718	East North Central	1.0
+Link 2719	Middle Atlantic	1.0
+Link 272	West South Central	1.0
+Link 2720	Middle Atlantic	1.0
+Link 2721	Middle Atlantic	1.0
+Link 2722	New England	1.0
+Link 2723	New England	1.0
+Link 2724	New England	1.0
+Link 2725	Middle Atlantic	1.0
+Link 2726	Middle Atlantic	1.0
+Link 2727	Middle Atlantic	1.0
+Link 2728	New England	1.0
+Link 2729	New England	1.0
+Link 273	West South Central	1.0
+Link 2730	New England	1.0
+Link 2731	New England	0.20922227834477
+Link 2731	Middle Atlantic	0.790777721655268
+Link 2732	New England	0.243420754130969
+Link 2732	Middle Atlantic	0.756579245869057
+Link 2733	Middle Atlantic	1.0
+Link 2734	Pacific	1.0
+Link 2735	Pacific	1.0
+Link 2736	Pacific	1.0
+Link 2737	Middle Atlantic	1.0
+Link 2738	Middle Atlantic	1.0
+Link 2739	Middle Atlantic	1.0
+Link 274	West South Central	1.0
+Link 2740	Mountain	1.0
+Link 2741	Mountain	1.0
+Link 2742	Mountain	1.0
+Link 2743	New England	1.0
+Link 2744	New England	1.0
+Link 2745	New England	1.0
+Link 2746	Middle Atlantic	1.0
+Link 2747	Middle Atlantic	1.0
+Link 2748	Middle Atlantic	1.0
+Link 2749	Middle Atlantic	0.784691950214548
+Link 2749	New England	0.215308049785487
+Link 275	West South Central	1.0
+Link 2750	Middle Atlantic	0.790777721655269
+Link 2750	New England	0.20922227834477
+Link 2751	Middle Atlantic	1.0
+Link 2752	New England	1.0
+Link 2753	New England	1.0
+Link 2754	New England	1.0
+Link 2755	Mountain	0.37826025076238
+Link 2755	West North Central	0.621739749237623
+Link 2756	West North Central	1.0
+Link 2757	West North Central	0.612558081727953
+Link 2757	Mountain	0.387441918272031
+Link 2758	Mountain	0.738987080727126
+Link 2758	Pacific	0.261012919272857
+Link 2759	Mountain	1.0
+Link 276	West South Central	1.0
+Link 2760	Mountain	1.0
+Link 2761	Mountain	1.0
+Link 2762	Mountain	1.0
+Link 2763	Mountain	1.0
+Link 2764	East North Central	1.0
+Link 2765	East North Central	0.999999999999999
+Link 2766	East North Central	1.0
+Link 2767	Mountain	1.0
+Link 2768	Mountain	1.0
+Link 2769	Mountain	1.0
+Link 277	West South Central	1.0
+Link 2770	Mountain	1.0
+Link 2771	Mountain	1.0
+Link 2772	Mountain	1.0
+Link 2773	West North Central	1.0
+Link 2774	West North Central	1.0
+Link 2775	West North Central	1.0
+Link 2776	West North Central	1.0
+Link 2777	West North Central	1.0
+Link 2778	West North Central	1.0
+Link 2779	Middle Atlantic	1.0
+Link 278	West South Central	1.0
+Link 2780	Middle Atlantic	1.0
+Link 2781	Middle Atlantic	1.0
+Link 2782	East North Central	1.0
+Link 2783	East North Central	1.0
+Link 2784	East North Central	1.0
+Link 2785	East North Central	1.0
+Link 2786	East North Central	1.0
+Link 2787	East North Central	1.0
+Link 2788	New England	1.0
+Link 2789	New England	1.0
+Link 279	West South Central	1.0
+Link 2790	New England	1.0
+Link 2791	New England	1.0
+Link 2792	New England	1.0
+Link 2793	New England	1.0
+Link 2794	East North Central	1.0
+Link 2795	East North Central	1.0
+Link 2796	East North Central	1.0
+Link 2797	Mountain	1.0
+Link 2798	Mountain	1.0
+Link 2799	Mountain	1.0
+Link 28	South Atlantic	1.0
+Link 280	West South Central	1.0
+Link 2800	Mountain	1.0
+Link 2801	Mountain	1.0
+Link 2802	Mountain	1.0
+Link 2803	Middle Atlantic	0.999999999999997
+Link 2804	Middle Atlantic	1.0
+Link 2805	Middle Atlantic	1.0
+Link 2806	New England	1.0
+Link 2807	New England	0.999999999999996
+Link 2808	New England	1.0
+Link 2809	Mountain	1.0
+Link 281	West South Central	1.0
+Link 2810	Mountain	1.0
+Link 2811	Mountain	1.0
+Link 2812	West North Central	0.943887528387251
+Link 2812	East North Central	0.056112471612758
+Link 2813	East North Central	0.0987877885129616
+Link 2813	West North Central	0.901212211487045
+Link 2814	West North Central	1.0
+Link 2815	West North Central	0.48195408519546
+Link 2815	East North Central	0.518045914804514
+Link 2816	East North Central	0.0404764975894692
+Link 2816	West North Central	0.959523502410548
+Link 2817	East North Central	0.0987877885129615
+Link 2817	West North Central	0.901212211487045
+Link 2818	Middle Atlantic	1.0
+Link 2819	Middle Atlantic	1.0
+Link 282	West South Central	1.0
+Link 2820	Middle Atlantic	1.0
+Link 2821	East North Central	1.0
+Link 2822	East North Central	0.704504204385638
+Link 2822	West North Central	0.295495795614398
+Link 2823	East North Central	0.518045914804514
+Link 2823	West North Central	0.48195408519546
+Link 2826	East North Central	1.00000000000001
+Link 2827	South Atlantic	0.557758960319174
+Link 2827	New England	0.442241039680785
+Link 2828	South Atlantic	0.999999999999989
+Link 2829	South Atlantic	0.862869760426128
+Link 2829	New England	0.137130239573872
+Link 283	West South Central	1.0
+Link 2830	Middle Atlantic	1.00000000000001
+Link 2831	Middle Atlantic	1.0
+Link 2832	Middle Atlantic	1.0
+Link 2833	West North Central	1.0
+Link 2834	West North Central	1.0
+Link 2835	West North Central	1.0
+Link 2836	West North Central	0.905607496351708
+Link 2836	East North Central	0.0943925036482909
+Link 2837	West North Central	0.943887528387252
+Link 2837	East North Central	0.056112471612758
+Link 2838	West North Central	1.0
+Link 2839	East North Central	1.0
+Link 284	West South Central	1.0
+Link 2840	East North Central	1.0
+Link 2841	East North Central	1.0
+Link 2842	West North Central	1.0
+Link 2843	West North Central	1.0
+Link 2844	West North Central	1.0
+Link 2845	East North Central	1.0
+Link 2846	East North Central	1.0
+Link 2847	East North Central	1.0
+Link 2848	New England	1.0
+Link 2849	New England	1.0
+Link 285	West South Central	1.0
+Link 2850	New England	1.0
+Link 2851	West North Central	0.364062251136044
+Link 2851	Mountain	0.63593774886394
+Link 2852	West North Central	0.517072691701923
+Link 2852	Mountain	0.482927308298141
+Link 2853	Mountain	1.0
+Link 2854	West North Central	1.0
+Link 2855	West North Central	1.0
+Link 2856	West North Central	1.0
+Link 2857	West North Central	1.0
+Link 2858	West North Central	1.0
+Link 2859	West North Central	1.0
+Link 286	West South Central	1.0
+Link 2860	Middle Atlantic	0.201906667692115
+Link 2860	New England	0.798093332307914
+Link 2861	New England	1.0
+Link 2862	Middle Atlantic	0.784691950214548
+Link 2862	New England	0.215308049785487
+Link 2863	East North Central	1.0
+Link 2864	East North Central	1.0
+Link 2865	East North Central	1.0
+Link 2866	Pacific	1.0
+Link 2867	Pacific	1.0
+Link 2868	Pacific	1.0
+Link 2869	Pacific	1.0
+Link 287	West South Central	1.0
+Link 2870	Pacific	1.0
+Link 2871	Pacific	1.0
+Link 2872	Pacific	1.0
+Link 2873	Pacific	1.0
+Link 2874	Pacific	1.0
+Link 2875	Middle Atlantic	1.0
+Link 2876	Middle Atlantic	1.0
+Link 2877	Middle Atlantic	1.0
+Link 2878	East North Central	1.0
+Link 2879	East North Central	1.0
+Link 288	West South Central	1.0
+Link 2880	East North Central	0.999999999999999
+Link 2881	East North Central	1.0
+Link 2882	East North Central	1.0
+Link 2883	East North Central	1.0
+Link 2884	Pacific	1.0
+Link 2885	Pacific	1.0
+Link 2886	Pacific	1.0
+Link 2887	New England	1.0
+Link 2888	New England	0.798093332307914
+Link 2888	Middle Atlantic	0.201906667692115
+Link 2889	Middle Atlantic	0.521940728113292
+Link 2889	New England	0.478059271886721
+Link 289	South Atlantic	1.0
+Link 2890	Middle Atlantic	1.0
+Link 2891	Middle Atlantic	1.0
+Link 2892	Middle Atlantic	1.0
+Link 2893	Mountain	0.458052101168593
+Link 2893	West North Central	0.54194789883145
+Link 2894	Mountain	1.0
+Link 2895	Mountain	0.482927308298141
+Link 2895	West North Central	0.517072691701922
+Link 2896	East North Central	1.0
+Link 2897	East North Central	1.0
+Link 2898	East North Central	1.0
+Link 29	South Atlantic	1.0
+Link 290	South Atlantic	0.999999999999999
+Link 2900	East North Central	1.0
+Link 2902	New England	1.0
+Link 2903	New England	1.0
+Link 2904	New England	1.0
+Link 2905	East North Central	0.999999999999999
+Link 2906	East North Central	1.0
+Link 2907	East North Central	1.0
+Link 2908	West North Central	1.0
+Link 2909	West North Central	0.621739749237623
+Link 2909	Mountain	0.37826025076238
+Link 291	South Atlantic	0.999999999999994
+Link 2910	Mountain	0.458052101168593
+Link 2910	West North Central	0.541947898831449
+Link 2911	West North Central	1.0
+Link 2912	West North Central	1.0
+Link 2913	West North Central	1.0
+Link 2914	West North Central	1.0
+Link 2915	West North Central	1.0
+Link 2916	West North Central	1.0
+Link 2917	Pacific	0.912718087048607
+Link 2917	Mountain	0.0872819129514063
+Link 2918	Mountain	0.738987080727123
+Link 2918	Pacific	0.261012919272857
+Link 2919	Mountain	0.112712216949966
+Link 2919	Pacific	0.887287783050019
+Link 292	West South Central	1.0
+Link 2920	West North Central	0.439282637159284
+Link 2920	East North Central	0.560717362840729
+Link 2921	East North Central	1.0
+Link 2922	East North Central	0.0943925036482909
+Link 2922	West North Central	0.905607496351708
+Link 2923	Pacific	1.0
+Link 2924	Pacific	1.0
+Link 2925	Pacific	1.0
+Link 2926	West North Central	1.0
+Link 2927	West North Central	1.0
+Link 2928	West North Central	1.0
+Link 2929	West North Central	1.0
+Link 293	West South Central	1.0
+Link 2930	West North Central	1.0
+Link 2931	West North Central	1.0
+Link 2932	West North Central	1.0
+Link 2933	West North Central	1.0
+Link 2934	West North Central	1.0
+Link 2935	Pacific	1.00000000000002
+Link 2936	Pacific	1.0
+Link 2937	Pacific	0.999999999999969
+Link 2938	Pacific	1.0
+Link 2939	Pacific	1.0
+Link 294	West South Central	1.0
+Link 2940	Pacific	1.0
+Link 2941	Mountain	0.634310805179168
+Link 2941	West North Central	0.365689194820824
+Link 2942	West North Central	0.364062251136044
+Link 2942	Mountain	0.635937748863939
+Link 2943	Mountain	1.0
+Link 2944	West North Central	1.0
+Link 2945	West North Central	1.0
+Link 2946	West North Central	1.0
+Link 2947	Pacific	0.90440214518052
+Link 2947	Mountain	0.0955978548194743
+Link 2948	Mountain	0.0872819129514063
+Link 2948	Pacific	0.912718087048608
+Link 2949	Pacific	1.0
+Link 295	West South Central	1.0
+Link 2950	Pacific	1.0
+Link 2951	Pacific	1.0
+Link 2952	Pacific	1.0
+Link 2953	Mountain	1.0
+Link 2954	Mountain	1.0
+Link 2955	Mountain	1.0
+Link 2956	Pacific	1.0
+Link 2957	Pacific	1.0
+Link 2958	Pacific	1.0
+Link 2959	Pacific	1.0
+Link 296	West South Central	1.0
+Link 2960	Pacific	1.0
+Link 2961	Pacific	1.0
+Link 2963	Middle Atlantic	1.0
+Link 2964	Middle Atlantic	1.0
+Link 2965	East North Central	1.0
+Link 2966	East North Central	1.0
+Link 2967	East North Central	1.0
+Link 297	West South Central	1.0
+Link 2970	Middle Atlantic	1.0
+Link 2971	Pacific	1.0
+Link 2972	Pacific	1.0
+Link 2973	Pacific	1.0
+Link 2974	New England	1.0
+Link 2975	New England	1.0
+Link 2976	New England	1.0
+Link 2977	Pacific	1.0
+Link 2978	Pacific	1.0
+Link 2979	Pacific	1.0
+Link 298	West South Central	1.0
+Link 2980	East North Central	0.834137839403622
+Link 2980	West North Central	0.165862160596399
+Link 2981	West North Central	0.439282637159284
+Link 2981	East North Central	0.560717362840729
+Link 2982	West North Central	1.0
+Link 2983	West North Central	1.0
+Link 2984	West North Central	1.0
+Link 2985	West North Central	1.0
+Link 2986	Mountain	1.0
+Link 2987	Mountain	1.0
+Link 2988	Mountain	1.0
+Link 299	West South Central	1.0
+Link 2990	Middle Atlantic	0.521940728113292
+Link 2990	New England	0.478059271886722
+Link 2992	Pacific	1.0
+Link 2993	Pacific	1.0
+Link 2994	Pacific	1.0
+Link 2995	East North Central	1.0
+Link 2996	East North Central	1.0
+Link 2997	East North Central	1.0
+Link 2998	Mountain	1.0
+Link 2999	Mountain	1.0
+Link 3	South Atlantic	0.846603752124566
+Link 3	West South Central	0.153396247875434
+Link 30	South Atlantic	0.999999999999999
+Link 300	West South Central	1.0
+Link 3000	Mountain	1.0
+Link 3001	West North Central	1.0
+Link 3002	West North Central	1.0
+Link 3003	West North Central	1.0
+Link 3004	Mountain	1.0
+Link 3005	Mountain	1.0
+Link 3006	Mountain	1.0
+Link 3007	Pacific	1.0
+Link 3008	Pacific	1.0
+Link 3009	Pacific	1.0
+Link 301	East South Central	1.0
+Link 3010	Mountain	1.0
+Link 3011	Mountain	1.0
+Link 3012	Mountain	1.0
+Link 3013	Mountain	1.0
+Link 3014	Mountain	1.0
+Link 3015	Mountain	1.0
+Link 3016	Pacific	1.0
+Link 3017	Pacific	1.0
+Link 3018	Pacific	1.0
+Link 3019	Mountain	1.0
+Link 302	East South Central	1.0
+Link 3020	Mountain	1.0
+Link 3021	Mountain	1.0
+Link 3022	Pacific	1.0
+Link 3023	Pacific	0.717892206463565
+Link 3023	Mountain	0.282107793536448
+Link 3024	Pacific	0.90440214518052
+Link 3024	Mountain	0.0955978548194743
+Link 3025	Mountain	1.0
+Link 3026	Mountain	1.0
+Link 3027	Mountain	1.0
+Link 3028	Mountain	1.0
+Link 3029	Mountain	1.0
+Link 303	East South Central	0.999999999999999
+Link 3030	Mountain	1.0
+Link 3031	Pacific	1.0
+Link 3032	Pacific	1.0
+Link 3033	Pacific	1.0
+Link 3034	Pacific	1.0
+Link 3035	Pacific	1.0
+Link 3036	Pacific	1.0
+Link 3037	Mountain	1.0
+Link 3038	Mountain	1.0
+Link 3039	Mountain	1.0
+Link 304	South Atlantic	0.214469903186194
+Link 304	East South Central	0.785530096813793
+Link 3040	Pacific	1.0
+Link 3041	Pacific	1.0
+Link 3042	Pacific	1.0
+Link 3043	Mountain	1.0
+Link 3044	Mountain	1.0
+Link 3045	Mountain	1.0
+Link 3046	West North Central	1.0
+Link 3047	West North Central	1.0
+Link 3048	West North Central	1.0
+Link 3049	Pacific	0.958316164755964
+Link 3049	Mountain	0.0416838352440167
+Link 305	East South Central	0.735072110255637
+Link 305	South Atlantic	0.264927889744366
+Link 3050	Mountain	0.554592772558422
+Link 3050	Pacific	0.445407227441537
+Link 3051	Pacific	0.717892206463566
+Link 3051	Mountain	0.282107793536448
+Link 3052	Mountain	0.654283976128586
+Link 3052	Pacific	0.345716023871399
+Link 3053	Mountain	1.0
+Link 3054	Mountain	0.554592772558422
+Link 3054	Pacific	0.445407227441537
+Link 3055	Pacific	1.0
+Link 3056	Pacific	1.0
+Link 3057	Pacific	1.0
+Link 3058	Mountain	1.0
+Link 3059	Mountain	1.0
+Link 306	East South Central	0.999999999999999
+Link 3060	Mountain	1.0
+Link 3062	New England	1.0
+Link 3063	New England	1.0
+Link 3064	Pacific	1.0
+Link 3065	Pacific	1.0
+Link 3066	Pacific	1.0
+Link 3067	East North Central	0.404069033763009
+Link 3067	West North Central	0.595930966236992
+Link 3068	West North Central	0.0308886872051797
+Link 3068	East North Central	0.969111312794789
+Link 3069	East North Central	0.834137839403622
+Link 3069	West North Central	0.165862160596399
+Link 307	West South Central	1.0
+Link 3070	West North Central	0.655024971021619
+Link 3070	East North Central	0.344975028978329
+Link 3071	West North Central	0.595930966236992
+Link 3071	East North Central	0.404069033763009
+Link 3072	West North Central	1.0
+Link 3074	Middle Atlantic	1.0
+Link 3075	East North Central	0.38857764781075
+Link 3075	Middle Atlantic	0.611422352189261
+Link 3076	Pacific	1.0
+Link 3077	Pacific	1.0
+Link 3078	Pacific	1.0
+Link 3079	Mountain	1.0
+Link 308	West South Central	1.0
+Link 3080	Mountain	1.0
+Link 3081	Mountain	1.0
+Link 3082	West North Central	1.0
+Link 3083	West North Central	1.0
+Link 3084	West North Central	1.0
+Link 3085	Mountain	1.0
+Link 3086	Mountain	1.0
+Link 3087	Mountain	1.0
+Link 3088	West North Central	1.0
+Link 3089	West North Central	1.0
+Link 309	West South Central	1.0
+Link 3090	West North Central	1.0
+Link 3091	East North Central	1.0
+Link 3092	East North Central	1.0
+Link 3093	East North Central	1.0
+Link 3094	Pacific	1.0
+Link 3095	Pacific	1.0
+Link 3096	Pacific	1.0
+Link 3098	Middle Atlantic	1.00000000000001
+Link 3099	Middle Atlantic	0.999999999999998
+Link 31	West South Central	1.0
+Link 310	West South Central	1.0
+Link 3100	East North Central	0.241090807533322
+Link 3100	West North Central	0.758909192466688
+Link 3101	East North Central	0.344975028978329
+Link 3101	West North Central	0.655024971021619
+Link 3102	West North Central	1.0
+Link 3103	Pacific	0.361764296052413
+Link 3103	West South Central	0.638235703947587
+Link 3104	Pacific	0.475546071023547
+Link 3104	West South Central	0.524453928976453
+Link 3105	West South Central	1.0
+Link 3106	Pacific	1.0
+Link 3107	Pacific	1.0
+Link 3108	Pacific	1.0
+Link 3109	Pacific	0.00586951622716075
+Link 3109	Mountain	0.99413048377284
+Link 311	West South Central	1.0
+Link 3110	Mountain	1.0
+Link 3111	Pacific	0.345716023871399
+Link 3111	Mountain	0.654283976128586
+Link 3112	West North Central	0.97983854509965
+Link 3112	East North Central	0.0201614549003508
+Link 3113	East North Central	0.241090807533323
+Link 3113	West North Central	0.758909192466688
+Link 3114	West North Central	1.0
+Link 3115	Pacific	1.0
+Link 3116	Pacific	1.0
+Link 3117	Pacific	1.0
+Link 3118	Pacific	1.0
+Link 3119	Pacific	1.0
+Link 312	West South Central	1.0
+Link 3120	Pacific	1.0
+Link 3121	Pacific	1.0
+Link 3122	Pacific	1.0
+Link 3123	Pacific	1.0
+Link 3124	Pacific	1.0
+Link 3125	Pacific	1.0
+Link 3126	Pacific	1.0
+Link 3127	Pacific	0.999999999999988
+Link 3128	Pacific	1.0
+Link 3129	Pacific	0.999999999999998
+Link 313	South Atlantic	1.0
+Link 3133	Mountain	1.0
+Link 3134	Mountain	1.0
+Link 3135	Mountain	1.0
+Link 3136	Pacific	1.0
+Link 3137	Pacific	1.0
+Link 3138	Pacific	1.0
+Link 3139	Pacific	1.0
+Link 314	South Atlantic	1.0
+Link 3140	Pacific	1.0
+Link 3141	Pacific	0.999999999999988
+Link 3142	Pacific	1.0
+Link 3143	Pacific	0.999999999999998
+Link 3144	Pacific	0.999999999999989
+Link 3145	Mountain	1.0
+Link 3146	Mountain	1.0
+Link 3147	Mountain	1.0
+Link 3148	Pacific	0.603547454103782
+Link 3148	Mountain	0.396452545896207
+Link 3149	Mountain	0.961517392674533
+Link 3149	Pacific	0.0384826073254349
+Link 315	South Atlantic	1.0
+Link 3150	Mountain	0.0846682842640149
+Link 3150	Pacific	0.915331715736014
+Link 3151	West North Central	1.0
+Link 3152	West North Central	1.0
+Link 3153	West North Central	1.0
+Link 3154	Pacific	1.0
+Link 3155	Pacific	0.999999999999999
+Link 3156	Pacific	1.0
+Link 3157	Pacific	1.0
+Link 3158	Pacific	0.915331715736015
+Link 3158	Mountain	0.0846682842640149
+Link 3159	Mountain	0.0416838352440167
+Link 3159	Pacific	0.958316164755964
+Link 316	East South Central	1.0
+Link 3160	Mountain	1.0
+Link 3161	Mountain	1.0
+Link 3162	Mountain	1.0
+Link 3163	Mountain	1.0
+Link 3164	Mountain	1.0
+Link 3165	Mountain	1.0
+Link 3166	Pacific	0.999999999999986
+Link 3167	Pacific	1.0
+Link 3168	Pacific	1.0
+Link 3169	Pacific	1.0
+Link 317	East South Central	1.0
+Link 3170	Pacific	1.0
+Link 3171	Pacific	1.0
+Link 3174	East North Central	1.0
+Link 3175	Pacific	1.0
+Link 3176	Pacific	1.0
+Link 3177	Pacific	1.0
+Link 3178	Mountain	1.0
+Link 3179	Mountain	1.0
+Link 318	East South Central	1.0
+Link 3180	Mountain	1.0
+Link 3181	Pacific	1.0
+Link 3182	Pacific	0.999999999999986
+Link 3183	Pacific	1.0
+Link 3184	Mountain	1.0
+Link 3185	Pacific	0.00586951622716075
+Link 3185	Mountain	0.994130483772839
+Link 3186	Mountain	0.961517392674532
+Link 3186	Pacific	0.0384826073254349
+Link 3187	East North Central	1.0
+Link 3188	East North Central	1.0
+Link 3189	East North Central	0.999999999999999
+Link 319	West South Central	1.0
+Link 3190	Pacific	0.999999999999998
+Link 3191	Pacific	1.0
+Link 3192	Pacific	1.0
+Link 3193	Pacific	1.0
+Link 3194	Pacific	1.0
+Link 3195	Pacific	1.0
+Link 3196	Pacific	1.0
+Link 3197	Pacific	0.999999999999998
+Link 3198	Pacific	0.999999999999999
+Link 3199	West North Central	0.0203539713540393
+Link 3199	East North Central	0.979646028645928
+Link 32	West South Central	1.0
+Link 320	West South Central	1.0
+Link 3200	East North Central	1.0
+Link 3201	West North Central	0.0308886872051797
+Link 3201	East North Central	0.969111312794789
+Link 3202	Pacific	1.0
+Link 3203	Pacific	1.0
+Link 3204	Pacific	1.0
+Link 3205	Mountain	1.0
+Link 3206	Mountain	1.0
+Link 3207	Mountain	1.0
+Link 3208	Pacific	1.00000000000001
+Link 3209	Pacific	1.0
+Link 321	West South Central	1.0
+Link 3210	Pacific	1.0
+Link 3211	Pacific	0.999999999999993
+Link 3212	Pacific	1.0
+Link 3213	Pacific	0.999999999999997
+Link 3214	Pacific	1.0
+Link 3215	Pacific	1.0
+Link 3216	Pacific	0.999999999999997
+Link 3217	Pacific	0.999999999999994
+Link 3218	Pacific	0.999999999999993
+Link 3219	Pacific	0.999999999999999
+Link 322	West South Central	1.0
+Link 3221	New England	1.0
+Link 3223	Mountain	1.0
+Link 3224	Mountain	1.0
+Link 3225	Mountain	1.0
+Link 3226	Mountain	1.0
+Link 3227	Mountain	1.0
+Link 3228	Mountain	1.0
+Link 3229	Mountain	1.0
+Link 323	West South Central	1.0
+Link 3230	Mountain	1.0
+Link 3231	Mountain	1.0
+Link 3232	Pacific	0.999999999999994
+Link 3233	Pacific	1.0
+Link 3234	Pacific	0.999999999999989
+Link 3235	Pacific	1.0
+Link 3236	Pacific	1.00000000000002
+Link 3237	Pacific	0.999999999999996
+Link 3238	West North Central	0.0147479484029605
+Link 3238	East North Central	0.985252051597025
+Link 3239	East North Central	1.0
+Link 324	West South Central	1.0
+Link 3240	East North Central	0.979646028645926
+Link 3240	West North Central	0.0203539713540393
+Link 3241	Pacific	1.0
+Link 3242	Pacific	1.0
+Link 3243	Pacific	1.0
+Link 3245	West North Central	1.0
+Link 3246	West North Central	0.365689194820824
+Link 3246	Mountain	0.634310805179169
+Link 3248	Pacific	0.999999999999995
+Link 3249	Pacific	0.999999999999994
+Link 325	West South Central	1.0
+Link 3250	Pacific	1.0
+Link 3251	Pacific	1.0
+Link 3252	Pacific	1.0
+Link 3255	Middle Atlantic	1.0
+Link 3256	East North Central	0.00347823441676054
+Link 3256	West North Central	0.996521765583247
+Link 3257	East North Central	0.0201614549003508
+Link 3257	West North Central	0.979838545099651
+Link 3258	West North Central	1.0
+Link 3259	Pacific	1.0
+Link 326	West South Central	1.0
+Link 3260	Pacific	1.0
+Link 3261	Pacific	1.00000000000001
+Link 3264	Pacific	1.0
+Link 3265	Pacific	1.00000000000001
+Link 3266	Pacific	1.0
+Link 3267	Pacific	1.0
+Link 3268	Mountain	1.0
+Link 3269	Mountain	1.0
+Link 327	West South Central	1.0
+Link 3270	Mountain	1.0
+Link 3271	Pacific	1.0
+Link 3272	Pacific	1.0
+Link 3273	Pacific	1.00000000000001
+Link 3274	Pacific	1.0
+Link 3275	Pacific	1.0
+Link 3276	Pacific	1.0
+Link 3279	Mountain	1.0
+Link 328	West South Central	1.0
+Link 3281	Mountain	1.0
+Link 3282	Mountain	1.0
+Link 3284	Pacific	1.0
+Link 3285	Pacific	1.0
+Link 329	West South Central	1.0
+Link 3293	Mountain	0.396452545896207
+Link 3293	Pacific	0.603547454103782
+Link 3296	Mountain	1.0
+Link 3299	Pacific	1.0
+Link 33	West South Central	0.999999999999998
+Link 330	West South Central	1.0
+Link 3300	Pacific	1.0
+Link 3303	Pacific	1.0
+Link 3305	East North Central	1.0
+Link 3306	West North Central	0.0147479484029606
+Link 3306	East North Central	0.985252051597032
+Link 331	West South Central	1.0
+Link 3312	Pacific	1.00000000000001
+Link 3315	Pacific	1.0
+Link 332	West South Central	1.0
+Link 3324	Mountain	1.0
+Link 3329	West North Central	1.0
+Link 333	West South Central	1.0
+Link 3332	East North Central	0.00347823441676054
+Link 3332	West North Central	0.996521765583247
+Link 3337	Middle Atlantic	1.0
+Link 3338	Middle Atlantic	1.0
+Link 3339	Middle Atlantic	1.0
+Link 334	South Atlantic	1.0
+Link 3340	Middle Atlantic	1.0
+Link 3341	Middle Atlantic	1.0
+Link 3342	Middle Atlantic	1.0
+Link 3343	Middle Atlantic	1.0
+Link 3344	Middle Atlantic	1.0
+Link 3345	Middle Atlantic	1.0
+Link 3346	Middle Atlantic	1.0
+Link 3347	East North Central	1.0
+Link 3348	East North Central	1.0
+Link 3349	East North Central	1.0
+Link 335	South Atlantic	1.0
+Link 3350	East North Central	1.0
+Link 3351	East North Central	1.0
+Link 3352	East North Central	1.0
+Link 3353	East North Central	1.0
+Link 3354	East North Central	1.0
+Link 3355	East North Central	1.0
+Link 3356	East North Central	1.0
+Link 3357	East North Central	1.0
+Link 3358	East North Central	1.0
+Link 3359	East North Central	0.999999999999999
+Link 336	South Atlantic	1.0
+Link 3360	East North Central	1.0
+Link 3361	East North Central	0.999999999999998
+Link 3362	East North Central	1.0
+Link 3363	East North Central	1.0
+Link 3364	Middle Atlantic	0.999999999999993
+Link 3365	Middle Atlantic	1.0
+Link 3366	East North Central	1.0
+Link 3367	East North Central	0.999999999999998
+Link 3368	East North Central	1.0
+Link 3369	Middle Atlantic	1.0
+Link 337	West South Central	1.0
+Link 3370	East North Central	0.99999999999995
+Link 3371	East North Central	1.0
+Link 3372	East North Central	1.0
+Link 3373	East North Central	1.0
+Link 3374	East North Central	1.0
+Link 3375	East North Central	1.0
+Link 3376	East North Central	1.0
+Link 3377	East North Central	1.0
+Link 3378	Middle Atlantic	1.0
+Link 3379	Middle Atlantic	1.0
+Link 338	West South Central	1.0
+Link 3380	Middle Atlantic	1.0
+Link 3381	Middle Atlantic	1.0
+Link 3382	Middle Atlantic	1.0
+Link 3383	Middle Atlantic	1.0
+Link 3384	New England	1.0
+Link 3385	New England	1.0
+Link 3387	New England	1.0
+Link 3388	New England	1.0
+Link 3389	South Atlantic	0.999999999999975
+Link 339	West South Central	1.0
+Link 3390	New England	1.0
+Link 3391	New England	1.0
+Link 3392	New England	1.0
+Link 3393	Middle Atlantic	0.119654750612987
+Link 3393	New England	0.880345249387008
+Link 3394	New England	0.824756664964782
+Link 3394	Middle Atlantic	0.175243335035209
+Link 3396	Middle Atlantic	0.924423969772329
+Link 3396	New England	0.0755760302276712
+Link 3397	Middle Atlantic	1.0
+Link 3398	New England	1.0
+Link 3399	New England	1.0
+Link 34	South Atlantic	1.0
+Link 340	West South Central	1.0
+Link 3403	Middle Atlantic	1.0
+Link 3404	Middle Atlantic	0.175243335035209
+Link 3404	New England	0.824756664964781
+Link 3405	New England	0.0755760302276712
+Link 3405	Middle Atlantic	0.924423969772329
+Link 3407	New England	1.0
+Link 3408	Middle Atlantic	0.119654750612987
+Link 3408	New England	0.880345249387009
+Link 341	West South Central	1.0
+Link 3412	East North Central	0.999999999999968
+Link 3413	East North Central	1.0
+Link 3414	East North Central	1.0
+Link 3415	Middle Atlantic	1.0
+Link 3416	Middle Atlantic	1.0
+Link 342	West South Central	1.0
+Link 3420	New England	1.0
+Link 3421	New England	1.0
+Link 3426	Middle Atlantic	1.0
+Link 3427	Middle Atlantic	1.0
+Link 3428	New England	1.0
+Link 3429	New England	1.0
+Link 343	West South Central	0.31855649037547
+Link 343	East South Central	0.681443509624527
+Link 3431	East North Central	0.99999999999995
+Link 3432	East North Central	0.999999999999968
+Link 3433	South Atlantic	0.999999999999994
+Link 3434	South Atlantic	0.999999999999975
+Link 3436	East North Central	1.0
+Link 3437	East North Central	1.0
+Link 3438	Middle Atlantic	1.0
+Link 344	East South Central	0.39627537283788
+Link 344	West South Central	0.603724627162117
+Link 3440	Middle Atlantic	1.0
+Link 3441	Middle Atlantic	0.999999999999999
+Link 3442	Middle Atlantic	1.0
+Link 3443	Pacific	1.0
+Link 3444	Pacific	1.0
+Link 3445	Pacific	0.999999999999998
+Link 3446	Pacific	1.0
+Link 3447	Pacific	1.0
+Link 3448	Pacific	1.0
+Link 3449	Pacific	1.0
+Link 345	West South Central	1.0
+Link 3450	Pacific	0.999999999999998
+Link 3451	West North Central	0.755002352622488
+Link 3451	Mountain	0.244997647377479
+Link 3452	Mountain	1.0
+Link 3453	West North Central	1.0
+Link 3454	West North Central	0.755002352622488
+Link 3454	Mountain	0.244997647377479
+Link 3455	Mountain	1.0
+Link 3456	Mountain	1.0
+Link 3457	Middle Atlantic	1.0
+Link 3458	Middle Atlantic	0.999999999999999
+Link 3459	Middle Atlantic	0.999999999999993
+Link 346	South Atlantic	1.0
+Link 3460	Pacific	0.999999999999999
+Link 3461	Pacific	1.0
+Link 3462	Middle Atlantic	1.0
+Link 3463	Middle Atlantic	1.0
+Link 3465	New England	1.0
+Link 3466	New England	1.0
+Link 3468	Mountain	1.0
+Link 3469	Mountain	1.0
+Link 347	South Atlantic	1.0
+Link 3470	Mountain	1.0
+Link 3471	Mountain	1.0
+Link 3473	Mountain	1.0
+Link 3474	Mountain	1.0
+Link 3478	Mountain	1.0
+Link 3479	Mountain	1.0
+Link 348	South Atlantic	1.0
+Link 3484	Mountain	1.0
+Link 3485	Mountain	1.0
+Link 349	West South Central	1.0
+Link 3492	Mountain	1.0
+Link 3493	Mountain	1.0
+Link 3494	Pacific	1.0
+Link 3495	Pacific	1.0
+Link 3497	Pacific	1.0
+Link 3498	Pacific	1.0
+Link 3499	Pacific	1.0
+Link 35	South Atlantic	1.0
+Link 350	West South Central	1.0
+Link 3500	Pacific	1.0
+Link 3501	Mountain	0.623421520938028
+Link 3501	Pacific	0.376578479061928
+Link 3502	Mountain	1.0
+Link 3506	East North Central	0.989277271672664
+Link 3506	West North Central	0.0107227283273365
+Link 3507	East North Central	1.0
+Link 3508	New England	0.999999999999989
+Link 3509	New England	1.0
+Link 351	West South Central	1.0
+Link 3510	New England	1.0
+Link 3512	Mountain	0.623421520938026
+Link 3512	Pacific	0.376578479061927
+Link 3513	Pacific	1.0
+Link 3517	West North Central	1.0
+Link 3518	West North Central	1.0
+Link 352	South Atlantic	0.200593712546985
+Link 352	East South Central	0.799406287453002
+Link 3520	Middle Atlantic	1.0
+Link 3521	Middle Atlantic	1.0
+Link 3528	Pacific	1.0
+Link 3529	Pacific	0.999999999999999
+Link 353	South Atlantic	0.214469903186193
+Link 353	East South Central	0.785530096813793
+Link 3536	Pacific	1.0
+Link 3537	Pacific	1.0
+Link 354	East South Central	1.0
+Link 3541	Pacific	1.00000000000001
+Link 3542	Pacific	1.0
+Link 3543	West North Central	0.998078605130989
+Link 3543	East North Central	0.00192139486903311
+Link 3544	West North Central	1.0
+Link 3545	East North Central	0.00310919793206407
+Link 3545	West North Central	0.996890802067936
+Link 3546	East North Central	0.00192139486903312
+Link 3546	West North Central	0.998078605130989
+Link 3548	New England	1.0
+Link 355	West South Central	0.268181500357975
+Link 355	Mountain	0.731818499642025
+Link 3550	New England	0.999999999999988
+Link 3551	East North Central	1.0
+Link 3552	East North Central	0.989277271672664
+Link 3552	West North Central	0.0107227283273365
+Link 3553	West North Central	0.996890802067934
+Link 3553	East North Central	0.00310919793206407
+Link 3554	Pacific	1.0
+Link 3556	Pacific	1.0
+Link 3559	East North Central	1.0
+Link 356	West South Central	1.0
+Link 3561	New England	1.0
+Link 357	West South Central	0.830294423131028
+Link 357	Mountain	0.169705576868985
+Link 358	West South Central	1.0
+Link 359	West South Central	1.0
+Link 36	South Atlantic	1.0
+Link 360	West South Central	1.0
+Link 361	South Atlantic	0.433885178536854
+Link 361	East South Central	0.566114821463152
+Link 362	South Atlantic	0.200593712546985
+Link 362	East South Central	0.799406287453002
+Link 363	East South Central	1.0
+Link 364	South Atlantic	1.0
+Link 365	South Atlantic	1.0
+Link 366	South Atlantic	1.0
+Link 367	West South Central	1.0
+Link 368	West South Central	1.0
+Link 369	West South Central	1.0
+Link 37	South Atlantic	1.0
+Link 370	West South Central	1.0
+Link 371	West South Central	1.0
+Link 372	West South Central	1.0
+Link 373	West South Central	1.0
+Link 374	West South Central	1.0
+Link 375	West South Central	1.0
+Link 376	West South Central	0.156723291688491
+Link 376	Mountain	0.843276708311508
+Link 377	Mountain	0.731818499642025
+Link 377	West South Central	0.268181500357975
+Link 378	Mountain	1.0
+Link 379	West South Central	1.0
+Link 38	South Atlantic	1.0
+Link 380	West South Central	1.0
+Link 381	West South Central	1.00000000000001
+Link 382	West South Central	1.0
+Link 383	West South Central	1.0
+Link 384	West South Central	1.0
+Link 385	Mountain	0.939198391357818
+Link 385	West South Central	0.0608016086421838
+Link 386	West South Central	1.0
+Link 387	Mountain	0.843276708311508
+Link 387	West South Central	0.156723291688491
+Link 388	West South Central	1.0
+Link 389	West South Central	1.0
+Link 39	South Atlantic	1.0
+Link 390	West South Central	1.0
+Link 391	East South Central	1.0
+Link 392	East South Central	1.0
+Link 393	East South Central	1.0
+Link 394	West South Central	1.0
+Link 395	West South Central	1.0
+Link 396	West South Central	1.0
+Link 397	West South Central	1.0
+Link 398	West South Central	1.0
+Link 399	West South Central	1.0
+Link 4	South Atlantic	1.0
+Link 40	South Atlantic	1.0
+Link 400	West South Central	1.0
+Link 401	West South Central	1.0
+Link 402	West South Central	1.0
+Link 403	West South Central	1.0
+Link 404	West South Central	1.0
+Link 405	West South Central	1.0
+Link 406	Mountain	1.0
+Link 407	Mountain	1.0
+Link 408	Mountain	1.0
+Link 409	West South Central	1.0
+Link 41	South Atlantic	1.0
+Link 410	West South Central	1.0
+Link 411	West South Central	1.0
+Link 412	West South Central	1.0
+Link 413	West South Central	1.0
+Link 414	West South Central	1.0
+Link 415	West South Central	1.0
+Link 416	West South Central	1.0
+Link 417	West South Central	1.0
+Link 418	West South Central	1.0
+Link 419	West South Central	1.0
+Link 42	South Atlantic	1.0
+Link 420	West South Central	1.0
+Link 421	West South Central	0.311024362618645
+Link 421	East South Central	0.688975637381352
+Link 422	West South Central	1.0
+Link 423	West South Central	0.268150594885049
+Link 423	East South Central	0.731849405114973
+Link 424	West South Central	1.0
+Link 425	West South Central	1.0
+Link 426	West South Central	1.0
+Link 427	West South Central	1.0
+Link 428	West South Central	1.0
+Link 429	West South Central	1.0
+Link 43	South Atlantic	1.0
+Link 430	West South Central	1.0
+Link 431	West South Central	1.0
+Link 432	West South Central	1.0
+Link 433	West South Central	1.0
+Link 434	West South Central	1.0
+Link 435	West South Central	1.0
+Link 436	East South Central	1.0
+Link 437	East South Central	0.745586466720574
+Link 437	South Atlantic	0.25441353327942
+Link 438	East South Central	0.566114821463151
+Link 438	South Atlantic	0.433885178536854
+Link 439	Mountain	1.0
+Link 44	South Atlantic	1.0
+Link 440	Mountain	1.0
+Link 441	Mountain	1.0
+Link 442	West South Central	1.0
+Link 443	West South Central	1.0
+Link 444	West South Central	1.0
+Link 445	West South Central	1.0
+Link 446	West South Central	1.0
+Link 447	West South Central	1.0
+Link 448	West South Central	1.0
+Link 449	West South Central	1.0
+Link 45	South Atlantic	1.0
+Link 450	West South Central	1.0
+Link 451	East South Central	0.83826964374229
+Link 451	West South Central	0.161730356257697
+Link 452	East South Central	1.0
+Link 453	West South Central	0.31855649037547
+Link 453	East South Central	0.681443509624528
+Link 454	West South Central	1.0
+Link 455	West South Central	1.0
+Link 456	West South Central	1.0
+Link 457	East South Central	0.0533939716233156
+Link 457	West South Central	0.946606028376705
+Link 458	West South Central	0.268150594885049
+Link 458	East South Central	0.731849405114974
+Link 459	West South Central	1.0
+Link 46	South Atlantic	1.0
+Link 460	West South Central	1.0
+Link 461	West South Central	1.0
+Link 462	West South Central	1.0
+Link 463	East South Central	0.436636783809677
+Link 463	South Atlantic	0.563363216190333
+Link 464	South Atlantic	1.0
+Link 465	South Atlantic	0.25441353327942
+Link 465	East South Central	0.745586466720574
+Link 466	Mountain	0.920737538715652
+Link 466	Pacific	0.0792624612843476
+Link 467	Mountain	0.227736283201047
+Link 467	Pacific	0.772263716798962
+Link 468	Mountain	1.0
+Link 469	West South Central	1.0
+Link 47	South Atlantic	1.0
+Link 470	West South Central	1.0
+Link 471	West South Central	1.0
+Link 472	West South Central	1.0
+Link 473	West South Central	1.0
+Link 474	West South Central	1.0
+Link 475	West South Central	0.33893099841538
+Link 475	Mountain	0.661069001584621
+Link 476	West South Central	1.0
+Link 477	West South Central	0.216900482682127
+Link 477	Mountain	0.783099517317872
+Link 478	West South Central	1.0
+Link 479	West South Central	1.0
+Link 48	South Atlantic	0.999999999999999
+Link 480	West South Central	1.0
+Link 481	West South Central	1.0
+Link 482	West South Central	1.0
+Link 483	West South Central	1.0
+Link 484	West South Central	1.0
+Link 485	West South Central	1.0
+Link 486	West South Central	1.0
+Link 487	Mountain	1.0
+Link 488	Mountain	1.0
+Link 489	Mountain	1.0
+Link 49	West South Central	1.0
+Link 490	Mountain	1.0
+Link 491	Mountain	0.126012460760817
+Link 491	West South Central	0.873987539239196
+Link 492	Mountain	0.661069001584622
+Link 492	West South Central	0.33893099841538
+Link 493	South Atlantic	1.0
+Link 494	South Atlantic	1.0
+Link 495	South Atlantic	0.999999999999981
+Link 496	Mountain	1.0
+Link 497	Mountain	0.787321143566752
+Link 497	West South Central	0.212678856433255
+Link 498	West South Central	0.406421364095564
+Link 498	Mountain	0.593578635904436
+Link 499	West South Central	1.0
+Link 5	South Atlantic	0.999999999999999
+Link 50	West South Central	1.0
+Link 500	West South Central	1.0
+Link 501	West South Central	1.0
+Link 502	Mountain	0.571088713076654
+Link 502	Pacific	0.428911286923359
+Link 503	Pacific	1.0
+Link 504	Mountain	0.920737538715652
+Link 504	Pacific	0.0792624612843476
+Link 505	Mountain	1.0
+Link 506	Mountain	0.593578635904435
+Link 506	West South Central	0.406421364095563
+Link 507	West South Central	0.0608016086421838
+Link 507	Mountain	0.939198391357818
+Link 508	South Atlantic	1.0
+Link 509	South Atlantic	0.999999999999981
+Link 51	West South Central	1.0
+Link 510	South Atlantic	1.0
+Link 511	West South Central	1.0
+Link 512	West South Central	1.0
+Link 513	West South Central	1.0
+Link 514	Mountain	1.0
+Link 515	Mountain	1.0
+Link 516	Mountain	1.0
+Link 517	West South Central	1.0
+Link 518	West South Central	1.0
+Link 519	West South Central	1.0
+Link 52	West South Central	1.0
+Link 520	Mountain	1.0
+Link 521	Mountain	0.783099517317872
+Link 521	West South Central	0.216900482682127
+Link 522	West South Central	0.212678856433255
+Link 522	Mountain	0.787321143566752
+Link 523	West South Central	0.903359197103993
+Link 523	Mountain	0.0966408028960096
+Link 524	West South Central	1.0
+Link 525	West South Central	0.873987539239196
+Link 525	Mountain	0.126012460760817
+Link 526	Mountain	1.0
+Link 527	Mountain	1.0
+Link 528	Mountain	1.0
+Link 529	East South Central	1.0
+Link 53	West South Central	1.0
+Link 530	East South Central	1.0
+Link 531	East South Central	1.0
+Link 532	West South Central	1.0
+Link 533	West South Central	1.0
+Link 534	West South Central	1.0
+Link 535	West South Central	1.0
+Link 536	West South Central	1.0
+Link 537	West South Central	1.0
+Link 538	West South Central	1.0
+Link 539	West South Central	1.0
+Link 54	West South Central	1.0
+Link 540	West South Central	1.0
+Link 541	East South Central	0.996557160753478
+Link 541	West South Central	0.0034428392465228
+Link 542	East South Central	0.83826964374229
+Link 542	West South Central	0.161730356257697
+Link 543	East South Central	0.688975637381353
+Link 543	West South Central	0.311024362618645
+Link 544	Mountain	1.0
+Link 545	Mountain	1.0
+Link 546	Mountain	1.0
+Link 547	South Atlantic	1.0
+Link 548	South Atlantic	1.0
+Link 549	South Atlantic	0.999999999999994
+Link 55	South Atlantic	1.0
+Link 550	South Atlantic	1.0
+Link 551	South Atlantic	1.0
+Link 552	South Atlantic	1.0
+Link 553	East South Central	1.0
+Link 554	East South Central	1.0
+Link 555	East South Central	1.0
+Link 556	East South Central	1.0
+Link 557	East South Central	1.0
+Link 558	East South Central	1.0
+Link 559	East South Central	0.08091098399493
+Link 559	West South Central	0.919089016005098
+Link 56	South Atlantic	1.0
+Link 560	East South Central	0.0533939716233156
+Link 560	West South Central	0.946606028376706
+Link 561	West South Central	1.0
+Link 562	Mountain	1.0
+Link 563	Mountain	1.0
+Link 564	Mountain	1.0
+Link 565	Mountain	1.0
+Link 566	Mountain	1.0
+Link 567	Mountain	1.0
+Link 568	West South Central	1.0
+Link 569	West South Central	1.0
+Link 57	South Atlantic	1.0
+Link 570	West South Central	1.0
+Link 571	Mountain	0.0811636136498052
+Link 571	West South Central	0.918836386350211
+Link 572	West South Central	1.0
+Link 573	Mountain	0.0966408028960097
+Link 573	West South Central	0.903359197103992
+Link 574	Pacific	1.0
+Link 575	Pacific	1.0
+Link 576	Pacific	1.00000000000001
+Link 577	Mountain	1.0
+Link 578	Mountain	1.0
+Link 579	Mountain	1.0
+Link 58	West South Central	1.0
+Link 580	Mountain	1.0
+Link 581	Mountain	1.0
+Link 582	Mountain	1.0
+Link 583	West South Central	0.00383942237019215
+Link 583	East South Central	0.996160577629807
+Link 584	East South Central	1.0
+Link 585	West South Central	0.00344283924652279
+Link 585	East South Central	0.996557160753477
+Link 586	Pacific	1.0
+Link 587	Pacific	1.0
+Link 588	Pacific	1.0
+Link 589	East South Central	1.0
+Link 59	West South Central	0.999999999999996
+Link 590	East South Central	1.0
+Link 591	East South Central	1.0
+Link 592	West South Central	1.0
+Link 593	West South Central	1.0
+Link 594	West South Central	1.0
+Link 595	Pacific	1.0
+Link 596	Pacific	1.0
+Link 597	Pacific	1.0
+Link 598	Pacific	1.00000000000002
+Link 599	Pacific	1.0
+Link 6	South Atlantic	1.0
+Link 60	West South Central	0.999999999999991
+Link 600	Pacific	1.00000000000001
+Link 601	West South Central	1.0
+Link 602	West South Central	1.0
+Link 603	West South Central	1.0
+Link 604	West South Central	1.0
+Link 605	West South Central	1.0
+Link 606	West South Central	1.0
+Link 607	Pacific	1.0
+Link 608	Pacific	1.0
+Link 609	Pacific	1.0
+Link 61	South Atlantic	1.0
+Link 610	East South Central	0.577158515142491
+Link 610	South Atlantic	0.422841484857515
+Link 611	South Atlantic	1.0
+Link 612	South Atlantic	0.563363216190333
+Link 612	East South Central	0.436636783809676
+Link 613	Pacific	1.0
+Link 614	Pacific	1.0
+Link 615	Pacific	1.0
+Link 616	South Atlantic	1.0
+Link 617	South Atlantic	1.0
+Link 618	South Atlantic	0.999999999999994
+Link 619	West South Central	1.0
+Link 62	South Atlantic	1.0
+Link 620	West South Central	1.0
+Link 621	West South Central	1.0
+Link 622	West South Central	1.0
+Link 623	West South Central	1.0
+Link 624	West South Central	1.0
+Link 625	East South Central	0.338079591311904
+Link 625	South Atlantic	0.661920408688096
+Link 626	East South Central	0.577158515142491
+Link 626	South Atlantic	0.422841484857515
+Link 627	East South Central	1.0
+Link 628	South Atlantic	1.0
+Link 629	South Atlantic	1.0
+Link 63	South Atlantic	1.0
+Link 630	South Atlantic	1.0
+Link 631	South Atlantic	1.0
+Link 632	South Atlantic	1.0
+Link 633	South Atlantic	1.0
+Link 634	South Atlantic	1.0
+Link 635	South Atlantic	1.0
+Link 636	South Atlantic	1.0
+Link 637	Pacific	1.0
+Link 638	Pacific	1.0
+Link 639	Pacific	1.0
+Link 64	West South Central	1.0
+Link 640	Pacific	1.0
+Link 641	Pacific	1.0
+Link 642	Pacific	1.0
+Link 643	South Atlantic	1.0
+Link 644	South Atlantic	1.0
+Link 645	South Atlantic	1.0
+Link 646	Pacific	1.0
+Link 647	Pacific	1.0
+Link 648	Pacific	1.0
+Link 649	South Atlantic	1.0
+Link 65	West South Central	0.999999999999991
+Link 650	South Atlantic	1.0
+Link 651	South Atlantic	1.0
+Link 652	Pacific	1.0
+Link 653	Pacific	1.0
+Link 654	Pacific	1.0
+Link 655	South Atlantic	1.0
+Link 656	South Atlantic	1.0
+Link 657	South Atlantic	1.0
+Link 658	Pacific	1.0
+Link 659	Pacific	1.0
+Link 66	West South Central	0.999999999999994
+Link 660	Pacific	1.0
+Link 661	Pacific	1.0
+Link 662	Pacific	1.0
+Link 663	Pacific	1.0
+Link 664	Mountain	1.0
+Link 665	Mountain	1.0
+Link 666	Mountain	1.0
+Link 667	East South Central	1.0
+Link 668	East South Central	1.0
+Link 669	East South Central	1.0
+Link 67	West South Central	1.0
+Link 670	South Atlantic	0.999999999999999
+Link 671	South Atlantic	1.0
+Link 672	South Atlantic	1.0
+Link 673	Pacific	0.999999999999997
+Link 674	Pacific	1.0
+Link 675	Pacific	1.0
+Link 676	Pacific	1.0
+Link 677	Pacific	1.0
+Link 678	Pacific	1.0
+Link 679	West South Central	1.0
+Link 68	West South Central	0.999999999999992
+Link 680	West South Central	1.0
+Link 681	West South Central	1.0
+Link 682	Pacific	1.0
+Link 683	Pacific	1.0
+Link 684	Pacific	1.0
+Link 685	South Atlantic	1.0
+Link 686	South Atlantic	1.0
+Link 687	South Atlantic	1.0
+Link 688	Pacific	1.0
+Link 689	Pacific	1.0
+Link 69	West South Central	1.0
+Link 690	Pacific	1.0
+Link 691	South Atlantic	1.0
+Link 692	South Atlantic	1.0
+Link 693	South Atlantic	1.0
+Link 694	Pacific	1.0
+Link 695	Pacific	1.0
+Link 696	Pacific	1.0
+Link 697	Pacific	1.0
+Link 698	Pacific	1.0
+Link 699	Pacific	1.0
+Link 7	South Atlantic	1.0
+Link 70	West South Central	1.0
+Link 700	Pacific	1.0
+Link 701	Pacific	1.0
+Link 702	Pacific	1.0
+Link 703	South Atlantic	1.0
+Link 704	South Atlantic	1.0
+Link 705	South Atlantic	1.0
+Link 706	Pacific	0.475546071023547
+Link 706	West South Central	0.524453928976453
+Link 707	Pacific	0.428911286923359
+Link 707	Mountain	0.571088713076652
+Link 708	West South Central	0.830294423131028
+Link 708	Mountain	0.169705576868985
+Link 709	West South Central	1.0
+Link 71	West South Central	1.0
+Link 710	West South Central	1.0
+Link 711	West South Central	1.0
+Link 712	Pacific	1.0
+Link 713	Pacific	1.0
+Link 714	Pacific	1.0
+Link 715	South Atlantic	0.999999999999998
+Link 716	South Atlantic	1.0
+Link 717	South Atlantic	0.999999999999999
+Link 718	West South Central	1.0
+Link 719	West South Central	1.0
+Link 72	West South Central	0.999999999999995
+Link 720	West South Central	1.0
+Link 721	South Atlantic	0.999999999999999
+Link 722	South Atlantic	0.999999999999998
+Link 723	South Atlantic	0.999999999999999
+Link 724	Pacific	1.0
+Link 725	Pacific	1.0
+Link 726	Pacific	1.0
+Link 727	East South Central	0.37436616754756
+Link 727	West South Central	0.625633832452453
+Link 728	West South Central	0.919089016005097
+Link 728	East South Central	0.08091098399493
+Link 729	West South Central	1.0
+Link 73	South Atlantic	1.0
+Link 730	Pacific	1.0
+Link 731	Pacific	0.999999999999997
+Link 732	Pacific	1.0
+Link 733	South Atlantic	1.0
+Link 734	South Atlantic	1.0
+Link 735	South Atlantic	1.0
+Link 736	West South Central	1.0
+Link 737	West South Central	1.0
+Link 738	West South Central	1.0
+Link 739	Pacific	1.0
+Link 74	South Atlantic	1.0
+Link 740	Pacific	1.0
+Link 741	Pacific	1.0
+Link 742	Mountain	1.0
+Link 743	Mountain	1.0
+Link 744	Mountain	1.0
+Link 745	Pacific	1.0
+Link 746	Pacific	1.0
+Link 747	Pacific	1.0
+Link 748	Pacific	0.999999999999996
+Link 749	Pacific	1.0
+Link 75	South Atlantic	1.0
+Link 750	Pacific	1.0
+Link 751	Pacific	1.0
+Link 752	Pacific	1.0
+Link 753	Pacific	1.0
+Link 754	Pacific	1.0
+Link 755	Pacific	0.999999999999996
+Link 756	Pacific	1.00000000000002
+Link 757	East South Central	1.0
+Link 758	East South Central	1.0
+Link 759	East South Central	1.0
+Link 76	West South Central	1.0
+Link 760	Pacific	1.01744619003049e-06
+Link 760	Mountain	0.999998982553796
+Link 761	Mountain	1.0
+Link 762	Pacific	0.298544909368316
+Link 762	Mountain	0.701455090631706
+Link 763	East South Central	1.0
+Link 764	East South Central	1.0
+Link 765	East South Central	1.0
+Link 766	South Atlantic	1.0
+Link 767	South Atlantic	1.0
+Link 768	South Atlantic	1.0
+Link 769	Pacific	1.0
+Link 77	West South Central	1.0
+Link 770	Pacific	1.0
+Link 771	Pacific	1.0
+Link 772	Mountain	0.0442599692751793
+Link 772	Pacific	0.955740030724833
+Link 773	Mountain	0.701455090631706
+Link 773	Pacific	0.298544909368316
+Link 774	Mountain	0.227736283201047
+Link 774	Pacific	0.772263716798962
+Link 775	West South Central	1.0
+Link 776	West South Central	1.0
+Link 777	West South Central	1.0
+Link 778	East South Central	1.0
+Link 779	East South Central	1.0
+Link 78	West South Central	1.0
+Link 780	East South Central	1.0
+Link 781	West South Central	1.0
+Link 782	West South Central	1.0
+Link 783	West South Central	1.0
+Link 784	South Atlantic	1.0
+Link 785	South Atlantic	1.0
+Link 786	South Atlantic	1.0
+Link 787	Mountain	1.0
+Link 788	Mountain	1.0
+Link 789	Mountain	1.0
+Link 79	West South Central	1.0
+Link 790	South Atlantic	1.0
+Link 791	South Atlantic	1.0
+Link 792	South Atlantic	1.0
+Link 793	West South Central	1.0
+Link 794	West South Central	1.0
+Link 795	West South Central	1.0
+Link 796	East South Central	1.0
+Link 797	East South Central	1.0
+Link 798	East South Central	1.0
+Link 799	Pacific	1.0
+Link 8	South Atlantic	1.0
+Link 80	West South Central	1.0
+Link 800	Pacific	1.0
+Link 801	Pacific	1.0
+Link 802	East South Central	1.0
+Link 803	East South Central	1.0
+Link 804	East South Central	1.0
+Link 805	South Atlantic	1.0
+Link 806	South Atlantic	1.0
+Link 807	South Atlantic	1.0
+Link 808	Mountain	0.0441140837441289
+Link 808	Pacific	0.955885916255871
+Link 809	Mountain	0.0442599692751793
+Link 809	Pacific	0.955740030724835
+Link 81	West South Central	1.0
+Link 810	Pacific	1.0
+Link 811	Pacific	1.0
+Link 812	Pacific	1.0
+Link 813	Pacific	1.0
+Link 814	Pacific	1.0
+Link 815	Pacific	1.0
+Link 816	Pacific	1.0
+Link 817	South Atlantic	0.963407132087333
+Link 817	East South Central	0.0365928679126756
+Link 818	South Atlantic	0.661920408688097
+Link 818	East South Central	0.338079591311904
+Link 819	South Atlantic	0.333793416299211
+Link 819	East South Central	0.666206583700764
+Link 82	South Atlantic	1.0
+Link 820	East South Central	0.996322219765652
+Link 820	West South Central	0.00367778023434823
+Link 821	East South Central	1.0
+Link 822	West South Central	0.00383942237019215
+Link 822	East South Central	0.996160577629808
+Link 823	East South Central	0.996429912568923
+Link 823	West South Central	0.00357008743107702
+Link 824	East South Central	1.0
+Link 825	West South Central	0.00367778023434823
+Link 825	East South Central	0.996322219765652
+Link 826	West South Central	1.0
+Link 827	West South Central	1.0
+Link 828	West South Central	1.0
+Link 829	Mountain	1.0
+Link 83	South Atlantic	1.0
+Link 830	Mountain	1.0
+Link 831	Mountain	0.999998982553796
+Link 831	Pacific	1.01744619003049e-06
+Link 832	South Atlantic	0.920062743111873
+Link 832	East South Central	0.0799372568881359
+Link 833	East South Central	0.0365928679126756
+Link 833	South Atlantic	0.963407132087333
+Link 834	South Atlantic	0.13805575993542
+Link 834	East South Central	0.861944240064586
+Link 835	South Atlantic	1.0
+Link 836	South Atlantic	1.0
+Link 837	South Atlantic	1.0
+Link 838	West South Central	0.759599401170764
+Link 838	East South Central	0.240400598829228
+Link 839	West South Central	0.00357008743107702
+Link 839	East South Central	0.996429912568923
+Link 84	South Atlantic	1.0
+Link 840	West South Central	0.625633832452453
+Link 840	East South Central	0.374366167547561
+Link 841	Pacific	1.0
+Link 842	Pacific	1.0
+Link 843	Pacific	1.0
+Link 844	South Atlantic	1.0
+Link 845	South Atlantic	0.999999999999999
+Link 846	South Atlantic	1.0
+Link 847	South Atlantic	1.0
+Link 848	South Atlantic	1.0
+Link 849	South Atlantic	1.0
+Link 85	West South Central	1.0
+Link 850	Pacific	1.0
+Link 851	Pacific	1.0
+Link 852	Pacific	1.0
+Link 853	South Atlantic	0.915028980713233
+Link 853	East South Central	0.0849710192867191
+Link 854	South Atlantic	1.0
+Link 855	South Atlantic	0.920062743111873
+Link 855	East South Central	0.0799372568881359
+Link 856	Mountain	1.0
+Link 857	Mountain	1.0
+Link 858	Mountain	1.0
+Link 859	South Atlantic	1.0
+Link 86	West South Central	1.0
+Link 860	South Atlantic	1.0
+Link 861	South Atlantic	1.0
+Link 862	South Atlantic	0.999999999999995
+Link 863	South Atlantic	1.0
+Link 864	South Atlantic	0.999999999999999
+Link 865	South Atlantic	1.0
+Link 866	South Atlantic	1.0
+Link 867	South Atlantic	1.0
+Link 868	South Atlantic	0.132015236165462
+Link 868	East South Central	0.867984763834528
+Link 869	East South Central	0.666206583700764
+Link 869	South Atlantic	0.333793416299211
+Link 87	West South Central	1.0
+Link 870	East South Central	1.0
+Link 871	Mountain	1.0
+Link 872	Mountain	1.0
+Link 873	Mountain	0.998693321839033
+Link 873	Pacific	0.00130667816095102
+Link 874	East South Central	1.0
+Link 875	East South Central	1.0
+Link 876	East South Central	1.0
+Link 877	Pacific	1.0
+Link 878	Pacific	1.0
+Link 879	Pacific	1.0
+Link 88	West South Central	1.00000000000001
+Link 880	South Atlantic	0.751126324924712
+Link 880	East South Central	0.248873675075267
+Link 881	East South Central	0.0849710192867191
+Link 881	South Atlantic	0.915028980713232
+Link 882	East South Central	1.0
+Link 883	Pacific	1.0
+Link 884	Pacific	1.0
+Link 885	Pacific	1.0
+Link 886	Pacific	1.0
+Link 887	Pacific	1.0
+Link 888	Pacific	1.0
+Link 889	East South Central	0.321081468812012
+Link 889	South Atlantic	0.678918531187981
+Link 89	West South Central	1.00000000000001
+Link 890	South Atlantic	1.0
+Link 891	South Atlantic	0.751126324924712
+Link 891	East South Central	0.248873675075267
+Link 892	Pacific	1.0
+Link 893	Pacific	1.0
+Link 894	Pacific	1.0
+Link 895	West South Central	1.0
+Link 896	West South Central	1.0
+Link 897	West South Central	1.0
+Link 898	Mountain	1.0
+Link 899	Mountain	1.0
+Link 9	South Atlantic	1.0
+Link 90	West South Central	0.999999999999997
+Link 900	Mountain	1.0
+Link 901	Mountain	1.0
+Link 902	Mountain	1.0
+Link 903	Mountain	1.0
+Link 904	Pacific	0.941297596659261
+Link 904	Mountain	0.0587024033407703
+Link 905	Mountain	0.998693321839032
+Link 905	Pacific	0.00130667816095102
+Link 906	Pacific	0.955885916255871
+Link 906	Mountain	0.0441140837441289
+Link 907	South Atlantic	1.0
+Link 908	South Atlantic	1.0
+Link 909	South Atlantic	1.0
+Link 91	West South Central	0.999999999999999
+Link 910	Mountain	1.0
+Link 911	Mountain	1.0
+Link 912	Mountain	1.0
+Link 913	South Atlantic	1.0
+Link 914	South Atlantic	1.0
+Link 915	South Atlantic	1.0
+Link 916	South Atlantic	1.0
+Link 917	South Atlantic	1.0
+Link 918	South Atlantic	1.0
+Link 919	Pacific	1.0
+Link 92	West South Central	1.0
+Link 920	Pacific	1.0
+Link 921	Pacific	1.0
+Link 922	South Atlantic	1.0
+Link 923	South Atlantic	1.0
+Link 924	South Atlantic	1.0
+Link 925	Pacific	1.0
+Link 926	Pacific	1.0
+Link 927	Pacific	1.0
+Link 928	East South Central	0.152952850512915
+Link 928	West South Central	0.847047149487066
+Link 929	East South Central	1.0
+Link 93	West South Central	1.00000000000001
+Link 930	West South Central	0.759599401170765
+Link 930	East South Central	0.240400598829228
+Link 931	Mountain	1.0
+Link 932	Mountain	1.0
+Link 933	Mountain	1.0
+Link 934	West South Central	1.0
+Link 935	West South Central	1.0
+Link 936	West South Central	1.0
+Link 937	South Atlantic	1.0
+Link 938	South Atlantic	1.0
+Link 939	South Atlantic	1.0
+Link 94	West South Central	1.0
+Link 940	East South Central	0.326107726924586
+Link 940	South Atlantic	0.673892273075442
+Link 941	South Atlantic	1.0
+Link 942	South Atlantic	0.678918531187982
+Link 942	East South Central	0.321081468812012
+Link 943	South Atlantic	1.0
+Link 944	South Atlantic	1.0
+Link 945	South Atlantic	1.0
+Link 946	South Atlantic	1.0
+Link 947	South Atlantic	1.0
+Link 948	South Atlantic	1.0
+Link 949	Mountain	1.0
+Link 95	West South Central	0.999999999999999
+Link 950	Mountain	1.0
+Link 951	Mountain	1.0
+Link 952	West South Central	1.0
+Link 953	West South Central	1.0
+Link 954	West South Central	1.0
+Link 955	West South Central	0.442760994763152
+Link 955	Mountain	0.557239005236817
+Link 956	Mountain	0.0811636136498052
+Link 956	West South Central	0.91883638635021
+Link 957	Mountain	1.0
+Link 958	South Atlantic	1.0
+Link 959	South Atlantic	1.0
+Link 96	West South Central	1.0
+Link 960	South Atlantic	1.0
+Link 961	Pacific	1.0
+Link 962	Pacific	1.0
+Link 963	Pacific	1.0
+Link 964	East South Central	1.0
+Link 965	East South Central	1.0
+Link 966	East South Central	1.0
+Link 967	Mountain	1.0
+Link 968	Mountain	1.0
+Link 969	Mountain	1.0
+Link 97	West South Central	1.0
+Link 970	Pacific	1.0
+Link 971	Pacific	1.0
+Link 972	Pacific	1.0
+Link 973	East South Central	1.0
+Link 974	East South Central	1.0
+Link 975	East South Central	1.0
+Link 976	East South Central	1.0
+Link 977	South Atlantic	0.706249167249959
+Link 977	East South Central	0.29375083275003
+Link 978	South Atlantic	0.673892273075442
+Link 978	East South Central	0.326107726924586
+Link 979	West South Central	1.0
+Link 98	West South Central	1.0
+Link 980	West South Central	1.0
+Link 981	West South Central	1.0
+Link 982	Mountain	1.0
+Link 983	Mountain	1.0
+Link 984	Mountain	1.0
+Link 985	South Atlantic	1.0
+Link 986	South Atlantic	1.0
+Link 987	South Atlantic	1.0
+Link 988	Pacific	1.0
+Link 989	Pacific	1.0
+Link 99	West South Central	1.0
+Link 990	Pacific	1.0
+Link 991	South Atlantic	1.0
+Link 992	South Atlantic	1.0
+Link 993	South Atlantic	1.0
+Link 994	South Atlantic	1.0
+Link 995	South Atlantic	1.0
+Link 996	South Atlantic	1.0
+Link 997	South Atlantic	1.0
+Link 998	South Atlantic	1.0
+Link 999	South Atlantic	1.0

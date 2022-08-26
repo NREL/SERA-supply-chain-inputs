@@ -1,0 +1,614 @@
+Network ID	Zone	Fraction
+00199 | Aberdeen--Bel Air South--Bel Air North, MD	Maryland	1.0
+00280 | Abilene, TX	Texas	1.0
+00766 | Akron, OH	Ohio	1.0
+00820 | Alamogordo, NM	New Mexico	1.0
+00955 | Albany, OR	Oregon	1.0
+00970 | Albany--Schenectady, NY	New York	1.0
+01171 | Albuquerque, NM	New Mexico	1.0
+01495 | Allentown, PA--NJ	Pennsylvania	1.0
+01792 | Altoona, PA	Pennsylvania	1.0
+01927 | Amarillo, TX	Texas	1.0
+02413 | Anderson, SC	South Carolina	1.0
+02602 | Ann Arbor, MI	Michigan	1.0
+02683 | Antioch, CA	California	1.0
+02764 | Appleton, WI	Wisconsin	1.0
+02926 | Arcata-McKinleyville, CA	California	1.0
+03196 | Arroyo Grande--Grover Beach, CA	California	1.0
+03358 | Asheville, NC	North Carolina	1.0
+03763 | Athens-Clarke County, GA	Georgia	1.0
+03817 | Atlanta, GA	Georgia	1.0
+03898 | Atlantic City, NJ	New Jersey	1.0
+04114 | Auburn, NY	New York	1.0
+04130 | Auburn--North Auburn, CA	California	1.0
+04222 | Augusta-Richmond County, GA--SC	Georgia	0.687563500370374
+04222 | Augusta-Richmond County, GA--SC	South Carolina	0.312436499629628
+04384 | Austin, TX	Texas	1.0
+04549 | Avondale--Goodyear, AZ	Arizona	1.0
+04681 | Bakersfield, CA	California	1.0
+04843 | Baltimore, MD	Maryland	1.0
+04951 | Bangor, ME	Maine	1.0
+05167 | Barnstable Town, MA	Massachusetts	1.0
+06058 | Beaumont, TX	Texas	1.0
+06652 | Bellingham, WA	Washington	1.0
+06760 | Beloit, WI--IL	Wisconsin	0.675424043680395
+06760 | Beloit, WI--IL	Illinois	0.324575956319604
+06868 | Bend, OR	Oregon	1.0
+07138 | Benton Harbor--St. Joseph--Fair Plain, MI	Michigan	0.999999999999994
+07705 | Billings, MT	Montana	1.0
+07732 | Binghamton, NY--PA	New York	1.0
+07786 | Birmingham, AL	Alabama	1.0
+07921 | Bismarck, ND	North Dakota	1.0
+08407 | Bloomington--Normal, IL	Illinois	1.0
+08434 | Bloomsburg--Berwick, PA	Pennsylvania	1.0
+08785 | Boise City, ID	Idaho	1.0
+08974 | Bonita Springs, FL	Florida	1.0
+09271 | Boston, MA--NH--RI	Massachusetts	1.0
+09298 | Boulder, CO	Colorado	1.0
+09514 | Bozeman, MT	Montana	1.0
+09946 | Bremerton, WA	Washington	1.0
+10162 | Bridgeport--Stamford, CT--NY	Connecticut	1.0
+10189 | Bridgeton, NJ	New Jersey	1.0
+10891 | Browns Mills--Fort Dix, NJ	New Jersey	1.0
+10972 | Brownsville, TX	Texas	1.0
+11350 | Buffalo, NY	New York	1.0
+11431 | Bullhead City, AZ--NV	Arizona	0.883809137953683
+11431 | Bullhead City, AZ--NV	Nevada	0.116190862046322
+11755 | Burlington, VT	Vermont	1.0
+12052 | Butte-Silver Bow, MT	Montana	1.0
+12754 | Camarillo, CA	California	1.0
+13375 | Canton, OH	Ohio	1.0
+13510 | Cape Coral, FL	Florida	1.0
+14158 | Carson City, NV	Nevada	1.0
+14401 | Casa Grande, AZ	Arizona	1.0
+14482 | Casper, WY	Wyoming	1.0
+14698 | Cedar City, UT	Utah	1.0
+14752 | Cedar Rapids, IA	Iowa	1.0
+15076 | Centralia, WA	Washington	1.0
+15184 | Chambersburg, PA	Pennsylvania	1.0
+15211 | Champaign, IL	Illinois	1.0
+15508 | Charleston--North Charleston, SC	South Carolina	1.0
+15670 | Charlotte, NC--SC	North Carolina	1.0
+15724 | Charlottesville, VA	Virginia	1.0
+15832 | Chattanooga, TN--GA	Tennessee	1.0
+16237 | Cheyenne, WY	Wyoming	1.0
+16264 | Chicago, IL--IN	Illinois	1.0
+16318 | Chico, CA	California	1.0
+16885 | Cincinnati, OH--KY--IN	Ohio	1.0
+17533 | Cleburne, TX	Texas	1.0
+17668 | Cleveland, OH	Ohio	1.0
+18289 | Coalinga, CA	California	1.0
+18451 | Coeur d'Alene, ID	Idaho	1.0
+18748 | College Station--Bryan, TX	Texas	1.0
+18856 | Colorado Springs, CO	Colorado	1.0
+18964 | Columbia, SC	South Carolina	1.0
+19234 | Columbus, OH	Ohio	1.0
+19504 | Concord, CA	California	1.0
+19531 | Concord, NH	New Hampshire	1.0
+19558 | Concord, NC	North Carolina	1.0
+19755 | Conroe--The Woodlands, TX	Texas	1.0
+20287 | Corpus Christi, TX	Texas	1.0
+20422 | Corvallis, OR	Oregon	1.0
+21745 | Cumberland, MD--WV--PA	West Virginia	0.133325979505208
+21745 | Cumberland, MD--WV--PA	Maryland	0.866674020494792
+22042 | Dallas--Fort Worth--Arlington, TX	Texas	1.0
+22096 | Danbury, CT--NY	Connecticut	1.0
+22366 | Davenport, IA--IL	Illinois	0.551110301742255
+22366 | Davenport, IA--IL	Iowa	0.448889698257746
+22420 | Davis, CA	California	1.0
+22528 | Dayton, OH	Ohio	1.0
+22960 | DeKalb, IL	Illinois	1.0
+22987 | Delano, CA	California	1.0
+23203 | Del Rio, TX	Texas	1.0
+23500 | Denton--Lewisville, TX	Texas	1.0
+23527 | Denver--Aurora, CO	Colorado	1.0
+23743 | Des Moines, IA	Iowa	1.0
+23824 | Detroit, MI	Michigan	1.0
+24580 | Dover, DE	Delaware	1.0
+24607 | Dover--Rochester, NH--ME	New Hampshire	0.997931998581116
+24607 | Dover--Rochester, NH--ME	Maine	0.00206800141888636
+24850 | Duluth, MN--WI	Wisconsin	0.200088761050791
+24850 | Duluth, MN--WI	Minnesota	0.799911238949208
+25228 | Durham, NC	North Carolina	1.0
+25849 | East Stroudsburg, PA--NJ	Pennsylvania	1.0
+26038 | Eau Claire, WI	Wisconsin	1.0
+26416 | El Centro--Calexico, CA	California	1.0
+26794 | Elkhart, IN--MI	Indiana	1.0
+27118 | Elmira, NY	New York	1.0
+27253 | El Paso, TX--NM	Texas	1.0
+27261 | El Paso de Robles (Paso Robles)--Atascadero, CA	California	1.0
+27766 | Erie, PA	Pennsylvania	1.0
+28117 | Eugene, OR	Oregon	1.0
+28198 | Eureka, CA	California	0.99999999999998
+28657 | Fairfield, CA	California	1.0
+29089 | Fargo, ND--MN	North Dakota	0.938615457166555
+29089 | Fargo, ND--MN	Minnesota	0.0613845428334492
+29278 | Farmington, NM	New Mexico	1.0
+29440 | Fayetteville, NC	North Carolina	1.0
+29818 | Flagstaff, AZ	Arizona	1.0
+30628 | Fort Collins, CO	Colorado	1.0
+31087 | Fort Wayne, IN	Indiana	1.0
+31150 | Four Corners, FL	Florida	1.0
+31450 | Franklin--Highland Lake, NJ	New Jersey	1.0
+31519 | Frederick, MD	Maryland	1.0
+31600 | Fredericksburg, VA	Virginia	1.0
+31843 | Fresno, CA	California	1.0
+32167 | Gainesville, FL	Florida	1.0
+32194 | Gainesville, GA	Georgia	1.0
+32491 | Galveston, TX	Texas	0.999999999999992
+33247 | Gillette, WY	Wyoming	1.0
+33328 | Gilroy--Morgan Hill, CA	California	1.0
+33598 | Glens Falls, NY	New York	1.0
+34273 | Grand Junction, CO	Colorado	1.0
+34300 | Grand Rapids, MI	Michigan	1.0
+34516 | Grants Pass, OR	Oregon	1.0
+34597 | Grass Valley, CA	California	1.0
+34759 | Great Falls, MT	Montana	1.0
+34786 | Greeley, CO	Colorado	1.0
+34813 | Green Bay, WI	Wisconsin	0.999999999999997
+35164 | Greensboro, NC	North Carolina	1.0
+35380 | Greenville, NC	North Carolina	1.0
+35461 | Greenville, SC	South Carolina	1.0
+36055 | Gustine, CA	California	1.0
+36190 | Hagerstown, MD--WV--PA	West Virginia	0.396911797801191
+36190 | Hagerstown, MD--WV--PA	Maryland	0.603088202198812
+36703 | Hanford, CA	California	1.0
+36784 | Hanover, PA	Pennsylvania	1.0
+37081 | Harrisburg, PA	Pennsylvania	1.0
+37162 | Harrisonburg, VA	Virginia	1.0
+37243 | Hartford, CT	Connecticut	1.0
+37945 | Hazleton, PA	Pennsylvania	1.0
+38161 | Helena, MT	Montana	1.0
+38215 | Hemet, CA	California	1.0
+38647 | Hickory, NC	North Carolina	1.0
+39079 | Hilton Head Island, SC	South Carolina	1.0
+39214 | Hobbs, NM	New Mexico	1.0
+39511 | Hollister, CA	California	1.0
+40429 | Houston, TX	Texas	1.0
+40780 | Huntsville, AL	Alabama	1.0
+40996 | Idaho Falls, ID	Idaho	1.0
+41212 | Indianapolis, IN	Indiana	1.0
+41347 | Indio--Cathedral City, CA	California	1.0
+41590 | Iowa City, IA	Iowa	1.0
+41914 | Ithaca, NY	New York	1.0
+42346 | Jacksonville, FL	Florida	1.0
+43291 | Johnstown, PA	Pennsylvania	1.0
+43723 | Kalamazoo, MI	Michigan	1.0
+43777 | Kalispell, MT	Montana	1.0
+43885 | Kankakee, IL	Illinois	1.0
+43912 | Kansas City, MO--KS	Kansas	0.354874754208081
+43912 | Kansas City, MO--KS	Missouri	0.645125245791916
+44479 | Kennewick--Pasco, WA	Washington	1.0
+44506 | Kenosha, WI--IL	Wisconsin	1.0
+44992 | Killeen, TX	Texas	1.0
+45127 | Kingman, AZ	Arizona	1.0
+45262 | Kingston, NY	New York	1.0
+45451 | Kissimmee, FL	Florida	1.0
+45505 | Klamath Falls--Altamont, OR	Oregon	1.0
+45640 | Knoxville, TN	Tennessee	1.0
+45910 | La Crosse, WI--MN	Wisconsin	1.0
+45937 | Lady Lake--The Villages, FL	Florida	1.0
+46018 | Lafayette, IN	Indiana	1.0
+46126 | Lafayette--Louisville--Erie, CO	Colorado	1.0
+46747 | Lake Havasu City, AZ	Arizona	1.0
+47530 | Lancaster, PA	Pennsylvania	1.0
+47611 | Lancaster--Palmdale, CA	California	1.0
+47719 | Lansing, MI	Michigan	1.0
+47827 | Laramie, WY	Wyoming	1.0
+47854 | Laredo, TX	Texas	0.999999999999999
+47935 | Las Cruces, NM	New Mexico	1.0
+47995 | Las Vegas--Henderson, NV	Nevada	1.0
+48664 | Lebanon, PA	Pennsylvania	1.0
+48826 | Lee's Summit, MO	Missouri	1.0
+49096 | Leominster--Fitchburg, MA	Massachusetts	1.0
+49312 | Lewiston, ID--WA	Washington	0.233780425328811
+49312 | Lewiston, ID--WA	Idaho	0.766219574671187
+49582 | Lexington-Fayette, KY	Kentucky	1.0
+49594 | Lexington Park--California--Chesapeake Ranch Estates, MD	Maryland	1.0
+49933 | Lincoln, NE	Nebraska	1.0
+50392 | Little Rock, AR	Arkansas	1.0
+50527 | Livermore, CA	California	1.0
+50851 | Lodi, CA	California	1.0
+50959 | Logan, UT	Utah	1.0
+51040 | Lompoc, CA	California	1.0
+51175 | Longmont, CO	Colorado	1.0
+51283 | Longview, WA--OR	Washington	0.942099199632342
+51283 | Longview, WA--OR	Oregon	0.0579008003676586
+51445 | Los Angeles--Long Beach--Anaheim, CA	California	1.0
+51472 | Los Banos, CA	California	1.0
+51499 | Los Lunas, NM	New Mexico	1.0
+51755 | Louisville/Jefferson County, KY--IN	Kentucky	1.0
+51877 | Lubbock, TX	Texas	1.0
+52201 | Lynchburg, VA	Virginia	1.0
+52390 | McAllen, TX	Texas	1.0
+52687 | McKinney, TX	Texas	1.0
+52741 | McMinnville, OR	Oregon	1.0
+52984 | Madera, CA	California	1.0
+53200 | Madison, WI	Wisconsin	1.0
+53740 | Manchester, NH	New Hampshire	1.0
+53794 | Mandeville--Covington, LA	Louisiana	1.0
+54145 | Manteca, CA	California	1.0
+54477 | Maricopa, AZ	Arizona	1.0
+55333 | Marysville, WA	Washington	1.0
+55603 | Mauldin--Simpsonville, SC	South Carolina	1.0
+55981 | Medford, OR	Oregon	1.0
+56116 | Memphis, TN--MS--AR	Tennessee	1.0
+56251 | Merced, CA	California	1.0
+56602 | Miami, FL	Florida	1.0
+56656 | Michigan City--La Porte, IN--MI	Indiana	1.0
+56899 | Middletown, NY	New York	1.0
+57007 | Midland, TX	Texas	1.0
+57439 | Milton--Lewisburg, PA	Pennsylvania	1.0
+57466 | Milwaukee, WI	Wisconsin	1.0
+57628 | Minneapolis--St. Paul, MN--WI	Minnesota	1.0
+57709 | Mission Viejo--Lake Forest--San Clemente, CA	California	1.0
+57736 | Missoula, MT	Montana	1.0
+58006 | Modesto, CA	California	1.0
+59518 | Moses Lake, WA	Washington	1.0
+60490 | Mount Vernon, WA	Washington	1.0
+60799 | Murrieta--Temecula--Menifee, CA	California	1.0
+60841 | Muskegon, MI	Michigan	1.0
+60895 | Myrtle Beach--Socastee, SC--NC	South Carolina	1.0
+60976 | Nampa, ID	Idaho	1.0
+61057 | Napa, CA	California	1.0
+61165 | Nashua, NH--MA	New Hampshire	1.0
+61273 | Nashville-Davidson, TN	Tennessee	1.0
+61786 | New Bedford, MA	Massachusetts	1.0
+62407 | New Haven, CT	Connecticut	1.0
+62677 | New Orleans, LA	Louisiana	1.0
+63217 | New York--Newark, NY--NJ--CT	New York	1.0
+63325 | Nogales, AZ	Arizona	1.0
+63433 | Norman, OK	Oklahoma	1.0
+63838 | North Port--Port Charlotte, FL	Florida	1.0
+64135 | Norwich--New London, CT--RI	Connecticut	1.0
+64378 | Oak Harbor, WA	Washington	0.999999999999968
+64660 | Ocean Pines, MD--DE	Maryland	1.0
+64864 | Odessa, TX	Texas	1.0
+64945 | Ogden--Layton, UT	Utah	1.0
+65080 | Oklahoma City, OK	Oklahoma	1.0
+65242 | Olympia--Lacey, WA	Washington	1.0
+65269 | Omaha, NE--IA	Nebraska	1.0
+65863 | Orlando, FL	Florida	1.0
+65944 | Oroville, CA	California	1.0
+66241 | Oswego, NY	New York	1.0
+66673 | Oxnard, CA	California	1.0
+67105 | Palm Bay--Melbourne, FL	Florida	1.0
+67375 | Paradise, CA	California	1.0
+68509 | Peoria, IL	Illinois	1.0
+68833 | Peru--LaSalle, IL	Illinois	1.0
+68887 | Petaluma, CA	California	1.0
+69076 | Philadelphia, PA--NJ--DE--MD	Pennsylvania	1.0
+69184 | Phoenix--Mesa, AZ	Arizona	1.0
+69517 | Pinehurst--Southern Pines, NC	North Carolina	1.0
+69697 | Pittsburgh, PA	Pennsylvania	1.0
+69778 | Pittsfield, MA	Massachusetts	1.0
+70426 | Pocatello, ID	Idaho	1.0
+70993 | Port Arthur, TX	Texas	1.0
+71074 | Porterville, CA	California	1.0
+71263 | Portland, ME	Maine	1.0
+71317 | Portland, OR--WA	Oregon	1.0
+71479 | Port St. Lucie, FL	Florida	1.0
+71506 | Portsmouth, NH--ME	New Hampshire	1.0
+71749 | Pottstown, PA	Pennsylvania	1.0
+71776 | Pottsville, PA	Pennsylvania	1.0
+71803 | Poughkeepsie--Newburgh, NY--NJ	New York	1.0
+72112 | Prescott Valley--Prescott, AZ	Arizona	1.0
+72505 | Providence, RI--MA	Rhode Island	1.0
+72559 | Provo--Orem, UT	Utah	1.0
+72613 | Pueblo, CO	Colorado	1.0
+73153 | Racine, WI	Wisconsin	1.0
+73261 | Raleigh, NC	North Carolina	1.0
+73396 | Rapid City, SD	South Dakota	1.0
+73693 | Reading, PA	Pennsylvania	1.0
+73774 | Redding, CA	California	1.0
+74044 | Reedley--Dinuba, CA	California	1.0
+74179 | Reno, NV--CA	Nevada	1.0
+74746 | Richmond, VA	Virginia	1.0
+74827 | Ridgecrest, CA	California	1.0
+75340 | Riverside--San Bernardino, CA	California	1.0
+75421 | Roanoke, VA	Virginia	1.0
+75637 | Rochester, MN	Minnesota	1.0
+75664 | Rochester, NY	New York	1.0
+75718 | Rockford, IL	Illinois	1.0
+76231 | Rome, NY	New York	1.0
+76339 | Roseburg, OR	Oregon	1.0
+76447 | Roswell, NM	New Mexico	1.0
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	Illinois	1.0
+77068 | Sacramento, CA	California	1.0
+77161 | Sahuarita--Green Valley, AZ	Arizona	1.0
+77338 | St. Cloud, MN	Minnesota	1.0
+77446 | St. George, UT	Utah	1.0
+77770 | St. Louis, MO--IL	Missouri	1.0
+78229 | Salem, OR	Oregon	1.0
+78310 | Salinas, CA	California	1.0
+78364 | Salisbury, MD--DE	Delaware	0.297944473699142
+78364 | Salisbury, MD--DE	Maryland	0.702055526300853
+78499 | Salt Lake City--West Valley City, UT	Utah	1.0
+78553 | San Angelo, TX	Texas	1.0
+78580 | San Antonio, TX	Texas	1.0
+78661 | San Diego, CA	California	1.0
+78904 | San Francisco--Oakland, CA	California	0.999999999999981
+79039 | San Jose, CA	California	1.0
+79147 | San Luis Obispo, CA	California	1.0
+79282 | Santa Barbara, CA	California	0.999999999999985
+79309 | Santa Clarita, CA	California	1.0
+79336 | Santa Cruz, CA	California	1.0
+79363 | Santa Fe, NM	New Mexico	1.0
+79417 | Santa Maria, CA	California	1.0
+79498 | Santa Rosa, CA	California	1.0
+79606 | Sarasota--Bradenton, FL	Florida	1.0
+79633 | Saratoga Springs, NY	New York	1.0
+80227 | Scranton, PA	Pennsylvania	1.0
+80362 | Seaside--Monterey, CA	California	0.999999999999984
+80389 | Seattle, WA	Washington	1.0
+80400 | Sebastian--Vero Beach South--Florida Ridge, FL	Florida	1.0
+80551 | Selma, CA	California	1.0
+80985 | Shamokin--Mount Carmel, PA	Pennsylvania	1.0
+81739 | Shreveport, LA	Louisiana	1.0
+81901 | Sierra Vista, AZ	Arizona	1.0
+82144 | Simi Valley, CA	California	1.0
+82225 | Sioux City, IA--NE--SD	Iowa	0.597961448631687
+82225 | Sioux City, IA--NE--SD	South Dakota	0.00108007133930316
+82225 | Sioux City, IA--NE--SD	Nebraska	0.400958480029006
+82252 | Sioux Falls, SD	South Dakota	1.0
+83008 | Sonoma, CA	California	1.0
+83116 | South Bend, IN--MI	Michigan	0.0135763924387663
+83116 | South Bend, IN--MI	Indiana	0.986423607561237
+83764 | Spokane, WA	Washington	1.0
+83899 | Springfield, IL	Illinois	1.0
+83926 | Springfield, MA--CT	Massachusetts	1.0
+83953 | Springfield, MO	Missouri	1.0
+84493 | State College, PA	Pennsylvania	1.0
+84630 | Staunton--Waynesboro, VA	Virginia	1.0
+85087 | Stockton, CA	California	1.0
+86302 | Syracuse, NY	New York	1.0
+86599 | Tampa--St. Petersburg, FL	Florida	1.0
+87058 | Temple, TX	Texas	1.0
+87220 | Texas City, TX	Texas	1.0
+87490 | Thousand Oaks, CA	California	1.0
+87868 | Toledo, OH--MI	Ohio	1.0
+88057 | Tooele, UT	Utah	1.0
+88192 | Torrington, CT	Connecticut	1.0
+88273 | Tracy, CA	California	1.0
+88462 | Trenton, NJ	New Jersey	1.0
+88624 | Truckee, CA	California	1.0
+88732 | Tucson, AZ	Arizona	1.0
+88948 | Tulsa, OK	Oklahoma	1.0
+89083 | Turlock, CA	California	1.0
+89245 | Twin Falls, ID	Idaho	1.0
+89263 | Twin Rivers--Hightstown, NJ	New Jersey	1.0
+89326 | Tyler, TX	Texas	1.0
+89785 | Utica, NY	New York	1.0
+89866 | Vacaville, CA	California	1.0
+90028 | Vallejo, CA	California	1.0
+90541 | Victorville--Hesperia, CA	California	1.0
+90658 | Villas, NJ	New Jersey	1.0
+90730 | Vineland, NJ	New Jersey	1.0
+90892 | Virginia Beach, VA	Virginia	0.99999999999999
+90946 | Visalia, CA	California	1.0
+91027 | Waco, TX	Texas	1.0
+91261 | Waldorf, MD	Maryland	1.0
+91405 | Walla Walla, WA--OR	Washington	0.938292477473232
+91405 | Walla Walla, WA--OR	Oregon	0.0617075225267695
+92242 | Washington, DC--VA--MD	Virginia	1.0
+92485 | Waterbury, CT	Connecticut	1.0
+92593 | Waterloo, IA	Iowa	1.0
+92674 | Watertown, NY	New York	1.0
+92890 | Watsonville, CA	California	1.0
+93484 | Weatherford, TX	Texas	1.0
+93862 | Wenatchee, WA	Washington	1.0
+94294 | Westminster--Eldersburg, MD	Maryland	1.0
+95077 | Wichita, KS	Kansas	1.0
+95104 | Wichita Falls, TX	Texas	1.0
+95455 | Williamsport, PA	Pennsylvania	1.0
+95833 | Wilmington, NC	North Carolina	1.0
+96103 | Winchester, VA	Virginia	1.0
+96670 | Winston-Salem, NC	North Carolina	1.0
+96913 | Woodburn, OR	Oregon	1.0
+96994 | Woodland, CA	California	1.0
+97291 | Worcester, MA--CT	Massachusetts	1.0
+97507 | Yakima, WA	Washington	1.0
+97750 | York, PA	Pennsylvania	1.0
+97939 | Yuba City, CA	California	1.0
+98020 | Yuma, AZ--CA	Arizona	1.0
+@ Anacortes, WA	Washington	1.0
+@ Anniston, AL	Alabama	1.0
+@ Ardmore, OK	Oklahoma	1.0
+@ Artesia, NM	New Mexico	1.0
+@ Ashtabula, OH	Ohio	1.0
+@ Augusta, GA	Georgia	0.732500201297665
+@ Augusta, GA	South Carolina	0.267499798702336
+@ Bakersfield, CA	California	1.0
+@ Baton Rouge, LA	Louisiana	1.0
+@ Batton Rouge, LA	Louisiana	1.0
+@ Bay City, TX	Texas	1.0
+@ Bayport, TX	Texas	1.0
+@ Baytown, TX	Texas	1.0
+@ Beaumont, TX	Texas	1.0
+@ Belle Chasse, LA	Louisiana	1.0
+@ Belle, WV	West Virginia	1.0
+@ Belvidere, NJ	New Jersey	0.636096333009145
+@ Belvidere, NJ	Pennsylvania	0.363903666990854
+@ Benicia, CA	California	1.0
+@ Billings, MT	Montana	1.0
+@ Blaine, WA	Washington	0.999999999999999
+@ Borger, TX	Texas	1.0
+@ Bradley, IL	Illinois	1.0
+@ Brorger, TX	Texas	1.0
+@ Burkville, AL	Alabama	1.0
+@ Butler, IN	Indiana	1.0
+@ Butte, MT	Montana	1.0
+@ Calvert City, KY	Tennessee	1.0
+@ Carson, CA	California	1.0
+@ Catlettsburg, KY	West Virginia	0.172534678775769
+@ Catlettsburg, KY	Kentucky	0.555920669106769
+@ Catlettsburg, KY	Ohio	0.271544652117458
+@ Cedar City, UT	Utah	1.0
+@ Channelview, TX	Texas	1.0
+@ Charleston, TN	Tennessee	1.0
+@ Charlotte, NC	North Carolina	1.0
+@ Chattanooga, TN	Georgia	0.308131582094211
+@ Chattanooga, TN	Tennessee	0.691868417905787
+@ Cherry Point, WA	Washington	1.0
+@ Cheyenne, WY	Wyoming	1.0
+@ Cincinnati, OH	Ohio	1.0
+@ Coffeyville, KS	Kansas	0.982145325230341
+@ Coffeyville, KS	Oklahoma	0.0178546747696582
+@ Columbus, MS	Mississippi	1.0
+@ Commerce City, CO	Colorado	1.0
+@ Convent, LA	Louisiana	1.0
+@ Conway, KS	Kansas	1.0
+@ Corpus Christi, TX	Texas	1.0
+@ Corunna, ON, CA	Michigan	1.0
+@ Cotton Valley, LA	Texas	1.0
+@ Crawfordsville, IN	Indiana	1.0
+@ Dallas, TX	Texas	1.0
+@ Decatur, AL	Alabama	1.0
+@ Decatur, IL	Illinois	1.0
+@ Decatur, IN	Indiana	1.0
+@ Deepwater, NJ	Delaware	0.243802728771841
+@ Deepwater, NJ	New Jersey	0.75619727122816
+@ Deer Park, TX	Texas	1.0
+@ Delaware City, DE	Delaware	0.999999999999998
+@ Des Moines, IA	Iowa	1.0
+@ Detroit, MI	Illinois	1.0
+@ East Chicago, IN	Indiana	1.0
+@ Eastover, SC	South Carolina	1.0
+@ Ecorse, MI	Michigan	1.0
+@ El Dorado, AR	Arkansas	1.0
+@ El Dorado, KS	Kansas	1.0
+@ El Segundo, CA	California	1.0
+@ Euclid, OH	Ohio	1.0
+@ Fairless Hills, PA	Pennsylvania	1.0
+@ Fort Worth, TX	Texas	1.0
+@ Freeport, TX	Texas	1.0
+@ Gainesville, GA	Georgia	1.0
+@ Gallatin, TN	Tennessee	1.0
+@ Geismar, LA	Louisiana	1.0
+@ Great Falls, MT	Montana	1.0
+@ Hamilton, MS	Mississippi	1.0
+@ Hannibal, MO	Missouri	0.670454192990232
+@ Hannibal, MO	Illinois	0.329545807009769
+@ Hartford, IL	Missouri	0.209842594031299
+@ Hartford, IL	Illinois	0.790157405968701
+@ Henderson, NV	Nevada	1.0
+@ Huntsville, AL	Alabama	1.0
+@ Ingleside, TX	Texas	0.999999999999992
+@ Institute, WV	West Virginia	1.0
+@ Jacksonville, IL	Illinois	1.0
+@ Joliet, IL	Illinois	1.0
+@ Kalama, WA	Washington	0.613355451756048
+@ Kalama, WA	Oregon	0.38664454824395
+@ Karns City, PA	Pennsylvania	1.0
+@ Kingsport, TN	Tennessee	1.0
+@ LaBarge, WY	Wyoming	1.0
+@ Lake Charles, LA	Louisiana	1.0
+@ La Porte, TX	Texas	1.0
+@ Laurel, MT	Montana	1.0
+@ Lemont, IL	Illinois	1.0
+@ Lima, OH	Ohio	1.0
+@ Lincoln, NE	Nebraska	1.0
+@ Linden, NJ	New York	0.133460153420775
+@ Linden, NJ	New Jersey	0.866539846579225
+@ Longview, TX	Texas	1.0
+@ Longview, WA	Washington	0.697450133707628
+@ Longview, WA	Oregon	0.302549866292373
+@ Louisville, KY	Indiana	0.191870838993597
+@ Louisville, KY	Kentucky	0.808129161006405
+@ Luling, LA	Louisiana	1.0
+@ Maitland, ON, CA	New York	1.0
+@ Mankato, MN	Minnesota	1.0
+@ Mapleton, IL	Illinois	1.0
+@ Marcus Hook, PA	Delaware	0.176465218196131
+@ Marcus Hook, PA	New Jersey	0.282030443808482
+@ Marcus Hook, PA	Pennsylvania	0.541504337995388
+@ Martinez, CA	California	1.0
+@ McIntosh, AL	Alabama	1.0
+@ McPherson, KS	Kansas	1.0
+@ Memphis, TN	Tennessee	1.0
+@ Middleton, OH	Ohio	1.0
+@ Midland, MI	Michigan	1.0
+@ Mobile, AL	Alabama	1.0
+@ Mont Belvieu, TX	Texas	1.0
+@ Mont Belview, TX	Texas	1.0
+@ Moses Lake, WA	Washington	1.0
+@ Mount Vernon, IN	Kentucky	0.251649027991785
+@ Mount Vernon, IN	Indiana	0.748350972008214
+@ Nanticoke, ON, CA	Pennsylvania	1.0
+@ New Castle, DE	New Jersey	0.112219955902229
+@ New Castle, DE	Delaware	0.887780044097776
+@ Newell, WV	Ohio	0.334714193181472
+@ Newell, WV	West Virginia	0.665285806818527
+@ New Orleans, LA	Louisiana	1.0
+@ Niagara Falls, NY	New York	0.999999999999966
+@ Norco, LA	Louisiana	1.0
+@ Norcross, GA	Georgia	1.0
+@ Ontario, CA	California	1.0
+@ Pasadena, TX	Texas	1.0
+@ Pascagoula, MS	Mississippi	1.0
+@ Paulsboro, NJ	New Jersey	0.712821701645099
+@ Paulsboro, NJ	Pennsylvania	0.287178298354901
+@ Pensacola, FL	Florida	1.0
+@ Petrolia, PA	Pennsylvania	1.0
+@ Plaquemine, LA	Louisiana	1.0
+@ Point Comfort, TX	Texas	1.0
+@ Ponca City, OK	Oklahoma	1.0
+@ Port Arthur, TX	Louisiana	1.0
+@ Port Edwards, WI	Wisconsin	1.0
+@ Princeton, LA	Texas	1.0
+@ Proctor, WV	Ohio	0.201819379519353
+@ Proctor, WV	West Virginia	0.798180620480645
+@ Raleigh, NC	North Carolina	1.0
+@ Richmond, CA	California	1.0
+@ Rockport, IN	Kentucky	0.372857363393364
+@ Rockport, IN	Indiana	0.627142636606635
+@ Rodeo, CA	California	1.0
+@ Rouseville, PA	Pennsylvania	1.0
+@ Sacramento, CA	California	1.0
+@ Salina, KS	Kansas	1.0
+@ Salt Lake City, UT	Utah	1.0
+@ Saraland, AL	Alabama	1.0
+@ Sarnia, ON, CA	Michigan	1.0
+@ Sauget, IL	Missouri	0.178759670000349
+@ Sauget, IL	Illinois	0.821240329999652
+@ Seymour, IN	Indiana	1.0
+@ Shreveport, LA	Louisiana	1.0
+@ Sidney, OH	Ohio	1.0
+@ Silsbee, TX	Texas	1.0
+@ Sioux City, IA	Nebraska	0.126382126377781
+@ Sioux City, IA	Iowa	0.873617873622214
+@ Smackover, AR	Arkansas	1.0
+@ St. Charles, LA	Louisiana	1.0
+@ St. Gabriel, LA	Louisiana	1.0
+@ St. Joseph, MO	Missouri	0.964815673867091
+@ St. Joseph, MO	Kansas	0.0351843261329037
+@ St. Marys, PA	Pennsylvania	1.0
+@ St. Paul, MN	Minnesota	1.0
+@ St. Paul Park, MN	Minnesota	1.0
+@ Stuttgart, AR	Arkansas	1.0
+@ Sweeney, TX	Texas	1.0
+@ Taft, LA	Louisiana	1.0
+@ Texas City, TX	Texas	1.0
+@ Theodore, AL	Alabama	1.0
+@ Three Rivers, TX	Texas	1.0
+@ Toledo, OH	Ohio	1.0
+@ Torrance, CA	California	1.0
+@ Tuscaloosa, AL	Alabama	1.0
+@ Valdosta, GA	Georgia	1.0
+@ Vicksburg, MS	Mississippi	0.862632796847153
+@ Vicksburg, MS	Louisiana	0.137367203152848
+@ Victoria, TX	Texas	1.0
+@ Weirton, WV	Pennsylvania	0.0130082041762842
+@ Weirton, WV	West Virginia	0.985789624804866
+@ Weirton, WV	Ohio	0.00120217101885702
+@ Westlake, LA	Louisiana	1.0
+@ West Leechburg, PA	Pennsylvania	1.0
+@ Whiting, IN	Indiana	0.960187312996651
+@ Whiting, IN	Illinois	0.039812687003346
+@ Wichita, KS	Kansas	1.0
+@ Wilmington, CA	California	1.0
+@ Windsor, ON, CA	Michigan	1.0
+@ Wood River, IL	Missouri	0.0148059474916061
+@ Wood River, IL	Illinois	0.985194052508398
+@ Wright, WY	Wyoming	1.0
+@ Wynneywood, OK	Oklahoma	1.0

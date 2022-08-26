@@ -1,0 +1,563 @@
+Network ID	Territory	Fraction
+00199 | Aberdeen--Bel Air South--Bel Air North, MD	Non-CA ZEV	1
+00280 | Abilene, TX	Non-ZEV	1
+00766 | Akron, OH	Non-ZEV	1
+00820 | Alamogordo, NM	Non-ZEV	1
+00955 | Albany, OR	Non-CA ZEV	1
+00970 | Albany--Schenectady, NY	Non-CA ZEV	1
+01171 | Albuquerque, NM	Non-ZEV	1
+01495 | Allentown, PA--NJ	Non-CA ZEV	1
+01792 | Altoona, PA	Non-ZEV	1
+01927 | Amarillo, TX	Non-ZEV	1
+02413 | Anderson, SC	Non-ZEV	1
+02602 | Ann Arbor, MI	Non-ZEV	1
+02683 | Antioch, CA	CA	1
+02764 | Appleton, WI	Non-ZEV	1
+02926 | Arcata-McKinleyville, CA	CA	1
+03196 | Arroyo Grande--Grover Beach, CA	CA	1
+03358 | Asheville, NC	Non-ZEV	1
+03763 | Athens-Clarke County, GA	Non-ZEV	1
+03817 | Atlanta, GA	Non-ZEV	1
+03898 | Atlantic City, NJ	Non-CA ZEV	1
+04114 | Auburn, NY	Non-CA ZEV	1
+04130 | Auburn--North Auburn, CA	CA	1
+04222 | Augusta-Richmond County, GA--SC	Non-ZEV	1
+04384 | Austin, TX	Non-ZEV	1
+04549 | Avondale--Goodyear, AZ	Non-ZEV	1
+04681 | Bakersfield, CA	CA	1
+04843 | Baltimore, MD	Non-CA ZEV	1
+04951 | Bangor, ME	Non-CA ZEV	1
+05167 | Barnstable Town, MA	Non-CA ZEV	1
+06058 | Beaumont, TX	Non-ZEV	1
+06652 | Bellingham, WA	Non-ZEV	1
+06760 | Beloit, WI--IL	Non-ZEV	1
+06868 | Bend, OR	Non-CA ZEV	1
+07138 | Benton Harbor--St. Joseph--Fair Plain, MI	Non-ZEV	1
+07705 | Billings, MT	Non-ZEV	1
+07732 | Binghamton, NY--PA	Non-CA ZEV	1
+07786 | Birmingham, AL	Non-ZEV	1
+07921 | Bismarck, ND	Non-ZEV	1
+08407 | Bloomington--Normal, IL	Non-ZEV	1
+08434 | Bloomsburg--Berwick, PA	Non-ZEV	1
+08785 | Boise City, ID	Non-ZEV	1
+08974 | Bonita Springs, FL	Non-ZEV	1
+09271 | Boston, MA--NH--RI	Non-CA ZEV	1
+09298 | Boulder, CO	Non-ZEV	1
+09514 | Bozeman, MT	Non-ZEV	1
+09946 | Bremerton, WA	Non-ZEV	1
+10162 | Bridgeport--Stamford, CT--NY	Non-CA ZEV	1
+10189 | Bridgeton, NJ	Non-CA ZEV	1
+10891 | Browns Mills--Fort Dix, NJ	Non-CA ZEV	1
+10972 | Brownsville, TX	Non-ZEV	1
+11350 | Buffalo, NY	Non-CA ZEV	1
+11431 | Bullhead City, AZ--NV	Non-ZEV	1
+11755 | Burlington, VT	Non-CA ZEV	1
+12052 | Butte-Silver Bow, MT	Non-ZEV	1
+12754 | Camarillo, CA	CA	1
+13375 | Canton, OH	Non-ZEV	1
+13510 | Cape Coral, FL	Non-ZEV	1
+14158 | Carson City, NV	Non-ZEV	1
+14401 | Casa Grande, AZ	Non-ZEV	1
+14482 | Casper, WY	Non-ZEV	1
+14698 | Cedar City, UT	Non-ZEV	1
+14752 | Cedar Rapids, IA	Non-ZEV	1
+15076 | Centralia, WA	Non-ZEV	1
+15184 | Chambersburg, PA	Non-ZEV	1
+15211 | Champaign, IL	Non-ZEV	1
+15508 | Charleston--North Charleston, SC	Non-ZEV	1
+15670 | Charlotte, NC--SC	Non-ZEV	1
+15724 | Charlottesville, VA	Non-ZEV	1
+15832 | Chattanooga, TN--GA	Non-ZEV	1
+16237 | Cheyenne, WY	Non-ZEV	1
+16264 | Chicago, IL--IN	Non-ZEV	1
+16318 | Chico, CA	CA	1
+16885 | Cincinnati, OH--KY--IN	Non-ZEV	1
+17533 | Cleburne, TX	Non-ZEV	1
+17668 | Cleveland, OH	Non-ZEV	1
+18289 | Coalinga, CA	CA	1
+18451 | Coeur d'Alene, ID	Non-ZEV	1
+18748 | College Station--Bryan, TX	Non-ZEV	1
+18856 | Colorado Springs, CO	Non-ZEV	1
+18964 | Columbia, SC	Non-ZEV	1
+19234 | Columbus, OH	Non-ZEV	1
+19504 | Concord, CA	CA	1
+19531 | Concord, NH	Non-ZEV	1
+19558 | Concord, NC	Non-ZEV	1
+19755 | Conroe--The Woodlands, TX	Non-ZEV	1
+20287 | Corpus Christi, TX	Non-ZEV	1
+20422 | Corvallis, OR	Non-CA ZEV	1
+21745 | Cumberland, MD--WV--PA	Non-CA ZEV	1
+22042 | Dallas--Fort Worth--Arlington, TX	Non-ZEV	1
+22096 | Danbury, CT--NY	Non-CA ZEV	1
+22366 | Davenport, IA--IL	Non-ZEV	1
+22420 | Davis, CA	CA	1
+22528 | Dayton, OH	Non-ZEV	1
+22960 | DeKalb, IL	Non-ZEV	1
+22987 | Delano, CA	CA	1
+23203 | Del Rio, TX	Non-ZEV	1
+23500 | Denton--Lewisville, TX	Non-ZEV	1
+23527 | Denver--Aurora, CO	Non-ZEV	1
+23743 | Des Moines, IA	Non-ZEV	1
+23824 | Detroit, MI	Non-ZEV	1
+24580 | Dover, DE	Non-ZEV	1
+24607 | Dover--Rochester, NH--ME	Non-CA ZEV	1
+24850 | Duluth, MN--WI	Non-ZEV	1
+25228 | Durham, NC	Non-ZEV	1
+25849 | East Stroudsburg, PA--NJ	Non-CA ZEV	1
+26038 | Eau Claire, WI	Non-ZEV	1
+26416 | El Centro--Calexico, CA	CA	1
+26794 | Elkhart, IN--MI	Non-ZEV	1
+27118 | Elmira, NY	Non-CA ZEV	1
+27253 | El Paso, TX--NM	Non-ZEV	1
+27261 | El Paso de Robles (Paso Robles)--Atascadero, CA	CA	1
+27766 | Erie, PA	Non-ZEV	1
+28117 | Eugene, OR	Non-CA ZEV	1
+28198 | Eureka, CA	CA	1
+28657 | Fairfield, CA	CA	1
+29089 | Fargo, ND--MN	Non-ZEV	1
+29278 | Farmington, NM	Non-ZEV	1
+29440 | Fayetteville, NC	Non-ZEV	1
+29818 | Flagstaff, AZ	Non-ZEV	1
+30628 | Fort Collins, CO	Non-ZEV	1
+31087 | Fort Wayne, IN	Non-ZEV	1
+31150 | Four Corners, FL	Non-ZEV	1
+31450 | Franklin--Highland Lake, NJ	Non-CA ZEV	1
+31519 | Frederick, MD	Non-CA ZEV	1
+31600 | Fredericksburg, VA	Non-ZEV	1
+31843 | Fresno, CA	CA	1
+32167 | Gainesville, FL	Non-ZEV	1
+32194 | Gainesville, GA	Non-ZEV	1
+32491 | Galveston, TX	Non-ZEV	1
+33247 | Gillette, WY	Non-ZEV	1
+33328 | Gilroy--Morgan Hill, CA	CA	1
+33598 | Glens Falls, NY	Non-CA ZEV	1
+34273 | Grand Junction, CO	Non-ZEV	1
+34300 | Grand Rapids, MI	Non-ZEV	1
+34516 | Grants Pass, OR	Non-CA ZEV	1
+34597 | Grass Valley, CA	CA	1
+34759 | Great Falls, MT	Non-ZEV	1
+34786 | Greeley, CO	Non-ZEV	1
+34813 | Green Bay, WI	Non-ZEV	1
+35164 | Greensboro, NC	Non-ZEV	1
+35380 | Greenville, NC	Non-ZEV	1
+35461 | Greenville, SC	Non-ZEV	1
+36055 | Gustine, CA	CA	1
+36190 | Hagerstown, MD--WV--PA	Non-CA ZEV	1
+36703 | Hanford, CA	CA	1
+36784 | Hanover, PA	Non-ZEV	1
+37081 | Harrisburg, PA	Non-ZEV	1
+37162 | Harrisonburg, VA	Non-ZEV	1
+37243 | Hartford, CT	Non-CA ZEV	1
+37945 | Hazleton, PA	Non-ZEV	1
+38161 | Helena, MT	Non-ZEV	1
+38215 | Hemet, CA	CA	1
+38647 | Hickory, NC	Non-ZEV	1
+39079 | Hilton Head Island, SC	Non-ZEV	1
+39214 | Hobbs, NM	Non-ZEV	1
+39511 | Hollister, CA	CA	1
+40429 | Houston, TX	Non-ZEV	1
+40780 | Huntsville, AL	Non-ZEV	1
+40996 | Idaho Falls, ID	Non-ZEV	1
+41212 | Indianapolis, IN	Non-ZEV	1
+41347 | Indio--Cathedral City, CA	CA	1
+41590 | Iowa City, IA	Non-ZEV	1
+41914 | Ithaca, NY	Non-CA ZEV	1
+42346 | Jacksonville, FL	Non-ZEV	1
+43291 | Johnstown, PA	Non-ZEV	1
+43723 | Kalamazoo, MI	Non-ZEV	1
+43777 | Kalispell, MT	Non-ZEV	1
+43885 | Kankakee, IL	Non-ZEV	1
+43912 | Kansas City, MO--KS	Non-ZEV	1
+44479 | Kennewick--Pasco, WA	Non-ZEV	1
+44506 | Kenosha, WI--IL	Non-ZEV	1
+44992 | Killeen, TX	Non-ZEV	1
+45127 | Kingman, AZ	Non-ZEV	1
+45262 | Kingston, NY	Non-CA ZEV	1
+45451 | Kissimmee, FL	Non-ZEV	1
+45505 | Klamath Falls--Altamont, OR	Non-CA ZEV	1
+45640 | Knoxville, TN	Non-ZEV	1
+45910 | La Crosse, WI--MN	Non-ZEV	1
+45937 | Lady Lake--The Villages, FL	Non-ZEV	1
+46018 | Lafayette, IN	Non-ZEV	1
+46126 | Lafayette--Louisville--Erie, CO	Non-ZEV	1
+46747 | Lake Havasu City, AZ	Non-ZEV	1
+47530 | Lancaster, PA	Non-ZEV	1
+47611 | Lancaster--Palmdale, CA	CA	1
+47719 | Lansing, MI	Non-ZEV	1
+47827 | Laramie, WY	Non-ZEV	1
+47854 | Laredo, TX	Non-ZEV	1
+47935 | Las Cruces, NM	Non-ZEV	1
+47995 | Las Vegas--Henderson, NV	Non-ZEV	1
+48664 | Lebanon, PA	Non-ZEV	1
+48826 | Lee's Summit, MO	Non-ZEV	1
+49096 | Leominster--Fitchburg, MA	Non-CA ZEV	1
+49312 | Lewiston, ID--WA	Non-ZEV	1
+49582 | Lexington-Fayette, KY	Non-ZEV	1
+49594 | Lexington Park--California--Chesapeake Ranch Estates, MD	Non-CA ZEV	1
+49933 | Lincoln, NE	Non-ZEV	1
+50392 | Little Rock, AR	Non-ZEV	1
+50527 | Livermore, CA	CA	1
+50851 | Lodi, CA	CA	1
+50959 | Logan, UT	Non-ZEV	1
+51040 | Lompoc, CA	CA	1
+51175 | Longmont, CO	Non-ZEV	1
+51283 | Longview, WA--OR	Non-CA ZEV	1
+51445 | Los Angeles--Long Beach--Anaheim, CA	CA	1
+51472 | Los Banos, CA	CA	1
+51499 | Los Lunas, NM	Non-ZEV	1
+51755 | Louisville/Jefferson County, KY--IN	Non-ZEV	1
+51877 | Lubbock, TX	Non-ZEV	1
+52201 | Lynchburg, VA	Non-ZEV	1
+52390 | McAllen, TX	Non-ZEV	1
+52687 | McKinney, TX	Non-ZEV	1
+52741 | McMinnville, OR	Non-CA ZEV	1
+52984 | Madera, CA	CA	1
+53200 | Madison, WI	Non-ZEV	1
+53740 | Manchester, NH	Non-ZEV	1
+53794 | Mandeville--Covington, LA	Non-ZEV	1
+54145 | Manteca, CA	CA	1
+54477 | Maricopa, AZ	Non-ZEV	1
+55333 | Marysville, WA	Non-ZEV	1
+55603 | Mauldin--Simpsonville, SC	Non-ZEV	1
+55981 | Medford, OR	Non-CA ZEV	1
+56116 | Memphis, TN--MS--AR	Non-ZEV	1
+56251 | Merced, CA	CA	1
+56602 | Miami, FL	Non-ZEV	1
+56656 | Michigan City--La Porte, IN--MI	Non-ZEV	1
+56899 | Middletown, NY	Non-CA ZEV	1
+57007 | Midland, TX	Non-ZEV	1
+57439 | Milton--Lewisburg, PA	Non-ZEV	1
+57466 | Milwaukee, WI	Non-ZEV	1
+57628 | Minneapolis--St. Paul, MN--WI	Non-ZEV	1
+57709 | Mission Viejo--Lake Forest--San Clemente, CA	CA	1
+57736 | Missoula, MT	Non-ZEV	1
+58006 | Modesto, CA	CA	1
+59518 | Moses Lake, WA	Non-ZEV	1
+60490 | Mount Vernon, WA	Non-ZEV	1
+60799 | Murrieta--Temecula--Menifee, CA	CA	1
+60841 | Muskegon, MI	Non-ZEV	1
+60895 | Myrtle Beach--Socastee, SC--NC	Non-ZEV	1
+60976 | Nampa, ID	Non-ZEV	1
+61057 | Napa, CA	CA	1
+61165 | Nashua, NH--MA	Non-CA ZEV	1
+61273 | Nashville-Davidson, TN	Non-ZEV	1
+61786 | New Bedford, MA	Non-CA ZEV	1
+62407 | New Haven, CT	Non-CA ZEV	1
+62677 | New Orleans, LA	Non-ZEV	1
+63217 | New York--Newark, NY--NJ--CT	Non-CA ZEV	1
+63325 | Nogales, AZ	Non-ZEV	1
+63433 | Norman, OK	Non-ZEV	1
+63838 | North Port--Port Charlotte, FL	Non-ZEV	1
+64135 | Norwich--New London, CT--RI	Non-CA ZEV	1
+64378 | Oak Harbor, WA	Non-ZEV	1
+64660 | Ocean Pines, MD--DE	Non-CA ZEV	1
+64864 | Odessa, TX	Non-ZEV	1
+64945 | Ogden--Layton, UT	Non-ZEV	1
+65080 | Oklahoma City, OK	Non-ZEV	1
+65242 | Olympia--Lacey, WA	Non-ZEV	1
+65269 | Omaha, NE--IA	Non-ZEV	1
+65863 | Orlando, FL	Non-ZEV	1
+65944 | Oroville, CA	CA	1
+66241 | Oswego, NY	Non-CA ZEV	1
+66673 | Oxnard, CA	CA	1
+67105 | Palm Bay--Melbourne, FL	Non-ZEV	1
+67375 | Paradise, CA	CA	1
+68509 | Peoria, IL	Non-ZEV	1
+68833 | Peru--LaSalle, IL	Non-ZEV	1
+68887 | Petaluma, CA	CA	1
+69076 | Philadelphia, PA--NJ--DE--MD	Non-CA ZEV	1
+69184 | Phoenix--Mesa, AZ	Non-ZEV	1
+69517 | Pinehurst--Southern Pines, NC	Non-ZEV	1
+69697 | Pittsburgh, PA	Non-ZEV	1
+69778 | Pittsfield, MA	Non-CA ZEV	1
+70426 | Pocatello, ID	Non-ZEV	1
+70993 | Port Arthur, TX	Non-ZEV	1
+71074 | Porterville, CA	CA	1
+71263 | Portland, ME	Non-CA ZEV	1
+71317 | Portland, OR--WA	Non-CA ZEV	1
+71479 | Port St. Lucie, FL	Non-ZEV	1
+71506 | Portsmouth, NH--ME	Non-CA ZEV	1
+71749 | Pottstown, PA	Non-ZEV	1
+71776 | Pottsville, PA	Non-ZEV	1
+71803 | Poughkeepsie--Newburgh, NY--NJ	Non-CA ZEV	1
+72112 | Prescott Valley--Prescott, AZ	Non-ZEV	1
+72505 | Providence, RI--MA	Non-CA ZEV	1
+72559 | Provo--Orem, UT	Non-ZEV	1
+72613 | Pueblo, CO	Non-ZEV	1
+73153 | Racine, WI	Non-ZEV	1
+73261 | Raleigh, NC	Non-ZEV	1
+73396 | Rapid City, SD	Non-ZEV	1
+73693 | Reading, PA	Non-ZEV	1
+73774 | Redding, CA	CA	1
+74044 | Reedley--Dinuba, CA	CA	1
+74179 | Reno, NV--CA	Non-ZEV	1
+74746 | Richmond, VA	Non-ZEV	1
+74827 | Ridgecrest, CA	CA	1
+75340 | Riverside--San Bernardino, CA	CA	1
+75421 | Roanoke, VA	Non-ZEV	1
+75637 | Rochester, MN	Non-ZEV	1
+75664 | Rochester, NY	Non-CA ZEV	1
+75718 | Rockford, IL	Non-ZEV	1
+76231 | Rome, NY	Non-CA ZEV	1
+76339 | Roseburg, OR	Non-CA ZEV	1
+76447 | Roswell, NM	Non-ZEV	1
+76474 | Round Lake Beach--McHenry--Grayslake, IL--WI	Non-ZEV	1
+77068 | Sacramento, CA	CA	1
+77161 | Sahuarita--Green Valley, AZ	Non-ZEV	1
+77338 | St. Cloud, MN	Non-ZEV	1
+77446 | St. George, UT	Non-ZEV	1
+77770 | St. Louis, MO--IL	Non-ZEV	1
+78229 | Salem, OR	Non-CA ZEV	1
+78310 | Salinas, CA	CA	1
+78364 | Salisbury, MD--DE	Non-CA ZEV	1
+78499 | Salt Lake City--West Valley City, UT	Non-ZEV	1
+78553 | San Angelo, TX	Non-ZEV	1
+78580 | San Antonio, TX	Non-ZEV	1
+78661 | San Diego, CA	CA	1
+78904 | San Francisco--Oakland, CA	CA	1
+79039 | San Jose, CA	CA	1
+79147 | San Luis Obispo, CA	CA	1
+79282 | Santa Barbara, CA	CA	1
+79309 | Santa Clarita, CA	CA	1
+79336 | Santa Cruz, CA	CA	1
+79363 | Santa Fe, NM	Non-ZEV	1
+79417 | Santa Maria, CA	CA	1
+79498 | Santa Rosa, CA	CA	1
+79606 | Sarasota--Bradenton, FL	Non-ZEV	1
+79633 | Saratoga Springs, NY	Non-CA ZEV	1
+80227 | Scranton, PA	Non-ZEV	1
+80362 | Seaside--Monterey, CA	CA	1
+80389 | Seattle, WA	Non-ZEV	1
+80400 | Sebastian--Vero Beach South--Florida Ridge, FL	Non-ZEV	1
+80551 | Selma, CA	CA	1
+80985 | Shamokin--Mount Carmel, PA	Non-ZEV	1
+81739 | Shreveport, LA	Non-ZEV	1
+81901 | Sierra Vista, AZ	Non-ZEV	1
+82144 | Simi Valley, CA	CA	1
+82225 | Sioux City, IA--NE--SD	Non-ZEV	1
+82252 | Sioux Falls, SD	Non-ZEV	1
+83008 | Sonoma, CA	CA	1
+83116 | South Bend, IN--MI	Non-ZEV	1
+83764 | Spokane, WA	Non-ZEV	1
+83899 | Springfield, IL	Non-ZEV	1
+83926 | Springfield, MA--CT	Non-CA ZEV	1
+83953 | Springfield, MO	Non-ZEV	1
+84493 | State College, PA	Non-ZEV	1
+84630 | Staunton--Waynesboro, VA	Non-ZEV	1
+85087 | Stockton, CA	CA	1
+86302 | Syracuse, NY	Non-CA ZEV	1
+86599 | Tampa--St. Petersburg, FL	Non-ZEV	1
+87058 | Temple, TX	Non-ZEV	1
+87220 | Texas City, TX	Non-ZEV	1
+87490 | Thousand Oaks, CA	CA	1
+87868 | Toledo, OH--MI	Non-ZEV	1
+88057 | Tooele, UT	Non-ZEV	1
+88192 | Torrington, CT	Non-CA ZEV	1
+88273 | Tracy, CA	CA	1
+88462 | Trenton, NJ	Non-CA ZEV	1
+88624 | Truckee, CA	CA	1
+88732 | Tucson, AZ	Non-ZEV	1
+88948 | Tulsa, OK	Non-ZEV	1
+89083 | Turlock, CA	CA	1
+89245 | Twin Falls, ID	Non-ZEV	1
+89263 | Twin Rivers--Hightstown, NJ	Non-CA ZEV	1
+89326 | Tyler, TX	Non-ZEV	1
+89785 | Utica, NY	Non-CA ZEV	1
+89866 | Vacaville, CA	CA	1
+90028 | Vallejo, CA	CA	1
+90541 | Victorville--Hesperia, CA	CA	1
+90658 | Villas, NJ	Non-CA ZEV	1
+90730 | Vineland, NJ	Non-CA ZEV	1
+90892 | Virginia Beach, VA	Non-ZEV	1
+90946 | Visalia, CA	CA	1
+91027 | Waco, TX	Non-ZEV	1
+91261 | Waldorf, MD	Non-CA ZEV	1
+91405 | Walla Walla, WA--OR	Non-CA ZEV	1
+92242 | Washington, DC--VA--MD	Non-CA ZEV	1
+92485 | Waterbury, CT	Non-CA ZEV	1
+92593 | Waterloo, IA	Non-ZEV	1
+92674 | Watertown, NY	Non-CA ZEV	1
+92890 | Watsonville, CA	CA	1
+93484 | Weatherford, TX	Non-ZEV	1
+93862 | Wenatchee, WA	Non-ZEV	1
+94294 | Westminster--Eldersburg, MD	Non-CA ZEV	1
+95077 | Wichita, KS	Non-ZEV	1
+95104 | Wichita Falls, TX	Non-ZEV	1
+95455 | Williamsport, PA	Non-ZEV	1
+95833 | Wilmington, NC	Non-ZEV	1
+96103 | Winchester, VA	Non-ZEV	1
+96670 | Winston-Salem, NC	Non-ZEV	1
+96913 | Woodburn, OR	Non-CA ZEV	1
+96994 | Woodland, CA	CA	1
+97291 | Worcester, MA--CT	Non-CA ZEV	1
+97507 | Yakima, WA	Non-ZEV	1
+97750 | York, PA	Non-ZEV	1
+97939 | Yuba City, CA	CA	1
+98020 | Yuma, AZ--CA	CA	1
+@ Anniston, AL	Non-ZEV	1
+@ Burkville, AL	Non-ZEV	1
+@ Decatur, AL	Non-ZEV	1
+@ Huntsville, AL	Non-ZEV	1
+@ McIntosh, AL	Non-ZEV	1
+@ Mobile, AL	Non-ZEV	1
+@ Saraland, AL	Non-ZEV	1
+@ Theodore, AL	Non-ZEV	1
+@ Tuscaloosa, AL	Non-ZEV	1
+@ El Dorado, AR	Non-ZEV	1
+@ Smackover, AR	Non-ZEV	1
+@ Stuttgart, AR	Non-ZEV	1
+@ Bakersfield, CA	CA	1
+@ Benicia, CA	CA	1
+@ Carson, CA	CA	1
+@ El Segundo, CA	CA	1
+@ Martinez, CA	CA	1
+@ Ontario, CA	CA	1
+@ Richmond, CA	CA	1
+@ Rodeo, CA	CA	1
+@ Sacramento, CA	CA	1
+@ Torrance, CA	CA	1
+@ Wilmington, CA	CA	1
+@ Commerce City, CO	Non-ZEV	1
+@ Delaware City, DE	Non-ZEV	1
+@ New Castle, DE	Non-ZEV	1
+@ Pensacola, FL	Non-ZEV	1
+@ Augusta, GA	Non-ZEV	1
+@ Gainesville, GA	Non-ZEV	1
+@ Norcross, GA	Non-ZEV	1
+@ Valdosta, GA	Non-ZEV	1
+@ Des Moines, IA	Non-ZEV	1
+@ Sioux City, IA	Non-ZEV	1
+@ Bradley, IL	Non-ZEV	1
+@ Decatur, IL	Non-ZEV	1
+@ Hartford, IL	Non-ZEV	1
+@ Jacksonville, IL	Non-ZEV	1
+@ Joliet, IL	Non-ZEV	1
+@ Lemont, IL	Non-ZEV	1
+@ Mapleton, IL	Non-ZEV	1
+@ Sauget, IL	Non-ZEV	1
+@ Wood River, IL	Non-ZEV	1
+@ Butler, IN	Non-ZEV	1
+@ Crawfordsville, IN	Non-ZEV	1
+@ Decatur, IN	Non-ZEV	1
+@ East Chicago, IN	Non-ZEV	1
+@ Mount Vernon, IN	Non-ZEV	1
+@ Rockport, IN	Non-ZEV	1
+@ Seymour, IN	Non-ZEV	1
+@ Whiting, IN	Non-ZEV	1
+@ Coffeyville, KS	Non-ZEV	1
+@ Conway, KS	Non-ZEV	1
+@ El Dorado, KS	Non-ZEV	1
+@ McPherson, KS	Non-ZEV	1
+@ Salina, KS	Non-ZEV	1
+@ Wichita, KS	Non-ZEV	1
+@ Calvert City, KY	Non-ZEV	1
+@ Catlettsburg, KY	Non-ZEV	1
+@ Louisville, KY	Non-ZEV	1
+@ Baton Rouge, LA	Non-ZEV	1
+@ Batton Rouge, LA	Non-ZEV	1
+@ Belle Chasse, LA	Non-ZEV	1
+@ Convent, LA	Non-ZEV	1
+@ Cotton Valley, LA	Non-ZEV	1
+@ Geismar, LA	Non-ZEV	1
+@ Lake Charles, LA	Non-ZEV	1
+@ Luling, LA	Non-ZEV	1
+@ New Orleans, LA	Non-ZEV	1
+@ Norco, LA	Non-ZEV	1
+@ Plaquemine, LA	Non-ZEV	1
+@ Princeton, LA	Non-ZEV	1
+@ Shreveport, LA	Non-ZEV	1
+@ St. Charles, LA	Non-ZEV	1
+@ St. Gabriel, LA	Non-ZEV	1
+@ Taft, LA	Non-ZEV	1
+@ Westlake, LA	Non-ZEV	1
+@ Detroit, MI	Non-ZEV	1
+@ Ecorse, MI	Non-ZEV	1
+@ Midland, MI	Non-ZEV	1
+@ Mankato, MN	Non-ZEV	1
+@ St. Paul Park, MN	Non-ZEV	1
+@ St. Paul, MN	Non-ZEV	1
+@ Hannibal, MO	Non-ZEV	1
+@ St. Joseph, MO	Non-ZEV	1
+@ Columbus, MS	Non-ZEV	1
+@ Hamilton, MS	Non-ZEV	1
+@ Pascagoula, MS	Non-ZEV	1
+@ Vicksburg, MS	Non-ZEV	1
+@ Billings, MT	Non-ZEV	1
+@ Butte, MT	Non-ZEV	1
+@ Great Falls, MT	Non-ZEV	1
+@ Laurel, MT	Non-ZEV	1
+@ Charlotte, NC	Non-ZEV	1
+@ Raleigh, NC	Non-ZEV	1
+@ Lincoln, NE	Non-ZEV	1
+@ Belvidere, NJ	Non-CA ZEV	1
+@ Deepwater, NJ	Non-CA ZEV	1
+@ Linden, NJ	Non-CA ZEV	1
+@ Paulsboro, NJ	Non-CA ZEV	1
+@ Artesia, NM	Non-ZEV	1
+@ Henderson, NV	Non-ZEV	1
+@ Niagara Falls, NY	Non-CA ZEV	1
+@ Ashtabula, OH	Non-ZEV	1
+@ Cincinnati, OH	Non-ZEV	1
+@ Euclid, OH	Non-ZEV	1
+@ Lima, OH	Non-ZEV	1
+@ Middleton, OH	Non-ZEV	1
+@ Sidney, OH	Non-ZEV	1
+@ Toledo, OH	Non-ZEV	1
+@ Ardmore, OK	Non-ZEV	1
+@ Ponca City, OK	Non-ZEV	1
+@ Wynneywood, OK	Non-ZEV	1
+@ Fairless Hills, PA	Non-ZEV	1
+@ Karns City, PA	Non-ZEV	1
+@ Marcus Hook, PA	Non-ZEV	1
+@ Petrolia, PA	Non-ZEV	1
+@ Rouseville, PA	Non-ZEV	1
+@ St. Marys, PA	Non-ZEV	1
+@ West Leechburg, PA	Non-ZEV	1
+@ Eastover, SC	Non-ZEV	1
+@ Charleston, TN	Non-ZEV	1
+@ Chattanooga, TN	Non-ZEV	1
+@ Gallatin, TN	Non-ZEV	1
+@ Kingsport, TN	Non-ZEV	1
+@ Memphis, TN	Non-ZEV	1
+@ Bay City, TX	Non-ZEV	1
+@ Bayport, TX	Non-ZEV	1
+@ Baytown, TX	Non-ZEV	1
+@ Beaumont, TX	Non-ZEV	1
+@ Borger, TX	Non-ZEV	1
+@ Brorger, TX	Non-ZEV	1
+@ Channelview, TX	Non-ZEV	1
+@ Corpus Christi, TX	Non-ZEV	1
+@ Dallas, TX	Non-ZEV	1
+@ Deer Park, TX	Non-ZEV	1
+@ Fort Worth, TX	Non-ZEV	1
+@ Freeport, TX	Non-ZEV	1
+@ Ingleside, TX	Non-ZEV	1
+@ La Porte, TX	Non-ZEV	1
+@ Longview, TX	Non-ZEV	1
+@ Mont Belvieu, TX	Non-ZEV	1
+@ Mont Belview, TX	Non-ZEV	1
+@ Pasadena, TX	Non-ZEV	1
+@ Point Comfort, TX	Non-ZEV	1
+@ Port Arthur, TX	Non-ZEV	1
+@ Silsbee, TX	Non-ZEV	1
+@ Sweeney, TX	Non-ZEV	1
+@ Texas City, TX	Non-ZEV	1
+@ Three Rivers, TX	Non-ZEV	1
+@ Victoria, TX	Non-ZEV	1
+@ Cedar City, UT	Non-ZEV	1
+@ Salt Lake City, UT	Non-ZEV	1
+@ Anacortes, WA	Non-ZEV	1
+@ Blaine, WA	Non-ZEV	1
+@ Cherry Point, WA	Non-ZEV	1
+@ Kalama, WA	Non-ZEV	1
+@ Longview, WA	Non-ZEV	1
+@ Moses Lake, WA	Non-ZEV	1
+@ Port Edwards, WI	Non-ZEV	1
+@ Belle, WV	Non-ZEV	1
+@ Institute, WV	Non-ZEV	1
+@ Newell, WV	Non-ZEV	1
+@ Proctor, WV	Non-ZEV	1
+@ Weirton, WV	Non-ZEV	1
+@ Cheyenne, WY	Non-ZEV	1
+@ LaBarge, WY	Non-ZEV	1
+@ Wright, WY	Non-ZEV	1

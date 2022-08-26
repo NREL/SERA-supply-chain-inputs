@@ -1,0 +1,449 @@
+Material	Zone	Year	Price [$/unit]	Billable?	Quantity [unit]	Period
+Electricity (Industrial) [kWh]	Zone_WEC_CALN	2050	0.125008582	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WEC_LADW	2050	0.125008582	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WEC_SDGE	2050	0.125008582	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_AZ	2050	0.040584734	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_CO	2050	0.050283041	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_ID	2050	0.054042423	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_IID	2050	0.125008582	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_MT	2050	0.05016358	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_NM	2050	0.039988607	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_NNV	2050	0.04432976	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_PNW	2050	0.043984321	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_SCE	2050	0.125008582	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_SF	2050	0.125008582	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_SNV	2050	0.045179086	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_UT	2050	0.048840349	TRUE	Infinity	1winter
+Electricity (Industrial) [kWh]	Zone_WECC_WY	2050	0.050051039	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WEC_CALN	2050	0.128997247	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WEC_LADW	2050	0.128997247	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WEC_SDGE	2050	0.128997247	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_AZ	2050	0.080353065	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_CO	2050	0.077677213	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_ID	2050	0.068790942	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_IID	2050	0.128997247	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_MT	2050	0.076363123	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_NM	2050	0.06770092	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_NNV	2050	0.055460523	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_PNW	2050	0.066528083	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_SCE	2050	0.128999261	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_SF	2050	0.128997247	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_SNV	2050	0.05822856	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_UT	2050	0.077687145	TRUE	Infinity	1winter
+Electricity (Commercial) [kWh]	Zone_WECC_WY	2050	0.077925184	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WEC_CALN	2050	3.7431	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WEC_LADW	2050	3.7431	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WEC_SDGE	2050	3.7431	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_AZ	2050	3.0035	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_CO	2050	2.7446	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_ID	2050	3.1207	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_IID	2050	3.7431	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_MT	2050	2.9059	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_NM	2050	2.8421	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_NNV	2050	3.1026	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_PNW	2050	2.9806	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_SCE	2050	3.7431	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_SF	2050	3.7431	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_SNV	2050	3.1026	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_UT	2050	3.1254	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WECC_WY	2050	2.9476	TRUE	Infinity	1winter
+Water [gal]	Zone_WEC_CALN	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WEC_LADW	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WEC_SDGE	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_AZ	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_CO	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_ID	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_IID	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_MT	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_NM	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_NNV	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_PNW	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_SCE	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_SF	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_SNV	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_UT	2050	0.003	TRUE	Infinity	1winter
+Water [gal]	Zone_WECC_WY	2050	0.003	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WEC_CALN	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WEC_LADW	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WEC_SDGE	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_AZ	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_CO	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_ID	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_IID	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_MT	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_NM	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_NNV	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_PNW	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_SCE	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_SF	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_SNV	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_UT	2050	0.004	TRUE	Infinity	1winter
+Water Total [gal]	Zone_WECC_WY	2050	0.004	TRUE	Infinity	1winter
+Diesel [gal]	Zone_WEC_CALN	2050	3.7431	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WEC_LADW	2050	3.7431	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WEC_SDGE	2050	3.7431	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_AZ	2050	3.0035	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_CO	2050	2.7446	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_ID	2050	3.1207	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_IID	2050	3.7431	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_MT	2050	2.9059	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_NM	2050	2.8421	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_NNV	2050	3.1026	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_PNW	2050	2.9806	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_SCE	2050	3.7431	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_SF	2050	3.7431	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_SNV	2050	3.1026	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_UT	2050	3.1254	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WECC_WY	2050	2.9476	TRUE	Infinity	2spring
+Diesel [gal]	Zone_WEC_CALN	2050	3.7431	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WEC_LADW	2050	3.7431	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WEC_SDGE	2050	3.7431	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_AZ	2050	3.0035	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_CO	2050	2.7446	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_ID	2050	3.1207	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_IID	2050	3.7431	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_MT	2050	2.9059	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_NM	2050	2.8421	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_NNV	2050	3.1026	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_PNW	2050	2.9806	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_SCE	2050	3.7431	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_SF	2050	3.7431	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_SNV	2050	3.1026	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_UT	2050	3.1254	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WECC_WY	2050	2.9476	TRUE	Infinity	3summer
+Diesel [gal]	Zone_WEC_CALN	2050	3.7431	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WEC_LADW	2050	3.7431	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WEC_SDGE	2050	3.7431	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_AZ	2050	3.0035	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_CO	2050	2.7446	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_ID	2050	3.1207	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_IID	2050	3.7431	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_MT	2050	2.9059	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_NM	2050	2.8421	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_NNV	2050	3.1026	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_PNW	2050	2.9806	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_SCE	2050	3.7431	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_SF	2050	3.7431	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_SNV	2050	3.1026	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_UT	2050	3.1254	TRUE	Infinity	4fall
+Diesel [gal]	Zone_WECC_WY	2050	2.9476	TRUE	Infinity	4fall
+Water [gal]	Zone_WEC_CALN	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WEC_LADW	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WEC_SDGE	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_AZ	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_CO	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_ID	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_IID	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_MT	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_NM	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_NNV	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_PNW	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_SCE	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_SF	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_SNV	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_UT	2050	0.003	TRUE	Infinity	2spring
+Water [gal]	Zone_WECC_WY	2050	0.003	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WEC_CALN	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WEC_LADW	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WEC_SDGE	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_AZ	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_CO	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_ID	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_IID	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_MT	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_NM	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_NNV	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_PNW	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_SCE	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_SF	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_SNV	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_UT	2050	0.004	TRUE	Infinity	2spring
+Water Total [gal]	Zone_WECC_WY	2050	0.004	TRUE	Infinity	2spring
+Water [gal]	Zone_WEC_CALN	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WEC_LADW	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WEC_SDGE	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_AZ	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_CO	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_ID	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_IID	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_MT	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_NM	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_NNV	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_PNW	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_SCE	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_SF	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_SNV	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_UT	2050	0.003	TRUE	Infinity	3summer
+Water [gal]	Zone_WECC_WY	2050	0.003	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WEC_CALN	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WEC_LADW	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WEC_SDGE	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_AZ	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_CO	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_ID	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_IID	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_MT	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_NM	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_NNV	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_PNW	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_SCE	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_SF	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_SNV	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_UT	2050	0.004	TRUE	Infinity	3summer
+Water Total [gal]	Zone_WECC_WY	2050	0.004	TRUE	Infinity	3summer
+Water [gal]	Zone_WEC_CALN	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WEC_LADW	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WEC_SDGE	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_AZ	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_CO	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_ID	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_IID	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_MT	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_NM	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_NNV	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_PNW	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_SCE	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_SF	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_SNV	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_UT	2050	0.003	TRUE	Infinity	4fall
+Water [gal]	Zone_WECC_WY	2050	0.003	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WEC_CALN	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WEC_LADW	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WEC_SDGE	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_AZ	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_CO	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_ID	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_IID	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_MT	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_NM	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_NNV	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_PNW	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_SCE	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_SF	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_SNV	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_UT	2050	0.004	TRUE	Infinity	4fall
+Water Total [gal]	Zone_WECC_WY	2050	0.004	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_CALN	2050	5.4162236	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_LADW	2050	5.4162236	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_SDGE	2050	5.4162236	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_AZ	2050	5.1051508	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_CO	2050	4.6191124	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_ID	2050	4.6309344	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_IID	2050	5.4162236	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_MT	2050	5.4096444	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_NM	2050	4.209146	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_NNV	2050	6.1490848	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_PNW	2050	5.4162236	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SCE	2050	5.4162236	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SF	2050	5.4162236	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SNV	2050	6.1490848	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_UT	2050	4.1354384	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_WY	2050	4.1321488	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_CALN	2050	12.2859364	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_LADW	2050	12.2859364	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_SDGE	2050	12.2859364	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_AZ	2050	11.5802144	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_CO	2050	10.47789	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_ID	2050	10.504618	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_IID	2050	12.2859364	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_MT	2050	12.2710304	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_NM	2050	9.5477556	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_NNV	2050	13.948418	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_PNW	2050	13.2650036	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SCE	2050	12.2859364	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SF	2050	12.2859364	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SNV	2050	13.948418	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_UT	2050	9.3807056	TRUE	Infinity	1winter
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_WY	2050	9.3732012	TRUE	Infinity	1winter
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_CALN	2050	5.20863682	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_LADW	2050	5.20863682	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_SDGE	2050	5.20863682	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_AZ	2050	4.90948646	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_CO	2050	4.44207638	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_ID	2050	4.45344528	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_IID	2050	5.20863682	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_MT	2050	5.20230978	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_NM	2050	4.0478227	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_NNV	2050	5.91340976	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_PNW	2050	5.20863682	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SCE	2050	5.20863682	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SF	2050	5.20863682	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SNV	2050	5.91340976	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_UT	2050	3.97694008	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_WY	2050	3.97377656	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_CALN	2050	11.81505518	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_LADW	2050	11.81505518	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_SDGE	2050	11.81505518	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_AZ	2050	11.13638128	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_CO	2050	10.0763055	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_ID	2050	10.1020091	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_IID	2050	11.81505518	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_MT	2050	11.80072048	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_NM	2050	9.18182022	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_NNV	2050	13.4138191	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_PNW	2050	12.75659782	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SCE	2050	11.81505518	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SF	2050	11.81505518	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SNV	2050	13.4138191	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_UT	2050	9.02117272	TRUE	Infinity	2spring
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_WY	2050	9.01395594	TRUE	Infinity	2spring
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_CALN	2050	5.68123921	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_LADW	2050	5.68123921	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_SDGE	2050	5.68123921	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_AZ	2050	5.35494563	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_CO	2050	4.84512539	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_ID	2050	4.85752584	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_IID	2050	5.68123921	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_MT	2050	5.67433809	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_NM	2050	4.41509935	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_NNV	2050	6.44995928	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_PNW	2050	5.68123921	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SCE	2050	5.68123921	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SF	2050	5.68123921	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SNV	2050	6.44995928	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_UT	2050	4.33778524	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_WY	2050	4.33433468	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_CALN	2050	12.88708679	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_LADW	2050	12.88708679	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_SDGE	2050	12.88708679	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_AZ	2050	12.14683384	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_CO	2050	10.99057275	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_ID	2050	11.01860855	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_IID	2050	12.88708679	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_MT	2050	12.87145144	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_NM	2050	10.01492691	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_NNV	2050	14.63091355	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_PNW	2050	13.91405971	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SCE	2050	12.88708679	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SF	2050	12.88708679	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SNV	2050	14.63091355	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_UT	2050	9.83970316	TRUE	Infinity	3summer
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_WY	2050	9.83183157	TRUE	Infinity	3summer
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_CALN	2050	4.72180894	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_LADW	2050	4.72180894	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WEC_SDGE	2050	4.72180894	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_AZ	2050	4.45061882	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_CO	2050	4.02689546	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_ID	2050	4.03720176	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_IID	2050	4.72180894	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_MT	2050	4.71607326	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_NM	2050	3.6694909	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_NNV	2050	5.36070992	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_PNW	2050	4.72180894	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SCE	2050	4.72180894	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SF	2050	4.72180894	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_SNV	2050	5.36070992	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_UT	2050	3.60523336	TRUE	Infinity	4fall
+Natural Gas (Industrial) [MMBtu]	Zone_WECC_WY	2050	3.60236552	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_CALN	2050	10.71075506	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_LADW	2050	10.71075506	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WEC_SDGE	2050	10.71075506	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_AZ	2050	10.09551376	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_CO	2050	9.1345185	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_ID	2050	9.1578197	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_IID	2050	10.71075506	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_MT	2050	10.69776016	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_NM	2050	8.32363674	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_NNV	2050	12.1600897	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_PNW	2050	11.56429594	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SCE	2050	10.71075506	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SF	2050	10.71075506	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_SNV	2050	12.1600897	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_UT	2050	8.17800424	TRUE	Infinity	4fall
+Natural Gas (Commercial) [MMBtu]	Zone_WECC_WY	2050	8.17146198	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WEC_CALN	2050	0.12526501	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WEC_LADW	2050	0.12526501	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WEC_SDGE	2050	0.12526501	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_AZ	2050	0.040667985	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_CO	2050	0.050386186	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_ID	2050	0.054153279	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_IID	2050	0.12526501	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_MT	2050	0.05026648	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_NM	2050	0.040070635	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_NNV	2050	0.044420693	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_PNW	2050	0.044074545	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_SCE	2050	0.12526501	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_SF	2050	0.12526501	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_SNV	2050	0.045271761	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_UT	2050	0.048940535	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WECC_WY	2050	0.050153708	TRUE	Infinity	2spring
+Electricity (Industrial) [kWh]	Zone_WEC_CALN	2050	0.134624627	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WEC_LADW	2050	0.134624627	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WEC_SDGE	2050	0.134624627	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_AZ	2050	0.043706636	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_CO	2050	0.054150968	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_ID	2050	0.058199532	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_IID	2050	0.134624627	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_MT	2050	0.054022317	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_NM	2050	0.043064654	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_NNV	2050	0.047739742	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_PNW	2050	0.04736773	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_SCE	2050	0.134624627	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_SF	2050	0.134624627	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_SNV	2050	0.0486544	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_UT	2050	0.052597299	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WECC_WY	2050	0.053901119	TRUE	Infinity	3summer
+Electricity (Industrial) [kWh]	Zone_WEC_CALN	2050	0.127252326	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WEC_LADW	2050	0.127252326	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WEC_SDGE	2050	0.127252326	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_AZ	2050	0.041313178	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_CO	2050	0.051185557	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_ID	2050	0.055012415	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_IID	2050	0.127252326	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_MT	2050	0.051063952	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_NM	2050	0.040706351	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_NNV	2050	0.045125423	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_PNW	2050	0.044773783	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_SCE	2050	0.127252326	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_SF	2050	0.127252326	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_SNV	2050	0.045989993	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_UT	2050	0.049716971	TRUE	Infinity	4fall
+Electricity (Industrial) [kWh]	Zone_WECC_WY	2050	0.050949391	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WEC_CALN	2050	0.128997247	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WEC_LADW	2050	0.128997247	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WEC_SDGE	2050	0.128997247	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_AZ	2050	0.080353065	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_CO	2050	0.077677213	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_ID	2050	0.068790942	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_IID	2050	0.128997247	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_MT	2050	0.076363123	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_NM	2050	0.06770092	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_NNV	2050	0.055460523	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_PNW	2050	0.066528083	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_SCE	2050	0.128999261	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_SF	2050	0.128997247	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_SNV	2050	0.05822856	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_UT	2050	0.077687145	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WECC_WY	2050	0.077925184	TRUE	Infinity	2spring
+Electricity (Commercial) [kWh]	Zone_WEC_CALN	2050	0.128997247	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WEC_LADW	2050	0.128997247	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WEC_SDGE	2050	0.128997247	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_AZ	2050	0.080353065	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_CO	2050	0.077677213	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_ID	2050	0.068790942	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_IID	2050	0.128997247	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_MT	2050	0.076363123	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_NM	2050	0.06770092	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_NNV	2050	0.055460523	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_PNW	2050	0.066528083	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_SCE	2050	0.128999261	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_SF	2050	0.128997247	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_SNV	2050	0.05822856	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_UT	2050	0.077687145	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WECC_WY	2050	0.077925184	TRUE	Infinity	3summer
+Electricity (Commercial) [kWh]	Zone_WEC_CALN	2050	0.128997247	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WEC_LADW	2050	0.128997247	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WEC_SDGE	2050	0.128997247	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_AZ	2050	0.080353065	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_CO	2050	0.077677213	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_ID	2050	0.068790942	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_IID	2050	0.128997247	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_MT	2050	0.076363123	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_NM	2050	0.06770092	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_NNV	2050	0.055460523	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_PNW	2050	0.066528083	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_SCE	2050	0.128999261	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_SF	2050	0.128997247	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_SNV	2050	0.05822856	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_UT	2050	0.077687145	TRUE	Infinity	4fall
+Electricity (Commercial) [kWh]	Zone_WECC_WY	2050	0.077925184	TRUE	Infinity	4fall
