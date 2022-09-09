@@ -3,7 +3,6 @@
 #SBATCH --job-name=BASECASE_5yr_CY
 #SBATCH --time=0-25:00:00
 #SBATCH -A sera
-#SBATCH --mem=150G
 #SBATCH -o BASECASE_5yr_CY.log
 #SBATCH --mail-user=ccyang@ucdavis.edu
 #SBATCH --mail-type=ALL
