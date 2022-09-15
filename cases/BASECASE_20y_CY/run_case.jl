@@ -5,7 +5,7 @@ using Pkg;
 
 if isempty(ARGS)
     println("SERA directory not specified in input arguments, setting to default directory")
-    sera_directory = "/lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california"
+    sera_directory = "/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl"
 else
     sera_directory = ARGS[1]
 end
