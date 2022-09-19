@@ -1,7 +1,8 @@
 #!/bin/bash
 #SBATCH --job-name=BASECASE_20y_CY
-#SBATCH --time=0-45:00:00
+#SBATCH --time=0-55:00:00
 #SBATCH -A sera
+#SBATCH --mem=150G
 #SBATCH -o BASECASE_20y_CY.log
 #SBATCH --mail-user=ccyang@ucdavis.edu
 #SBATCH --mail-type=ALL
