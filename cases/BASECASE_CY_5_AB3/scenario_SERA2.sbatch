@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#SBATCH --job-name=BASECASE_CY_5_AB2
-#SBATCH --time=0-25:00:00
+#SBATCH --job-name=BASECASE_CY_5_AB3
+#SBATCH --time=0-45:00:00
 #SBATCH -A sera
-#SBATCH -o BASECASE_CY_5_AB2.log
+#SBATCH -o BASECASE_CY_5_AB3.log
 #SBATCH --mail-user=ccyang@ucdavis.edu
 #SBATCH --mail-type=ALL
 module purge
@@ -16,7 +16,7 @@ export PATH=$PATH:/home/ccyang/julia_software/julia-1.7.3/bin/
 
 cd /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl
 
-julia --project /home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB2/run_case.jl
+julia --project /home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB3/run_case.jl
 # julia --project /lustre/eaglefs/projects/mbap/sera/vvijayak/supply-chain-inputs/cases/BASECASE_Centralonly-15util-maxcap-rolling/run_case.jl
 
 # export LD_LIBRARY_PATH=/projects/mbap/sera/bin/lib
