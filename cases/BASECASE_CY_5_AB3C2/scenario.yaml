@@ -24,7 +24,7 @@ processLibraryFiles:
   - costsFile      : inputs/components/production-costs_revised_maxutil1-oldcosts.tsv              #new fraction column name, includes onsite PEM production,new frac of opex,scaling to one for PEM, maxutil=1,MISHO COSTS,small SMRs capacities added
     inputsFile     : inputs/components/production-inputs-new-noonsiteSMR.tsv
     outputsFile    : inputs/components/production-outputs.tsv
-  - costsFile      : inputs/components/delivery-costs-baseCY-minstat-newscal.tsv # set 1.5 kg/yr stations to be same price as 150 kg/yr
+  - costsFile      : inputs/components/delivery-costs-baseCY-minstat-newscal2.tsv # set 1.5 kg/yr stations to be same price as 150 kg/yr
   - costsFile      : inputs/components/delivery-costs-linepack-CY-linear-newscal.tsv               # additional cost file for linepack, CY made linear costs and storage
     inputsFile     : inputs/components/delivery-inputs.tsv
     outputsFile    : inputs/components/delivery-outputs.tsv
