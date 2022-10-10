@@ -60,7 +60,7 @@ utilizationConstraintFiles:
   - inputs/utilization/utilization_constraints-15percent.tsv     
 
 maximumCapacityConstraintFiles:                                          
-  - inputs/utilization/maximum_capacities_CY.tsv        ### increased electrolysis to 250 tpd per region
+  - inputs/utilization/maximum_capacities-CY.tsv        ### increased electrolysis to 250 tpd per region
 infrastructureFiles:
   constructionFile : outputs/construction.tsv
   flowFile         : outputs/flow.tsv
