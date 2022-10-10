@@ -1,0 +1,13 @@
+Material	Technology	Year	Nameplate Capacity [kg/yr]	Nameplate Capacity [kg/day]	Production [unit/kg]	Production [unit/km/kg]	Storage [kg]
+CO2 [tonne]	LH2 Truck Link	2005	1000000	2739.726027	0	5.00E-07	0
+NOx [tonne]	LH2 Truck Link	2005	1000000	2739.726027	0	1.00E-09	0
+PM10 [tonne]	LH2 Truck Link	2005	1000000	2739.726027	0	1.00E-11	0
+PM2.5 [tonne]	LH2 Truck Link	2005	1000000	2739.726027	0	1.00E-11	0
+SOx [tonne]	LH2 Truck Link	2005	1000000	2739.726027	0	2.00E-12	0
+GHG-100 [tonne]	LH2 Truck Link	2005	1000000	2739.726027	0	1.00E-06	0
+CO2 [tonne]	GH2 Truck Link	2005	1000000	2739.726027	0	5.00E-07	0
+NOx [tonne]	GH2 Truck Link	2005	1000000	2739.726027	0	1.00E-09	0
+PM10 [tonne]	GH2 Truck Link	2005	1000000	2739.726027	0	1.00E-11	0
+PM2.5 [tonne]	GH2 Truck Link	2005	1000000	2739.726027	0	1.00E-11	0
+SOx [tonne]	GH2 Truck Link	2005	1000000	2739.726027	0	2.00E-12	0
+GHG-100 [tonne]	GH2 Truck Link	2005	1000000	2739.726027	0	1.00E-06	0
