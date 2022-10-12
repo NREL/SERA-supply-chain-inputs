@@ -57,10 +57,10 @@ storageCapacityConstraintFiles:
   - inputs/grid_integration/storage_capacity_mod.tsv            # # NOT INCLUDED
 
 utilizationConstraintFiles:
-  - inputs/utilization/utilization_constraints-15percent.tsv     
+  - inputs/utilization/utilization_constraints-5percent.tsv     
 
 maximumCapacityConstraintFiles:                                          
-  - inputs/utilization/maximum_capacities-CY.tsv        ### increased electrolysis to 250 tpd per region
+  - inputs/utilization/maximum_capacities-CY1a.tsv        ### increased electrolysis to 250 tpd per region, increase gh2 truck station capacity
 infrastructureFiles:
   constructionFile : outputs/construction.tsv
   flowFile         : outputs/flow.tsv
