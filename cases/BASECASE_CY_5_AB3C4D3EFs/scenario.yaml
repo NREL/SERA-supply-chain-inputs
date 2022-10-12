@@ -24,7 +24,7 @@ processLibraryFiles:
   - costsFile      : inputs/components/production-costs_CY_2.tsv              #added new smaller size to make smaller stations uneconomic
     inputsFile     : inputs/components/production-inputs-new-noonsiteSMR.tsv
     outputsFile    : inputs/components/production-outputs.tsv
-  - costsFile      : inputs/components/delivery-costs-baseCY-minstat-newscal5.tsv # set 1.5 kg/yr stations to be same price as 150 kg/yr
+  - costsFile      : inputs/components/delivery-costs-baseCY-minstat-newscal3.tsv # set 1.5 kg/yr stations to be same price as 150 kg/yr
   - costsFile      : inputs/components/delivery-costs-linepack-CY-linear-newscal3.tsv               # additional cost file for linepack, CY made linear costs and storage
     inputsFile     : inputs/components/delivery-inputs.tsv
     outputsFile    : inputs/components/delivery-outputs.tsv
