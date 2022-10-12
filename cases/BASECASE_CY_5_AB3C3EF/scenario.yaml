@@ -29,7 +29,7 @@ processLibraryFiles:
     inputsFile     : inputs/components/delivery-inputs.tsv
     outputsFile    : inputs/components/delivery-outputs.tsv
 pathwayFiles:
-  - inputs/components/delivery-pathways-nopipe.tsv            #  salt cavern and linepack considered.Gh2 truck terminal changed
+  - inputs/components/delivery-pathways-pipesaltcav-linepack.tsv            #  salt cavern and linepack considered.Gh2 truck terminal changed
 
 networkFiles:
   nodeFiles:
