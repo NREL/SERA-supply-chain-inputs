@@ -14,7 +14,7 @@ periodFiles:
   - inputs/periods/periods.tsv
 
 priceFiles:
-  - inputs/prices/prices_elecsimple_7_9fix.tsv              # new electricity prices 7 cent / kwh across all regions
+  - inputs/prices/prices_elecsimple_7_9_2p_red.tsv              # new electricity prices 7 cent / kwh across all regions
   - inputs/prices/salt-cavern-non-billable.tsv
 
 intensityFiles:
@@ -60,7 +60,7 @@ utilizationConstraintFiles:
   - inputs/utilization/utilization_constraints-5percent.tsv     
 
 maximumCapacityConstraintFiles:                                          
-  - inputs/utilization/maximum_capacities-CY1.tsv        ### increased electrolysis to 250 tpd per region, increase gh2 truck station capacity
+  - inputs/utilization/maximum_capacities_exceptGH2Trucks.tsv        ### increased electrolysis to 250 tpd per region, increase gh2 truck station capacity
 infrastructureFiles:
   constructionFile : outputs/construction.tsv
   flowFile         : outputs/flow.tsv
