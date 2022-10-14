@@ -1,13 +1,13 @@
 Pathway	Stage	Technology	Yield [upstream/kg]	Extended?	Transmission?	Delivery?	Format
-GH2truck-a	1	GH2 Truck Terminal w/ Storage	1	FALSE	TRUE	TRUE	GH2
-GH2truck-a	2	GH2 Truck	1	FALSE	TRUE	TRUE	GH2
-GH2truck-a	3	GH2 Truck Link	1	TRUE	TRUE	TRUE	GH2
-GH2truck-a	4	GH2 Truck Station (700bar)	1	FALSE	FALSE	FALSE	GH2
+GH2trucka	1	GH2 Truck Terminal w/ Storage	1	FALSE	TRUE	TRUE	GH2
+GH2trucka	2	GH2 Truck	1	FALSE	TRUE	TRUE	GH2
+GH2trucka	3	GH2 Truck Link	1	TRUE	TRUE	TRUE	GH2
+GH2trucka	4	GH2 Truck Station (700bar)	1	FALSE	FALSE	FALSE	GH2
 LH2Truck	1	LH2 Truck Terminal w/storage	0.995	FALSE	TRUE	TRUE	LH2
 LH2Truck	2	LH2 Truck	1	FALSE	TRUE	TRUE	LH2
 LH2Truck	3	LH2 Truck Link	1	TRUE	TRUE	TRUE	LH2
 LH2Truck	4	LH2 Station (gas dispensing)	1	FALSE	FALSE	FALSE	LH2
-GH2truck-b	1	GH2 Pipeline Truck Terminal	1	FALSE	TRUE	TRUE	GH2
-GH2truck-b	2	GH2 Truck	1	FALSE	TRUE	TRUE	GH2
-GH2truck-b	3	GH2 Truck Link	1	TRUE	TRUE	TRUE	GH2
-GH2truck-b	4	GH2 Truck Station (700bar)	1	FALSE	FALSE	FALSE	GH2
+GH2truckb	1	GH2 Pipeline Truck Terminal	1	FALSE	TRUE	TRUE	GH2
+GH2truckb	2	GH2 Truck	1	FALSE	TRUE	TRUE	GH2
+GH2truckb	3	GH2 Truck Link	1	TRUE	TRUE	TRUE	GH2
+GH2truckb	4	GH2 Truck Station (700bar)	1	FALSE	FALSE	FALSE	GH2
