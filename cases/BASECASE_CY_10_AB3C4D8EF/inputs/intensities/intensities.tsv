@@ -1,0 +1,393 @@
+Material	Upstream Material	Zone	Year	Intensity [upstream/unit]
+Water [gal]	Water [gal]	WECC_MT	2015	-1
+Natural Gas (Commercial) [MMBtu]	CO2 Total [tonne]	WECC_ID	2015	0.00669
+Natural Gas (Commercial) [MMBtu]	CO2 [tonne]	WECC_WY	2015	0.00669
+Natural Gas (Commercial) [MMBtu]	CO2_Biogenic [tonne]	WECC_CO	2015	0
+Natural Gas (Commercial) [MMBtu]	VOC [tonne]	WECC_UT	2015	0.00001034
+Natural Gas (Commercial) [MMBtu]	CO [tonne]	WECC_NM	2015	0.00003215
+Natural Gas (Commercial) [MMBtu]	NOx [tonne]	WECC_SNV	2015	0.00004032
+Natural Gas (Commercial) [MMBtu]	PM10 [tonne]	WECC_PNW	2015	0.0000005
+Natural Gas (Commercial) [MMBtu]	PM2.5 [tonne]	WECC_AZ	2015	0.00000045
+Natural Gas (Commercial) [MMBtu]	SOx [tonne]	WECC_NNV	2015	0.00001166
+Natural Gas (Commercial) [MMBtu]	CH4 [tonne]	WECC_SCE	2015	0.00022
+Natural Gas (Commercial) [MMBtu]	N2O [tonne]	WEC_CALN	2015	0.00000142
+Natural Gas (Commercial) [MMBtu]	BC [tonne]	WEC_SDGE	2015	0.00000015
+Natural Gas (Commercial) [MMBtu]	POC [tonne]	WECC_SF	2015	0.00000015
+Natural Gas (Commercial) [MMBtu]	GHG-100 [tonne]	WECC_IID	2015	0.01378
+Natural Gas (Commercial) [MMBtu]	Water Total [gal]	WEC_LADW	2015	-3.1876024
+Natural Gas (Commercial) [MMBtu]	Fossil Fuel [MJ]	WECC_MT	2015	-1168
+Natural Gas (Commercial) [MMBtu]	Petroleum Fuel [MJ]	WECC_ID	2015	-4.309
+Natural Gas (Commercial) [MMBtu]	Natural Gas Fuel [MJ]	WECC_WY	2015	-1162
+Natural Gas (Commercial) [MMBtu]	Coal Fuel [MJ]	WECC_CO	2015	-1.912
+Natural Gas (Commercial) [MMBtu]	Non Fossil Fuel [MJ]	WECC_UT	2015	-0.70156
+Natural Gas (Commercial) [MMBtu]	Nuclear [MJ]	WECC_NM	2015	0.40982
+Natural Gas (Commercial) [MMBtu]	Renewable [MJ]	WECC_SNV	2015	-0.29174
+Natural Gas (Commercial) [MMBtu]	Biomass [MJ]	WECC_PNW	2015	-0.03369
+Natural Gas (Industrial) [MMBtu]	CO2 Total [tonne]	WECC_AZ	2015	0.00515
+Natural Gas (Industrial) [MMBtu]	CO2 [tonne]	WECC_NNV	2015	0.00516
+Natural Gas (Industrial) [MMBtu]	CO2_Biogenic [tonne]	WECC_SCE	2015	0
+Natural Gas (Industrial) [MMBtu]	VOC [tonne]	WEC_CALN	2015	0.00000701
+Natural Gas (Industrial) [MMBtu]	CO [tonne]	WEC_SDGE	2015	0.00001512
+Natural Gas (Industrial) [MMBtu]	NOx [tonne]	WECC_SF	2015	0.00002015
+Natural Gas (Industrial) [MMBtu]	PM10 [tonne]	WECC_IID	2015	0.00000045
+Natural Gas (Industrial) [MMBtu]	PM2.5 [tonne]	WEC_LADW	2015	0.0000004
+Natural Gas (Industrial) [MMBtu]	SOx [tonne]	WECC_MT	2015	0.00001123
+Natural Gas (Industrial) [MMBtu]	CH4 [tonne]	WECC_ID	2015	0.00017
+Natural Gas (Industrial) [MMBtu]	N2O [tonne]	WECC_WY	2015	0.00000024
+Natural Gas (Industrial) [MMBtu]	BC [tonne]	WECC_CO	2015	0.00000014
+Natural Gas (Industrial) [MMBtu]	POC [tonne]	WECC_UT	2015	0.00000014
+Natural Gas (Industrial) [MMBtu]	GHG-100 [tonne]	WECC_NM	2015	0.01024
+Natural Gas (Industrial) [MMBtu]	Water Total [gal]	WECC_SNV	2015	-3.0204819
+Natural Gas (Industrial) [MMBtu]	Fossil Fuel [MJ]	WECC_PNW	2015	-1138
+Natural Gas (Industrial) [MMBtu]	Petroleum Fuel [MJ]	WECC_AZ	2015	-4.181
+Natural Gas (Industrial) [MMBtu]	Natural Gas Fuel [MJ]	WECC_NNV	2015	-1133
+Natural Gas (Industrial) [MMBtu]	Coal Fuel [MJ]	WECC_SCE	2015	-1.359
+Natural Gas (Industrial) [MMBtu]	Non Fossil Fuel [MJ]	WEC_CALN	2015	-0.49907
+Natural Gas (Industrial) [MMBtu]	Nuclear [MJ]	WEC_SDGE	2015	0.29156
+Natural Gas (Industrial) [MMBtu]	Renewable [MJ]	WECC_SF	2015	-0.20751
+Natural Gas (Industrial) [MMBtu]	Biomass [MJ]	WECC_IID	2015	-0.02396
+Diesel [gal]	CO2 Total [tonne]	WEC_LADW	2015	0.00182
+Diesel [gal]	CO2 [tonne]	WECC_MT	2015	0.00182
+Diesel [gal]	CO2_Biogenic [tonne]	WECC_ID	2015	0
+Diesel [gal]	VOC [tonne]	WECC_WY	2015	0.00000104
+Diesel [gal]	CO [tonne]	WECC_CO	2015	0.00000182
+Diesel [gal]	NOx [tonne]	WECC_UT	2015	0.00000404
+Diesel [gal]	PM10 [tonne]	WECC_NM	2015	0.00000028
+Diesel [gal]	PM2.5 [tonne]	WECC_SNV	2015	0.00000022
+Diesel [gal]	SOx [tonne]	WECC_PNW	2015	0.00000215
+Diesel [gal]	CH4 [tonne]	WECC_AZ	2015	0.00002185
+Diesel [gal]	N2O [tonne]	WECC_NNV	2015	3.26E-08
+Diesel [gal]	BC [tonne]	WECC_SCE	2015	3.75E-08
+Diesel [gal]	POC [tonne]	WEC_CALN	2015	6.80E-08
+Diesel [gal]	GHG-100 [tonne]	WEC_SDGE	2015	0.00249
+Diesel [gal]	Water Total [gal]	WECC_SF	2015	-2.9232719
+Diesel [gal]	Fossil Fuel [MJ]	WECC_IID	2015	-163
+Diesel [gal]	Petroleum Fuel [MJ]	WEC_LADW	2015	-143
+Diesel [gal]	Natural Gas Fuel [MJ]	WECC_MT	2015	-18
+Diesel [gal]	Coal Fuel [MJ]	WECC_ID	2015	-2.043
+Diesel [gal]	Non Fossil Fuel [MJ]	WECC_WY	2015	-0.76697
+Diesel [gal]	Nuclear [MJ]	WECC_CO	2015	0.45064
+Diesel [gal]	Renewable [MJ]	WECC_UT	2015	-0.31634
+Diesel [gal]	Biomass [MJ]	WECC_NM	2015	-0.03704
+Electricity (Commercial) [kWh]	CO2 Total [tonne]	WECC_SNV	2015	0.00042356
+Electricity (Commercial) [kWh]	CO2 [tonne]	WECC_PNW	2015	0.00043418
+Electricity (Commercial) [kWh]	CO2_Biogenic [tonne]	WECC_AZ	2015	-8.47E-06
+Electricity (Commercial) [kWh]	VOC [tonne]	WECC_NNV	2015	4.87E-08
+Electricity (Commercial) [kWh]	CO [tonne]	WECC_SCE	2015	1.65E-07
+Electricity (Commercial) [kWh]	NOx [tonne]	WEC_CALN	2015	2.92E-07
+Electricity (Commercial) [kWh]	PM10 [tonne]	WEC_SDGE	2015	5.63E-08
+Electricity (Commercial) [kWh]	PM2.5 [tonne]	WECC_SF	2015	2.43E-08
+Electricity (Commercial) [kWh]	SOx [tonne]	WECC_IID	2015	7.21E-07
+Electricity (Commercial) [kWh]	CH4 [tonne]	WEC_LADW	2015	0.00000086
+Electricity (Commercial) [kWh]	N2O [tonne]	WECC_MT	2015	6.83E-09
+Electricity (Commercial) [kWh]	BC [tonne]	WECC_ID	2015	2.14E-09
+Electricity (Commercial) [kWh]	POC [tonne]	WECC_WY	2015	5.00E-09
+Electricity (Commercial) [kWh]	GHG-100 [tonne]	WECC_CO	2015	0.00045729
+Electricity (Commercial) [kWh]	Water Total [gal]	WECC_UT	2015	-1.2518149
+Electricity (Commercial) [kWh]	Fossil Fuel [MJ]	WECC_NM	2015	-5.5381838
+Electricity (Commercial) [kWh]	Petroleum Fuel [MJ]	WECC_SNV	2015	-0.0711303
+Electricity (Commercial) [kWh]	Natural Gas Fuel [MJ]	WECC_PNW	2015	-2.6942526
+Electricity (Commercial) [kWh]	Coal Fuel [MJ]	WECC_AZ	2015	-2.8260576
+Electricity (Commercial) [kWh]	Non Fossil Fuel [MJ]	WECC_NNV	2015	-1.6711184
+Electricity (Commercial) [kWh]	Nuclear [MJ]	WECC_SCE	2015	-0.322408
+Electricity (Commercial) [kWh]	Renewable [MJ]	WEC_CALN	2015	-1.3486889
+Electricity (Commercial) [kWh]	Biomass [MJ]	WEC_SDGE	2015	-0.0909305
+Electricity (Commercial) [kWh]	CO2 Total [tonne]	WECC_SF	2020	0.00032458
+Electricity (Commercial) [kWh]	CO2 [tonne]	WECC_IID	2020	0.00032927
+Electricity (Commercial) [kWh]	CO2_Biogenic [tonne]	WEC_LADW	2020	-2.37E-06
+Electricity (Commercial) [kWh]	VOC [tonne]	WECC_MT	2020	3.24E-08
+Electricity (Commercial) [kWh]	CO [tonne]	WECC_ID	2020	8.60E-08
+Electricity (Commercial) [kWh]	NOx [tonne]	WECC_WY	2020	1.40E-07
+Electricity (Commercial) [kWh]	PM10 [tonne]	WECC_CO	2020	2.86E-08
+Electricity (Commercial) [kWh]	PM2.5 [tonne]	WECC_UT	2020	8.87E-09
+Electricity (Commercial) [kWh]	SOx [tonne]	WECC_NM	2020	4.22E-07
+Electricity (Commercial) [kWh]	CH4 [tonne]	WECC_SNV	2020	6.14E-07
+Electricity (Commercial) [kWh]	N2O [tonne]	WECC_PNW	2020	5.00E-09
+Electricity (Commercial) [kWh]	BC [tonne]	WECC_AZ	2020	7.53E-10
+Electricity (Commercial) [kWh]	POC [tonne]	WECC_NNV	2020	2.15E-09
+Electricity (Commercial) [kWh]	GHG-100 [tonne]	WECC_SCE	2020	0.00034883
+Electricity (Commercial) [kWh]	Water Total [gal]	WEC_CALN	2020	-1.5175473
+Electricity (Commercial) [kWh]	Fossil Fuel [MJ]	WEC_SDGE	2020	-4.0892539
+Electricity (Commercial) [kWh]	Petroleum Fuel [MJ]	WECC_SF	2020	-0.0620128
+Electricity (Commercial) [kWh]	Natural Gas Fuel [MJ]	WECC_IID	2020	-1.5966288
+Electricity (Commercial) [kWh]	Coal Fuel [MJ]	WEC_LADW	2020	-2.430832
+Electricity (Commercial) [kWh]	Non Fossil Fuel [MJ]	WECC_MT	2020	-2.1383167
+Electricity (Commercial) [kWh]	Nuclear [MJ]	WECC_ID	2020	-0.3081407
+Electricity (Commercial) [kWh]	Renewable [MJ]	WECC_WY	2020	-1.8301581
+Electricity (Commercial) [kWh]	Biomass [MJ]	WECC_CO	2020	-0.0255402
+Electricity (Commercial) [kWh]	CO2 Total [tonne]	WECC_UT	2025	0.00025027
+Electricity (Commercial) [kWh]	CO2 [tonne]	WECC_NM	2025	0.00025586
+Electricity (Commercial) [kWh]	CO2_Biogenic [tonne]	WECC_SNV	2025	-1.95E-06
+Electricity (Commercial) [kWh]	VOC [tonne]	WECC_PNW	2025	2.47E-08
+Electricity (Commercial) [kWh]	CO [tonne]	WECC_AZ	2025	6.48E-08
+Electricity (Commercial) [kWh]	NOx [tonne]	WECC_NNV	2025	1.03E-07
+Electricity (Commercial) [kWh]	PM10 [tonne]	WECC_SCE	2025	2.23E-08
+Electricity (Commercial) [kWh]	PM2.5 [tonne]	WEC_CALN	2025	6.79E-09
+Electricity (Commercial) [kWh]	SOx [tonne]	WEC_SDGE	2025	3.29E-07
+Electricity (Commercial) [kWh]	CH4 [tonne]	WECC_SF	2025	4.70E-07
+Electricity (Commercial) [kWh]	N2O [tonne]	WECC_IID	2025	3.87E-09
+Electricity (Commercial) [kWh]	BC [tonne]	WEC_LADW	2025	5.71E-10
+Electricity (Commercial) [kWh]	POC [tonne]	WECC_MT	2025	1.57E-09
+Electricity (Commercial) [kWh]	GHG-100 [tonne]	WECC_ID	2025	0.0002707
+Electricity (Commercial) [kWh]	Water Total [gal]	WECC_WY	2025	-1.4851113
+Electricity (Commercial) [kWh]	Fossil Fuel [MJ]	WECC_CO	2025	-3.1370975
+Electricity (Commercial) [kWh]	Petroleum Fuel [MJ]	WECC_UT	2025	-0.0498403
+Electricity (Commercial) [kWh]	Natural Gas Fuel [MJ]	WECC_NM	2025	-1.1923612
+Electricity (Commercial) [kWh]	Coal Fuel [MJ]	WECC_SNV	2025	-1.8947797
+Electricity (Commercial) [kWh]	Non Fossil Fuel [MJ]	WECC_PNW	2025	-2.5422238
+Electricity (Commercial) [kWh]	Nuclear [MJ]	WECC_AZ	2025	-0.2576534
+Electricity (Commercial) [kWh]	Renewable [MJ]	WECC_NNV	2025	-2.2846087
+Electricity (Commercial) [kWh]	Biomass [MJ]	WECC_SCE	2025	-0.0210443
+Electricity (Commercial) [kWh]	CO2 Total [tonne]	WEC_CALN	2030	0.00024394
+Electricity (Commercial) [kWh]	CO2 [tonne]	WEC_SDGE	2030	0.00025533
+Electricity (Commercial) [kWh]	CO2_Biogenic [tonne]	WECC_SF	2030	-6.41E-06
+Electricity (Commercial) [kWh]	VOC [tonne]	WECC_IID	2030	2.48E-08
+Electricity (Commercial) [kWh]	CO [tonne]	WEC_LADW	2030	7.99E-08
+Electricity (Commercial) [kWh]	NOx [tonne]	WECC_MT	2030	1.04E-07
+Electricity (Commercial) [kWh]	PM10 [tonne]	WECC_ID	2030	2.59E-08
+Electricity (Commercial) [kWh]	PM2.5 [tonne]	WECC_WY	2030	7.88E-09
+Electricity (Commercial) [kWh]	SOx [tonne]	WECC_CO	2030	3.15E-07
+Electricity (Commercial) [kWh]	CH4 [tonne]	WECC_UT	2030	4.65E-07
+Electricity (Commercial) [kWh]	N2O [tonne]	WECC_NM	2030	3.82E-09
+Electricity (Commercial) [kWh]	BC [tonne]	WECC_SNV	2030	7.53E-10
+Electricity (Commercial) [kWh]	POC [tonne]	WECC_PNW	2030	1.94E-09
+Electricity (Commercial) [kWh]	GHG-100 [tonne]	WECC_AZ	2030	0.00026555
+Electricity (Commercial) [kWh]	Water Total [gal]	WECC_NNV	2030	-1.4923352
+Electricity (Commercial) [kWh]	Fossil Fuel [MJ]	WECC_SCE	2030	-3.0908357
+Electricity (Commercial) [kWh]	Petroleum Fuel [MJ]	WEC_CALN	2030	-0.0484362
+Electricity (Commercial) [kWh]	Natural Gas Fuel [MJ]	WEC_SDGE	2030	-1.2443077
+Electricity (Commercial) [kWh]	Coal Fuel [MJ]	WECC_SF	2030	-1.7981999
+Electricity (Commercial) [kWh]	Non Fossil Fuel [MJ]	WECC_IID	2030	-2.5884481
+Electricity (Commercial) [kWh]	Nuclear [MJ]	WEC_LADW	2030	-0.2097716
+Electricity (Commercial) [kWh]	Renewable [MJ]	WECC_MT	2030	-2.378679
+Electricity (Commercial) [kWh]	Biomass [MJ]	WECC_ID	2030	-0.0689823
+Electricity (Commercial) [kWh]	CO2 Total [tonne]	WECC_WY	2035	0.00023656
+Electricity (Commercial) [kWh]	CO2 [tonne]	WECC_CO	2035	0.00024901
+Electricity (Commercial) [kWh]	CO2_Biogenic [tonne]	WECC_UT	2035	-6.41E-06
+Electricity (Commercial) [kWh]	VOC [tonne]	WECC_NM	2035	2.41E-08
+Electricity (Commercial) [kWh]	CO [tonne]	WECC_SNV	2035	7.92E-08
+Electricity (Commercial) [kWh]	NOx [tonne]	WECC_PNW	2035	1.01E-07
+Electricity (Commercial) [kWh]	PM10 [tonne]	WECC_AZ	2035	2.51E-08
+Electricity (Commercial) [kWh]	PM2.5 [tonne]	WECC_NNV	2035	7.63E-09
+Electricity (Commercial) [kWh]	SOx [tonne]	WECC_SCE	2035	3.03E-07
+Electricity (Commercial) [kWh]	CH4 [tonne]	WEC_CALN	2035	4.54E-07
+Electricity (Commercial) [kWh]	N2O [tonne]	WEC_SDGE	2035	3.70E-09
+Electricity (Commercial) [kWh]	BC [tonne]	WECC_SF	2035	7.39E-10
+Electricity (Commercial) [kWh]	POC [tonne]	WECC_IID	2035	1.85E-09
+Electricity (Commercial) [kWh]	GHG-100 [tonne]	WEC_LADW	2035	0.00025883
+Electricity (Commercial) [kWh]	Water Total [gal]	WECC_MT	2035	-1.4842463
+Electricity (Commercial) [kWh]	Fossil Fuel [MJ]	WECC_ID	2035	-3.0112644
+Electricity (Commercial) [kWh]	Petroleum Fuel [MJ]	WECC_WY	2035	-0.0472396
+Electricity (Commercial) [kWh]	Natural Gas Fuel [MJ]	WECC_CO	2035	-1.2412857
+Electricity (Commercial) [kWh]	Coal Fuel [MJ]	WECC_UT	2035	-1.7227496
+Electricity (Commercial) [kWh]	Non Fossil Fuel [MJ]	WECC_NM	2035	-2.6179055
+Electricity (Commercial) [kWh]	Nuclear [MJ]	WECC_SNV	2035	-0.2061244
+Electricity (Commercial) [kWh]	Renewable [MJ]	WECC_PNW	2035	-2.4117981
+Electricity (Commercial) [kWh]	Biomass [MJ]	WECC_AZ	2035	-0.0689779
+Electricity (Commercial) [kWh]	CO2 Total [tonne]	WECC_NNV	2045	0.00023251
+Electricity (Commercial) [kWh]	CO2 [tonne]	WECC_SCE	2045	0.00024574
+Electricity (Commercial) [kWh]	CO2_Biogenic [tonne]	WEC_CALN	2045	-6.41E-06
+Electricity (Commercial) [kWh]	VOC [tonne]	WEC_SDGE	2045	2.41E-08
+Electricity (Commercial) [kWh]	CO [tonne]	WECC_SF	2045	8.13E-08
+Electricity (Commercial) [kWh]	NOx [tonne]	WECC_IID	2045	9.99E-08
+Electricity (Commercial) [kWh]	PM10 [tonne]	WEC_LADW	2045	2.44E-08
+Electricity (Commercial) [kWh]	PM2.5 [tonne]	WECC_MT	2045	7.52E-09
+Electricity (Commercial) [kWh]	SOx [tonne]	WECC_ID	2045	2.90E-07
+Electricity (Commercial) [kWh]	CH4 [tonne]	WECC_WY	2045	4.54E-07
+Electricity (Commercial) [kWh]	N2O [tonne]	WECC_CO	2045	3.63E-09
+Electricity (Commercial) [kWh]	BC [tonne]	WECC_UT	2045	7.46E-10
+Electricity (Commercial) [kWh]	POC [tonne]	WECC_NM	2045	1.86E-09
+Electricity (Commercial) [kWh]	GHG-100 [tonne]	WECC_SNV	2045	0.0002555
+Electricity (Commercial) [kWh]	Water Total [gal]	WECC_PNW	2045	-1.4399438
+Electricity (Commercial) [kWh]	Fossil Fuel [MJ]	WECC_AZ	2045	-2.9930726
+Electricity (Commercial) [kWh]	Petroleum Fuel [MJ]	WECC_NNV	2045	-0.0451543
+Electricity (Commercial) [kWh]	Natural Gas Fuel [MJ]	WECC_SCE	2045	-1.3039813
+Electricity (Commercial) [kWh]	Coal Fuel [MJ]	WEC_CALN	2045	-1.6439916
+Electricity (Commercial) [kWh]	Non Fossil Fuel [MJ]	WEC_SDGE	2045	-2.6155452
+Electricity (Commercial) [kWh]	Nuclear [MJ]	WECC_SF	2045	-0.2012904
+Electricity (Commercial) [kWh]	Renewable [MJ]	WECC_IID	2045	-2.4142662
+Electricity (Commercial) [kWh]	Biomass [MJ]	WEC_LADW	2045	-0.0689919
+Electricity (Commercial) [kWh]	CO2 Total [tonne]	WECC_MT	2050	0.00023465
+Electricity (Commercial) [kWh]	CO2 [tonne]	WECC_ID	2050	0.00024891
+Electricity (Commercial) [kWh]	CO2_Biogenic [tonne]	WECC_WY	2050	-7.10E-06
+Electricity (Commercial) [kWh]	VOC [tonne]	WECC_CO	2050	2.50E-08
+Electricity (Commercial) [kWh]	CO [tonne]	WECC_UT	2050	8.84E-08
+Electricity (Commercial) [kWh]	NOx [tonne]	WECC_NM	2050	1.05E-07
+Electricity (Commercial) [kWh]	PM10 [tonne]	WECC_SNV	2050	2.48E-08
+Electricity (Commercial) [kWh]	PM2.5 [tonne]	WECC_PNW	2050	7.81E-09
+Electricity (Commercial) [kWh]	SOx [tonne]	WECC_AZ	2050	2.83E-07
+Electricity (Commercial) [kWh]	CH4 [tonne]	WECC_NNV	2050	4.67E-07
+Electricity (Commercial) [kWh]	N2O [tonne]	WECC_SCE	2050	3.66E-09
+Electricity (Commercial) [kWh]	BC [tonne]	WEC_CALN	2050	8.04E-10
+Electricity (Commercial) [kWh]	POC [tonne]	WEC_SDGE	2050	2.00E-09
+Electricity (Commercial) [kWh]	GHG-100 [tonne]	WECC_SF	2050	0.00025842
+Electricity (Commercial) [kWh]	Water Total [gal]	WECC_IID	2050	-1.4244957
+Electricity (Commercial) [kWh]	Fossil Fuel [MJ]	WEC_LADW	2050	-3.0663041
+Electricity (Commercial) [kWh]	Petroleum Fuel [MJ]	WECC_MT	2050	-0.0448782
+Electricity (Commercial) [kWh]	Natural Gas Fuel [MJ]	WECC_ID	2050	-1.4294697
+Electricity (Commercial) [kWh]	Coal Fuel [MJ]	WECC_WY	2050	-1.5920496
+Electricity (Commercial) [kWh]	Non Fossil Fuel [MJ]	WECC_CO	2050	-2.5766906
+Electricity (Commercial) [kWh]	Nuclear [MJ]	WECC_UT	2050	-0.163816
+Electricity (Commercial) [kWh]	Renewable [MJ]	WECC_NM	2050	-2.4129044
+Electricity (Commercial) [kWh]	Biomass [MJ]	WECC_SNV	2050	-0.0764901
+Electricity (Industrial) [kWh]	CO2 Total [tonne]	WECC_PNW	2015	0.00042356
+Electricity (Industrial) [kWh]	CO2 [tonne]	WECC_AZ	2015	0.00043418
+Electricity (Industrial) [kWh]	CO2_Biogenic [tonne]	WECC_NNV	2015	-8.47E-06
+Electricity (Industrial) [kWh]	VOC [tonne]	WECC_SCE	2015	4.87E-08
+Electricity (Industrial) [kWh]	CO [tonne]	WEC_CALN	2015	1.65E-07
+Electricity (Industrial) [kWh]	NOx [tonne]	WEC_SDGE	2015	2.92E-07
+Electricity (Industrial) [kWh]	PM10 [tonne]	WECC_SF	2015	5.63E-08
+Electricity (Industrial) [kWh]	PM2.5 [tonne]	WECC_IID	2015	2.43E-08
+Electricity (Industrial) [kWh]	SOx [tonne]	WEC_LADW	2015	7.21E-07
+Electricity (Industrial) [kWh]	CH4 [tonne]	WECC_MT	2015	0.00000086
+Electricity (Industrial) [kWh]	N2O [tonne]	WECC_ID	2015	6.83E-09
+Electricity (Industrial) [kWh]	BC [tonne]	WECC_WY	2015	2.14E-09
+Electricity (Industrial) [kWh]	POC [tonne]	WECC_CO	2015	5.00E-09
+Electricity (Industrial) [kWh]	GHG-100 [tonne]	WECC_UT	2015	0.00045729
+Electricity (Industrial) [kWh]	Water Total [gal]	WECC_NM	2015	-1.2518149
+Electricity (Industrial) [kWh]	Fossil Fuel [MJ]	WECC_SNV	2015	-5.5381838
+Electricity (Industrial) [kWh]	Petroleum Fuel [MJ]	WECC_PNW	2015	-0.0711303
+Electricity (Industrial) [kWh]	Natural Gas Fuel [MJ]	WECC_AZ	2015	-2.6942526
+Electricity (Industrial) [kWh]	Coal Fuel [MJ]	WECC_NNV	2015	-2.8260576
+Electricity (Industrial) [kWh]	Non Fossil Fuel [MJ]	WECC_SCE	2015	-1.6711184
+Electricity (Industrial) [kWh]	Nuclear [MJ]	WEC_CALN	2015	-0.322408
+Electricity (Industrial) [kWh]	Renewable [MJ]	WEC_SDGE	2015	-1.3486889
+Electricity (Industrial) [kWh]	Biomass [MJ]	WECC_SF	2015	-0.0909305
+Electricity (Industrial) [kWh]	CO2 Total [tonne]	WECC_IID	2020	0.00032458
+Electricity (Industrial) [kWh]	CO2 [tonne]	WEC_LADW	2020	0.00032927
+Electricity (Industrial) [kWh]	CO2_Biogenic [tonne]	WECC_MT	2020	-2.37E-06
+Electricity (Industrial) [kWh]	VOC [tonne]	WECC_ID	2020	3.24E-08
+Electricity (Industrial) [kWh]	CO [tonne]	WECC_WY	2020	8.60E-08
+Electricity (Industrial) [kWh]	NOx [tonne]	WECC_CO	2020	1.40E-07
+Electricity (Industrial) [kWh]	PM10 [tonne]	WECC_UT	2020	2.86E-08
+Electricity (Industrial) [kWh]	PM2.5 [tonne]	WECC_NM	2020	8.87E-09
+Electricity (Industrial) [kWh]	SOx [tonne]	WECC_SNV	2020	4.22E-07
+Electricity (Industrial) [kWh]	CH4 [tonne]	WECC_PNW	2020	6.14E-07
+Electricity (Industrial) [kWh]	N2O [tonne]	WECC_AZ	2020	5.00E-09
+Electricity (Industrial) [kWh]	BC [tonne]	WECC_NNV	2020	7.53E-10
+Electricity (Industrial) [kWh]	POC [tonne]	WECC_SCE	2020	2.15E-09
+Electricity (Industrial) [kWh]	GHG-100 [tonne]	WEC_CALN	2020	0.00034883
+Electricity (Industrial) [kWh]	Water Total [gal]	WEC_SDGE	2020	-1.5175473
+Electricity (Industrial) [kWh]	Fossil Fuel [MJ]	WECC_SF	2020	-4.0892539
+Electricity (Industrial) [kWh]	Petroleum Fuel [MJ]	WECC_IID	2020	-0.0620128
+Electricity (Industrial) [kWh]	Natural Gas Fuel [MJ]	WEC_LADW	2020	-1.5966288
+Electricity (Industrial) [kWh]	Coal Fuel [MJ]	WECC_MT	2020	-2.430832
+Electricity (Industrial) [kWh]	Non Fossil Fuel [MJ]	WECC_ID	2020	-2.1383167
+Electricity (Industrial) [kWh]	Nuclear [MJ]	WECC_WY	2020	-0.3081407
+Electricity (Industrial) [kWh]	Renewable [MJ]	WECC_CO	2020	-1.8301581
+Electricity (Industrial) [kWh]	Biomass [MJ]	WECC_UT	2020	-0.0255402
+Electricity (Industrial) [kWh]	CO2 Total [tonne]	WECC_NM	2025	0.00025027
+Electricity (Industrial) [kWh]	CO2 [tonne]	WECC_SNV	2025	0.00025586
+Electricity (Industrial) [kWh]	CO2_Biogenic [tonne]	WECC_PNW	2025	-1.95E-06
+Electricity (Industrial) [kWh]	VOC [tonne]	WECC_AZ	2025	2.47E-08
+Electricity (Industrial) [kWh]	CO [tonne]	WECC_NNV	2025	6.48E-08
+Electricity (Industrial) [kWh]	NOx [tonne]	WECC_SCE	2025	1.03E-07
+Electricity (Industrial) [kWh]	PM10 [tonne]	WEC_CALN	2025	2.23E-08
+Electricity (Industrial) [kWh]	PM2.5 [tonne]	WEC_SDGE	2025	6.79E-09
+Electricity (Industrial) [kWh]	SOx [tonne]	WECC_SF	2025	3.29E-07
+Electricity (Industrial) [kWh]	CH4 [tonne]	WECC_IID	2025	4.70E-07
+Electricity (Industrial) [kWh]	N2O [tonne]	WEC_LADW	2025	3.87E-09
+Electricity (Industrial) [kWh]	BC [tonne]	WECC_MT	2025	5.71E-10
+Electricity (Industrial) [kWh]	POC [tonne]	WECC_ID	2025	1.57E-09
+Electricity (Industrial) [kWh]	GHG-100 [tonne]	WECC_WY	2025	0.0002707
+Electricity (Industrial) [kWh]	Water Total [gal]	WECC_CO	2025	-1.4851113
+Electricity (Industrial) [kWh]	Fossil Fuel [MJ]	WECC_UT	2025	-3.1370975
+Electricity (Industrial) [kWh]	Petroleum Fuel [MJ]	WECC_NM	2025	-0.0498403
+Electricity (Industrial) [kWh]	Natural Gas Fuel [MJ]	WECC_SNV	2025	-1.1923612
+Electricity (Industrial) [kWh]	Coal Fuel [MJ]	WECC_PNW	2025	-1.8947797
+Electricity (Industrial) [kWh]	Non Fossil Fuel [MJ]	WECC_AZ	2025	-2.5422238
+Electricity (Industrial) [kWh]	Nuclear [MJ]	WECC_NNV	2025	-0.2576534
+Electricity (Industrial) [kWh]	Renewable [MJ]	WECC_SCE	2025	-2.2846087
+Electricity (Industrial) [kWh]	Biomass [MJ]	WEC_CALN	2025	-0.0210443
+Electricity (Industrial) [kWh]	CO2 Total [tonne]	WEC_SDGE	2030	0.00024394
+Electricity (Industrial) [kWh]	CO2 [tonne]	WECC_SF	2030	0.00025533
+Electricity (Industrial) [kWh]	CO2_Biogenic [tonne]	WECC_IID	2030	-6.41E-06
+Electricity (Industrial) [kWh]	VOC [tonne]	WEC_LADW	2030	2.48E-08
+Electricity (Industrial) [kWh]	CO [tonne]	WECC_MT	2030	7.99E-08
+Electricity (Industrial) [kWh]	NOx [tonne]	WECC_ID	2030	1.04E-07
+Electricity (Industrial) [kWh]	PM10 [tonne]	WECC_WY	2030	2.59E-08
+Electricity (Industrial) [kWh]	PM2.5 [tonne]	WECC_CO	2030	7.88E-09
+Electricity (Industrial) [kWh]	SOx [tonne]	WECC_UT	2030	3.15E-07
+Electricity (Industrial) [kWh]	CH4 [tonne]	WECC_NM	2030	4.65E-07
+Electricity (Industrial) [kWh]	N2O [tonne]	WECC_SNV	2030	3.82E-09
+Electricity (Industrial) [kWh]	BC [tonne]	WECC_PNW	2030	7.53E-10
+Electricity (Industrial) [kWh]	POC [tonne]	WECC_AZ	2030	1.94E-09
+Electricity (Industrial) [kWh]	GHG-100 [tonne]	WECC_NNV	2030	0.00026555
+Electricity (Industrial) [kWh]	Water Total [gal]	WECC_SCE	2030	-1.4923352
+Electricity (Industrial) [kWh]	Fossil Fuel [MJ]	WEC_CALN	2030	-3.0908357
+Electricity (Industrial) [kWh]	Petroleum Fuel [MJ]	WEC_SDGE	2030	-0.0484362
+Electricity (Industrial) [kWh]	Natural Gas Fuel [MJ]	WECC_SF	2030	-1.2443077
+Electricity (Industrial) [kWh]	Coal Fuel [MJ]	WECC_IID	2030	-1.7981999
+Electricity (Industrial) [kWh]	Non Fossil Fuel [MJ]	WEC_LADW	2030	-2.5884481
+Electricity (Industrial) [kWh]	Nuclear [MJ]	WECC_MT	2030	-0.2097716
+Electricity (Industrial) [kWh]	Renewable [MJ]	WECC_ID	2030	-2.378679
+Electricity (Industrial) [kWh]	Biomass [MJ]	WECC_WY	2030	-0.0689823
+Electricity (Industrial) [kWh]	CO2 Total [tonne]	WECC_CO	2035	0.00023656
+Electricity (Industrial) [kWh]	CO2 [tonne]	WECC_UT	2035	0.00024901
+Electricity (Industrial) [kWh]	CO2_Biogenic [tonne]	WECC_NM	2035	-6.41E-06
+Electricity (Industrial) [kWh]	VOC [tonne]	WECC_SNV	2035	2.41E-08
+Electricity (Industrial) [kWh]	CO [tonne]	WECC_PNW	2035	7.92E-08
+Electricity (Industrial) [kWh]	NOx [tonne]	WECC_AZ	2035	1.01E-07
+Electricity (Industrial) [kWh]	PM10 [tonne]	WECC_NNV	2035	2.51E-08
+Electricity (Industrial) [kWh]	PM2.5 [tonne]	WECC_SCE	2035	7.63E-09
+Electricity (Industrial) [kWh]	SOx [tonne]	WEC_CALN	2035	3.03E-07
+Electricity (Industrial) [kWh]	CH4 [tonne]	WEC_SDGE	2035	4.54E-07
+Electricity (Industrial) [kWh]	N2O [tonne]	WECC_SF	2035	3.70E-09
+Electricity (Industrial) [kWh]	BC [tonne]	WECC_IID	2035	7.39E-10
+Electricity (Industrial) [kWh]	POC [tonne]	WEC_LADW	2035	1.85E-09
+Electricity (Industrial) [kWh]	GHG-100 [tonne]	WECC_MT	2035	0.00025883
+Electricity (Industrial) [kWh]	Water Total [gal]	WECC_ID	2035	-1.4842463
+Electricity (Industrial) [kWh]	Fossil Fuel [MJ]	WECC_WY	2035	-3.0112644
+Electricity (Industrial) [kWh]	Petroleum Fuel [MJ]	WECC_CO	2035	-0.0472396
+Electricity (Industrial) [kWh]	Natural Gas Fuel [MJ]	WECC_UT	2035	-1.2412857
+Electricity (Industrial) [kWh]	Coal Fuel [MJ]	WECC_NM	2035	-1.7227496
+Electricity (Industrial) [kWh]	Non Fossil Fuel [MJ]	WECC_SNV	2035	-2.6179055
+Electricity (Industrial) [kWh]	Nuclear [MJ]	WECC_PNW	2035	-0.2061244
+Electricity (Industrial) [kWh]	Renewable [MJ]	WECC_AZ	2035	-2.4117981
+Electricity (Industrial) [kWh]	Biomass [MJ]	WECC_NNV	2035	-0.0689779
+Electricity (Industrial) [kWh]	CO2 Total [tonne]	WECC_SCE	2045	0.00023251
+Electricity (Industrial) [kWh]	CO2 [tonne]	WEC_CALN	2045	0.00024574
+Electricity (Industrial) [kWh]	CO2_Biogenic [tonne]	WEC_SDGE	2045	-6.41E-06
+Electricity (Industrial) [kWh]	VOC [tonne]	WECC_SF	2045	2.41E-08
+Electricity (Industrial) [kWh]	CO [tonne]	WECC_IID	2045	8.13E-08
+Electricity (Industrial) [kWh]	NOx [tonne]	WEC_LADW	2045	9.99E-08
+Electricity (Industrial) [kWh]	PM10 [tonne]	WECC_MT	2045	2.44E-08
+Electricity (Industrial) [kWh]	PM2.5 [tonne]	WECC_ID	2045	7.52E-09
+Electricity (Industrial) [kWh]	SOx [tonne]	WECC_WY	2045	2.90E-07
+Electricity (Industrial) [kWh]	CH4 [tonne]	WECC_CO	2045	4.54E-07
+Electricity (Industrial) [kWh]	N2O [tonne]	WECC_UT	2045	3.63E-09
+Electricity (Industrial) [kWh]	BC [tonne]	WECC_NM	2045	7.46E-10
+Electricity (Industrial) [kWh]	POC [tonne]	WECC_SNV	2045	1.86E-09
+Electricity (Industrial) [kWh]	GHG-100 [tonne]	WECC_PNW	2045	0.0002555
+Electricity (Industrial) [kWh]	Water Total [gal]	WECC_AZ	2045	-1.4399438
+Electricity (Industrial) [kWh]	Fossil Fuel [MJ]	WECC_NNV	2045	-2.9930726
+Electricity (Industrial) [kWh]	Petroleum Fuel [MJ]	WECC_SCE	2045	-0.0451543
+Electricity (Industrial) [kWh]	Natural Gas Fuel [MJ]	WEC_CALN	2045	-1.3039813
+Electricity (Industrial) [kWh]	Coal Fuel [MJ]	WEC_SDGE	2045	-1.6439916
+Electricity (Industrial) [kWh]	Non Fossil Fuel [MJ]	WECC_SF	2045	-2.6155452
+Electricity (Industrial) [kWh]	Nuclear [MJ]	WECC_IID	2045	-0.2012904
+Electricity (Industrial) [kWh]	Renewable [MJ]	WEC_LADW	2045	-2.4142662
+Electricity (Industrial) [kWh]	Biomass [MJ]	WECC_MT	2045	-0.0689919
+Electricity (Industrial) [kWh]	CO2 Total [tonne]	WECC_ID	2050	0.00023465
+Electricity (Industrial) [kWh]	CO2 [tonne]	WECC_WY	2050	0.00024891
+Electricity (Industrial) [kWh]	CO2_Biogenic [tonne]	WECC_CO	2050	-7.10E-06
+Electricity (Industrial) [kWh]	VOC [tonne]	WECC_UT	2050	2.50E-08
+Electricity (Industrial) [kWh]	CO [tonne]	WECC_NM	2050	8.84E-08
+Electricity (Industrial) [kWh]	NOx [tonne]	WECC_SNV	2050	1.05E-07
+Electricity (Industrial) [kWh]	PM10 [tonne]	WECC_PNW	2050	2.48E-08
+Electricity (Industrial) [kWh]	PM2.5 [tonne]	WECC_AZ	2050	7.81E-09
+Electricity (Industrial) [kWh]	SOx [tonne]	WECC_NNV	2050	2.83E-07
+Electricity (Industrial) [kWh]	CH4 [tonne]	WECC_SCE	2050	4.67E-07
+Electricity (Industrial) [kWh]	N2O [tonne]	WEC_CALN	2050	3.66E-09
+Electricity (Industrial) [kWh]	BC [tonne]	WEC_SDGE	2050	8.04E-10
+Electricity (Industrial) [kWh]	POC [tonne]	WECC_SF	2050	2.00E-09
+Electricity (Industrial) [kWh]	GHG-100 [tonne]	WECC_IID	2050	0.00025842
+Electricity (Industrial) [kWh]	Water Total [gal]	WEC_LADW	2050	-1.4244957
+Electricity (Industrial) [kWh]	Fossil Fuel [MJ]	WECC_MT	2050	-3.0663041
+Electricity (Industrial) [kWh]	Petroleum Fuel [MJ]	WECC_ID	2050	-0.0448782
+Electricity (Industrial) [kWh]	Natural Gas Fuel [MJ]	WECC_WY	2050	-1.4294697
+Electricity (Industrial) [kWh]	Coal Fuel [MJ]	WECC_CO	2050	-1.5920496
+Electricity (Industrial) [kWh]	Non Fossil Fuel [MJ]	WECC_UT	2050	-2.5766906
+Electricity (Industrial) [kWh]	Nuclear [MJ]	WECC_NM	2050	-0.163816
+Electricity (Industrial) [kWh]	Renewable [MJ]	WECC_SNV	2050	-2.4129044
+Electricity (Industrial) [kWh]	Biomass [MJ]	WECC_PNW	2050	-0.0764901
