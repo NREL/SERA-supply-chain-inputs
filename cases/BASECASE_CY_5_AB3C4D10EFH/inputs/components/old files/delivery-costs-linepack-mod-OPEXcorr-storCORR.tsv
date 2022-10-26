@@ -1,0 +1,9 @@
+Technology	Year	Nameplate Capacity [kg/yr]	Production?	Lifetime [yr]	Scaling Exponent	Capital Cost [$]	Capital Cost [$/km]	Capital Cost [$/km2]	Fixed Operating Cost [$/yr]	Fixed Operating Cost [$/km/yr]	Variable Operating Cost [$/kg]	Variable Operating Cost [$/km/kg]	Maximum Utilization [kg/kg]	Storage Technology	Storage [kg/km]	Storage [kg/km2]	Storage [kg/km3]
+Linepack pipeline (transmission)	2015	1040250	No	50	0.6	-1172742.556	417262.3428	80.24300344	-38860.2738	0	0	0	1	No Storage	10.80731881	0.033709505	-1.1171E-05
+Linepack pipeline (transmission)	2015	1844710	No	50	0.6	-1385691.923	453783.7188	100.5731798	-49720.10198	0	0	0	1	No Storage	16.61588688	0.051716922	-1.71834E-05
+Linepack pipeline (transmission)	2015	3275875	No	50	0.6	-1633168.769	500110.2669	125.9113811	-59341.46186	0	0	0	1	No Storage	25.68787102	0.079189565	-2.62483E-05
+Linepack pipeline (transmission)	2015	10343370	No	50	0.6	-2080209.427	632061.5892	202.4375392	-73639.55294	0	0	0	1	No Storage	61.32841154	0.188067822	-6.26476E-05
+Linepack pipeline (transmission)	2015	32679180	No	50	0.6	-2249404.391	847551.923	346.0970841	-77284.07607	0	0	0	1	No Storage	146.1825348	0.451940621	-0.000152595
+Linepack pipeline (transmission)	2015	103269815	No	50	0.6	-543150.75	1208999.125	604.7125645	-17953.20518	0	0	0	1	No Storage	353.2986726	1.075084187	-0.000362441
+Linepack pipeline (transmission)	2015	326370955	No	50	0.6	6410351.544	1829080.977	1270.976814	196378.8448	0	0	0	1	No Storage	856.2637834	2.563011088	-0.000852295
+Linepack pipeline (transmission)	2015	1031481240	No	50	1	29274317.37	2930727.612	4080.980577	827795.4559	0	0	0	1	No Storage	2070.895367	6.186677226	-0.002076799
