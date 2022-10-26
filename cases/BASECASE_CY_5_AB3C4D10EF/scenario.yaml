@@ -25,7 +25,7 @@ processLibraryFiles:
     inputsFile     : inputs/components/production-inputs-new-noonsiteSMR.tsv
     outputsFile    : inputs/components/production-outputs.tsv
   - costsFile      : inputs/components/delivery-costs-baseCY-minstat-newscal8.tsv # made 2025 pipeline stations more expensive
-  - costsFile      : inputs/components/delivery-costs-linepack-CY-linear-newscal3.tsv               # additional cost file for linepack, CY made linear costs and storage
+  - costsFile      : inputs/components/delivery-costs-linepack-CY-linear-newscal4.tsv               # made early linepack expensive vs 2030 
     inputsFile     : inputs/components/delivery-inputs.tsv
     outputsFile    : inputs/components/delivery-outputs.tsv
 pathwayFiles:
