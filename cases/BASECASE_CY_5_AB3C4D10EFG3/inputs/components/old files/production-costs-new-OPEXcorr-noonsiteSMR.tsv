@@ -1,0 +1,97 @@
+Technology	Year	Nameplate Capacity [kg/yr]	Maximum Utilization [kg/kg]	Production?	Lifetime [yr]	Scaling Exponent	Capital Cost [$]	Capital Cost [$/km]	Fixed Operating Cost [$/yr]	Fixed Operating Cost [$/km/yr]	Variable Operating Cost [$/kg]	Variable Operating Cost [$/km/kg]	Storage Technology
+Central Grid Electrolysis (PEM)	2015	6.19E+05	0.859668853	Central	40	0.940422659	3808964.001	0	427519.5269	0	0.029529848	0	No Storage
+Central Grid Electrolysis (PEM)	2015	2.06E+07	0.97	Central	40	1	103028303.1	0	11563934.81	0	0.024377436	0	No Storage
+Central Grid Electrolysis (PEM)	2020	6.24E+05	0.859668853	Central	40	0.935643926	3443914.994	0	386546.2914	0	0.029102935	0	No Storage
+Central Grid Electrolysis (PEM)	2020	2.08E+07	0.97	Central	40	1	91606158.54	0	10281909.08	0	0.023571243	0	No Storage
+Central Grid Electrolysis (PEM)	2025	6.30E+05	0.859668853	Central	40	0.930865193	3113583.15	0	349469.7232	0	0.029102935	0	No Storage
+Central Grid Electrolysis (PEM)	2025	2.10E+07	0.97	Central	40	1	81443285.69	0	9141224.478	0	0.023571243	0	No Storage
+Central Grid Electrolysis (PEM)	2030	6.36E+05	0.859668853	Central	40	0.926086461	2814697.264	0	315922.6609	0	0.029102935	0	No Storage
+Central Grid Electrolysis (PEM)	2030	2.12E+07	0.97	Central	40	1	72401752.47	0	8126399.448	0	0.023571243	0	No Storage
+Central Grid Electrolysis (PEM)	2035	6.42E+05	0.859668853	Central	40	0.921307728	2544290.872	0	285572.1476	0	0.029102935	0	No Storage
+Central Grid Electrolysis (PEM)	2035	2.14E+07	0.97	Central	40	1	64358619.06	0	7223635.182	0	0.023571243	0	No Storage
+Central Grid Electrolysis (PEM)	2040	6.48E+05	0.859668853	Central	40	0.916528995	2299674.27	0	258116.2898	0	0.028676023	0	No Storage
+Central Grid Electrolysis (PEM)	2040	2.16E+07	0.97	Central	40	1	57204323.32	0	6420634.386	0	0.02276505	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	2.19E+06	0.9	Central	40	0.6	31974320.95	0	3588809.597	0	4.413173479	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	5.84E+06	0.9	Central	40	0.6	57594706.48	0	6464451.136	0	1.81082239	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	9.49E+06	0.9	Central	40	0.6	77071637.89	0	8650549.114	0	1.20359491	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	1.31E+07	0.9	Central	40	0.6	93689750.02	0	10515772.16	0	0.931323743	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	1.68E+07	0.9	Central	40	0.6	108533867.4	0	12181881.38	0	0.775291507	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	2.04E+07	0.9	Central	40	0.6	122130292.1	0	13707949.11	0	0.681297046	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	2.41E+07	0.9	Central	40	0.6	134783565.6	0	15128157.2	0	0.630574775	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	2.77E+07	0.9	Central	40	0.6	146689401	0	16464472.57	0	0.575569053	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	3.14E+07	0.9	Central	40	0.6	157982743.2	0	17732041.46	0	0.532330466	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	3.50E+07	0.9	Central	40	0.6	168761477.7	0	18941850.62	0	0.49787178	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	3.87E+07	0.9	Central	40	0.6	179099386.8	0	20102181.35	0	0.470593114	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	4.23E+07	0.9	Central	40	0.6	189053783.5	0	21219466.51	0	0.447588119	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	4.60E+07	0.9	Central	40	0.6	198670281.3	0	22298825.78	0	0.438331779	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	4.96E+07	0.9	Central	40	0.6	207985914.8	0	23344415.93	0	0.424685011	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	5.33E+07	0.9	Central	40	0.6	217031260.7	0	24359668.89	0	0.409178589	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	5.69E+07	0.9	Central	40	0.6	225831926.2	0	25347458.84	0	0.395400565	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	6.06E+07	0.9	Central	40	0.6	234409620.9	0	26310222.46	0	0.383905328	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	6.42E+07	0.9	Central	40	0.6	242782947.9	0	27250047.78	0	0.375551771	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	6.79E+07	0.9	Central	40	0.6	250967998	0	28168740.82	0	0.371584124	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	7.15E+07	0.9	Central	40	0.6	258978805	0	29067876.76	0	0.3645906	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	7.52E+07	0.9	Central	40	0.6	266827699.5	0	29948839.59	0	0.356263842	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	7.88E+07	0.9	Central	40	0.6	274525588	0	30812853.43	0	0.352444964	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	82490000	0.9	Central	40	0.6	282082174.8	0	31661007.52	0	0.349729008	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	86140000	0.9	Central	40	0.6	289506141.7	0	32494276.32	0	0.346956466	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	89790000	0.9	Central	40	0.6	296805294.7	0	33313535.94	0	0.344162622	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	93440000	0.9	Central	40	0.6	303986683.3	0	34119577.65	0	0.340264139	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	97090000	0.9	Central	40	0.6	311056701	0	34913119.06	0	0.334937868	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	100740000	0.9	Central	40	0.6	318021168.5	0	35694813.46	0	0.329611965	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	104390000	0.9	Central	40	0.6	324885403.4	0	36465257.72	0	0.327096813	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	108040000	0.9	Central	40	0.6	331654280.1	0	37224998.94	0	0.324826844	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	111690000	0.9	Central	40	0.6	338332280.1	0	37974540.13	0	0.322519538	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	115340000	0.9	Central	40	0.6	344923535.7	0	38714345.09	0	0.320002358	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	118990000	0.9	Central	40	0.6	351431867	0	39444842.61	0	0.317485413	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	122640000	0.9	Central	40	0.6	357860814.6	0	40166430.05	0	0.315227372	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	126290000	0.9	Central	40	0.6	364213667.4	0	40879476.6	0	0.315128029	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	129940000	0.9	Central	40	0.6	370493487.6	0	41584325.94	0	0.315028872	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	133590000	0.9	Central	40	0.6	376703131.9	0	42281298.71	0	0.314929887	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	137240000	0.9	Central	40	0.6	382845270.8	0	42970694.65	0	0.312630665	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	140890000	0.9	Central	40	0.6	388922404.9	0	43652794.43	0	0.309628025	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	144540000	0.9	Central	40	0.6	394936880.3	0	44327861.37	0	0.306625525	0	No Storage
+Central Natural Gas Reforming w/CCS	2015	148190000	0.9	Central	40	1	400890901.6	0	44996142.92	0	0.30373953	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	2190000	0.9	Central	40	0.6	25603872.75	0	2873788.138	0	4.415915686	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	5840000	0.9	Central	40	0.6	46119745.22	0	5176497.244	0	1.813622865	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	9490000	0.9	Central	40	0.6	61716163.18	0	6927044.958	0	1.206416793	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	13140000	0.9	Central	40	0.6	75023342.68	0	8420647.702	0	0.934157816	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	16790000	0.9	Central	40	0.6	86909971.77	0	9754807.344	0	0.778133769	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	20440000	0.9	Central	40	0.6	97797493.92	0	10976826.85	0	0.684145325	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	24090000	0.9	Central	40	0.6	107929774.9	0	12114077.81	0	0.633427727	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	27740000	0.9	Central	40	0.6	117463534.6	0	13184150.53	0	0.578425781	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	31390000	0.9	Central	40	0.6	126506832.1	0	14199173.58	0	0.535190331	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	35040000	0.9	Central	40	0.6	135138050.6	0	15167944.73	0	0.500734309	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	38690000	0.9	Central	40	0.6	143416272	0	16097095.35	0	0.473457945	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	42340000	0.9	Central	40	0.6	151387390.6	0	16991776.66	0	0.450454966	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	45990000	0.9	Central	40	0.6	159087932.2	0	17856088.29	0	0.441200413	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	49640000	0.9	Central	40	0.6	166547552.5	0	18693358.83	0	0.427555244	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	53290000	0.9	Central	40	0.6	173790736.4	0	19506336.46	0	0.412050263	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	56940000	0.9	Central	40	0.6	180837989	0	20297322.7	0	0.398273549	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	60590000	0.9	Central	40	0.6	187706694.9	0	21068268.78	0	0.386779509	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	64240000	0.9	Central	40	0.6	194411750.4	0	21820846.7	0	0.378427052	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	67890000	0.9	Central	40	0.6	200966040.7	0	22556502.66	0	0.374460422	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	71540000	0.9	Central	40	0.6	207380803.4	0	23276498	0	0.36746784	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	75190000	0.9	Central	40	0.6	213665912.6	0	23981940.98	0	0.359141959	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	78840000	0.9	Central	40	0.6	219830101.6	0	24673811.82	0	0.355323901	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	82490000	0.9	Central	40	0.6	225881141.3	0	25352982.76	0	0.352608714	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	86140000	0.9	Central	40	0.6	231825983.9	0	26020234.09	0	0.349836893	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	89790000	0.9	Central	40	0.6	237670880	0	26676267.38	0	0.34704373	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	93440000	0.9	Central	40	0.6	243421474.6	0	27321716.25	0	0.34314589	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	97090000	0.9	Central	40	0.6	249082887.6	0	27957155.34	0	0.337820227	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	100740000	0.9	Central	40	0.6	254659779.7	0	28583107.77	0	0.332494902	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	104390000	0.9	Central	40	0.6	260156409.3	0	29200051.5	0	0.329980298	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	108040000	0.9	Central	40	0.6	265576679.4	0	29808424.62	0	0.327710852	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	111690000	0.9	Central	40	0.6	270924178.9	0	30408629.94	0	0.325404044	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	115340000	0.9	Central	40	0.6	276202216.5	0	31001038.83	0	0.32288734	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	118990000	0.9	Central	40	0.6	281413851.4	0	31585994.66	0	0.320370851	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	122640000	0.9	Central	40	0.6	286561918.6	0	32163815.63	0	0.318113246	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	126290000	0.9	Central	40	0.6	291649052	0	32734797.36	0	0.318014322	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	129940000	0.9	Central	40	0.6	296677703.5	0	33299215.06	0	0.317915566	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	133590000	0.9	Central	40	0.6	301650160.8	0	33857325.5	0	0.317816968	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	137240000	0.9	Central	40	0.6	306568562	0	34409368.68	0	0.315518118	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	140890000	0.9	Central	40	0.6	311434909.9	0	34955569.36	0	0.312515836	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	144540000	0.9	Central	40	0.6	316251083	0	35496138.4	0	0.309513681	0	No Storage
+Central Natural Gas Reforming w/CCS	2040	148190000	0.9	Central	40	1	321018846.6	0	36031273.95	0	0.30662802	0	No Storage
+Onsite Electrolysis (PEM)	2015	618675	0.859669	Onsite	20	0.859603	4000000	0	448961.4779	0	0.620714273	0	No Storage
+Onsite Electrolysis (PEM)	2040	647692.5	0.859669	Onsite	20	0.905743	2290614.273	0	257099.3923	0	0.63736751	0	No Storage
