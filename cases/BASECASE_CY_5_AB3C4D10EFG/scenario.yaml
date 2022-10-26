@@ -11,7 +11,7 @@ newProduction     : True
 optimizationLog   : True
 
 periodFiles:
-  - inputs/periods/periods5.tsv
+  - inputs/periods/periods5a.tsv
 
 priceFiles:
   - inputs/prices/prices_elecsimple_7_9_2p_red.tsv              # new electricity prices 7 cent / kwh across all regions
