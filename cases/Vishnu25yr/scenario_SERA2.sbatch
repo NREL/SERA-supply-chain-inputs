@@ -2,7 +2,7 @@
 #SBATCH --mem=150G
 #SBATCH --job-name=Vishnu25yr
 #SBATCH --time=0-25:00:00
-#SBATCH -A mbap
+#SBATCH -A sera
 #SBATCH -o Vishnu25yr.log
 #SBATCH --mail-user=ccyang@ucdavis.edu
 #SBATCH --mail-type=ALL
