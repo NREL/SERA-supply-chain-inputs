@@ -1,0 +1,29 @@
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+    Updating registry at `~/.julia/registries/General.toml`
+   Resolving package versions...
+┌ Warning: The active manifest file at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml` has an old format that is being maintained.
+│ To update to the new format run `Pkg.upgrade_manifest()` which will upgrade the format without re-resolving.
+└ @ Pkg.Types /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.7/Pkg/src/manifest.jl:287
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Project.toml`
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml`
+┌ Warning: The active manifest file is an older format with no julia version entry. Dependencies may have been resolved with a different julia version.
+└ @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml:0
+    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/82a7cf7687750538acaa30ee92d5d9cf1b6e6f15/build.log`
+  Activating project at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl`
+ERROR: LoadError: EOFError: read end of file
+Stacktrace:
+ [1] read(s::IOStream, T::Type{UInt32})
+   @ Base ./iostream.jl:412
+ [2] isvalid_file_crc(f::IOStream)
+   @ Base ./loading.jl:1473
+ [3] _require_from_serialized(path::String)
+   @ Base ./loading.jl:808
+ [4] _require(pkg::Base.PkgId)
+   @ Base ./loading.jl:1130
+ [5] require(uuidkey::Base.PkgId)
+   @ Base ./loading.jl:1013
+ [6] require(into::Module, mod::Symbol)
+   @ Base ./loading.jl:997
+in expression starting at /home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB3C4D5EF/run_case.jl:28
+SERA directory not specified in input arguments, setting to default directory

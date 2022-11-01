@@ -1,0 +1,46 @@
+    Updating registry at `~/.julia/registries/General.toml`
+   Resolving package versions...
+┌ Warning: The active manifest file at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml` has an old format that is being maintained.
+│ To update to the new format run `Pkg.upgrade_manifest()` which will upgrade the format without re-resolving.
+└ @ Pkg.Types /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.7/Pkg/src/manifest.jl:287
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Project.toml`
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml`
+┌ Warning: The active manifest file is an older format with no julia version entry. Dependencies may have been resolved with a different julia version.
+└ @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml:0
+ERROR: LoadError: SystemError: close: Stale file handle
+Stacktrace:
+  [1] systemerror(p::String, errno::Int32; extrainfo::Nothing)
+    @ Base ./error.jl:174
+  [2] #systemerror#68
+    @ ./error.jl:173 [inlined]
+  [3] systemerror
+    @ ./error.jl:173 [inlined]
+  [4] close
+    @ ./iostream.jl:63 [inlined]
+  [5] open(::Pkg.API.var"#272#273"{Vector{Pkg.Types.PackageSpec}}, ::String, ::Vararg{String}; kwargs::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ Base ./io.jl:332
+  [6] open
+    @ ./io.jl:328 [inlined]
+  [7] save_precompile_state()
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:1376
+  [8] precompile(ctx::Pkg.Types.Context; internal_call::Bool, strict::Bool, warn_loaded::Bool, already_instantiated::Bool, kwargs::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:1307
+  [9] _auto_precompile(ctx::Pkg.Types.Context; warn_loaded::Bool, already_instantiated::Bool)
+    @ Pkg ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Pkg.jl:656
+ [10] _auto_precompile
+    @ ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Pkg.jl:655 [inlined]
+ [11] add(pkgs::Vector{Pkg.Types.PackageSpec}; io::IOStream, kwargs::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:150
+ [12] add(pkgs::Vector{Pkg.Types.PackageSpec})
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:144
+ [13] #add#27
+    @ ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:142 [inlined]
+ [14] add
+    @ ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:142 [inlined]
+ [15] #add#26
+    @ ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:141 [inlined]
+ [16] add(pkg::String)
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:141
+ [17] top-level scope
+    @ ~/SERA-supply-chain-inputs/cases/BASECASE_CY_15_AB3C4D8EF/run_case.jl:3
+in expression starting at /home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_15_AB3C4D8EF/run_case.jl:3

@@ -1,0 +1,552 @@
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+    Updating registry at `~/.julia/registries/General.toml`
+   Resolving package versions...
+┌ Warning: The active manifest file at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml` has an old format that is being maintained.
+│ To update to the new format run `Pkg.upgrade_manifest()` which will upgrade the format without re-resolving.
+└ @ Pkg.Types /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.7/Pkg/src/manifest.jl:287
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Project.toml`
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml`
+┌ Warning: The active manifest file is an older format with no julia version entry. Dependencies may have been resolved with a different julia version.
+└ @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml:0
+    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/82a7cf7687750538acaa30ee92d5d9cf1b6e6f15/build.log`
+  Activating project at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl`
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+[ Info: Rolling step not specified in scenaio.yaml file; Setting it to 5 years
+[ Info: Number of iterations not specified in scenaio.yaml file; Setting it to 10
+[ Info: Production capacity constraints file not specified in scenaio.yaml file; SERA will not create these constraints
+[ Info: Annualization boolean not specified in scenaio.yaml file; SERA will turn off annualization of capital costs
+SERA directory not specified in input arguments, setting to default directory
+STARTING DATA PRE-PROCESSING 
+Processing Temporal Data
+Processing Nodes
+Processing Demand
+Processing Existings
+Processing Links
+Processing Pathways
+Creating Infrastructure options
+ 77.120693 seconds (286.64 M allocations: 29.773 GiB, 22.18% gc time, 0.60% compilation time)
+
+OPTIMIZING FROM 2026 TO 2030 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+128.124575 seconds (405.28 M allocations: 24.374 GiB, 67.28% gc time, 7.42% compilation time)
+POPULATING EXPRESSIONS
+ 43.201496 seconds (73.98 M allocations: 11.184 GiB, 35.89% gc time, 0.62% compilation time)
+CREATING CONSTRAINTS
+226.513812 seconds (236.67 M allocations: 12.952 GiB, 83.09% gc time, 1.17% compilation time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+ 57.769336 seconds (69.60 M allocations: 6.517 GiB, 58.44% gc time, 1.64% compilation time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+121.790820 seconds (45.46 M allocations: 3.009 GiB, 95.07% gc time, 8.13% compilation time)
+BUILDING OBJECTIVE FUNCTION
+ 25.289547 seconds (42.29 M allocations: 1.566 GiB, 70.01% gc time, 5.34% compilation time)
+Optimizing for iteration 1
+1978.670241 seconds (313.92 M allocations: 14.218 GiB, 12.80% gc time, 0.86% compilation time)
+OPTIMAL
+3.4220605968923893e9
+ϵ =  1.0
+READING COST DATA FOR ITERATION 2
+ 51.869834 seconds (55.53 M allocations: 6.173 GiB, 58.65% gc time, 0.22% compilation time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 23.577335 seconds (42.30 M allocations: 2.819 GiB, 86.23% gc time, 0.48% compilation time)
+BUILDING OBJECTIVE FUNCTION
+ 27.711453 seconds (46.29 M allocations: 1.693 GiB, 75.70% gc time)
+Optimizing for iteration 2
+ 84.780560 seconds (134 allocations: 91.945 MiB, 10.65% gc time)
+OPTIMAL
+1.3654144785203089e10
+ϵ =  0.7493756913577718
+READING COST DATA FOR ITERATION 3
+ 81.749034 seconds (54.78 M allocations: 6.183 GiB, 73.73% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 13.529375 seconds (42.15 M allocations: 2.811 GiB, 75.94% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 16.708991 seconds (46.29 M allocations: 1.720 GiB, 59.55% gc time)
+Optimizing for iteration 3
+349.549192 seconds (132 allocations: 53.349 MiB)
+OPTIMAL
+9.837060417587843e9
+ϵ =  0.38803099763324744
+READING COST DATA FOR ITERATION 4
+ 80.207504 seconds (54.73 M allocations: 6.126 GiB, 73.65% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 13.304737 seconds (42.15 M allocations: 2.811 GiB, 75.89% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 16.548778 seconds (46.29 M allocations: 1.720 GiB, 58.68% gc time)
+Optimizing for iteration 4
+247.657814 seconds (132 allocations: 53.406 MiB)
+OPTIMAL
+9.194463612046585e9
+ϵ =  0.0698895370796015
+READING COST DATA FOR ITERATION 5
+ 80.332545 seconds (54.71 M allocations: 6.237 GiB, 73.47% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 13.381689 seconds (42.15 M allocations: 2.811 GiB, 75.46% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 16.545112 seconds (46.29 M allocations: 1.720 GiB, 58.97% gc time)
+Optimizing for iteration 5
+197.341590 seconds (132 allocations: 53.463 MiB)
+OPTIMAL
+8.810487062496538e9
+ϵ =  0.04358176191921537
+READING COST DATA FOR ITERATION 6
+ 80.632920 seconds (54.71 M allocations: 6.150 GiB, 73.82% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 13.431991 seconds (42.15 M allocations: 2.811 GiB, 75.88% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 16.627455 seconds (46.29 M allocations: 1.720 GiB, 59.01% gc time)
+Optimizing for iteration 6
+442.921298 seconds (132 allocations: 53.521 MiB)
+OPTIMAL
+8.752907135556257e9
+ϵ =  0.00657837745203717
+READING COST DATA FOR ITERATION 7
+ 80.416129 seconds (54.71 M allocations: 6.174 GiB, 73.70% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 13.394383 seconds (42.15 M allocations: 2.811 GiB, 75.47% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 16.569616 seconds (46.29 M allocations: 1.720 GiB, 58.92% gc time)
+Optimizing for iteration 7
+293.744981 seconds (132 allocations: 53.578 MiB)
+OPTIMAL
+8.691965551726831e9
+ϵ =  0.007011254642771442
+READING COST DATA FOR ITERATION 8
+ 80.219607 seconds (54.69 M allocations: 6.125 GiB, 73.71% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 13.376748 seconds (42.15 M allocations: 2.811 GiB, 75.59% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 16.600871 seconds (46.29 M allocations: 1.720 GiB, 58.70% gc time)
+Optimizing for iteration 8
+221.705064 seconds (132 allocations: 53.635 MiB)
+OPTIMAL
+8.58833202585426e9
+ϵ =  0.012066781484549755
+READING COST DATA FOR ITERATION 9
+ 80.167270 seconds (54.69 M allocations: 6.125 GiB, 73.67% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 13.359063 seconds (42.15 M allocations: 2.811 GiB, 75.45% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 16.617376 seconds (46.29 M allocations: 1.720 GiB, 58.50% gc time)
+Optimizing for iteration 9
+474.645438 seconds (132 allocations: 53.692 MiB)
+OPTIMAL
+8.562429194741996e9
+ϵ =  0.0030251731749367018
+READING COST DATA FOR ITERATION 10
+ 80.069093 seconds (54.69 M allocations: 6.352 GiB, 73.17% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 13.226856 seconds (42.15 M allocations: 2.811 GiB, 75.41% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 16.481456 seconds (46.29 M allocations: 1.720 GiB, 58.67% gc time)
+Optimizing for iteration 10
+442.027004 seconds (132 allocations: 53.750 MiB)
+OPTIMAL
+8.555826808584666e9
+ϵ =  0.0007716830068055645
+ITERATIONS COMPLETED
+WRITING RESULTS TO FILE
+ 24.302889 seconds (23.94 M allocations: 1.007 GiB, 84.98% gc time, 5.73% compilation time)
+
+OPTIMIZING FROM 2031 TO 2035 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+601.925361 seconds (388.77 M allocations: 23.499 GiB, 94.31% gc time)
+POPULATING EXPRESSIONS
+ 44.439360 seconds (73.60 M allocations: 11.165 GiB, 41.28% gc time)
+CREATING CONSTRAINTS
+340.664960 seconds (232.10 M allocations: 12.704 GiB, 90.35% gc time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+ 60.432101 seconds (54.42 M allocations: 6.156 GiB, 66.19% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 30.113988 seconds (41.66 M allocations: 2.802 GiB, 90.11% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 34.989327 seconds (41.04 M allocations: 1.519 GiB, 81.52% gc time)
+Optimizing for iteration 1
+894.111657 seconds (293.33 M allocations: 13.116 GiB, 49.25% gc time)
+OPTIMAL
+4.3094069701023056e10
+ϵ =  1.0
+READING COST DATA FOR ITERATION 2
+118.652227 seconds (54.77 M allocations: 6.128 GiB, 81.43% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 19.627289 seconds (42.15 M allocations: 2.811 GiB, 83.25% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 22.845162 seconds (46.29 M allocations: 1.720 GiB, 69.96% gc time)
+Optimizing for iteration 2
+439.734250 seconds (134 allocations: 130.604 MiB)
+OPTIMAL
+2.0463272349031494e10
+ϵ =  1.1059226973081528
+READING COST DATA FOR ITERATION 3
+154.977015 seconds (54.77 M allocations: 6.223 GiB, 85.31% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 26.199015 seconds (42.15 M allocations: 2.811 GiB, 85.07% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 29.630827 seconds (46.29 M allocations: 1.720 GiB, 73.48% gc time)
+Optimizing for iteration 3
+489.499529 seconds (132 allocations: 53.353 MiB)
+OPTIMAL
+1.964587083942302e10
+ϵ =  0.0416067842596345
+READING COST DATA FOR ITERATION 4
+153.611187 seconds (54.77 M allocations: 6.127 GiB, 85.50% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 25.881741 seconds (42.15 M allocations: 2.811 GiB, 85.49% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 29.375750 seconds (46.29 M allocations: 1.720 GiB, 73.48% gc time)
+Optimizing for iteration 4
+447.805228 seconds (132 allocations: 53.410 MiB)
+OPTIMAL
+1.90273829823293e10
+ϵ =  0.03250514575063557
+READING COST DATA FOR ITERATION 5
+154.028584 seconds (54.76 M allocations: 6.127 GiB, 85.55% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 26.016873 seconds (42.15 M allocations: 2.811 GiB, 85.29% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 29.551858 seconds (46.29 M allocations: 1.720 GiB, 73.38% gc time)
+Optimizing for iteration 5
+465.085635 seconds (132 allocations: 53.468 MiB)
+OPTIMAL
+1.868895986705375e10
+ϵ =  0.01810818353096819
+READING COST DATA FOR ITERATION 6
+154.582244 seconds (54.77 M allocations: 6.127 GiB, 85.46% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 25.980270 seconds (42.15 M allocations: 2.811 GiB, 85.57% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 29.551658 seconds (46.29 M allocations: 1.720 GiB, 73.40% gc time)
+Optimizing for iteration 6
+674.237385 seconds (132 allocations: 53.525 MiB)
+OPTIMAL
+1.849923815466696e10
+ϵ =  0.010255650032756651
+READING COST DATA FOR ITERATION 7
+137.244535 seconds (54.77 M allocations: 6.127 GiB, 84.12% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 19.707156 seconds (42.15 M allocations: 2.811 GiB, 82.98% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 23.009402 seconds (46.29 M allocations: 1.720 GiB, 69.12% gc time)
+Optimizing for iteration 7
+539.722875 seconds (132 allocations: 53.582 MiB)
+OPTIMAL
+1.8222536028207935e10
+ϵ =  0.015184611298373792
+READING COST DATA FOR ITERATION 8
+118.458369 seconds (54.77 M allocations: 6.129 GiB, 81.75% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 19.661806 seconds (42.15 M allocations: 2.811 GiB, 82.98% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 23.099744 seconds (46.29 M allocations: 1.720 GiB, 69.04% gc time)
+Optimizing for iteration 8
+388.928512 seconds (132 allocations: 53.639 MiB)
+OPTIMAL
+1.8070289666332237e10
+ϵ =  0.008425230845047465
+READING COST DATA FOR ITERATION 9
+119.031090 seconds (54.76 M allocations: 6.127 GiB, 81.79% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 19.740128 seconds (42.15 M allocations: 2.811 GiB, 83.06% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 23.135900 seconds (46.29 M allocations: 1.720 GiB, 69.23% gc time)
+Optimizing for iteration 9
+502.214915 seconds (132 allocations: 53.696 MiB)
+OPTIMAL
+1.8002146185648052e10
+ϵ =  0.0037852975962644753
+READING COST DATA FOR ITERATION 10
+118.039855 seconds (54.76 M allocations: 6.577 GiB, 81.26% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 19.398308 seconds (42.15 M allocations: 2.811 GiB, 82.83% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 22.773254 seconds (46.29 M allocations: 1.720 GiB, 69.28% gc time)
+Optimizing for iteration 10
+421.463133 seconds (132 allocations: 53.754 MiB)
+OPTIMAL
+1.790307293607873e10
+ϵ =  0.005533868399178587
+ITERATIONS COMPLETED
+WRITING RESULTS TO FILE
+ 39.501103 seconds (35.28 M allocations: 1.464 GiB, 85.89% gc time, 3.98% compilation time)
+
+OPTIMIZING FROM 2036 TO 2040 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+917.756155 seconds (388.77 M allocations: 23.388 GiB, 96.18% gc time)
+POPULATING EXPRESSIONS
+ 34.320624 seconds (73.61 M allocations: 11.167 GiB, 21.42% gc time)
+CREATING CONSTRAINTS
+401.112955 seconds (232.10 M allocations: 12.704 GiB, 91.27% gc time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+ 68.577496 seconds (54.42 M allocations: 6.145 GiB, 68.74% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+114.697002 seconds (41.96 M allocations: 10.708 GiB, 96.27% gc time, 0.03% compilation time)
+BUILDING OBJECTIVE FUNCTION
+ 39.713464 seconds (41.04 M allocations: 1.519 GiB, 83.07% gc time)
+Optimizing for iteration 1
+977.114895 seconds (293.42 M allocations: 13.088 GiB, 47.56% gc time)
+OPTIMAL
+7.345404470900087e10
+ϵ =  1.0
+READING COST DATA FOR ITERATION 2
+133.988373 seconds (54.81 M allocations: 6.128 GiB, 83.22% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 78.510726 seconds (42.53 M allocations: 7.276 GiB, 93.82% gc time, 0.05% compilation time)
+BUILDING OBJECTIVE FUNCTION
+ 45.564038 seconds (46.29 M allocations: 1.693 GiB, 84.12% gc time)
+Optimizing for iteration 2
+490.622119 seconds (134 allocations: 91.950 MiB, 3.45% gc time)
+OPTIMAL
+2.4864091001345036e10
+ϵ =  1.9542220025263686
+READING COST DATA FOR ITERATION 3
+133.784840 seconds (54.80 M allocations: 6.128 GiB, 83.70% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 78.093169 seconds (42.48 M allocations: 7.273 GiB, 93.97% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 45.438226 seconds (46.29 M allocations: 1.693 GiB, 83.93% gc time)
+Optimizing for iteration 3
+538.383236 seconds (132 allocations: 53.353 MiB, 3.12% gc time)
+OPTIMAL
+2.410168362114721e10
+ϵ =  0.031632951132458294
+READING COST DATA FOR ITERATION 4
+132.521852 seconds (54.79 M allocations: 6.176 GiB, 83.52% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 77.719258 seconds (42.48 M allocations: 7.273 GiB, 93.96% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 45.239571 seconds (46.29 M allocations: 1.693 GiB, 84.05% gc time)
+Optimizing for iteration 4
+490.303869 seconds (132 allocations: 53.410 MiB, 3.41% gc time)
+OPTIMAL
+2.3804182524374527e10
+ϵ =  0.01249784975677642
+READING COST DATA FOR ITERATION 5
+132.165494 seconds (54.78 M allocations: 6.128 GiB, 83.54% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 77.375027 seconds (42.48 M allocations: 7.273 GiB, 93.94% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 45.084880 seconds (46.29 M allocations: 1.693 GiB, 83.78% gc time)
+Optimizing for iteration 5
+448.831570 seconds (132 allocations: 53.468 MiB, 3.70% gc time)
+OPTIMAL
+2.3642994451892944e10
+ϵ =  0.006817582807027953
+READING COST DATA FOR ITERATION 6
+132.329004 seconds (54.78 M allocations: 6.319 GiB, 83.35% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 77.200266 seconds (42.48 M allocations: 7.273 GiB, 94.02% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 45.188779 seconds (46.29 M allocations: 1.693 GiB, 84.17% gc time)
+Optimizing for iteration 6
+478.031099 seconds (132 allocations: 53.525 MiB, 3.48% gc time)
+OPTIMAL
+2.354892921175553e10
+ϵ =  0.003994459335775456
+READING COST DATA FOR ITERATION 7
+132.316564 seconds (54.78 M allocations: 6.128 GiB, 83.59% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 77.617021 seconds (42.48 M allocations: 7.273 GiB, 94.01% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 45.158932 seconds (46.29 M allocations: 1.693 GiB, 83.99% gc time)
+Optimizing for iteration 7
+577.456437 seconds (132 allocations: 53.582 MiB, 2.89% gc time)
+OPTIMAL
+2.352744561888406e10
+ϵ =  0.0009131289991927015
+ITERATIONS COMPLETED
+WRITING RESULTS TO FILE
+ 45.214441 seconds (44.97 M allocations: 1.793 GiB, 87.41% gc time)
+
+OPTIMIZING FROM 2041 TO 2045 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+1027.725947 seconds (388.77 M allocations: 23.611 GiB, 96.60% gc time)
+POPULATING EXPRESSIONS
+ 55.414918 seconds (73.62 M allocations: 11.171 GiB, 52.51% gc time)
+CREATING CONSTRAINTS
+406.837591 seconds (232.10 M allocations: 12.703 GiB, 91.29% gc time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+ 67.529065 seconds (54.42 M allocations: 6.130 GiB, 69.67% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 35.050519 seconds (41.66 M allocations: 2.802 GiB, 90.75% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 40.502622 seconds (41.04 M allocations: 1.519 GiB, 83.03% gc time)
+Optimizing for iteration 1
+1778.839660 seconds (293.34 M allocations: 13.086 GiB, 26.02% gc time)
+OPTIMAL
+5.213092561696397e10
+ϵ =  1.0
+READING COST DATA FOR ITERATION 2
+130.663913 seconds (54.80 M allocations: 6.128 GiB, 83.49% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 21.812932 seconds (42.15 M allocations: 2.811 GiB, 83.92% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 25.104853 seconds (46.29 M allocations: 1.720 GiB, 71.51% gc time)
+Optimizing for iteration 2
+526.773885 seconds (134 allocations: 130.604 MiB)
+OPTIMAL
+2.428993123560824e10
+ϵ =  1.1461948620316116
+READING COST DATA FOR ITERATION 3
+130.180407 seconds (54.78 M allocations: 6.128 GiB, 83.67% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 21.789573 seconds (42.15 M allocations: 2.811 GiB, 83.47% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 24.991780 seconds (46.29 M allocations: 1.720 GiB, 71.42% gc time)
+Optimizing for iteration 3
+461.893788 seconds (132 allocations: 53.353 MiB)
+OPTIMAL
+2.373527696830033e10
+ϵ =  0.023368350327178256
+READING COST DATA FOR ITERATION 4
+129.241552 seconds (54.79 M allocations: 6.128 GiB, 83.56% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 21.601722 seconds (42.15 M allocations: 2.811 GiB, 83.73% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 24.892996 seconds (46.29 M allocations: 1.720 GiB, 71.27% gc time)
+Optimizing for iteration 4
+468.737281 seconds (132 allocations: 53.410 MiB)
+OPTIMAL
+2.355846291617544e10
+ϵ =  0.007505330579250633
+READING COST DATA FOR ITERATION 5
+127.770455 seconds (54.78 M allocations: 6.128 GiB, 83.41% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 21.409059 seconds (42.15 M allocations: 2.811 GiB, 83.28% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 24.631018 seconds (46.29 M allocations: 1.720 GiB, 70.99% gc time)
+Optimizing for iteration 5
+599.387083 seconds (132 allocations: 53.468 MiB)
+OPTIMAL
+2.34961119788477e10
+ϵ =  0.0026536704193401983
+READING COST DATA FOR ITERATION 6
+125.563923 seconds (54.78 M allocations: 6.128 GiB, 83.12% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 21.073579 seconds (42.15 M allocations: 2.811 GiB, 83.09% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 24.315085 seconds (46.29 M allocations: 1.720 GiB, 70.56% gc time)
+Optimizing for iteration 6
+1093.942782 seconds (132 allocations: 53.525 MiB)
+OPTIMAL
+2.3475493280502087e10
+ϵ =  0.0008783073522407626
+ITERATIONS COMPLETED
+WRITING RESULTS TO FILE
+ 45.910250 seconds (59.26 M allocations: 2.335 GiB, 82.98% gc time)
+
+OPTIMIZING FROM 2046 TO 2050 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+978.295446 seconds (388.77 M allocations: 23.388 GiB, 96.36% gc time)
+POPULATING EXPRESSIONS
+ 33.204471 seconds (73.63 M allocations: 11.176 GiB, 20.60% gc time)
+CREATING CONSTRAINTS
+415.653353 seconds (232.10 M allocations: 12.704 GiB, 91.55% gc time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+ 70.519326 seconds (54.42 M allocations: 6.221 GiB, 69.34% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+118.352868 seconds (41.91 M allocations: 10.706 GiB, 96.28% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 41.168134 seconds (41.04 M allocations: 1.519 GiB, 83.34% gc time)
+Optimizing for iteration 1
+1077.043563 seconds (293.43 M allocations: 13.119 GiB, 44.48% gc time)
+OPTIMAL
+2.8938425672675877e10
+ϵ =  1.0
+READING COST DATA FOR ITERATION 2
+134.252783 seconds (54.81 M allocations: 6.128 GiB, 83.16% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 78.555052 seconds (42.48 M allocations: 7.273 GiB, 93.81% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 45.965447 seconds (46.29 M allocations: 1.693 GiB, 84.10% gc time)
+Optimizing for iteration 2
+1076.516550 seconds (134 allocations: 91.950 MiB, 1.57% gc time)
+OPTIMAL
+1.9213623182396866e10
+ϵ =  0.506141002035736
+READING COST DATA FOR ITERATION 3
+133.419704 seconds (54.80 M allocations: 6.128 GiB, 83.35% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 78.661489 seconds (42.48 M allocations: 7.273 GiB, 93.62% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 46.126423 seconds (46.29 M allocations: 1.693 GiB, 83.84% gc time)
+Optimizing for iteration 3
+1755.232887 seconds (132 allocations: 53.353 MiB, 0.96% gc time)
+OPTIMAL
+1.8963792351890278e10
+ϵ =  0.013174096502990744
+READING COST DATA FOR ITERATION 4
+133.795377 seconds (54.80 M allocations: 6.128 GiB, 83.43% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 78.836952 seconds (42.48 M allocations: 7.273 GiB, 93.72% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 52.691039 seconds (46.29 M allocations: 1.693 GiB, 84.97% gc time)
+Optimizing for iteration 4
+947.930671 seconds (132 allocations: 53.410 MiB, 2.48% gc time)
+OPTIMAL
+1.8883952551473965e10
+ϵ =  0.004227917868294392
+READING COST DATA FOR ITERATION 5
+178.351942 seconds (54.78 M allocations: 6.128 GiB, 86.88% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+108.585715 seconds (42.48 M allocations: 7.273 GiB, 94.24% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 62.295179 seconds (46.29 M allocations: 1.693 GiB, 85.87% gc time)
+Optimizing for iteration 5
+1001.950900 seconds (132 allocations: 53.468 MiB, 2.33% gc time)
+OPTIMAL
+1.8776332744550003e10
+ϵ =  0.005731673399058845
+READING COST DATA FOR ITERATION 6
+178.402185 seconds (54.78 M allocations: 6.128 GiB, 86.85% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+108.482663 seconds (42.48 M allocations: 7.273 GiB, 94.34% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 62.360096 seconds (46.29 M allocations: 1.693 GiB, 86.01% gc time)
+Optimizing for iteration 6
+525.404679 seconds (132 allocations: 53.525 MiB, 4.46% gc time)
+OPTIMAL
+1.8726017091280193e10
+ϵ =  0.002686938339563494
+READING COST DATA FOR ITERATION 7
+180.273663 seconds (54.78 M allocations: 7.018 GiB, 86.07% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+108.074597 seconds (42.48 M allocations: 7.273 GiB, 94.36% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 33.681046 seconds (46.29 M allocations: 1.720 GiB, 75.66% gc time)
+Optimizing for iteration 7
+1058.706740 seconds (132 allocations: 53.582 MiB)
+OPTIMAL
+1.869748407141e10
+ϵ =  0.0015260352548595755
+READING COST DATA FOR ITERATION 8
+178.984836 seconds (54.78 M allocations: 6.128 GiB, 86.99% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+108.901769 seconds (42.48 M allocations: 7.273 GiB, 94.37% gc time)
+BUILDING OBJECTIVE FUNCTION
+ 62.704460 seconds (46.29 M allocations: 1.693 GiB, 86.22% gc time)
+Optimizing for iteration 8
+584.392440 seconds (132 allocations: 53.639 MiB, 4.03% gc time)
+OPTIMAL
+1.868832230584667e10
+ϵ =  0.0004902401303551746
+ITERATIONS COMPLETED
+WRITING RESULTS TO FILE
+ 83.109856 seconds (73.73 M allocations: 2.896 GiB, 85.91% gc time)
+
+THE OPTIMIZATION PROBLEM TOOK 715.26 MINUTES TO SOLVE. 

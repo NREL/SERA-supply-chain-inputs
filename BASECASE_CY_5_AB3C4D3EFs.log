@@ -1,0 +1,160 @@
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+    Updating registry at `~/.julia/registries/General.toml`
+   Resolving package versions...
+┌ Warning: The active manifest file at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml` has an old format that is being maintained.
+│ To update to the new format run `Pkg.upgrade_manifest()` which will upgrade the format without re-resolving.
+└ @ Pkg.Types /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.7/Pkg/src/manifest.jl:287
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Project.toml`
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml`
+┌ Warning: The active manifest file is an older format with no julia version entry. Dependencies may have been resolved with a different julia version.
+└ @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml:0
+    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/82a7cf7687750538acaa30ee92d5d9cf1b6e6f15/build.log`
+  Activating project at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl`
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+[ Info: Rolling step not specified in scenaio.yaml file; Setting it to 5 years
+[ Info: Number of iterations not specified in scenaio.yaml file; Setting it to 10
+[ Info: Production capacity constraints file not specified in scenaio.yaml file; SERA will not create these constraints
+[ Info: Annualization boolean not specified in scenaio.yaml file; SERA will turn off annualization of capital costs
+ERROR: LoadError: Result index of attribute MathOptInterface.VariablePrimal(1) out of bounds. There are currently 0 solution(s) in the model.
+Stacktrace:
+  [1] check_result_index_bounds
+    @ ~/.julia/packages/MathOptInterface/YDdD3/src/attributes.jl:139 [inlined]
+  [2] get(model::Xpress.Optimizer, attr::MathOptInterface.VariablePrimal, x::MathOptInterface.VariableIndex)
+    @ Xpress ~/.julia/packages/Xpress/lW6ma/src/MOI/MOI_wrapper.jl:2831
+  [3] get(b::MathOptInterface.Bridges.LazyBridgeOptimizer{Xpress.Optimizer}, attr::MathOptInterface.VariablePrimal, index::MathOptInterface.VariableIndex)
+    @ MathOptInterface.Bridges ~/.julia/packages/MathOptInterface/YDdD3/src/Bridges/bridge_optimizer.jl:1039
+  [4] get(model::MathOptInterface.Utilities.CachingOptimizer{MathOptInterface.AbstractOptimizer, MathOptInterface.Utilities.UniversalFallback{MathOptInterface.Utilities.GenericModel{Float64, MathOptInterface.Utilities.ModelFunctionConstraints{Float64}}}}, attr::MathOptInterface.VariablePrimal, index::MathOptInterface.VariableIndex)
+    @ MathOptInterface.Utilities ~/.julia/packages/MathOptInterface/YDdD3/src/Utilities/cachingoptimizer.jl:757
+  [5] _moi_get_result(::MathOptInterface.Utilities.CachingOptimizer{MathOptInterface.AbstractOptimizer, MathOptInterface.Utilities.UniversalFallback{MathOptInterface.Utilities.GenericModel{Float64, MathOptInterface.Utilities.ModelFunctionConstraints{Float64}}}}, ::MathOptInterface.VariablePrimal, ::Vararg{Any})
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/JuMP.jl:1199
+  [6] get(model::JuMP.Model, attr::MathOptInterface.VariablePrimal, v::JuMP.VariableRef)
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/JuMP.jl:1232
+  [7] value(v::JuMP.VariableRef; result::Int64)
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/variables.jl:943
+  [8] #40
+    @ ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:494 [inlined]
+  [9] value(ex::JuMP.AffExpr, var_value::JuMP.var"#40#41"{Int64})
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:280
+ [10] #value#39
+    @ ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:494 [inlined]
+ [11] value(a::JuMP.AffExpr)
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:494
+ [12] makeModel_new(network::Network, processlibrary::ProcessLibrary, demands::Dict{DemandKey, Dict{String, Float64}}, prices::Dict{PriceKey, Dict{Float64, PriceData}}, usage::Dict{PriceKey, Float64}, periods::Dict{String, Float64}, niter::Int64, discount_rate::Float64, rolling_window::Int64, rolling_step::Int64, start_year::Int64, last_year::Int64; build_new_production::Bool, storage_available::Bool, clean_production_constraints::Vector{CleanProductionConstraint}, production_capacity_constraints::Vector{ProductionCapacityConstraint}, storage_capacity_constraints::Dict{Int64, Float64}, utilization_constraints::Dict{String, Float64}, maximum_capacity_constraints::Dict{String, Float64}, optimization_log::Bool, annualization::Bool)
+    @ SERA.Supply.Optimize_new /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/Supply/Optimize_new.jl:1410
+ [13] top-level scope
+    @ ./timing.jl:380 [inlined]
+ [14] top-level scope
+    @ ~/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB3C4D3EFs/run_case.jl:0
+in expression starting at /home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB3C4D3EFs/run_case.jl:135
+SERA directory not specified in input arguments, setting to default directory
+STARTING DATA PRE-PROCESSING 
+Processing Temporal Data
+Processing Nodes
+Processing Demand
+Processing Existings
+Processing Links
+Processing Pathways
+Creating Infrastructure options
+  6.108289 seconds (22.96 M allocations: 2.169 GiB, 14.19% gc time, 4.86% compilation time)
+
+OPTIMIZING FROM 2026 TO 2030 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+ 14.806974 seconds (68.12 M allocations: 3.942 GiB, 21.54% gc time, 52.65% compilation time)
+POPULATING EXPRESSIONS
+ 10.494992 seconds (20.13 M allocations: 2.208 GiB, 14.27% gc time, 2.28% compilation time)
+CREATING CONSTRAINTS
+  6.662472 seconds (34.31 M allocations: 1.751 GiB, 10.33% gc time, 23.11% compilation time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+ 12.427383 seconds (31.25 M allocations: 2.342 GiB, 6.52% gc time, 7.25% compilation time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+  3.794291 seconds (19.88 M allocations: 1.276 GiB, 14.64% gc time, 60.68% compilation time)
+BUILDING OBJECTIVE FUNCTION
+  3.291149 seconds (11.43 M allocations: 447.510 MiB, 12.65% gc time, 47.18% compilation time)
+Optimizing for iteration 1
+ 62.480471 seconds (59.53 M allocations: 2.870 GiB, 1.97% gc time, 13.52% compilation time)
+OPTIMAL
+4.681036334598404e9
+ϵ =  1.0
+READING COST DATA FOR ITERATION 2
+ 11.249566 seconds (26.89 M allocations: 2.220 GiB, 6.79% gc time, 0.17% compilation time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+  1.564596 seconds (16.60 M allocations: 1.097 GiB, 23.81% gc time, 0.89% compilation time)
+BUILDING OBJECTIVE FUNCTION
+  1.427277 seconds (10.85 M allocations: 365.719 MiB)
+Optimizing for iteration 2
+ 18.707386 seconds (132 allocations: 8.353 MiB)
+OPTIMAL
+7.40673935526787e9
+ϵ =  0.36800309689997607
+READING COST DATA FOR ITERATION 3
+ 10.949660 seconds (26.86 M allocations: 2.215 GiB, 4.98% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+  1.530802 seconds (16.60 M allocations: 1.097 GiB, 21.77% gc time)
+BUILDING OBJECTIVE FUNCTION
+  1.947006 seconds (10.85 M allocations: 365.719 MiB, 25.82% gc time)
+Optimizing for iteration 3
+ 22.277534 seconds (132 allocations: 8.353 MiB)
+OPTIMAL
+7.216414274063564e9
+ϵ =  0.026373912857021398
+READING COST DATA FOR ITERATION 4
+ 11.131500 seconds (26.85 M allocations: 2.191 GiB, 6.48% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+  1.626721 seconds (16.60 M allocations: 1.097 GiB, 28.02% gc time)
+BUILDING OBJECTIVE FUNCTION
+  1.432444 seconds (10.85 M allocations: 365.719 MiB)
+Optimizing for iteration 4
+ 34.812007 seconds (132 allocations: 8.353 MiB)
+OPTIMAL
+7.277329433339848e9
+ϵ =  0.008370537548737657
+READING COST DATA FOR ITERATION 5
+ 13.738188 seconds (26.85 M allocations: 2.191 GiB, 24.00% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+  1.546405 seconds (16.60 M allocations: 1.097 GiB, 25.33% gc time)
+BUILDING OBJECTIVE FUNCTION
+  1.431728 seconds (10.85 M allocations: 365.719 MiB)
+Optimizing for iteration 5
+ 36.001701 seconds (132 allocations: 8.353 MiB)
+OPTIMAL
+7.237334907298231e9
+ϵ =  0.005526140016168051
+READING COST DATA FOR ITERATION 6
+ 11.028653 seconds (26.85 M allocations: 2.191 GiB, 5.57% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+  1.581954 seconds (16.60 M allocations: 1.097 GiB, 24.64% gc time)
+BUILDING OBJECTIVE FUNCTION
+  1.450160 seconds (10.85 M allocations: 365.719 MiB)
+Optimizing for iteration 6
+ 40.322209 seconds (132 allocations: 8.353 MiB)
+OPTIMAL
+7.237478288736548e9
+ϵ =  1.981096627674147e-5
+ITERATIONS COMPLETED
+WRITING RESULTS TO FILE
+  2.534038 seconds (13.04 M allocations: 610.272 MiB, 50.74% compilation time)
+
+OPTIMIZING FROM 2031 TO 2035 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+  7.133927 seconds (54.04 M allocations: 3.172 GiB, 41.47% gc time)
+POPULATING EXPRESSIONS
+  9.837613 seconds (19.80 M allocations: 2.190 GiB, 11.19% gc time)
+CREATING CONSTRAINTS
+  4.750187 seconds (31.78 M allocations: 1.610 GiB, 7.86% gc time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+ 11.485336 seconds (26.75 M allocations: 2.270 GiB, 8.06% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+  1.785606 seconds (16.60 M allocations: 1.097 GiB, 31.71% gc time)
+BUILDING OBJECTIVE FUNCTION
+  1.331313 seconds (9.16 M allocations: 323.566 MiB)
+Optimizing for iteration 1
+ 18.193889 seconds (38.93 M allocations: 1.764 GiB, 73.21% gc time)
+INFEASIBLE
