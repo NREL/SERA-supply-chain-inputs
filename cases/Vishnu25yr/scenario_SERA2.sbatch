@@ -3,7 +3,9 @@
 #SBATCH --job-name=Vishnu25yr
 #SBATCH --time=0-25:00:00
 #SBATCH -A sera
-#SBATCH -o Vishnu25yr.log
+#SBATCH --chdir=/home/ccyang/SERA-supply-chain-inputs/cases/Vishnu25yr
+#SBATCH --output=Vishnu25yr.out 
+#SBATCH --error=Vishnu25yr.err
 #SBATCH --mail-user=ccyang@ucdavis.edu
 #SBATCH --mail-type=ALL
 module purge

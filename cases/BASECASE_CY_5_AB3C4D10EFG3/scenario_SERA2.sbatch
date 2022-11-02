@@ -1,10 +1,11 @@
 #!/bin/bash
 
 #SBATCH --job-name=CY_5_AB3C4D10EFG3
-#SBATCH --time=0-45:00:00
+#SBATCH --time=0-00:25:00
 #SBATCH -A sera
 #SBATCH --chdir=/home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB3C4D10EFG3
 #SBATCH --output=BASECASE_CY_5_AB3C4D10EFG3.out
+#SBATCH --error=BASECASE_CY_5_AB3C4D10EFG3.err
 #SBATCH --mail-user=ccyang@ucdavis.edu
 #SBATCH --mail-type=ALL
 module purge
