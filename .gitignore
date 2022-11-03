@@ -8,7 +8,6 @@ tmp/
 .~*
 local.sh
 *~
-*.e*
 .Rhistory
 Thumbs.db
 .Rproj.user
