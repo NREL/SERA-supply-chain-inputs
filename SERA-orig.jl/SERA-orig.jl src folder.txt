@@ -1,0 +1,10 @@
+SERA-orig.jl src folder
+
+This is the SERA source code that was on eagle at 
+/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src
+It didn't match the code on https://github.com/NREL/carbon-neutral-california/src
+
+I copied the lustre src folder and called it "src_orig" so I can modify the contents of src
+just the Optimize_new.jl file is changing because it includes Gurobi parameters
+
+
