@@ -1,0 +1,97 @@
+ERROR: LoadError: UndefVarError: SolverVersion not defined
+Stacktrace:
+  [1] getproperty(x::Module, f::Symbol)
+    @ Base ./Base.jl:35
+  [2] top-level scope
+    @ ~/.julia/packages/Gurobi/VPomg/src/MOI_wrapper/MOI_wrapper.jl:538
+  [3] include(mod::Module, _path::String)
+    @ Base ./Base.jl:418
+  [4] include(x::String)
+    @ Gurobi ~/.julia/packages/Gurobi/VPomg/src/Gurobi.jl:7
+  [5] top-level scope
+    @ ~/.julia/packages/Gurobi/VPomg/src/Gurobi.jl:82
+  [6] include
+    @ ./Base.jl:418 [inlined]
+  [7] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
+    @ Base ./loading.jl:1318
+  [8] top-level scope
+    @ none:1
+  [9] eval
+    @ ./boot.jl:373 [inlined]
+ [10] eval(x::Expr)
+    @ Base.MainInclude ./client.jl:453
+ [11] top-level scope
+    @ none:1
+in expression starting at /home/ccyang/.julia/packages/Gurobi/VPomg/src/MOI_wrapper/MOI_wrapper.jl:538
+in expression starting at /home/ccyang/.julia/packages/Gurobi/VPomg/src/Gurobi.jl:7
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+ERROR: LoadError: Failed to precompile Gurobi [2e9cd046-0924-5485-92f1-d5272153d98b] to /home/ccyang/.julia/compiled/v1.7/Gurobi/jl_towDqm.
+Stacktrace:
+  [1] error(s::String)
+    @ Base ./error.jl:33
+  [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, ignore_loaded_modules::Bool)
+    @ Base ./loading.jl:1466
+  [3] compilecache(pkg::Base.PkgId, path::String)
+    @ Base ./loading.jl:1410
+  [4] _require(pkg::Base.PkgId)
+    @ Base ./loading.jl:1120
+  [5] require(uuidkey::Base.PkgId)
+    @ Base ./loading.jl:1013
+  [6] require(into::Module, mod::Symbol)
+    @ Base ./loading.jl:997
+  [7] include(mod::Module, _path::String)
+    @ Base ./Base.jl:418
+  [8] include(x::String)
+    @ SERA.Supply /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/Supply/Supply.jl:4
+  [9] top-level scope
+    @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/Supply/Supply.jl:10
+ [10] include(mod::Module, _path::String)
+    @ Base ./Base.jl:418
+ [11] include(x::String)
+    @ SERA /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/SERA.jl:4
+ [12] top-level scope
+    @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/SERA.jl:7
+ [13] include
+    @ ./Base.jl:418 [inlined]
+ [14] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
+    @ Base ./loading.jl:1318
+ [15] top-level scope
+    @ none:1
+ [16] eval
+    @ ./boot.jl:373 [inlined]
+ [17] eval(x::Expr)
+    @ Base.MainInclude ./client.jl:453
+ [18] top-level scope
+    @ none:1
+in expression starting at /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/Supply/Optimize_new.jl:1
+in expression starting at /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/Supply/Supply.jl:1
+in expression starting at /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/SERA.jl:1
+    Updating registry at `~/.julia/registries/General.toml`
+   Resolving package versions...
+  No Changes to `~/.julia/environments/v1.7/Project.toml`
+  No Changes to `~/.julia/environments/v1.7/Manifest.toml`
+    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/5478c650a9aeac6cb02c45802398de02502fee42/build.log`
+   Resolving package versions...
+  No Changes to `~/.julia/environments/v1.7/Project.toml`
+  No Changes to `~/.julia/environments/v1.7/Manifest.toml`
+    Building Gurobi → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/87c018cbd2fd33e6d2462d486abee53a27c91c91/build.log`
+Precompiling project...
+[32m  ✓ [39mGurobi
+  1 dependency successfully precompiled in 4 seconds (37 already precompiled, 1 skipped during auto due to previous errors)
+  Activating project at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl`
+ERROR: LoadError: Failed to precompile SERA [top-level] to /home/ccyang/.julia/compiled/v1.7/jl_SOfRzN.
+Stacktrace:
+ [1] error(s::String)
+   @ Base ./error.jl:33
+ [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, ignore_loaded_modules::Bool)
+   @ Base ./loading.jl:1466
+ [3] compilecache(pkg::Base.PkgId, path::String)
+   @ Base ./loading.jl:1410
+ [4] _require(pkg::Base.PkgId)
+   @ Base ./loading.jl:1120
+ [5] require(uuidkey::Base.PkgId)
+   @ Base ./loading.jl:1013
+ [6] require(into::Module, mod::Symbol)
+   @ Base ./loading.jl:997
+in expression starting at /home/ccyang/SERA-supply-chain-inputs/cases/NS1_Vishnu10yr/run_case.jl:31
