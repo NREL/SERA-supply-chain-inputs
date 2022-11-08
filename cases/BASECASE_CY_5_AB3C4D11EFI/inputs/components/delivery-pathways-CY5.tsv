@@ -14,5 +14,5 @@ PipelineNodalStorage	4	GH2 Pipeline (transmission)	0.999	TRUE	TRUE	FALSE	GH2
 PipelineNodalStorage	5	GH2 Pipeline Station (700bar)	1	FALSE	FALSE	FALSE	GH2
 PipetoGH2truckstation	1	GH2 Pipeline Compressor	1	FALSE	TRUE	FALSE	GH2
 PipetoGH2truckstation	2	GH2 Pipeline (transmission)	0.999	TRUE	TRUE	FALSE	GH2
-PipetoGH2truckstation	3	GH2_Pipeline_Truck_Station_Conv	1	TRUE	TRUE	FALSE	GH2
+PipetoGH2truckstation	3	GH2_Pipeline_Truck_Station_Conv	1	FALSE	TRUE	FALSE	GH2
 PipetoGH2truckstation	4	GH2 Truck Station (700bar)	1	FALSE	FALSE	FALSE	GH2
