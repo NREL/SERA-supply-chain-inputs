@@ -1,7 +1,7 @@
 # Set up the case to run.
 using Pkg;
-#Pkg.add("Xpress")
-#Pkg.build("Xpress")
+Pkg.add("Xpress")
+Pkg.build("Xpress")
 Pkg.add("Gurobi")
 Pkg.build("Gurobi")
 
