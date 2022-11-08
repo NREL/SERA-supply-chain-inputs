@@ -3,6 +3,7 @@
 #SBATCH --job-name=CY_5_AB3C4D11EFI
 #SBATCH --time=0-30:00:00
 #SBATCH -A sera
+#SBATCH --chdir=/home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB3C4D11EFI
 #SBATCH --output=BASECASE_CY_5_AB3C4D11EFI.out 
 #SBATCH --error=BASECASE_CY_5_AB3C4D11EFI.err
 #SBATCH --mail-user=ccyang@ucdavis.edu
