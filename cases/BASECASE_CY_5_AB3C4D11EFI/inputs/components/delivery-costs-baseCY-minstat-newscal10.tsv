@@ -1,6 +1,10 @@
 Technology	Year	Nameplate Capacity [kg/yr]	Production?	Lifetime [yr]	Scaling Exponent	Capital Cost [$]	Capital Cost [$/km]	Fixed Operating Cost [fraction of CapCost/y]	Fixed Operating Cost [$/km/yr]	Variable Operating Cost [$/kg]	Variable Operating Cost [$/km/kg]	Maximum Utilization [kg/kg]	Storage Technology	Storage [kg]
-GH2_Pipeline_Truck_Station_Conv	2015	365000	No	50	0	300000	0	0.1	0	0	0	0	No Storage	0.00E+00
-GH2_Pipeline_Truck_Station_Conv	2015	2774000	No	50	1	500000	0	0.1	0	0	0	0	No Storage	0.00E+00
+GH2_Pipeline_Truck_Station_Conv	2015	5	No	50	0	100000	0	0.1	0	0	0	0	No Storage	0.00E+00
+GH2_Pipeline_Truck_Station_Conv	2015	54700	No	50	0	100000	0	0.1	0	0	0	0	No Storage	0.00E+00
+GH2_Pipeline_Truck_Station_Conv	2015	54750	No	50	0	100000	0	0.1	0	0	0	0	No Storage	0.00E+00
+GH2_Pipeline_Truck_Station_Conv	2015	182500	No	50	0	200000	0	0.1	0	0	0	0	No Storage	0.00E+00
+GH2_Pipeline_Truck_Station_Conv	2015	365000	No	50	0	350000	0	0.1	0	0	0	0	No Storage	0.00E+00
+GH2_Pipeline_Truck_Station_Conv	2015	547500	No	50	1	500000	0	0.1	0	0	0	0	No Storage	0.00E+00
 GH2 Pipeline (distribution)	2015	365000	No	50	0.385580728	0	2032005.328	0.02872796	0	0	0	1	No Storage	0.00E+00
 GH2 Pipeline (distribution)	2015	547500	No	50	0.395029888	0	2375867.617	0.02872796	0	0	0	1	No Storage	0.00E+00
 GH2 Pipeline (distribution)	2015	821250	No	50	0.401366296	0	2788582.827	0.02872796	0	0	0	1	No Storage	0.00E+00
