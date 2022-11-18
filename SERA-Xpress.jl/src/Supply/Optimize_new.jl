@@ -12,7 +12,7 @@ using JuMP
 using GLPK
 using Ipopt
 using Xpress
-using Gurobi
+# using Gurobi
 using AxisArrays
 
 import MathOptInterface
@@ -133,7 +133,7 @@ function makeModel_new(network::Network,
                        )
 
     ϵ_max = 0.001
-    min_pipeline_distance = 20
+    min_pipeline_distance = 0
 
     @assert rolling_step <= rolling_window
 
