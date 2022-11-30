@@ -1,9 +1,10 @@
 # Set up the case to run.
 using Pkg;
-Pkg.add("Xpress")
-Pkg.build("Xpress")
-Pkg.add("Gurobi")
-Pkg.build("Gurobi")
+Pkg.instantiate()
+#Pkg.add("Xpress")
+#Pkg.build("Xpress")
+#Pkg.add("Gurobi")
+#Pkg.build("Gurobi")
 
 #Specify path of SERA directory
 

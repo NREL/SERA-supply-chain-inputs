@@ -1,0 +1,26 @@
+SERA directory not specified in input arguments, setting to default directory
+STARTING DATA PRE-PROCESSING 
+Processing Temporal Data
+Processing Nodes
+Processing Demand
+Processing Existings
+Processing Links
+Processing Pathways
+Creating Infrastructure options
+ 67.546485 seconds (250.63 M allocations: 25.651 GiB, 23.03% gc time, 0.55% compilation time)
+
+OPTIMIZING FROM 2026 TO 2030 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+276.337716 seconds (353.57 M allocations: 21.289 GiB, 86.14% gc time, 6.25% compilation time)
+POPULATING EXPRESSIONS
+ 28.750651 seconds (75.10 M allocations: 10.025 GiB, 15.60% gc time, 0.86% compilation time)
+CREATING CONSTRAINTS
+139.953228 seconds (182.36 M allocations: 9.321 GiB, 80.25% gc time, 1.13% compilation time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+ 62.112032 seconds (67.40 M allocations: 5.979 GiB, 65.50% gc time, 1.46% compilation time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+ 87.595693 seconds (44.88 M allocations: 3.000 GiB, 93.78% gc time, 3.34% compilation time)
+BUILDING OBJECTIVE FUNCTION

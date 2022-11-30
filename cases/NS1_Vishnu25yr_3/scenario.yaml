@@ -1,4 +1,4 @@
-firstYear         : 2026  # Units: yr
+frstYear         : 2026  # Units: yr
 lastYear          : 2050  # Units: yr
 timeWindow        :   25  # Units: yr
 #rollingStep       :    3  # Units: yr    # 

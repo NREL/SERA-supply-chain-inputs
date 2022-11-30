@@ -1,0 +1,55 @@
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+ERROR: LoadError: ArgumentError: Package PiecewiseLinearOpt [0f51c51e-adfa-5141-8a04-d40246b8977c] is required but does not seem to be installed:
+ - Run `Pkg.instantiate()` to install all recorded dependencies.
+
+Stacktrace:
+  [1] _require(pkg::Base.PkgId)
+    @ Base ./loading.jl:1089
+  [2] require(uuidkey::Base.PkgId)
+    @ Base ./loading.jl:1013
+  [3] require(into::Module, mod::Symbol)
+    @ Base ./loading.jl:997
+  [4] include(mod::Module, _path::String)
+    @ Base ./Base.jl:418
+  [5] include(x::String)
+    @ SERA.Supply /lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california/src/Supply/Supply.jl:4
+  [6] top-level scope
+    @ /lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california/src/Supply/Supply.jl:11
+  [7] include(mod::Module, _path::String)
+    @ Base ./Base.jl:418
+  [8] include(x::String)
+    @ SERA /lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california/src/SERA.jl:4
+  [9] top-level scope
+    @ /lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california/src/SERA.jl:7
+ [10] include
+    @ ./Base.jl:418 [inlined]
+ [11] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
+    @ Base ./loading.jl:1318
+ [12] top-level scope
+    @ none:1
+ [13] eval
+    @ ./boot.jl:373 [inlined]
+ [14] eval(x::Expr)
+    @ Base.MainInclude ./client.jl:453
+ [15] top-level scope
+    @ none:1
+in expression starting at /lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california/src/Supply/Optimize_pwl.jl:1
+in expression starting at /lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california/src/Supply/Supply.jl:1
+in expression starting at /lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california/src/SERA.jl:1
+  Activating project at `/lustre/eaglefs/projects/mbap/sera/vvijayak/carbon-neutral-california`
+ERROR: LoadError: Failed to precompile SERA [top-level] to /home/ccyang/.julia/compiled/v1.7/jl_RKbPe8.
+Stacktrace:
+ [1] error(s::String)
+   @ Base ./error.jl:33
+ [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, ignore_loaded_modules::Bool)
+   @ Base ./loading.jl:1466
+ [3] compilecache(pkg::Base.PkgId, path::String)
+   @ Base ./loading.jl:1410
+ [4] _require(pkg::Base.PkgId)
+   @ Base ./loading.jl:1120
+ [5] require(uuidkey::Base.PkgId)
+   @ Base ./loading.jl:1013
+ [6] require(into::Module, mod::Symbol)
+   @ Base ./loading.jl:997
+in expression starting at /home/ccyang/SERA-supply-chain-inputs/cases/NS1_Vishnu25yr_3/run_case.jl:32

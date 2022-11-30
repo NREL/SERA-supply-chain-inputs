@@ -1,0 +1,70 @@
+    Updating registry at `~/.julia/registries/General.toml`
+   Resolving package versions...
+┌ Warning: The active manifest file at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml` has an old format that is being maintained.
+│ To update to the new format run `Pkg.upgrade_manifest()` which will upgrade the format without re-resolving.
+└ @ Pkg.Types /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.7/Pkg/src/manifest.jl:287
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Project.toml`
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml`
+┌ Warning: The active manifest file is an older format with no julia version entry. Dependencies may have been resolved with a different julia version.
+└ @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml:0
+    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/82a7cf7687750538acaa30ee92d5d9cf1b6e6f15/build.log`
+ERROR: LoadError: Error building `Xpress`: 
+ERROR: LoadError: IOError: unlink("/home/ccyang/.julia/packages/Xpress/lW6ma/deps/deps.jl"): no such file or directory (ENOENT)
+Stacktrace:
+ [1] uv_error
+   @ ./libuv.jl:97 [inlined]
+ [2] unlink(p::String)
+   @ Base.Filesystem ./file.jl:958
+ [3] rm(path::String; force::Bool, recursive::Bool)
+   @ Base.Filesystem ./file.jl:276
+ [4] rm(path::String)
+   @ Base.Filesystem ./file.jl:267
+ [5] top-level scope
+   @ ~/.julia/packages/Xpress/lW6ma/deps/build.jl:6
+ [6] include(fname::String)
+   @ Base.MainInclude ./client.jl:451
+ [7] top-level scope
+   @ none:5
+in expression starting at /home/ccyang/.julia/packages/Xpress/lW6ma/deps/build.jl:5
+Stacktrace:
+  [1] pkgerror(msg::String)
+    @ Pkg.Types ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Types.jl:68
+  [2] (::Pkg.Operations.var"#62#67"{Bool, Pkg.Types.Context, String, Pkg.Types.PackageSpec})()
+    @ Pkg.Operations ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Operations.jl:962
+  [3] withenv(::Pkg.Operations.var"#62#67"{Bool, Pkg.Types.Context, String, Pkg.Types.PackageSpec}, ::Pair{String, String}, ::Vararg{Pair{String}})
+    @ Base ./env.jl:172
+  [4] (::Pkg.Operations.var"#99#103"{String, Bool, Bool, Bool, Pkg.Operations.var"#62#67"{Bool, Pkg.Types.Context, String, Pkg.Types.PackageSpec}, Pkg.Types.PackageSpec})()
+    @ Pkg.Operations ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Operations.jl:1506
+  [5] with_temp_env(fn::Pkg.Operations.var"#99#103"{String, Bool, Bool, Bool, Pkg.Operations.var"#62#67"{Bool, Pkg.Types.Context, String, Pkg.Types.PackageSpec}, Pkg.Types.PackageSpec}, temp_env::String)
+    @ Pkg.Operations ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Operations.jl:1390
+  [6] (::Pkg.Operations.var"#98#102"{Bool, Bool, Bool, Pkg.Operations.var"#62#67"{Bool, Pkg.Types.Context, String, Pkg.Types.PackageSpec}, Pkg.Types.Context, Pkg.Types.PackageSpec, String, Pkg.Types.Project, String})(tmp::String)
+    @ Pkg.Operations ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Operations.jl:1469
+  [7] mktempdir(fn::Pkg.Operations.var"#98#102"{Bool, Bool, Bool, Pkg.Operations.var"#62#67"{Bool, Pkg.Types.Context, String, Pkg.Types.PackageSpec}, Pkg.Types.Context, Pkg.Types.PackageSpec, String, Pkg.Types.Project, String}, parent::String; prefix::String)
+    @ Base.Filesystem ./file.jl:750
+  [8] mktempdir(fn::Function, parent::String) (repeats 2 times)
+    @ Base.Filesystem ./file.jl:748
+  [9] sandbox(fn::Function, ctx::Pkg.Types.Context, target::Pkg.Types.PackageSpec, target_path::String, sandbox_path::String, sandbox_project_override::Pkg.Types.Project; force_latest_compatible_version::Bool, allow_earlier_backwards_compatible_versions::Bool, allow_reresolve::Bool)
+    @ Pkg.Operations ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Operations.jl:1435
+ [10] sandbox(fn::Function, ctx::Pkg.Types.Context, target::Pkg.Types.PackageSpec, target_path::String, sandbox_path::String, sandbox_project_override::Pkg.Types.Project)
+    @ Pkg.Operations ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Operations.jl:1432
+ [11] build_versions(ctx::Pkg.Types.Context, uuids::Set{Base.UUID}; verbose::Bool)
+    @ Pkg.Operations ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Operations.jl:943
+ [12] build(ctx::Pkg.Types.Context, uuids::Set{Base.UUID}, verbose::Bool)
+    @ Pkg.Operations ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/Operations.jl:822
+ [13] build(ctx::Pkg.Types.Context, pkgs::Vector{Pkg.Types.PackageSpec}; verbose::Bool, kwargs::Base.Pairs{Symbol, IOStream, Tuple{Symbol}, NamedTuple{(:io,), Tuple{IOStream}}})
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:992
+ [14] build(pkgs::Vector{Pkg.Types.PackageSpec}; io::IOStream, kwargs::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:149
+ [15] build(pkgs::Vector{Pkg.Types.PackageSpec})
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:144
+ [16] #build#99
+    @ ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:142 [inlined]
+ [17] build
+    @ ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:142 [inlined]
+ [18] #build#98
+    @ ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:141 [inlined]
+ [19] build(pkg::String)
+    @ Pkg.API ~/julia_software/julia-1.7.3/share/julia/stdlib/v1.7/Pkg/src/API.jl:141
+ [20] top-level scope
+    @ ~/SERA-supply-chain-inputs/cases/BASECASE_CY_20_AB3C4D11EF/run_case.jl:4
+in expression starting at /home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_20_AB3C4D11EF/run_case.jl:4

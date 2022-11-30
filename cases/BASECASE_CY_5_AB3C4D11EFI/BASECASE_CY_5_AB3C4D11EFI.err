@@ -1,0 +1,42 @@
+    Updating registry at `~/.julia/registries/General.toml`
+   Resolving package versions...
+  No Changes to `~/.julia/environments/v1.7/Project.toml`
+  No Changes to `~/.julia/environments/v1.7/Manifest.toml`
+    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/5478c650a9aeac6cb02c45802398de02502fee42/build.log`
+  Activating project at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl`
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+[ Info: Rolling step not specified in scenaio.yaml file; Setting it to 5 years
+[ Info: Number of iterations not specified in scenaio.yaml file; Setting it to 10
+[ Info: Production capacity constraints file not specified in scenaio.yaml file; SERA will not create these constraints
+[ Info: Utilization constraints file not specified in scenaio.yaml file; SERA will not create these constraints
+[ Info: Annualization boolean not specified in scenaio.yaml file; SERA will turn off annualization of capital costs
+ERROR: LoadError: Invalid coefficient NaN on variable pathway_unextended_cap[TAZ_5634,PipetoGH2truckstation,3,2026].
+Stacktrace:
+  [1] error(s::String)
+    @ Base ./error.jl:33
+  [2] _assert_isfinite(a::JuMP.AffExpr)
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:473
+  [3] MathOptInterface.ScalarAffineFunction(a::JuMP.AffExpr)
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:507
+  [4] moi_function
+    @ ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:550 [inlined]
+  [5] set_objective_function
+    @ ~/.julia/packages/JuMP/klrjG/src/objective.jl:113 [inlined]
+  [6] set_objective
+    @ ~/.julia/packages/JuMP/klrjG/src/objective.jl:156 [inlined]
+  [7] macro expansion
+    @ ~/.julia/packages/JuMP/klrjG/src/macros.jl:1261 [inlined]
+  [8] create_objective_function(annualization::Bool, i::Int64, model::JuMP.Model, new_production_cap::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 3, Tuple{String, String, Int64}}, pathway_unextended_cap::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 4, Tuple{String, String, Int64, Int64}}, pathway_storage_cap::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 4, Tuple{String, String, Int64, Int64}}, pathway_extended_cap::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 5, Tuple{String, String, String, Int64, Int64}}, new_production::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 4, Tuple{String, String, Int64, Tuple{Int64, String}}}, existing_production::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 3, Tuple{String, String, Tuple{Int64, String}}}, pathway_stage_flow::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 5, Tuple{String, String, Int64, Int64, Tuple{Int64, String}}}, pathway_stage_stor_in::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 5, Tuple{String, String, Int64, Int64, Tuple{Int64, String}}}, pathway_stage_stor_out::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 5, Tuple{String, String, Int64, Int64, Tuple{Int64, String}}}, link_flow::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 6, Tuple{String, String, String, Int64, Int64, Tuple{Int64, String}}}, node_set::Vector{String}, node_existings::Dict{String, Vector{String}}, production_nodes::Vector{String}, link_tot::Dict{Any, Any}, node_production_set::Dict{String, Vector{String}}, pathway_set::Vector{String}, pathways_unextended::Dict{String, Vector{Int64}}, pathway_storage_stages::Dict{String, Vector{Int64}}, pathways_extended::Dict{String, Vector{Int64}}, year_set::Vector{Int64}, year_period_set::Vector{Tuple{Int64, String}}, total_year_set::Vector{Int64}, npv_array::Dict{Int64, Float64}, yearly_cap_cost_production::JuMP.Containers.SparseAxisArray{JuMP.AffExpr, 4, Tuple{String, String, Int64, Int64}}, yearly_cap_cost_unextended::JuMP.Containers.SparseAxisArray{JuMP.AffExpr, 5, Tuple{String, String, Int64, Int64, Int64}}, yearly_cap_cost_storage::JuMP.Containers.SparseAxisArray{JuMP.AffExpr, 5, Tuple{String, String, Int64, Int64, Int64}}, yearly_cap_cost_extended::JuMP.Containers.SparseAxisArray{JuMP.AffExpr, 6, Tuple{String, String, String, Int64, Int64, Int64}}, yearly_fixed_cost_production::JuMP.Containers.SparseAxisArray{JuMP.AffExpr, 4, Tuple{String, String, Int64, Int64}}, yearly_fixed_cost_unextended::JuMP.Containers.SparseAxisArray{JuMP.AffExpr, 5, Tuple{String, String, Int64, Int64, Int64}}, yearly_fixed_cost_storage::JuMP.Containers.SparseAxisArray{JuMP.AffExpr, 5, Tuple{String, String, Int64, Int64, Int64}}, yearly_fixed_cost_extended::JuMP.Containers.SparseAxisArray{JuMP.AffExpr, 6, Tuple{String, String, String, Int64, Int64, Int64}}, production_data::Dict{Tuple{Int64, String, String, String}, Construction}, production_price_per_kg_of_hydrogen::Dict{Tuple{String, String, Tuple{Int64, String}}, Float64}, existings_data::Dict{Tuple{String, String, Tuple{Int64, String}}, Existing}, existings_price_per_kg_of_hydrogen::Dict{Tuple{String, String, Tuple{Int64, String}}, Float64}, pathway_unext_flow_data::Dict{Tuple{Int64, String, String, Int64, String}, Construction}, pathway_unextended_price_per_kg_of_hydrogen::Dict{Tuple{String, String, Int64, Tuple{Int64, String}}, Float64}, pathway_unext_storage_data::Dict{Tuple{Int64, String, String, Int64, String}, Construction}, storage_price_per_kg_of_hydrogen::Dict{Tuple{String, String, Int64, Tuple{Int64, String}}, Float64}, pathway_ext_link_data::Dict{Tuple{Int64, String, String, Int64, String, String}, Construction}, pathway_extended_price_per_kg_of_hydrogen::Dict{Tuple{String, String, Int64, String, Tuple{Int64, String}}, Float64})
+    @ SERA.Supply.Optimize_new /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/Supply/ObjectiveFunction.jl:52
+  [9] macro expansion
+    @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/Supply/Optimize_new.jl:1387 [inlined]
+ [10] macro expansion
+    @ ./timing.jl:220 [inlined]
+ [11] makeModel_new(network::Network, processlibrary::ProcessLibrary, demands::Dict{DemandKey, Dict{String, Float64}}, prices::Dict{PriceKey, Dict{Float64, PriceData}}, usage::Dict{PriceKey, Float64}, periods::Dict{String, Float64}, niter::Int64, discount_rate::Float64, rolling_window::Int64, rolling_step::Int64, start_year::Int64, last_year::Int64; build_new_production::Bool, storage_available::Bool, clean_production_constraints::Vector{CleanProductionConstraint}, production_capacity_constraints::Vector{ProductionCapacityConstraint}, storage_capacity_constraints::Dict{Int64, Float64}, utilization_constraints::Dict{String, Float64}, maximum_capacity_constraints::Dict{String, Float64}, optimization_log::Bool, annualization::Bool)
+    @ SERA.Supply.Optimize_new /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/src/Supply/Optimize_new.jl:1386
+ [12] top-level scope
+    @ ./timing.jl:380 [inlined]
+ [13] top-level scope
+    @ ~/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB3C4D11EFI/run_case.jl:0
+in expression starting at /home/ccyang/SERA-supply-chain-inputs/cases/BASECASE_CY_5_AB3C4D11EFI/run_case.jl:135
