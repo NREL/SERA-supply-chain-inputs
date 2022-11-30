@@ -1,0 +1,70 @@
+firstYear         : 2026  # Units: yr
+lastYear          : 2050  # Units: yr
+timeWindow        :    20  # Units: yr
+# rollingStep       :    3  # Units: yr    # 
+discountRate      : 0.08  # Units: 1/yr
+escalationRate    : 0.00  # Units: 1/yr
+interpolate       : True
+strategy          : LiteralInWindow
+storageAvailable  : True
+newProduction     : True
+optimizationLog   : True
+
+periodFiles:
+  - inputs/periods/periods.tsv
+
+priceFiles:
+  - inputs/prices/prices_elecsimple_7_9_2p_red.tsv              # new electricity prices 7 cent / kwh across all regions
+  - inputs/prices/salt-cavern-non-billable.tsv
+
+intensityFiles:
+  - inputs/intensities/intensities.tsv
+
+processLibraryFiles:
+  - costsFile      : inputs/components/production-costs_CY_2.tsv              #added new smaller size to make smaller stations uneconomic
+    inputsFile     : inputs/components/production-inputs-new-noonsiteSMR.tsv
+    outputsFile    : inputs/components/production-outputs.tsv
+  - costsFile      : inputs/components/delivery-costs-baseCY-minstat-newscal9.tsv # made 2025 pipeline stations more expensive
+  - costsFile      : inputs/components/delivery-costs-linepack-CY-linear-newscal4.tsv               # made early linepack expensive vs 2030 
+    inputsFile     : inputs/components/delivery-inputs.tsv
+    outputsFile    : inputs/components/delivery-outputs.tsv
+pathwayFiles:
+  - inputs/components/delivery-pathways-CY2.tsv           #  one GH2 truck pathways, linepack and pipelines and LH2
+
+networkFiles:
+  nodeFiles:
+    - inputs/network/nodes_onsite_1600_2tpd-newstieve.tsv           # NO ONSITE allowed
+  linkFiles:
+    - inputs/network/links50_750.tsv                           # reduced set of links with reduced TAZ options
+  existingFiles:
+    - inputs/network/existings.tsv
+  zoneFiles:
+    - inputs/network/zones_ipm-newstieve.tsv             # new stieve run based,zone name corrected
+    - inputs/network/zones_cavern-newstieve.tsv
+  territoryFiles:
+    - inputs/network/territories-newstieve.tsv
+
+demandFiles:
+  - inputs/demand/newdemandfile_consolidatedTAZ_750_50.tsv   # consolidated small TAZs to larger ones within 50 km 
+
+cleanProductionConstraintFiles:                       # 33%
+  - inputs/policies/clean_production_constraints.tsv
+
+#productionCapacityConstraintFiles:
+ # - inputs/grid_integration/production_capacity.tsv            # NOT INCLUDED
+
+storageCapacityConstraintFiles:
+  - inputs/grid_integration/storage_capacity_mod.tsv            # # NOT INCLUDED
+
+# utilizationConstraintFiles:
+#   - inputs/utilization/utilization_constraints-5percent.tsv     
+
+maximumCapacityConstraintFiles:                                          
+  - inputs/utilization/maximum_capacities_CY2.tsv        ### increased all max capacities CY 
+infrastructureFiles:
+  constructionFile : outputs/construction.tsv
+  flowFile         : outputs/flow.tsv
+  cashFile         : outputs/cash.tsv
+  impactFile       : outputs/impact.tsv
+  saleFile         : outputs/sale.tsv
+  geometryFile     : outputs/geometry.tsv
