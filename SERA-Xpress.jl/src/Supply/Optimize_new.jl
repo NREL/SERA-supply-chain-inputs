@@ -147,14 +147,14 @@ function makeModel_new(network::Network,
                                                 "OUTPUTLOG" => optimization_log,
                                                 "DEFAULTALG" => 4,
                                                 "CROSSOVER"=>0)
-    Gurobi_optimizer = optimizer_with_attributes(Gurobi.Optimizer,
-                                                "OutputFlag" => optimization_log,
-                                                "BarConvTol" => 1e-9,
-                                                "BarOrder" => 1,
-                                                "BarHomogeneous" => 1, # set to one to detect infeasibilities and unboundedness
-                                                "NumericFocus" => 3, # Set to the maximum setting to try avoiding numerical issues
-                                                "Method" => 2,   # barrier method
-                                                "Crossover" => 0)       # -1 means it chooses cross over automoatically
+    # Gurobi_optimizer = optimizer_with_attributes(Gurobi.Optimizer,
+    #                                             "OutputFlag" => optimization_log,
+    #                                             "BarConvTol" => 1e-9,
+    #                                             "BarOrder" => 1,
+    #                                             "BarHomogeneous" => 1, # set to one to detect infeasibilities and unboundedness
+    #                                             "NumericFocus" => 3, # Set to the maximum setting to try avoiding numerical issues
+    #                                             "Method" => 2,   # barrier method
+    #                                             "Crossover" => 0)       # -1 means it chooses cross over automoatically
 
     printstyled("STARTING DATA PRE-PROCESSING \n"; color = :yellow)
     #model = Model(with_optimizer(Ipopt.Optimizer, max_iter=100))

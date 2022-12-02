@@ -1,9 +1,11 @@
 #!/bin/bash
-
+#SBATCH --mem=150G
 #SBATCH --job-name=ReduceLink_CY_10_AB3C4D11EFJK
 #SBATCH --time=0-45:00:00
 #SBATCH -A sera
-#SBATCH -o ReduceLink_CY_10_AB3C4D11EFJK.log
+#SBATCH --chdir=/home/ccyang/SERA-supply-chain-inputs/cases/ReduceLink_CY_10_AB3C4D11EFJK
+#SBATCH --output=ReduceLink_CY_10_AB3C4D11EFJK.out 
+#SBATCH --error=ReduceLink_CY_10_AB3C4D11EFJK.err
 #SBATCH --mail-user=ccyang@ucdavis.edu
 #SBATCH --mail-type=ALL
 module purge
