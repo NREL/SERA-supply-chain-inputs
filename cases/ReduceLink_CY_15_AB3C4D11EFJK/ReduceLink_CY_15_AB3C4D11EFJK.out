@@ -169,3 +169,150 @@ Final objective                       : 4.988888977460670e+10
   Max primal violation      (abs/rel) : 4.714e-02 / 4.714e-02
   Max dual violation        (abs/rel) : 1.019e-10 / 1.019e-10
   Max complementarity viol. (abs/rel) : 6.873e-03 / 2.386e-17
+FICO Xpress v8.8.0, Hyper, solve started 17:22:05, Dec 2, 2022
+Heap usage: 5GB (peak 14GB, 0GB system)
+Detected container-enforced memory limit of 191752 MB
+Minimizing LP 
+Original problem has:
+  15122821 rows      9261571 cols     59492191 elements
+Presolved problem has:
+   1250852 rows      1384691 cols      4810824 elements
+Presolve finished in 23 seconds
+Heap usage: 4GB (peak 14GB, 0GB system)
+
+Coefficient range                    original                 solved        
+  Coefficients   [min,max] : [ 1.00e+00,  3.68e+04] / [ 1.00e+00,  1.00e+00]
+  RHS and bounds [min,max] : [ 1.66e+03,  5.94e+08] / [ 1.66e+03,  5.94e+08]
+  Objective      [min,max] : [ 3.81e-05,  1.37e+07] / [ 3.81e-05,  1.37e+07]
+
+Barrier cache sizes : L1=32K L2=25344K
+Using AVX support
+Cores per CPU (CORESPERCPU): 18
+Barrier starts after 24 seconds, using up to 36 threads, 36 cores
+Matrix ordering - Dense cols.:      0   NZ(L):  34625834   Flops:   5657837330
+ 
+  Its   P.inf      D.inf      U.inf      Primal obj.     Dual obj.      Compl.
+   0   1.34e+09   6.74e+05   1.54e+07   2.3875535e+17  -7.9231843e+18   2.2e+19
+   1   7.58e+08   3.60e+05   8.74e+06   2.9129937e+17  -4.6939739e+18   1.3e+19
+   2   2.78e+08   2.56e+05   3.21e+06   3.1965250e+17  -3.5002226e+18   9.8e+18
+   3   5.33e+07   4.71e+04   6.15e+05   2.7962383e+17  -8.2271949e+17   2.3e+18
+   4   8.13e+06   9.28e+03   9.37e+04   1.6556400e+17  -2.1256368e+17   6.1e+17
+   5   2.73e+06   4.42e+03   3.14e+04   9.6034119e+16  -1.1506210e+17   3.1e+17
+   6   1.76e+06   1.58e+03   2.03e+04   7.3441146e+16  -4.9838736e+16   1.6e+17
+   7   1.15e+06   1.06e+03   1.33e+04   5.3968858e+16  -3.5654011e+16   1.2e+17
+   8   2.42e+05   4.75e+02   2.80e+03   2.0918059e+16  -1.8704070e+16   5.3e+16
+   9   5.37e+04   6.17e+01   6.20e+02   8.2193319e+15  -3.9458723e+15   1.5e+16
+  10   2.28e+03   4.76e+00   2.63e+01   6.2692843e+14  -3.9942398e+14   1.3e+15
+  11   7.76e+02   1.01e+00   8.95e+00   2.9365585e+14  -1.1980710e+14   4.8e+14
+  12   5.04e+02   3.57e-01   5.81e+00   2.0756002e+14  -5.3609579e+13   2.9e+14
+  13   3.07e+02   1.14e-01   3.54e+00   1.3944015e+14  -2.5150667e+13   1.8e+14
+  14   7.05e+01   9.24e-02   8.13e-01   4.4542854e+13  -2.1431617e+13   7.9e+13
+  15   4.66e+01   7.34e-02   5.38e-01   3.2705363e+13  -1.7675857e+13   6.1e+13
+  16   1.89e+00   1.38e-02   1.46e-02   8.3622156e+12  -5.2488401e+12   1.7e+13
+  17   1.11e+00   4.12e-03   6.68e-03   5.1755479e+12  -2.0086296e+12   8.3e+12
+  18   6.35e-01   1.85e-03   3.22e-03   3.1698920e+12  -1.0492036e+12   4.7e+12
+  19   4.57e-01   5.06e-04   1.48e-03   1.8844708e+12  -3.7701720e+11   2.4e+12
+  20   3.32e+00   2.51e-04   3.45e-04   7.6365730e+11  -2.0589523e+11   1.0e+12
+  21   1.26e+00   1.38e-05   6.89e-05   3.1913182e+11  -1.2778097e+09   3.2e+11
+  22   1.13e+00   1.91e-05   1.06e-05   1.2792643e+11   2.8769331e+10   1.0e+11
+  23   3.39e-01   3.81e-06   2.00e-06   7.0156832e+10   3.5401070e+10   3.5e+10
+  24   1.43e-01   3.81e-06   8.24e-07   5.5817148e+10   3.7904400e+10   1.8e+10
+  25   1.85e-02   7.63e-06   1.11e-07   4.4664330e+10   3.8978737e+10   5.7e+09
+  26   1.18e-02   1.53e-05   2.98e-08   4.1407940e+10   3.9342230e+10   2.1e+09
+  27   7.94e-03   1.53e-05   2.98e-08   4.0846169e+10   3.9538574e+10   1.3e+09
+  28   5.00e-03   1.53e-05   2.98e-08   4.0463659e+10   3.9697337e+10   7.7e+08
+  29   3.38e-03   1.53e-05   2.98e-08   4.0099859e+10   3.9761083e+10   3.4e+08
+  30   3.07e-03   6.10e-05   2.98e-08   3.9999328e+10   3.9831850e+10   1.7e+08
+  31   2.75e-03   6.10e-05   2.98e-08   3.9954492e+10   3.9857889e+10   9.7e+07
+  32   4.99e-03   1.22e-04   2.98e-08   3.9929015e+10   3.9876325e+10   5.3e+07
+  33   8.69e-03   1.22e-04   2.98e-08   3.9914120e+10   3.9885994e+10   2.8e+07
+  34   4.59e-03   2.44e-04   2.98e-08   3.9906330e+10   3.9890109e+10   1.6e+07
+  35   7.48e-03   2.44e-04   2.98e-08   3.9900771e+10   3.9892505e+10   8.3e+06
+  36   7.41e-03   2.44e-04   2.98e-08   3.9898872e+10   3.9893623e+10   5.3e+06
+  37   7.40e-03   2.44e-04   2.98e-08   3.9897301e+10   3.9894561e+10   2.7e+06
+  38   9.12e-03   9.77e-04   2.98e-08   3.9896365e+10   3.9895118e+10   1.3e+06
+  39   1.30e-02   1.56e-02   2.98e-08   3.9895957e+10   3.9895361e+10   6.0e+05
+  40   4.79e-02   7.81e-03   2.98e-08   3.9895696e+10   3.9895499e+10   2.0e+05
+  41   2.25e-02   7.81e-03   2.98e-08   3.9895589e+10   3.9895524e+10   6.5e+04
+  42   1.97e-02   1.56e-02   2.98e-08   3.9895564e+10   3.9895533e+10   3.1e+04
+  43   1.50e-02   3.12e-02   2.98e-08   3.9895545e+10   3.9895542e+10   3.5e+03
+  44   6.67e-01   6.25e-02   2.98e-08   3.9895543e+10   3.9895542e+10   6.8e+02
+  45   5.13e-03   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   5.2e+00
+  46   6.75e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   2.0e-02
+  47   4.60e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   4.6e-03
+  48   2.11e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   2.6e-03
+  49   2.13e-02   1.25e-01   2.98e-08   3.9895542e+10   3.9895542e+10   1.4e-03
+  50   1.98e-02   1.25e-01   2.98e-08   3.9895542e+10   3.9895542e+10   1.2e-03
+  51   3.60e-02   1.25e-01   2.98e-08   3.9895542e+10   3.9895542e+10   5.8e-04
+  52   1.63e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   3.6e-04
+  53   2.12e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   2.0e-04
+  54   1.39e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   1.3e-04
+  55   9.94e-03   1.25e-01   2.98e-08   3.9895542e+10   3.9895542e+10   9.8e-05
+  56   9.55e-03   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   6.4e-05
+  57   9.31e-03   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   3.6e-05
+  58   1.37e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   1.9e-05
+  59   9.00e-03   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   1.4e-05
+  60   4.25e-03   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   9.4e-06
+  61   1.05e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   7.6e-06
+  62   9.00e-03   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   6.7e-06
+  63   1.04e-02   6.25e-02   2.98e-08   3.9895542e+10   3.9895542e+10   6.1e-06
+  64   7.86e-03   6.25e-02   5.96e-08   3.9895542e+10   3.9895542e+10   5.3e-06
+Barrier method finished in 158 seconds
+?249 Warning: insufficient improvement found
+Uncrunching matrix
+ 
+   Its         Obj Value      S   Ninf  Nneg        Sum Inf  Time
+     0       3.98964E+10      B   1912     0        .123556   184
+Problem is unsolved
+SERA directory not specified in input arguments, setting to default directory
+STARTING DATA PRE-PROCESSING 
+Processing Temporal Data
+Processing Nodes
+Processing Demand
+Processing Existings
+Processing Links
+Processing Pathways
+Creating Infrastructure options
+ 54.430080 seconds (222.18 M allocations: 22.670 GiB, 20.23% gc time, 0.85% compilation time)
+
+OPTIMIZING FROM 2026 TO 2040 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+573.844617 seconds (857.49 M allocations: 51.566 GiB, 85.96% gc time, 3.18% compilation time)
+POPULATING EXPRESSIONS
+192.585631 seconds (488.15 M allocations: 70.528 GiB, 26.15% gc time, 0.13% compilation time)
+CREATING CONSTRAINTS
+571.070051 seconds (496.94 M allocations: 30.176 GiB, 85.32% gc time, 0.47% compilation time)
+POPULATED CORE OPTIMIZATION MODEL, STARTING ITERATIONS
+READING COST DATA FOR ITERATION 1
+189.479543 seconds (173.62 M allocations: 15.816 GiB, 72.57% gc time, 0.52% compilation time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+815.985839 seconds (256.64 M allocations: 25.468 GiB, 96.55% gc time, 0.34% compilation time)
+BUILDING OBJECTIVE FUNCTION
+ 72.599865 seconds (83.28 M allocations: 3.077 GiB, 76.53% gc time, 1.85% compilation time)
+Optimizing for iteration 1
+1361.644517 seconds (711.71 M allocations: 31.250 GiB, 72.13% gc time, 2.10% compilation time)
+OPTIMAL
+1.9977337161762516e10
+ϵ =  1.0
+READING COST DATA FOR ITERATION 2
+326.523227 seconds (137.48 M allocations: 15.027 GiB, 84.97% gc time, 0.52% compilation time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+1332.317877 seconds (255.81 M allocations: 25.310 GiB, 98.17% gc time, 0.01% compilation time)
+BUILDING OBJECTIVE FUNCTION
+146.048943 seconds (94.11 M allocations: 3.408 GiB, 86.74% gc time)
+Optimizing for iteration 2
+147.157912 seconds (134 allocations: 115.223 MiB, 1.32% gc time)
+OPTIMAL
+4.9888889774609276e10
+ϵ =  0.5995634047586564
+READING COST DATA FOR ITERATION 3
+318.373345 seconds (135.99 M allocations: 15.143 GiB, 84.59% gc time)
+CREATING EXPRESSIONS FOR CAPITAL AND FIXED COST
+1275.874166 seconds (255.61 M allocations: 25.300 GiB, 97.97% gc time)
+BUILDING OBJECTIVE FUNCTION
+147.839937 seconds (94.11 M allocations: 3.408 GiB, 86.85% gc time)
+Optimizing for iteration 3
+184.395730 seconds (160 allocations: 115.383 MiB, 0.01% gc time)
+NUMERICAL_ERROR

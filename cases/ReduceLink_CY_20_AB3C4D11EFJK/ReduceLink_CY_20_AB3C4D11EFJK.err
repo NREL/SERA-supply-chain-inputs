@@ -1,2 +1,51 @@
 [ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
 [ Info: Xpress: Development license detected.
+    Updating registry at `~/.julia/registries/General.toml`
+   Resolving package versions...
+┌ Warning: The active manifest file at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml` has an old format that is being maintained.
+│ To update to the new format run `Pkg.upgrade_manifest()` which will upgrade the format without re-resolving.
+└ @ Pkg.Types /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.7/Pkg/src/manifest.jl:287
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Project.toml`
+  No Changes to `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml`
+┌ Warning: The active manifest file is an older format with no julia version entry. Dependencies may have been resolved with a different julia version.
+└ @ /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml:0
+    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/82a7cf7687750538acaa30ee92d5d9cf1b6e6f15/build.log`
+  Activating project at `/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA-Xpress.jl`
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+[ Info: Rolling step not specified in scenaio.yaml file; Setting it to 20 years
+[ Info: Number of iterations not specified in scenaio.yaml file; Setting it to 10
+[ Info: Production capacity constraints file not specified in scenaio.yaml file; SERA will not create these constraints
+[ Info: Utilization constraints file not specified in scenaio.yaml file; SERA will not create these constraints
+[ Info: Annualization boolean not specified in scenaio.yaml file; SERA will turn off annualization of capital costs
+ERROR: LoadError: Result index of attribute MathOptInterface.VariablePrimal(1) out of bounds. There are currently 0 solution(s) in the model.
+Stacktrace:
+  [1] check_result_index_bounds
+    @ ~/.julia/packages/MathOptInterface/YDdD3/src/attributes.jl:139 [inlined]
+  [2] get(model::Xpress.Optimizer, attr::MathOptInterface.VariablePrimal, x::MathOptInterface.VariableIndex)
+    @ Xpress ~/.julia/packages/Xpress/lW6ma/src/MOI/MOI_wrapper.jl:2831
+  [3] get(b::MathOptInterface.Bridges.LazyBridgeOptimizer{Xpress.Optimizer}, attr::MathOptInterface.VariablePrimal, index::MathOptInterface.VariableIndex)
+    @ MathOptInterface.Bridges ~/.julia/packages/MathOptInterface/YDdD3/src/Bridges/bridge_optimizer.jl:1039
+  [4] get(model::MathOptInterface.Utilities.CachingOptimizer{MathOptInterface.AbstractOptimizer, MathOptInterface.Utilities.UniversalFallback{MathOptInterface.Utilities.GenericModel{Float64, MathOptInterface.Utilities.ModelFunctionConstraints{Float64}}}}, attr::MathOptInterface.VariablePrimal, index::MathOptInterface.VariableIndex)
+    @ MathOptInterface.Utilities ~/.julia/packages/MathOptInterface/YDdD3/src/Utilities/cachingoptimizer.jl:757
+  [5] _moi_get_result(::MathOptInterface.Utilities.CachingOptimizer{MathOptInterface.AbstractOptimizer, MathOptInterface.Utilities.UniversalFallback{MathOptInterface.Utilities.GenericModel{Float64, MathOptInterface.Utilities.ModelFunctionConstraints{Float64}}}}, ::MathOptInterface.VariablePrimal, ::Vararg{Any})
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/JuMP.jl:1199
+  [6] get(model::JuMP.Model, attr::MathOptInterface.VariablePrimal, v::JuMP.VariableRef)
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/JuMP.jl:1232
+  [7] value(v::JuMP.VariableRef; result::Int64)
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/variables.jl:943
+  [8] #40
+    @ ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:494 [inlined]
+  [9] value(ex::JuMP.AffExpr, var_value::JuMP.var"#40#41"{Int64})
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:280
+ [10] #value#39
+    @ ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:494 [inlined]
+ [11] value(a::JuMP.AffExpr)
+    @ JuMP ~/.julia/packages/JuMP/klrjG/src/aff_expr.jl:494
+ [12] makeModel_new(network::Network, processlibrary::ProcessLibrary, demands::Dict{DemandKey, Dict{String, Float64}}, prices::Dict{PriceKey, Dict{Float64, PriceData}}, usage::Dict{PriceKey, Float64}, periods::Dict{String, Float64}, niter::Int64, discount_rate::Float64, rolling_window::Int64, rolling_step::Int64, start_year::Int64, last_year::Int64; build_new_production::Bool, storage_available::Bool, clean_production_constraints::Vector{CleanProductionConstraint}, production_capacity_constraints::Vector{ProductionCapacityConstraint}, production_capacity_switch::String, storage_capacity_constraints::Dict{Int64, Float64}, utilization_constraints::Dict{String, Float64}, maximum_capacity_constraints::Dict{String, Float64}, optimization_log::Bool, annualization::Bool)
+    @ SERA.Supply.Optimize_new /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA-Xpress.jl/src/Supply/Optimize_new.jl:1443
+ [13] top-level scope
+    @ ./timing.jl:380 [inlined]
+ [14] top-level scope
+    @ ~/SERA-supply-chain-inputs/cases/ReduceLink_CY_20_AB3C4D11EFJK/run_case.jl:0
+in expression starting at /home/ccyang/SERA-supply-chain-inputs/cases/ReduceLink_CY_20_AB3C4D11EFJK/run_case.jl:135
