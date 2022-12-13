@@ -1,9 +1,11 @@
 #!/bin/bash
 
-#SBATCH --job-name=ReduceLink_CY_10_AB3C4D11EFJ
+#SBATCH --job-name=ReduceLink_CY_2050_AB3C4D11EFJ
 #SBATCH --time=0-45:00:00
 #SBATCH -A sera
-#SBATCH -o ReduceLink_CY_10_AB3C4D11EFJ.log
+#SBATCH --chdir=/home/ccyang/SERA-supply-chain-inputs/cases/ReduceLink_CY_2050_AB3C4D11EFJ
+#SBATCH --output=ReduceLink_CY_2050_AB3C4D11EFJ.out 
+#SBATCH --error=ReduceLink_CY_2050_AB3C4D11EFJ.err
 #SBATCH --mail-user=ccyang@ucdavis.edu
 #SBATCH --mail-type=ALL
 module purge
@@ -16,7 +18,7 @@ export PATH=$PATH:/home/ccyang/julia_software/julia-1.7.3/bin/
 
 cd /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl
 
-julia --project /home/ccyang/SERA-supply-chain-inputs/cases/ReduceLink_CY_10_AB3C4D11EFJ/run_case.jl
+julia --project /home/ccyang/SERA-supply-chain-inputs/cases/ReduceLink_CY_2050_AB3C4D11EFJ/run_case.jl
 # julia --project /lustre/eaglefs/projects/mbap/sera/vvijayak/supply-chain-inputs/cases/BASECASE_Centralonly-15util-maxcap-rolling/run_case.jl
 
 # export LD_LIBRARY_PATH=/projects/mbap/sera/bin/lib
