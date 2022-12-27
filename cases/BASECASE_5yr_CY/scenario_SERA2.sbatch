@@ -5,7 +5,7 @@
 #SBATCH -A sera
 #SBATCH --mem=150G
 #SBATCH -o BASECASE_5yr_CY.log
-#SBATCH --mail-user=ccyang@ucdavis.edu
+#SBATCH --mail-user=mark.chung@nrel.gov
 #SBATCH --mail-type=ALL
 module purge
 module load conda
