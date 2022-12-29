@@ -13,7 +13,7 @@ export PATH=/nopt/nrel/apps/xpressmp/8.8.0/lib:$PATH
 module load xpressmp/8.8.0
 
 #alias julia='/home/mchung/julia_software/julia-1.7.3/bin/julia'
-export PATH=$PATH:/home/mchung/julia_software/julia-1.7.3/bin/
+export PATH=$PATH:/lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/bin/
 
 cd /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl
 
