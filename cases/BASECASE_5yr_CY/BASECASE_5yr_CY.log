@@ -1,1 +1,51 @@
-/var/spool/slurmd/job11264577/slurm_script: line 20: julia: command not found
+ERROR: LoadError: SystemError: opening file "/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl/Manifest.toml": Permission denied
+Stacktrace:
+  [1] systemerror(p::String, errno::Int32; extrainfo::Nothing)
+    @ Base ./error.jl:176
+  [2] #systemerror#80
+    @ ./error.jl:175 [inlined]
+  [3] systemerror
+    @ ./error.jl:175 [inlined]
+  [4] open(fname::String; lock::Bool, read::Nothing, write::Nothing, create::Nothing, truncate::Nothing, append::Nothing)
+    @ Base ./iostream.jl:293
+  [5] open
+    @ ./iostream.jl:275 [inlined]
+  [6] open(f::Base.var"#385#386"{Tuple{}}, args::String; kwargs::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ Base ./io.jl:382
+  [7] open
+    @ ./io.jl:381 [inlined]
+  [8] read
+    @ ./io.jl:460 [inlined]
+  [9] Base.CachedTOMLDict(p::Base.TOML.Parser, path::String)
+    @ Base ./loading.jl:219
+ [10] (::Base.var"#894#895"{String, Base.TOMLCache})()
+    @ Base ./loading.jl:277
+ [11] lock(f::Base.var"#894#895"{String, Base.TOMLCache}, l::ReentrantLock)
+    @ Base ./lock.jl:185
+ [12] parsed_toml
+    @ ./loading.jl:274 [inlined]
+ [13] parse_toml
+    @ /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/Types.jl:58 [inlined]
+ [14] read_manifest(f_or_io::String)
+    @ Pkg.Types /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/manifest.jl:187
+ [15] Pkg.Types.EnvCache(env::Nothing)
+    @ Pkg.Types /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/Types.jl:346
+ [16] EnvCache
+    @ /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/Types.jl:325 [inlined]
+ [17] Pkg.Types.Context()
+    @ Pkg.Types ./util.jl:493
+ [18] add(pkgs::Vector{Pkg.Types.PackageSpec}; io::IOStream, kwargs::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ Pkg.API /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/API.jl:147
+ [19] add(pkgs::Vector{Pkg.Types.PackageSpec})
+    @ Pkg.API /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/API.jl:145
+ [20] #add#27
+    @ /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/API.jl:144 [inlined]
+ [21] add
+    @ /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/API.jl:144 [inlined]
+ [22] #add#26
+    @ /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/API.jl:143 [inlined]
+ [23] add(pkg::String)
+    @ Pkg.API /lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/share/julia/stdlib/v1.8/Pkg/src/API.jl:143
+ [24] top-level scope
+    @ /lustre/eaglefs/projects/mbap/sera/mchung/supply-chain-inputs-external/SERA-supply-chain-inputs/cases/BASECASE_5yr_CY/run_case.jl:3
+in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/supply-chain-inputs-external/SERA-supply-chain-inputs/cases/BASECASE_5yr_CY/run_case.jl:3
