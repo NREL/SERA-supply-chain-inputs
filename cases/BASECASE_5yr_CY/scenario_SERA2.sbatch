@@ -9,10 +9,11 @@
 #SBATCH --mail-type=ALL
 module purge
 module load conda
-export PATH=/nopt/nrel/apps/xpressmp/8.8.0/lib:$PATH
+#export PATH=/nopt/nrel/apps/xpressmp/8.8.0/lib:$PATH
 module load xpressmp/8.8.0
+module load gurobi/9.0.2
 
-#alias julia='/home/mchung/julia_software/julia-1.7.3/bin/julia'
+#alias julia='/home/mchung/julia_software/julia-1.8.4/bin/julia'
 export PATH=$PATH:/lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/bin/
 
 cd /lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl
