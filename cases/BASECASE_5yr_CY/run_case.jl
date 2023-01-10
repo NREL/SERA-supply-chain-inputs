@@ -7,7 +7,7 @@ Pkg.build("Xpress")
 
 if isempty(ARGS)
     println("SERA directory not specified in input arguments, setting to default directory")
-    sera_directory = "/lustre/eaglefs/projects/sera/SERA2.0/carbon-neutral-california/SERA.jl"
+    sera_directory = "/lustre/eaglefs/projects/sera/mchung/carbon-neutral-california-external/carbon-neutral-california/SERA.jl"
 else
     sera_directory = ARGS[1]
 end
