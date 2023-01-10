@@ -16,7 +16,8 @@ module load gurobi/9.0.2
 #alias julia='/home/mchung/julia_software/julia-1.8.4/bin/julia'
 export PATH=$PATH:/lustre/eaglefs/projects/mbap/sera/mchung/julia-1.8.4/bin/
 
-cd /lustre/eaglefs/projects/mbap/sera/vvijayak/SERA.jl
+#cd /lustre/eaglefs/projects/mbap/sera/vvijayak/SERA.jl
+cd /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl
 
 julia --project /lustre/eaglefs/projects/mbap/sera/mchung/supply-chain-inputs-external/SERA-supply-chain-inputs/cases/BASECASE_5yr_CY/run_case.jl
 # julia --project /lustre/eaglefs/projects/mbap/sera/vvijayak/supply-chain-inputs/cases/BASECASE_Centralonly-15util-maxcap-rolling/run_case.jl
