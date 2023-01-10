@@ -1,117 +1,60 @@
     Updating registry at `~/.julia/registries/General.toml`
    Resolving package versions...
-┌ Warning: The active manifest file at `/lustre/eaglefs/projects/mbap/sera/vvijayak/SERA.jl/Manifest.toml` has an old format that is being maintained.
+┌ Warning: The active manifest file at `/lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/Manifest.toml` has an old format that is being maintained.
 │ To update to the new format, which is supported by Julia versions ≥ 1.6.2, run `Pkg.upgrade_manifest()` which will upgrade the format without re-resolving.
 │ To then record the julia version re-resolve with `Pkg.resolve()` and if there are resolve conflicts consider `Pkg.update()`.
 └ @ Pkg.Types /cache/build/default-aws-shared0-3/julialang/julia-release-1-dot-8/usr/share/julia/stdlib/v1.8/Pkg/src/manifest.jl:287
-  No Changes to `/lustre/eaglefs/projects/mbap/sera/vvijayak/SERA.jl/Project.toml`
-  No Changes to `/lustre/eaglefs/projects/mbap/sera/vvijayak/SERA.jl/Manifest.toml`
+  No Changes to `/lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/Project.toml`
+  No Changes to `/lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/Manifest.toml`
 ┌ Warning: The active manifest file is an older format with no julia version entry. Dependencies may have been resolved with a different julia version.
-└ @ /lustre/eaglefs/projects/mbap/sera/vvijayak/SERA.jl/Manifest.toml:0
-    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/82a7cf7687750538acaa30ee92d5d9cf1b6e6f15/build.log`
-┌ Warning: precompile directive
-│     precompile(Tuple{mbody.sig.parameters[1], Symbol, Bool, Bool, Iterators.Pairs{Union{}, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}, typeof(methods_by_execution!), Any, MI, DocExprs, Module, Expr})
-│ failed. Please report an issue in Revise (after checking for duplicates) or remove this directive.
-└ @ Revise ~/.julia/packages/Revise/VxkZO/src/precompile.jl:64
-ERROR: LoadError: ccall method definition: argument 1 type doesn't correspond to a C type
-Stacktrace:
- [1] top-level scope
-   @ ~/.julia/packages/SentinelArrays/Uq3RP/src/SentinelArrays.jl:209
- [2] include
-   @ ./Base.jl:419 [inlined]
- [3] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
-   @ Base ./loading.jl:1554
- [4] top-level scope
-   @ stdin:1
-in expression starting at /home/mchung/.julia/packages/SentinelArrays/Uq3RP/src/SentinelArrays.jl:1
-in expression starting at stdin:1
-ERROR: LoadError: Failed to precompile SentinelArrays [91c51154-3ec4-41a3-a24f-3f23e20d615c] to /home/mchung/.julia/compiled/v1.8/SentinelArrays/jl_pPeWsu.
-Stacktrace:
-  [1] error(s::String)
-    @ Base ./error.jl:35
-  [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, keep_loaded_modules::Bool)
-    @ Base ./loading.jl:1707
-  [3] compilecache
-    @ ./loading.jl:1651 [inlined]
-  [4] _require(pkg::Base.PkgId)
-    @ Base ./loading.jl:1337
-  [5] _require_prelocked(uuidkey::Base.PkgId)
-    @ Base ./loading.jl:1200
-  [6] macro expansion
-    @ ./loading.jl:1180 [inlined]
-  [7] macro expansion
-    @ ./lock.jl:223 [inlined]
-  [8] require(into::Module, mod::Symbol)
-    @ Base ./loading.jl:1144
-  [9] include
-    @ ./Base.jl:419 [inlined]
- [10] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
-    @ Base ./loading.jl:1554
- [11] top-level scope
-    @ stdin:1
-in expression starting at /home/mchung/.julia/packages/CSV/CJfFO/src/CSV.jl:1
-in expression starting at stdin:1
-ERROR: LoadError: Failed to precompile CSV [336ed68f-0bac-5ca0-87d4-7b16caf5d00b] to /home/mchung/.julia/compiled/v1.8/CSV/jl_8qsjyO.
-Stacktrace:
-  [1] error(s::String)
-    @ Base ./error.jl:35
-  [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, keep_loaded_modules::Bool)
-    @ Base ./loading.jl:1707
-  [3] compilecache
-    @ ./loading.jl:1651 [inlined]
-  [4] _require(pkg::Base.PkgId)
-    @ Base ./loading.jl:1337
-  [5] _require_prelocked(uuidkey::Base.PkgId)
-    @ Base ./loading.jl:1200
-  [6] macro expansion
-    @ ./loading.jl:1180 [inlined]
-  [7] macro expansion
-    @ ./lock.jl:223 [inlined]
-  [8] require(into::Module, mod::Symbol)
-    @ Base ./loading.jl:1144
-  [9] include(mod::Module, _path::String)
-    @ Base ./Base.jl:419
- [10] include(x::String)
-    @ SERA.Supply /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/Supply.jl:4
- [11] top-level scope
-    @ /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/Supply.jl:7
- [12] include(mod::Module, _path::String)
-    @ Base ./Base.jl:419
- [13] include(x::String)
-    @ SERA /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/SERA.jl:4
- [14] top-level scope
-    @ /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/SERA.jl:7
- [15] include
-    @ ./Base.jl:419 [inlined]
- [16] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
-    @ Base ./loading.jl:1554
- [17] top-level scope
-    @ stdin:1
-in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/IO.jl:1
-in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/Supply.jl:1
-in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/SERA.jl:1
-in expression starting at stdin:1
+└ @ /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/Manifest.toml:0
+    Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/c378d10d3e7fa69470e2d316cb57e7f0a980137a/build.log`
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
 Precompiling project...
 [32m  ✓ [39mXpress
-  1 dependency successfully precompiled in 6 seconds. 187 already precompiled.
+  1 dependency successfully precompiled in 6 seconds. 88 already precompiled.
   Activating project at `/lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl`
-ERROR: LoadError: Failed to precompile SERA [top-level] to /home/mchung/.julia/compiled/v1.8/jl_bqdDHl.
+[ Info: Xpress: Found license file /nopt/nrel/apps/xpressmp/8.8.0/bin/xpauth.xpr
+[ Info: Xpress: Development license detected.
+[ Info: Number of iterations not specified in scenaio.yaml file; Setting it to 10
+[ Info: Production capacity constraints file not specified in scenaio.yaml file; SERA will not create these constraints
+[ Info: Annualization boolean not specified in scenaio.yaml file; SERA will turn off annualization of capital costs
+ERROR: LoadError: KeyError: key ("TAZ_5634", "link_201", "GH2truck", 3, 2026, (2026, "1 Year")) not found
 Stacktrace:
- [1] error(s::String)
-   @ Base ./error.jl:35
- [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, keep_loaded_modules::Bool)
-   @ Base ./loading.jl:1707
- [3] compilecache
-   @ ./loading.jl:1651 [inlined]
- [4] _require(pkg::Base.PkgId)
-   @ Base ./loading.jl:1337
- [5] _require_prelocked(uuidkey::Base.PkgId)
-   @ Base ./loading.jl:1200
+ [1] getindex(h::Dict{Tuple{String, String, Int64, Int64, Tuple{Int64, String}}, JuMP.VariableRef}, key::Tuple{String, String, String, Int64, Int64, Tuple{Int64, String}})
+   @ Base ./dict.jl:498
+ [2] getindex(::JuMP.Containers.SparseAxisArray{JuMP.VariableRef, 5, Tuple{String, String, Int64, Int64, Tuple{Int64, String}}}, ::String, ::String, ::String, ::Vararg{Any})
+   @ JuMP.Containers ~/.julia/packages/JuMP/klrjG/src/Containers/SparseAxisArray.jl:109
+ [3] macro expansion
+   @ ~/.julia/packages/MutableArithmetics/0Y9ZS/src/rewrite.jl:279 [inlined]
+ [4] macro expansion
+   @ ~/.julia/packages/JuMP/klrjG/src/macros.jl:676 [inlined]
+ [5] macro expansion
+   @ /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/Optimize_new.jl:895 [inlined]
  [6] macro expansion
-   @ ./loading.jl:1180 [inlined]
- [7] macro expansion
-   @ ./lock.jl:223 [inlined]
- [8] require(into::Module, mod::Symbol)
-   @ Base ./loading.jl:1144
-in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/supply-chain-inputs-external/SERA-supply-chain-inputs/cases/BASECASE_5yr_CY/run_case.jl:28
+   @ ./timing.jl:262 [inlined]
+ [7] makeModel_new(network::Network, processlibrary::ProcessLibrary, demands::Dict{DemandKey, Dict{String, Float64}}, prices::Dict{PriceKey, Dict{Float64, PriceData}}, usage::Dict{PriceKey, Float64}, periods::Dict{String, Float64}, niter::Int64, discount_rate::Float64, rolling_window::Int64, rolling_step::Int64, start_year::Int64, last_year::Int64; build_new_production::Bool, storage_available::Bool, clean_production_constraints::Vector{CleanProductionConstraint}, production_capacity_constraints::Vector{ProductionCapacityConstraint}, storage_capacity_constraints::Dict{Int64, Float64}, utilization_constraints::Dict{String, Float64}, maximum_capacity_constraints::Dict{String, Float64}, optimization_log::Bool, annualization::Bool)
+   @ SERA.Supply.Optimize_new /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/Optimize_new.jl:755
+ [8] top-level scope
+   @ ./timing.jl:463
+in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/supply-chain-inputs-external/SERA-supply-chain-inputs/cases/BASECASE_5yr_CY/run_case.jl:135
 SERA directory not specified in input arguments, setting to default directory
+STARTING DATA PRE-PROCESSING 
+Processing Temporal Data
+Processing Nodes
+Processing Demand
+Processing Existings
+Processing Links
+Processing Pathways
+Creating Infrastructure options
+ 71.162612 seconds (290.11 M allocations: 29.700 GiB, 18.37% gc time, 0.55% compilation time)
+
+OPTIMIZING FROM 2026 TO 2030 
+
+STARTING OPTIMIZATION MODEL CREATION
+CREATING VARIABLES AND EXPRESSIONS
+ 50.554545 seconds (390.00 M allocations: 23.853 GiB, 25.25% gc time, 17.56% compilation time)
+POPULATING EXPRESSIONS
+ 28.350838 seconds (75.76 M allocations: 11.238 GiB, 0.81% compilation time)
+CREATING CONSTRAINTS
