@@ -9,16 +9,109 @@
 ┌ Warning: The active manifest file is an older format with no julia version entry. Dependencies may have been resolved with a different julia version.
 └ @ /lustre/eaglefs/projects/mbap/sera/vvijayak/SERA.jl/Manifest.toml:0
     Building Xpress → `~/.julia/scratchspaces/44cfe95a-1eb2-52ea-b672-e2afdf69b78f/82a7cf7687750538acaa30ee92d5d9cf1b6e6f15/build.log`
+┌ Warning: precompile directive
+│     precompile(Tuple{mbody.sig.parameters[1], Symbol, Bool, Bool, Iterators.Pairs{Union{}, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}, typeof(methods_by_execution!), Any, MI, DocExprs, Module, Expr})
+│ failed. Please report an issue in Revise (after checking for duplicates) or remove this directive.
+└ @ Revise ~/.julia/packages/Revise/VxkZO/src/precompile.jl:64
+ERROR: LoadError: ccall method definition: argument 1 type doesn't correspond to a C type
+Stacktrace:
+ [1] top-level scope
+   @ ~/.julia/packages/SentinelArrays/Uq3RP/src/SentinelArrays.jl:209
+ [2] include
+   @ ./Base.jl:419 [inlined]
+ [3] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
+   @ Base ./loading.jl:1554
+ [4] top-level scope
+   @ stdin:1
+in expression starting at /home/mchung/.julia/packages/SentinelArrays/Uq3RP/src/SentinelArrays.jl:1
+in expression starting at stdin:1
+ERROR: LoadError: Failed to precompile SentinelArrays [91c51154-3ec4-41a3-a24f-3f23e20d615c] to /home/mchung/.julia/compiled/v1.8/SentinelArrays/jl_pPeWsu.
+Stacktrace:
+  [1] error(s::String)
+    @ Base ./error.jl:35
+  [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, keep_loaded_modules::Bool)
+    @ Base ./loading.jl:1707
+  [3] compilecache
+    @ ./loading.jl:1651 [inlined]
+  [4] _require(pkg::Base.PkgId)
+    @ Base ./loading.jl:1337
+  [5] _require_prelocked(uuidkey::Base.PkgId)
+    @ Base ./loading.jl:1200
+  [6] macro expansion
+    @ ./loading.jl:1180 [inlined]
+  [7] macro expansion
+    @ ./lock.jl:223 [inlined]
+  [8] require(into::Module, mod::Symbol)
+    @ Base ./loading.jl:1144
+  [9] include
+    @ ./Base.jl:419 [inlined]
+ [10] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
+    @ Base ./loading.jl:1554
+ [11] top-level scope
+    @ stdin:1
+in expression starting at /home/mchung/.julia/packages/CSV/CJfFO/src/CSV.jl:1
+in expression starting at stdin:1
+ERROR: LoadError: Failed to precompile CSV [336ed68f-0bac-5ca0-87d4-7b16caf5d00b] to /home/mchung/.julia/compiled/v1.8/CSV/jl_8qsjyO.
+Stacktrace:
+  [1] error(s::String)
+    @ Base ./error.jl:35
+  [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, keep_loaded_modules::Bool)
+    @ Base ./loading.jl:1707
+  [3] compilecache
+    @ ./loading.jl:1651 [inlined]
+  [4] _require(pkg::Base.PkgId)
+    @ Base ./loading.jl:1337
+  [5] _require_prelocked(uuidkey::Base.PkgId)
+    @ Base ./loading.jl:1200
+  [6] macro expansion
+    @ ./loading.jl:1180 [inlined]
+  [7] macro expansion
+    @ ./lock.jl:223 [inlined]
+  [8] require(into::Module, mod::Symbol)
+    @ Base ./loading.jl:1144
+  [9] include(mod::Module, _path::String)
+    @ Base ./Base.jl:419
+ [10] include(x::String)
+    @ SERA.Supply /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/Supply.jl:4
+ [11] top-level scope
+    @ /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/Supply.jl:7
+ [12] include(mod::Module, _path::String)
+    @ Base ./Base.jl:419
+ [13] include(x::String)
+    @ SERA /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/SERA.jl:4
+ [14] top-level scope
+    @ /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/SERA.jl:7
+ [15] include
+    @ ./Base.jl:419 [inlined]
+ [16] include_package_for_output(pkg::Base.PkgId, input::String, depot_path::Vector{String}, dl_load_path::Vector{String}, load_path::Vector{String}, concrete_deps::Vector{Pair{Base.PkgId, UInt64}}, source::String)
+    @ Base ./loading.jl:1554
+ [17] top-level scope
+    @ stdin:1
+in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/IO.jl:1
+in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/Supply/Supply.jl:1
+in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl/src/SERA.jl:1
+in expression starting at stdin:1
 Precompiling project...
 [32m  ✓ [39mXpress
   1 dependency successfully precompiled in 6 seconds. 187 already precompiled.
-ERROR: LoadError: IOError: cd("/lustre/eaglefs/projects/sera/mchung/carbon-neutral-california-external/carbon-neutral-california/SERA.jl"): no such file or directory (ENOENT)
+  Activating project at `/lustre/eaglefs/projects/mbap/sera/mchung/SERA2.0_dev/SERA.jl`
+ERROR: LoadError: Failed to precompile SERA [top-level] to /home/mchung/.julia/compiled/v1.8/jl_bqdDHl.
 Stacktrace:
- [1] uv_error
-   @ ./libuv.jl:97 [inlined]
- [2] cd(dir::String)
-   @ Base.Filesystem ./file.jl:91
- [3] top-level scope
-   @ /lustre/eaglefs/projects/mbap/sera/mchung/supply-chain-inputs-external/SERA-supply-chain-inputs/cases/BASECASE_5yr_CY/run_case.jl:16
-in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/supply-chain-inputs-external/SERA-supply-chain-inputs/cases/BASECASE_5yr_CY/run_case.jl:16
+ [1] error(s::String)
+   @ Base ./error.jl:35
+ [2] compilecache(pkg::Base.PkgId, path::String, internal_stderr::IO, internal_stdout::IO, keep_loaded_modules::Bool)
+   @ Base ./loading.jl:1707
+ [3] compilecache
+   @ ./loading.jl:1651 [inlined]
+ [4] _require(pkg::Base.PkgId)
+   @ Base ./loading.jl:1337
+ [5] _require_prelocked(uuidkey::Base.PkgId)
+   @ Base ./loading.jl:1200
+ [6] macro expansion
+   @ ./loading.jl:1180 [inlined]
+ [7] macro expansion
+   @ ./lock.jl:223 [inlined]
+ [8] require(into::Module, mod::Symbol)
+   @ Base ./loading.jl:1144
+in expression starting at /lustre/eaglefs/projects/mbap/sera/mchung/supply-chain-inputs-external/SERA-supply-chain-inputs/cases/BASECASE_5yr_CY/run_case.jl:28
 SERA directory not specified in input arguments, setting to default directory
